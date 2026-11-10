@@ -1,0 +1,85 @@
+name: render-videos
+on:
+  push:
+    branches: [main]
+    paths: ["jobs/**/render.json"]
+permissions:
+  contents: write
+env:
+  MPT_SHA: 53c4ca3d85100eeb8660ec3d5e5f7c90bcc7849a  # MoneyPrinterTurbo 1.3.10, pinned
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      file: ${{ steps.job.outputs.file }}
+      batch: ${{ steps.job.outputs.batch }}
+      ids: ${{ steps.job.outputs.ids }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - id: job
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD | grep -E '^jobs/[^/]+/render.json$' | head -1)
+          echo "file=$f" >> "$GITHUB_OUTPUT"
+          echo "batch=$(basename $(dirname $f))" >> "$GITHUB_OUTPUT"
+          echo "ids=$(python3 -c "import json,sys;print(json.dumps([v['id'] for v in json.load(open('$f'))['videos']]))")" >> "$GITHUB_OUTPUT"
+
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        id: ${{ fromJson(needs.plan.outputs.ids) }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install system packages
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg imagemagick > /dev/null
+      - name: Install MoneyPrinterTurbo (pinned)
+        run: |
+          git clone -q https://github.com/harry0703/MoneyPrinterTurbo mpt
+          git -C mpt checkout -q "$MPT_SHA"
+          pip install --quiet uv
+          cd mpt && uv python install 3.11 && uv sync --frozen
+          cp config.example.toml config.toml
+          sed -i 's/^video_source = .*/video_source = "local"/' config.toml
+      - name: Start MoneyPrinterTurbo API
+        run: |
+          cd mpt && nohup uv run python main.py > ../mpt_api.log 2>&1 &
+          sleep 15
+      - name: Render
+        run: python scripts/render.py "${{ needs.plan.outputs.file }}" "${{ matrix.id }}" mpt out
+      - name: Keep logs
+        if: always()
+        run: |
+          mkdir -p out
+          cp mpt_api.log "out/${{ matrix.id }}_api.log" || true
+          find mpt/storage/tasks -name "*.log" -exec cp {} out/ \; 2>/dev/null || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: video-${{ matrix.id }}
+          path: out/
+          retention-days: 7
+
+  collect:
+    needs: [plan, render]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: out
+          merge-multiple: true
+      - name: Publish to results branch
+        run: |
+          b="results/${{ needs.plan.outputs.batch }}-render"
+          mkdir -p out && cd out
+          git init -q -b "$b"
+          git config user.name "pipeline-bot"; git config user.email "pipeline@users.noreply.github.com"
+          echo "${{ needs.render.result }}" > STATUS
+          git add -A && git commit -qm "renders ${{ needs.plan.outputs.batch }}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" "$b"

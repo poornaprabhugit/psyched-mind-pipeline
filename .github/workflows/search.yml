@@ -1,0 +1,40 @@
+name: search-clips
+on:
+  push:
+    branches: [main]
+    paths: ["jobs/**/search.json"]
+permissions:
+  contents: write
+concurrency:
+  group: search
+  cancel-in-progress: false
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Find job file
+        id: job
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD | grep -E '^jobs/[^/]+/search.json$' | head -1)
+          echo "file=$f" >> "$GITHUB_OUTPUT"
+          echo "batch=$(basename $(dirname $f))" >> "$GITHUB_OUTPUT"
+      - run: pip install --quiet pillow
+      - name: Search Pixabay and build contact sheets
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python scripts/search.py "${{ steps.job.outputs.file }}" out 2>&1 | tee out_log.txt
+      - name: Publish to results branch
+        if: always()
+        run: |
+          mkdir -p out && cp out_log.txt out/search_log.txt 2>/dev/null || true
+          b="results/${{ steps.job.outputs.batch }}-search"
+          cd out
+          git init -q -b "$b"
+          git config user.name "pipeline-bot"; git config user.email "pipeline@users.noreply.github.com"
+          echo "${{ job.status }}" > STATUS
+          git add -A && git commit -qm "search results ${{ steps.job.outputs.batch }}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" "$b"
