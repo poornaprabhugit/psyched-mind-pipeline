@@ -26,7 +26,9 @@ jobs:
       - name: Search Pixabay and build contact sheets
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
-        run: python scripts/search.py "${{ steps.job.outputs.file }}" out 2>&1 | tee out_log.txt
+        run: |
+          set -o pipefail
+          python scripts/search.py "${{ steps.job.outputs.file }}" out 2>&1 | tee out_log.txt
       - name: Publish to results branch
         if: always()
         run: |
