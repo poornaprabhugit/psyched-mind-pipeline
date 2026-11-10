@@ -1,0 +1,785 @@
+{
+ "id": "t01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Ever said 'I'll start on Monday'?",
+   "candidates": [
+    {
+     "pixabay_id": 19044,
+     "url": "https://cdn.pixabay.com/video/2018/11/01/19044-298313350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/01/19044-298313350_small.jpg",
+     "page": "https://pixabay.com/videos/id-19044/",
+     "tags": "alarm clock, wake up, awakening, watch, hours, morning, alarm, minute, sleep, retro, old one, vintage, time",
+     "duration": 7,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 16346,
+     "url": "https://cdn.pixabay.com/video/2018/05/22/16346-271607288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/22/16346-271607288_small.jpg",
+     "page": "https://pixabay.com/videos/id-16346/",
+     "tags": "clock, alarm, morning, alarm clock, time, alarm-clock, countdown",
+     "duration": 30,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 34499,
+     "url": "https://cdn.pixabay.com/video/2020/03/29/34499-402606997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/29/34499-402606997_small.jpg",
+     "page": "https://pixabay.com/videos/id-34499/",
+     "tags": "alarm clock, clock, time, anxiety, time lapse, passing away, minute, second, morning, watch",
+     "duration": 18,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 15629,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_small.jpg",
+     "page": "https://pixabay.com/videos/id-15629/",
+     "tags": "alarm, clock, watch, time, retro, vintage",
+     "duration": 11,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 21223,
+     "url": "https://cdn.pixabay.com/video/2019/02/07/21223-316116285_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/07/21223-316116285_small.jpg",
+     "page": "https://pixabay.com/videos/id-21223/",
+     "tags": "alarm clock, home, time, watch, hour, minute, alarm, deadline",
+     "duration": 61,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 21222,
+     "url": "https://cdn.pixabay.com/video/2019/02/07/21222-316092837_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/07/21222-316092837_small.jpg",
+     "page": "https://pixabay.com/videos/id-21222/",
+     "tags": "alarm clock, home, time, watch, hour, minute, alarm, deadline",
+     "duration": 61,
+     "query": "alarm clock morning"
+    },
+    {
+     "pixabay_id": 122810,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122810-726391893_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122810-726391893_small.jpg",
+     "page": "https://pixabay.com/videos/id-122810/",
+     "tags": "clock, time, minutes, second, gold, clock face, numbers, division, frame, alarm, macro",
+     "duration": 13,
+     "query": "alarm clock morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Your brain isn't being lazy. It's using a trick.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Researchers at Wharton tracked gym visits at a university,",
+   "candidates": [
+    {
+     "pixabay_id": 200657,
+     "url": "https://cdn.pixabay.com/video/2024/02/15/200657-913478674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/15/200657-913478674_small.jpg",
+     "page": "https://pixabay.com/videos/id-200657/",
+     "tags": "man, rope, workout, fitness, exercise, gym, health, training, body, strength, power, sport, healthy, strong, fit, active, sports, athlete, wellness, muscles, person, lifestyle",
+     "duration": 10,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 293079,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293079_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293079_small.jpg",
+     "page": "https://pixabay.com/videos/id-293079/",
+     "tags": "women, workout, gym training, sit ups, fitness motivation, athletic women, core exercise, gym session, strong women, exercise routine, female athletes, health and fitness, abs workout, gym lifestyle, physical strength, sports training, active women, determination, fitness goals, teamwork workout, workout partner, intense training, gym exercise, healthy living, women empowerment",
+     "duration": 25,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 148204,
+     "url": "https://cdn.pixabay.com/video/2023/01/27/148204-793717940_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/27/148204-793717940_small.jpg",
+     "page": "https://pixabay.com/videos/id-148204/",
+     "tags": "fitness, workout, gym, sport, equipment, healthy, lifestyle, training, exercise, health, body, fit, weight, activity, power, bodybuilding",
+     "duration": 8,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 148197,
+     "url": "https://cdn.pixabay.com/video/2023/01/27/148197-793717924_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/27/148197-793717924_small.jpg",
+     "page": "https://pixabay.com/videos/id-148197/",
+     "tags": "fitness, workout, gym, sport, equipment, healthy, lifestyle, training, exercise, health, body, fit, weight, activity, power, bodybuilding",
+     "duration": 14,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 148208,
+     "url": "https://cdn.pixabay.com/video/2023/01/27/148208-793717949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/27/148208-793717949_small.jpg",
+     "page": "https://pixabay.com/videos/id-148208/",
+     "tags": "fitness, workout, gym, sport, equipment, healthy, lifestyle, training, exercise, health, body, fit, weight, activity, power, bodybuilding",
+     "duration": 5,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 148196,
+     "url": "https://cdn.pixabay.com/video/2023/01/27/148196-793717922_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/27/148196-793717922_small.jpg",
+     "page": "https://pixabay.com/videos/id-148196/",
+     "tags": "fitness, workout, gym, sport, equipment, lifestyle, training, exercise, body, fit, weight, activity, power, bodybuilding",
+     "duration": 13,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 27087,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27087-361827438_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27087-361827438_small.jpg",
+     "page": "https://pixabay.com/videos/id-27087/",
+     "tags": "yoga, women, vietnam, people, relax, sport, gym, female, human, relaxation, body, zen, exercise",
+     "duration": 9,
+     "query": "gym"
+    },
+    {
+     "pixabay_id": 27088,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27088-361827441_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27088-361827441_small.jpg",
+     "page": "https://pixabay.com/videos/id-27088/",
+     "tags": "yoga, women, lifestyle, relax, girl, sport, gym, body, human, female, vietnam, hanoi",
+     "duration": 13,
+     "query": "gym"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "and they jumped at the start of every week, every month, every semester,",
+   "candidates": [
+    {
+     "pixabay_id": 141519,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_small.jpg",
+     "page": "https://pixabay.com/videos/id-141519/",
+     "tags": "book, reading, page, literature, education, read, nature, viewpoint, sea, seaside, wind, cloudy",
+     "duration": 15,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, beautiful wallpaper, number, fun, background",
+     "duration": 59,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 181407,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_small.jpg",
+     "page": "https://pixabay.com/videos/id-181407/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, beautiful wallpaper, celebration, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 185096,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_small.jpg",
+     "page": "https://pixabay.com/videos/id-185096/",
+     "tags": "book, pages, literature, beach, ocean, education, reading, study, school, learning, poet, writer",
+     "duration": 13,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "calendar pages"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "and right after birthdays.",
+   "candidates": [
+    {
+     "pixabay_id": 62556,
+     "url": "https://cdn.pixabay.com/video/2021/01/21/62556-504654653_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/21/62556-504654653_small.jpg",
+     "page": "https://pixabay.com/videos/id-62556/",
+     "tags": "man, roman candle, candle, male, celebration, anniversary, new year, birthday, light, party, loneliness, single, human, portrait, face, festival, celebrate",
+     "duration": 60,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 62551,
+     "url": "https://cdn.pixabay.com/video/2021/01/21/62551-504654640_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/21/62551-504654640_small.jpg",
+     "page": "https://pixabay.com/videos/id-62551/",
+     "tags": "man, roman candle, candle, male, celebration, anniversary, new year, birthday, light, party, loneliness, single, human, portrait, face, festival, celebrate",
+     "duration": 60,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 106381,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106381-673007969_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106381-673007969_small.jpg",
+     "page": "https://pixabay.com/videos/id-106381/",
+     "tags": "celebration, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, beautiful wallpaper, evening, birthday, roman candle, candle, coffee, tea, wine, writing, red, marriage, cake, romance",
+     "duration": 27,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 110366,
+     "url": "https://cdn.pixabay.com/video/2022/03/10/110366-688648551_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/10/110366-688648551_small.jpg",
+     "page": "https://pixabay.com/videos/id-110366/",
+     "tags": "roman candle, spark, fire, hot, light, explosion, fun, celebration, party, surprise, happiness, christmas, dark, night, background, flame, beautiful wallpaper, smoke, traditional, new year, birthday",
+     "duration": 25,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 110364,
+     "url": "https://cdn.pixabay.com/video/2022/03/10/110364-688648542_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/10/110364-688648542_small.jpg",
+     "page": "https://pixabay.com/videos/id-110364/",
+     "tags": "roman candle, spark, fire, hot, light, explosion, fun, celebration, party, surprise, happiness, christmas, beautiful wallpaper, dark, night, background, flame, smoke, traditional, new year, birthday",
+     "duration": 24,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 106382,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106382-673007973_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106382-673007973_small.jpg",
+     "page": "https://pixabay.com/videos/id-106382/",
+     "tags": "celebration, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, evening, birthday, heart, roman candle, beautiful wallpaper, fire, glow, romance",
+     "duration": 23,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 145487,
+     "url": "https://cdn.pixabay.com/video/2023/01/06/145487-787039552_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/06/145487-787039552_small.jpg",
+     "page": "https://pixabay.com/videos/id-145487/",
+     "tags": "candle, number, birthday, celebration, burning, fire, light, beautiful wallpaper, culture, traditional, cake, fun, happiness, anniversary, surprise, age, new, present, concept, christmas, new year, background",
+     "duration": 22,
+     "query": "birthday candles"
+    },
+    {
+     "pixabay_id": 145497,
+     "url": "https://cdn.pixabay.com/video/2023/01/06/145497-787039569_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/06/145497-787039569_small.jpg",
+     "page": "https://pixabay.com/videos/id-145497/",
+     "tags": "candle, birthday, celebration, burning, fire, light, culture, traditional, cake, fun, beautiful wallpaper, happiness, background, anniversary, surprise, age, present, concept, christmas, new year",
+     "duration": 50,
+     "query": "birthday candles"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Google searches for 'diet' spiked on the same kinds of days.",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 3174,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_small.jpg",
+     "page": "https://pixabay.com/videos/id-3174/",
+     "tags": "computer keyboard, typing, hands, female, keyboard, computer, technology, business, office, internet, type, key, communication, pc, information, white, working, letter, fingers",
+     "duration": 12,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 3188,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_small.jpg",
+     "page": "https://pixabay.com/videos/id-3188/",
+     "tags": "computer keyboard, typing, white, keyboard, computer, technology, business, office, internet, communication, fingers, hands, fast, text, messaging",
+     "duration": 14,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 43559,
+     "url": "https://cdn.pixabay.com/video/2020/07/01/43559-436237492_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/01/43559-436237492_small.jpg",
+     "page": "https://pixabay.com/videos/id-43559/",
+     "tags": "keyboard, laptop, computer, technology, work, typing, desk, student, workplace, working, work from home, home, office, internet, study, web, pc, notebook, keyboard typing, typing on keyboard, hands on laptop, hands on keyboard",
+     "duration": 18,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 203260,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_small.jpg",
+     "page": "https://pixabay.com/videos/id-203260/",
+     "tags": "woman, computer, laptop, typing, work, desk, business, marketing, communication, texting, cup, espresso, coffee, professional",
+     "duration": 5,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "typing laptop"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "typing laptop"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "It's called the fresh start effect.",
+   "candidates": [
+    {
+     "pixabay_id": 2119,
+     "url": "https://cdn.pixabay.com/video/2016/02/11/2119-155244112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/11/2119-155244112_small.jpg",
+     "page": "https://pixabay.com/videos/id-2119/",
+     "tags": "islands, ocean, sunrise, landscape, woods, sunlight, morning, sunrise landscape, trees, sea, forest landscape, forest, romantic, aerial",
+     "duration": 25,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 1844,
+     "url": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_small.jpg",
+     "page": "https://pixabay.com/videos/id-1844/",
+     "tags": "sunrise, sunset, weather, sky, clouds, twilight, atmosphere, timelapse",
+     "duration": 28,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 153821,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153821-806526710_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153821-806526710_small.jpg",
+     "page": "https://pixabay.com/videos/id-153821/",
+     "tags": "mountain, sunrise, nepal, mardi, dhaulagiri",
+     "duration": 25,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 59291,
+     "url": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_small.jpg",
+     "page": "https://pixabay.com/videos/id-59291/",
+     "tags": "mountains, fog, clouds, sunset, sunrise, forest, vietnam",
+     "duration": 19,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 201308,
+     "url": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_small.jpg",
+     "page": "https://pixabay.com/videos/id-201308/",
+     "tags": "beach, ocean, sunset, sea, nature, sky, sun, sunrise, summer, outdoors",
+     "duration": 59,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 328740,
+     "url": "https://cdn.pixabay.com/video/2026/01/19/328740_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/19/328740_small.jpg",
+     "page": "https://pixabay.com/videos/id-328740/",
+     "tags": "alps, sunrise, fog, sea of fog, clouds, landscape, switzerland, nature",
+     "duration": 46,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 246391,
+     "url": "https://cdn.pixabay.com/video/2024/12/12/246391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/12/246391_small.jpg",
+     "page": "https://pixabay.com/videos/id-246391/",
+     "tags": "sunrise, horizon, winter, snow, cold, season, winter landscape, landscape",
+     "duration": 10,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 189813,
+     "url": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_small.jpg",
+     "page": "https://pixabay.com/videos/id-189813/",
+     "tags": "trees, forest, woods, sunrise, morning, rays, fog, netherlands, drenthe",
+     "duration": 23,
+     "query": "sunrise"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "New dates feel like a clean page,",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 117,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_small.jpg",
+     "page": "https://pixabay.com/videos/id-117/",
+     "tags": "notebook, laptop, blur, home office, typing, writing, programming, developer, programmer, fingers, hands, mobile, electronics, device",
+     "duration": 13,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 3160,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_small.jpg",
+     "page": "https://pixabay.com/videos/id-3160/",
+     "tags": "laptop, keyboard, typing, writing, notebook, computer, work, business, technology, office, communication, working, education, desk, programmer, computer keyboard, programming, hands, fingers",
+     "duration": 13,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 6378,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_small.jpg",
+     "page": "https://pixabay.com/videos/id-6378/",
+     "tags": "notebook, keyboard, typing, writing, hand, fingers, computer, internet, laptop, professional, office, job, technology, home, education, device, blogging, programmer, programming, online, digital",
+     "duration": 15,
+     "query": "notebook writing"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "so your old failures feel like someone else's.",
+   "candidates": [
+    {
+     "pixabay_id": 126837,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126837-737020173_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126837-737020173_small.jpg",
+     "page": "https://pixabay.com/videos/id-126837/",
+     "tags": "funchal, madeira, portugal, city, people, daylight, buildings, urban, trees, couple, woman, face, resting, walking",
+     "duration": 23,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 24333,
+     "url": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_small.jpg",
+     "page": "https://pixabay.com/videos/id-24333/",
+     "tags": "walking, street, city, people, urban, road, walk, person, wall, town, lonely, shoes, style, woman, man, architecture, lifestyle",
+     "duration": 18,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 426,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/426-136184280_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/426-136184280_small.jpg",
+     "page": "https://pixabay.com/videos/id-426/",
+     "tags": "girl, walking, rain, umbrella, red, city, street, walk, pretty, happy, person, woman, everyday life, workaday life, daily routine, 106125721",
+     "duration": 9,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 427,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/427-136184291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/427-136184291_small.jpg",
+     "page": "https://pixabay.com/videos/id-427/",
+     "tags": "girl, walking, rain, umbrella, red, city, street, walk, pretty, happy, person, woman, everyday life, workaday life, daily routine, 106125721",
+     "duration": 21,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 425,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/425-136184259_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/425-136184259_small.jpg",
+     "page": "https://pixabay.com/videos/id-425/",
+     "tags": "girl, walking, rain, umbrella, red, city, street, walk, pretty, happy, person, woman, everyday life, workaday life, daily routine, 106125721",
+     "duration": 22,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 28200,
+     "url": "https://cdn.pixabay.com/video/2019/10/23/28200-368511950_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/23/28200-368511950_small.jpg",
+     "page": "https://pixabay.com/videos/id-28200/",
+     "tags": "venice, tourism, italy, architecture, water, city, canal, travel, gondola, romantic, historic, europe, boats, building, boat, vacation, venetian, famous, italian, cityscape, urban, girl, woman, walking",
+     "duration": 25,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 424,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/424-136184216_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/424-136184216_small.jpg",
+     "page": "https://pixabay.com/videos/id-424/",
+     "tags": "girl, walking, rain, umbrella, red, city, street, walk, pretty, happy, person, woman, everyday life, workaday life, daily routine, 106125721",
+     "duration": 11,
+     "query": "woman walking city"
+    },
+    {
+     "pixabay_id": 106,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/106-135735936_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/106-135735936_small.jpg",
+     "page": "https://pixabay.com/videos/id-106/",
+     "tags": "flea market, pedestrians, summer, people, town, calm, strolling, blur, bokeh, woman, walking, heat",
+     "duration": 19,
+     "query": "woman walking city"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "You don't need Monday. Pick any landmark. Today can be day one.",
+   "candidates": [
+    {
+     "pixabay_id": 139365,
+     "url": "https://cdn.pixabay.com/video/2022/11/16/139365-772278357_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/16/139365-772278357_small.jpg",
+     "page": "https://pixabay.com/videos/id-139365/",
+     "tags": "beach, sand, sunrise, shore, water, sea, ocean, gran canaria, spain, summer, running, man, woman, hiking, walking",
+     "duration": 17,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 167889,
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167889-837765454_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/19/167889-837765454_small.jpg",
+     "page": "https://pixabay.com/videos/id-167889/",
+     "tags": "couple, young, happy, running, smoke, sea, sunset",
+     "duration": 9,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 139364,
+     "url": "https://cdn.pixabay.com/video/2022/11/16/139364-772278353_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/16/139364-772278353_small.jpg",
+     "page": "https://pixabay.com/videos/id-139364/",
+     "tags": "beach, sand, sunrise, shore, water, sea, ocean, gran canaria, spain, summer, running, man, woman, hiking, walking",
+     "duration": 29,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 167888,
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167888-837765453_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/19/167888-837765453_small.jpg",
+     "page": "https://pixabay.com/videos/id-167888/",
+     "tags": "couple, young, happy, running, smoke, sea, sunset",
+     "duration": 9,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 23014,
+     "url": "https://cdn.pixabay.com/video/2019/04/23/23014-332483130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/23/23014-332483130_small.jpg",
+     "page": "https://pixabay.com/videos/id-23014/",
+     "tags": "exercise, run, running, jog, beach, sunrise, paradise, bahamas, runner, fitness, training, athlete, jogging, active, lifestyle, outdoor, fit, athletic, health, workout, sport, caribbean, sand",
+     "duration": 9,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 139362,
+     "url": "https://cdn.pixabay.com/video/2022/11/16/139362-772278342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/16/139362-772278342_small.jpg",
+     "page": "https://pixabay.com/videos/id-139362/",
+     "tags": "beach, sand, sunrise, shore, water, sea, ocean, gran canaria, spain, summer, running, man, woman, hiking, walking",
+     "duration": 57,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 139361,
+     "url": "https://cdn.pixabay.com/video/2022/11/16/139361-772278340_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/16/139361-772278340_small.jpg",
+     "page": "https://pixabay.com/videos/id-139361/",
+     "tags": "beach, sand, sunrise, shore, water, sea, ocean, gran canaria, spain, summer, running, man, woman, hiking, walking",
+     "duration": 54,
+     "query": "running sunrise"
+    },
+    {
+     "pixabay_id": 139356,
+     "url": "https://cdn.pixabay.com/video/2022/11/16/139356-772278322_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/16/139356-772278322_small.jpg",
+     "page": "https://pixabay.com/videos/id-139356/",
+     "tags": "beach, sand, sunrise, shore, water, sea, ocean, gran canaria, spain, summer, running, man, woman, hiking, walking",
+     "duration": 21,
+     "query": "running sunrise"
+    }
+   ]
+  }
+ ]
+}
