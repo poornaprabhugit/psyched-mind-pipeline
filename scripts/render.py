@@ -45,6 +45,27 @@ def download(url, target):
     raise RuntimeError(f"download failed: {url}")
 
 
+def add_hook(src, dst, text, mpt_dir, seconds=2.5):
+    """Burn a bold yellow hook card near the top for the first seconds (stops the scroll, works muted)."""
+    import subprocess
+    import textwrap
+    lines = textwrap.wrap(text, 22)[:3]
+    font = os.path.join(mpt_dir, "resource", "fonts", "MicrosoftYaHeiBold.ttc")
+    filters = []
+    for i, line in enumerate(lines):
+        tf = os.path.join(os.path.dirname(dst), f"hook_{i}.txt")
+        open(tf, "w", encoding="utf-8").write(line)
+        y = f"h*0.14+{i}*96"
+        filters.append(
+            f"drawtext=fontfile='{font}':textfile='{tf}':fontsize=72:fontcolor=black:"
+            f"box=1:boxcolor=0xFFE600:boxborderw=18:x=(w-text_w)/2:y={y}:"
+            f"enable='lt(t,{seconds})'")
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src, "-vf", ",".join(filters),
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "copy", dst], check=True)
+    for i in range(len(lines)):
+        os.remove(os.path.join(os.path.dirname(dst), f"hook_{i}.txt"))
+
+
 def main(job_path, vid, mpt_dir, outdir):
     os.makedirs(outdir, exist_ok=True)
     job = json.load(open(job_path, encoding="utf-8"))
@@ -78,7 +99,11 @@ def main(job_path, vid, mpt_dir, outdir):
         print(f"state={d.get('state')} progress={d.get('progress')}", flush=True)
         if d.get("state") == 1:
             src = os.path.join(mpt_dir, "storage", "tasks", task_id, "final-1.mp4")
-            shutil.copy(src, os.path.join(outdir, f"{vid}.mp4"))
+            dst = os.path.join(outdir, f"{vid}.mp4")
+            if video.get("hook_text"):
+                add_hook(src, dst, video["hook_text"], mpt_dir)
+            else:
+                shutil.copy(src, dst)
             json.dump({"id": vid, "task_id": task_id, "seconds": int(time.time() - start)},
                       open(os.path.join(outdir, f"{vid}.json"), "w"))
             return
