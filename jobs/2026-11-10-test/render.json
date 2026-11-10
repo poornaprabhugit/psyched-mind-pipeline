@@ -1,0 +1,21 @@
+{
+ "videos": [
+  {
+   "id": "t01",
+   "subject": "Why I'll start on Monday works",
+   "script": "Ever said 'I'll start on Monday'? Your brain isn't being lazy. It's using a trick. Researchers at Wharton tracked gym visits at a university, and they jumped at the start of every week, every month, every semester, and right after birthdays. Google searches for 'diet' spiked on the same kinds of days. It's called the fresh start effect. New dates feel like a clean page, so your old failures feel like someone else's. You don't need Monday. Pick any landmark. Today can be day one.",
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/02/07/21223-316116285_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+    "https://cdn.pixabay.com/video/2023/01/27/148204-793717940_large.mp4",
+    "https://cdn.pixabay.com/video/2019/09/20/27088-361827441_large.mp4",
+    "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+    "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_medium.mp4",
+    "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+    "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/16/139365-772278357_large.mp4"
+   ]
+  }
+ ]
+}
