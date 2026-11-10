@@ -1,0 +1,3 @@
+/home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/scripts/stats.py:56: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  data = {"collected_at": dt.datetime.utcnow().isoformat() + "Z", "note": "Analytics data lags 1-3 days"}
+saved memory/stats/2026-11-10.json videos: 7
