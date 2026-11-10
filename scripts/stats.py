@@ -53,7 +53,7 @@ def main(outdir):
     today = dt.date.today()
     start = "2026-11-01"
     end = today.isoformat()
-    data = {"collected_at": dt.datetime.utcnow().isoformat() + "Z", "note": "Analytics data lags 1-3 days"}
+    data = {"collected_at": dt.datetime.now(dt.timezone.utc).isoformat(), "note": "Analytics data lags 1-3 days"}
 
     ch = get("https://www.googleapis.com/youtube/v3/channels", token,
              {"part": "snippet,statistics,contentDetails", "mine": "true"})
