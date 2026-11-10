@@ -1,0 +1,31 @@
+name: youtube-stats
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily ~07:17 Amsterdam (winter time)
+  push:
+    branches: [main]
+    paths: ["jobs/stats-now"]
+permissions:
+  contents: write
+concurrency:
+  group: stats
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect stats
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python scripts/stats.py memory/stats 2>&1 | tee stats_log.txt
+      - name: Commit
+        if: always()
+        run: |
+          cp stats_log.txt memory/stats/last_run_log.txt 2>/dev/null || (mkdir -p memory/stats && cp stats_log.txt memory/stats/last_run_log.txt)
+          git config user.name "pipeline-bot"; git config user.email "pipeline@users.noreply.github.com"
+          git add memory/stats
+          git commit -qm "stats $(date -u +%F)" || exit 0
+          git pull -q --rebase origin main && git push -q origin HEAD:main
