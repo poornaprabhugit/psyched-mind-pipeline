@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-11T07:40:35.194322+00:00",
+ "collected_at": "2026-11-11T14:30:36.098723+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
@@ -7,10 +7,24 @@
    "viewCount": "0",
    "subscriberCount": "3",
    "hiddenSubscriberCount": false,
-   "videoCount": "1"
+   "videoCount": "2"
   }
  },
  "videos": [
+  {
+   "id": "1SiTheh1gbA",
+   "title": "Why your wobbly shelf feels priceless \ud83d\udd28",
+   "published": "2026-11-11T11:00:34Z",
+   "privacy": "public",
+   "duration": "PT29S",
+   "statistics": {
+    "viewCount": "51",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "jGEnqapHOhA",
    "title": "Why \u201cI\u2019ll start Monday\u201d actually works \ud83d\udcc5",
@@ -32,22 +46,8 @@
    "privacy": "public",
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "29",
+    "viewCount": "34",
     "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "1SiTheh1gbA",
-   "title": "Why your wobbly shelf feels priceless \ud83d\udd28",
-   "published": "2026-11-10T18:14:52Z",
-   "privacy": "private",
-   "duration": "PT29S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
