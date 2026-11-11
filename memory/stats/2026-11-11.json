@@ -1,0 +1,131 @@
+{
+ "collected_at": "2026-11-11T07:40:35.194322+00:00",
+ "note": "Analytics data lags 1-3 days",
+ "channel": {
+  "title": "ThePsychedMindHQ",
+  "statistics": {
+   "viewCount": "0",
+   "subscriberCount": "3",
+   "hiddenSubscriberCount": false,
+   "videoCount": "1"
+  }
+ },
+ "videos": [
+  {
+   "id": "jGEnqapHOhA",
+   "title": "Why \u201cI\u2019ll start Monday\u201d actually works \ud83d\udcc5",
+   "published": "2026-11-10T21:57:36Z",
+   "privacy": "private",
+   "duration": "PT33S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "1YpGk3PgSTc",
+   "title": "You don't like it. You've just seen it a lot \ud83c\udfa7",
+   "published": "2026-11-10T19:00:08Z",
+   "privacy": "public",
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "29",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "1SiTheh1gbA",
+   "title": "Why your wobbly shelf feels priceless \ud83d\udd28",
+   "published": "2026-11-10T18:14:52Z",
+   "privacy": "private",
+   "duration": "PT29S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "AWwEyFrD7d8",
+   "title": "The favor trick that makes people like you \ud83d\udcd6",
+   "published": "2026-11-10T18:14:48Z",
+   "privacy": "private",
+   "duration": "PT28S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "sc7_JxDC780",
+   "title": "Why mistakes make people like you more \u2615",
+   "published": "2026-11-10T18:14:42Z",
+   "privacy": "private",
+   "duration": "PT35S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "V2Ov2mOg6w8",
+   "title": "Why doorways make you forget \ud83d\udeaa",
+   "published": "2026-11-10T18:14:38Z",
+   "privacy": "private",
+   "duration": "PT27S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "vtA1urwY1Ek",
+   "title": "They liked you more than you think \ud83e\udde0",
+   "published": "2026-11-10T18:14:31Z",
+   "privacy": "private",
+   "duration": "PT31S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "LXF5w9QilAg",
+   "title": "Spotlight effect | Everyone noticed your mistake? Science says no \ud83d\ude33",
+   "published": "2026-11-10T18:14:25Z",
+   "privacy": "private",
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  }
+ ],
+ "per_video": [],
+ "daily": [],
+ "traffic_sources": [],
+ "countries": []
+}
