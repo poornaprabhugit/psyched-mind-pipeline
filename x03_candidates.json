@@ -1,0 +1,863 @@
+{
+ "id": "x03",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Your card is quietly making you pay more.",
+   "candidates": [
+    {
+     "pixabay_id": 209456,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209456_small.jpg",
+     "page": "https://pixabay.com/videos/id-209456/",
+     "tags": "card, payment, terminal, contactless, to pay, roses, flowers, crowd, purchase, sale, colorful, nature, florist",
+     "duration": 15,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 59139,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_small.jpg",
+     "page": "https://pixabay.com/videos/id-59139/",
+     "tags": "money, budget, count, cash, counting, calculator, finance, mortgage, economy, payment, business",
+     "duration": 20,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "contactless payment"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "contactless payment"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Here's the proof.",
+   "candidates": [
+    {
+     "pixabay_id": 123839,
+     "url": "https://cdn.pixabay.com/video/2022/07/11/123839-729019798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/11/123839-729019798_small.jpg",
+     "page": "https://pixabay.com/videos/id-123839/",
+     "tags": "magnifying glass, modelling, hobby, handcraft, paint brush, adhesive, seat, plastic",
+     "duration": 14,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 127341,
+     "url": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_small.jpg",
+     "page": "https://pixabay.com/videos/id-127341/",
+     "tags": "coins, bitcoin, blockchain, money, magnifying glass, golden, cryptocurrency, hand, silver, finances",
+     "duration": 15,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 122835,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122835-726391936_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122835-726391936_small.jpg",
+     "page": "https://pixabay.com/videos/id-122835/",
+     "tags": "tweezers, modelling, handcraft, hobby, magnifying glass, colour, plane, kit, plastic",
+     "duration": 7,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 121090,
+     "url": "https://cdn.pixabay.com/video/2022/06/20/121090-724685732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/20/121090-724685732_small.jpg",
+     "page": "https://pixabay.com/videos/id-121090/",
+     "tags": "modelling, miniature, hobby, paint, magnifying glass, photo-etched part, handcraft, kit",
+     "duration": 20,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 3612,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3612-172488334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3612-172488334_small.jpg",
+     "page": "https://pixabay.com/videos/id-3612/",
+     "tags": "glass maker, glass blower, melting, making, molten, hot, glow, warm, glowing, material, heat, work, glass, blower, worker, temperature, fire, flame, tube",
+     "duration": 13,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 189290,
+     "url": "https://cdn.pixabay.com/video/2023/11/16/189290-885321799_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/16/189290-885321799_small.jpg",
+     "page": "https://pixabay.com/videos/id-189290/",
+     "tags": "raindrop, drops, rain, window, window glass, wet, glass",
+     "duration": 27,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 168313,
+     "url": "https://cdn.pixabay.com/video/2023/06/22/168313-838656609_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/22/168313-838656609_small.jpg",
+     "page": "https://pixabay.com/videos/id-168313/",
+     "tags": "rain, raindrop, glass, window glass, trees, wind, bad weather, stormy, nature",
+     "duration": 30,
+     "query": "magnifying glass"
+    },
+    {
+     "pixabay_id": 189189,
+     "url": "https://cdn.pixabay.com/video/2023/11/15/189189-884961175_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/15/189189-884961175_small.jpg",
+     "page": "https://pixabay.com/videos/id-189189/",
+     "tags": "raindrops, drops, rain, window, window glass, wet, glass",
+     "duration": 15,
+     "query": "magnifying glass"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Researchers auctioned sold-out basketball tickets to business students.",
+   "candidates": [
+    {
+     "pixabay_id": 139533,
+     "url": "https://cdn.pixabay.com/video/2022/11/18/139533-772542665_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/18/139533-772542665_small.jpg",
+     "page": "https://pixabay.com/videos/id-139533/",
+     "tags": "basketball, game, fitness, health, lifestyle",
+     "duration": 5,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 8880,
+     "url": "https://cdn.pixabay.com/video/2017/04/28/8880-215589264_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/28/8880-215589264_small.jpg",
+     "page": "https://pixabay.com/videos/id-8880/",
+     "tags": "basketball, shots, ball, game, hoop, motion, score, sport",
+     "duration": 20,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 202104,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202104-916932559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202104-916932559_small.jpg",
+     "page": "https://pixabay.com/videos/id-202104/",
+     "tags": "stadium, net, sport, play ball, cloudy landscape, hobby, playing, basketball, game, athletic, ball",
+     "duration": 14,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 115663,
+     "url": "https://cdn.pixabay.com/video/2022/05/01/115663-705567652_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/01/115663-705567652_small.jpg",
+     "page": "https://pixabay.com/videos/id-115663/",
+     "tags": "basketball, the game, sport, competition, game room, arcade, kids, fun, happiness, ball, circle",
+     "duration": 15,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 26352,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26352-357839096_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26352-357839096_small.jpg",
+     "page": "https://pixabay.com/videos/id-26352/",
+     "tags": "drone, park, summer, forest, flying, landscape, city, games, basketball court, flight, mexico, aerial",
+     "duration": 7,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 259095,
+     "url": "https://cdn.pixabay.com/video/2025/02/18/259095_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/18/259095_small.jpg",
+     "page": "https://pixabay.com/videos/id-259095/",
+     "tags": "basketball, basket, pot, sport, game, nba, ball, network, round, play, competition, championship, bounce, victory, success, sky",
+     "duration": 59,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 230749,
+     "url": "https://cdn.pixabay.com/video/2024/09/10/230749_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/10/230749_small.jpg",
+     "page": "https://pixabay.com/videos/id-230749/",
+     "tags": "basketball, sport, game, rest, court, distance",
+     "duration": 7,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 323232,
+     "url": "https://cdn.pixabay.com/video/2025/12/20/323232_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/20/323232_small.jpg",
+     "page": "https://pixabay.com/videos/id-323232/",
+     "tags": "basketball, sport, the game, basket, play, set, nature, competition, hobby, sky, blue, view, clouds, cloudy, movement, background, atmosphere, weather, meteorology, healthy, net, high, bounce, fun",
+     "duration": 59,
+     "query": "basketball game"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Half had to pay in cash.",
+   "candidates": [
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 269529,
+     "url": "https://cdn.pixabay.com/video/2025/04/03/269529_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/03/269529_small.jpg",
+     "page": "https://pixabay.com/videos/id-269529/",
+     "tags": "money, card, shopping, business, gift, payment, pay, hand, cash",
+     "duration": 8,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 172891,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_small.jpg",
+     "page": "https://pixabay.com/videos/id-172891/",
+     "tags": "money, currency, dollar, cash, finance",
+     "duration": 9,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 172892,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_small.jpg",
+     "page": "https://pixabay.com/videos/id-172892/",
+     "tags": "money, cash, finance, currency, business, office",
+     "duration": 9,
+     "query": "cash money hand"
+    },
+    {
+     "pixabay_id": 172893,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172893-848187892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172893-848187892_small.jpg",
+     "page": "https://pixabay.com/videos/id-172893/",
+     "tags": "money, finance, business, dollars, cash, currency",
+     "duration": 10,
+     "query": "cash money hand"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Half could pay by card.",
+   "candidates": [
+    {
+     "pixabay_id": 349094,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349094_small.jpg",
+     "page": "https://pixabay.com/videos/id-349094/",
+     "tags": "business, computer, working, report, marketing, information, office, data, statistics, facts, file, stationary, interview, loan, feedback, flag, credit, investment, think, idea, thinking, human, women, people",
+     "duration": 20,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 13937,
+     "url": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_small.jpg",
+     "page": "https://pixabay.com/videos/id-13937/",
+     "tags": "date of birth, birthday party, birthday card, congratulations, greeting card, love greeting, love, emotions, fixed",
+     "duration": 11,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 225910,
+     "url": "https://cdn.pixabay.com/video/2024/08/11/225910_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/11/225910_small.jpg",
+     "page": "https://pixabay.com/videos/id-225910/",
+     "tags": "hairy teasel, card, blossom, bloom, plant, anthers, nature, to flourish, bloom",
+     "duration": 35,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 200139,
+     "url": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_small.jpg",
+     "page": "https://pixabay.com/videos/id-200139/",
+     "tags": "dinner, decoration, chairs, candles, arrangement, anniversary, autumn, banquet, boho, bouquet, candlelight, card, catering, celebration, ceremony, decor, dining, elegance, elegant, event",
+     "duration": 6,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 1823,
+     "url": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_small.jpg",
+     "page": "https://pixabay.com/videos/id-1823/",
+     "tags": "movie, opening credits, curtain up, curtain closed, movie theater, canvas, video",
+     "duration": 10,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 48403,
+     "url": "https://cdn.pixabay.com/video/2020/08/27/48403-454346671_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/27/48403-454346671_small.jpg",
+     "page": "https://pixabay.com/videos/id-48403/",
+     "tags": "euro, bank, pay, money, credit, bar",
+     "duration": 17,
+     "query": "credit card"
+    },
+    {
+     "pixabay_id": 40818,
+     "url": "https://cdn.pixabay.com/video/2020/06/01/40818-426939516_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/01/40818-426939516_small.jpg",
+     "page": "https://pixabay.com/videos/id-40818/",
+     "tags": "corridor, office, bank, employees, deposit, money, business, finances, credit, the success of the, investor, people, service, consultant, team, guide",
+     "duration": 15,
+     "query": "credit card"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "The card group bid more than double,",
+   "candidates": [
+    {
+     "pixabay_id": 34108,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34108-400233503_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34108-400233503_small.jpg",
+     "page": "https://pixabay.com/videos/id-34108/",
+     "tags": "auto, auto show, auction, 2020, people, cars, bidding, scottsdale, arizona, classical cars, rare cars, collectible, humans",
+     "duration": 52,
+     "query": "auction"
+    },
+    {
+     "pixabay_id": 368039,
+     "url": "https://cdn.pixabay.com/video/2026/08/02/368039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/02/368039_small.jpg",
+     "page": "https://pixabay.com/videos/id-368039/",
+     "tags": "bird, red-flanked bluetail, scalpel, raising children, japan",
+     "duration": 10,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 225519,
+     "url": "https://cdn.pixabay.com/video/2024/08/08/225519_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/08/225519_small.jpg",
+     "page": "https://pixabay.com/videos/id-225519/",
+     "tags": "cows, cattle raising, salamanca, villarino, framontanos, water, pond, nature, animals",
+     "duration": 10,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 9090,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9090-217582224_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9090-217582224_small.jpg",
+     "page": "https://pixabay.com/videos/id-9090/",
+     "tags": "calf, heifer, mammal, farm, pasture, herb, animal, livestock, mammalian animal, field, cattle raising, food, cow, bovine",
+     "duration": 30,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 225510,
+     "url": "https://cdn.pixabay.com/video/2024/08/08/225510_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/08/225510_small.jpg",
+     "page": "https://pixabay.com/videos/id-225510/",
+     "tags": "cows, field, highway, cattle raising, salamanca, villarino, framontanos, duero, ponds, nature",
+     "duration": 10,
+     "query": "raising hand"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "raising hand"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "for the exact same tickets.",
+   "candidates": [
+    {
+     "pixabay_id": 31782,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_small.jpg",
+     "page": "https://pixabay.com/videos/id-31782/",
+     "tags": "metro, bangkok, thailand, transport, people, ticket",
+     "duration": 13,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 36565,
+     "url": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_small.jpg",
+     "page": "https://pixabay.com/videos/id-36565/",
+     "tags": "flower, cherry, spring, tree, branch, nature, flowering, botany, tickets, plant, beautiful, season, botanical, time lapse",
+     "duration": 40,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 131432,
+     "url": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_small.jpg",
+     "page": "https://pixabay.com/videos/id-131432/",
+     "tags": "airport, aeroplane, trip, ticket, application, landing, departure, gezi, holiday, lax",
+     "duration": 17,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 134789,
+     "url": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_small.jpg",
+     "page": "https://pixabay.com/videos/id-134789/",
+     "tags": "airport, trip, screen, aeroplane, passport, flight, flight ticket, departure",
+     "duration": 12,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 204452,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_small.jpg",
+     "page": "https://pixabay.com/videos/id-204452/",
+     "tags": "passengers, people, crowd, terminal, boarding pass, boarding, ticketing, ticket, lax, airport",
+     "duration": 35,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 33924,
+     "url": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_small.jpg",
+     "page": "https://pixabay.com/videos/id-33924/",
+     "tags": "purple, spring, flowers, plant, nature, garden, bloom, blue, close up, flora, tickets",
+     "duration": 19,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 23710,
+     "url": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_small.jpg",
+     "page": "https://pixabay.com/videos/id-23710/",
+     "tags": "asia, thailand, thai, bangkok, traffic, transportation, bts, line, sky, convenient, rail, railway, tram, downtown, travel, ticket, station",
+     "duration": 22,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 11572,
+     "url": "https://cdn.pixabay.com/video/2017/08/27/11572-231758740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/27/11572-231758740_small.jpg",
+     "page": "https://pixabay.com/videos/id-11572/",
+     "tags": "train station, railway transport, passenger, station, depot, platform, stop, train, compound, rails, railway, railway carriage, shipping, travel, journey, trip, excursion, transport, rate, locomotive, speed, movement, people, city, tourism, vehicle, traveler, line, industrial, industry, blue, quick, ticket, service, long distance",
+     "duration": 7,
+     "query": "tickets"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Handing over cash hurts,",
+   "candidates": [
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 50625,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_small.jpg",
+     "page": "https://pixabay.com/videos/id-50625/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 12,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 50623,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_small.jpg",
+     "page": "https://pixabay.com/videos/id-50623/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 27,
+     "query": "paying cash"
+    },
+    {
+     "pixabay_id": 50629,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_small.jpg",
+     "page": "https://pixabay.com/videos/id-50629/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 9,
+     "query": "paying cash"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "and that little pain makes you careful.",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking wallet"
+    },
+    {
+     "pixabay_id": 20557,
+     "url": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_small.jpg",
+     "page": "https://pixabay.com/videos/id-20557/",
+     "tags": "man, nature, viewpoint, viewing, male, emotions, thinking, adventure, freedom, landscape, outdoor, lake, nature background, relaxing",
+     "duration": 19,
+     "query": "man thinking wallet"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "A tap doesn't hurt at all.",
+   "candidates": [
+    {
+     "pixabay_id": 209456,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209456_small.jpg",
+     "page": "https://pixabay.com/videos/id-209456/",
+     "tags": "card, payment, terminal, contactless, to pay, roses, flowers, crowd, purchase, sale, colorful, nature, florist",
+     "duration": 15,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 59139,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_small.jpg",
+     "page": "https://pixabay.com/videos/id-59139/",
+     "tags": "money, budget, count, cash, counting, calculator, finance, mortgage, economy, payment, business",
+     "duration": 20,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "contactless card payment"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "contactless card payment"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "That's why your card is quietly making you pay more.",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, crowd, beautiful wallpaper, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 80672,
+     "url": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_small.jpg",
+     "page": "https://pixabay.com/videos/id-80672/",
+     "tags": "kangaroo, marsupial, young, bag, furry, animal, cute, zoo hague",
+     "duration": 26,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "shopping bags"
+    }
+   ]
+  }
+ ]
+}

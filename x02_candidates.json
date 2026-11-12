@@ -1,0 +1,941 @@
+{
+ "id": "x02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Can't switch off at night?",
+   "candidates": [
+    {
+     "pixabay_id": 6970,
+     "url": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_small.jpg",
+     "page": "https://pixabay.com/videos/id-6970/",
+     "tags": "lion, hagenbeck, yawning, big cat, to sunbathe, panthera leo, rock, majestic, zoo, awake",
+     "duration": 21,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 233390,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233390_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233390_small.jpg",
+     "page": "https://pixabay.com/videos/id-233390/",
+     "tags": "woman, female, room, phone, candle, pose, modeling, bed, tired, relax, resting, night",
+     "duration": 13,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 10339,
+     "url": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_small.jpg",
+     "page": "https://pixabay.com/videos/id-10339/",
+     "tags": "milky way, heaven, starry sky, night, stars, evening sky, space, night sky",
+     "duration": 13,
+     "query": "woman awake bed night"
+    },
+    {
+     "pixabay_id": 177369,
+     "url": "https://cdn.pixabay.com/video/2023/08/23/177369-857376756_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/23/177369-857376756_small.jpg",
+     "page": "https://pixabay.com/videos/id-177369/",
+     "tags": "koala, koala bear, tree, marsupial, yawn, animal, wildlife, australia, asleep, sleepy, awake, cute, furry, wilderness, adorable, nature",
+     "duration": 59,
+     "query": "woman awake bed night"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Your to-do list is hijacking your brain.",
+   "candidates": [
+    {
+     "pixabay_id": 27268,
+     "url": "https://cdn.pixabay.com/video/2019/09/27/27268-363287559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/27/27268-363287559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27268/",
+     "tags": "cycling, do exercise, exercise, bike, morning, street, people",
+     "duration": 30,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 385476,
+     "url": "https://cdn.pixabay.com/video/2026/10/27/385476_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/27/385476_small.jpg",
+     "page": "https://pixabay.com/videos/id-385476/",
+     "tags": "autumn, autumn leaves, wind, bicycle, trail, colonnade, republic of korea, gyeonggi do, yangju",
+     "duration": 36,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 384755,
+     "url": "https://cdn.pixabay.com/video/2026/10/23/384755_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/23/384755_small.jpg",
+     "page": "https://pixabay.com/videos/id-384755/",
+     "tags": "bicycle, riding, sports, garosu-gil, yangju, korea, gyeonggi do",
+     "duration": 18,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 91854,
+     "url": "https://cdn.pixabay.com/video/2021/10/12/91854-633384717_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/12/91854-633384717_small.jpg",
+     "page": "https://pixabay.com/videos/id-91854/",
+     "tags": "autumn road, autumn leaves, leaves, autumn wind, autumn scenery, gyeonggi do, yangju, republic of korea",
+     "duration": 61,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 103505,
+     "url": "https://cdn.pixabay.com/video/2022/01/05/103505-664409004_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/05/103505-664409004_small.jpg",
+     "page": "https://pixabay.com/videos/id-103505/",
+     "tags": "spring, cherry blossom, republic of korea, spring breeze, spring landscape, gyeonggi do, yangzhou",
+     "duration": 28,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 111231,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111231-690770578_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111231-690770578_small.jpg",
+     "page": "https://pixabay.com/videos/id-111231/",
+     "tags": "magnolia, spring landscape, flower, republic of korea, gyeonggi do, landscape, spring breeze",
+     "duration": 16,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 122233,
+     "url": "https://cdn.pixabay.com/video/2022/06/27/122233-724743712_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/27/122233-724743712_small.jpg",
+     "page": "https://pixabay.com/videos/id-122233/",
+     "tags": "reading list at library, read a book, read, th\u01b0 vi\u1ec7n, study, student, prep, hard - working, learn, write, asia",
+     "duration": 13,
+     "query": "to do list"
+    },
+    {
+     "pixabay_id": 103503,
+     "url": "https://cdn.pixabay.com/video/2022/01/05/103503-664408988_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/05/103503-664408988_small.jpg",
+     "page": "https://pixabay.com/videos/id-103503/",
+     "tags": "spring, cherry blossom, republic of korea, spring breeze, spring landscape, gyeonggi do, yangzhou",
+     "duration": 27,
+     "query": "to do list"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "And there's a simple fix.",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 117,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_small.jpg",
+     "page": "https://pixabay.com/videos/id-117/",
+     "tags": "notebook, laptop, blur, home office, typing, writing, programming, developer, programmer, fingers, hands, mobile, electronics, device",
+     "duration": 13,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 3160,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_small.jpg",
+     "page": "https://pixabay.com/videos/id-3160/",
+     "tags": "laptop, keyboard, typing, writing, notebook, computer, work, business, technology, office, communication, working, education, desk, programmer, computer keyboard, programming, hands, fingers",
+     "duration": 13,
+     "query": "writing notebook"
+    },
+    {
+     "pixabay_id": 6378,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_small.jpg",
+     "page": "https://pixabay.com/videos/id-6378/",
+     "tags": "notebook, keyboard, typing, writing, hand, fingers, computer, internet, laptop, professional, office, job, technology, home, education, device, blogging, programmer, programming, online, digital",
+     "duration": 15,
+     "query": "writing notebook"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Unfinished goals keep popping into your head,",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 12897,
+     "url": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_small.jpg",
+     "page": "https://pixabay.com/videos/id-12897/",
+     "tags": "school, student, studies, to read, book, young woman, cabinet, think",
+     "duration": 10,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79395,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_small.jpg",
+     "page": "https://pixabay.com/videos/id-79395/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 51,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79392,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_small.jpg",
+     "page": "https://pixabay.com/videos/id-79392/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79386,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_small.jpg",
+     "page": "https://pixabay.com/videos/id-79386/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79393,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_small.jpg",
+     "page": "https://pixabay.com/videos/id-79393/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 12,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79387,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_small.jpg",
+     "page": "https://pixabay.com/videos/id-79387/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 59,
+     "query": "woman thinking"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "because your brain treats them as open loops.",
+   "candidates": [
+    {
+     "pixabay_id": 287391,
+     "url": "https://cdn.pixabay.com/video/2025/06/23/287391_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/23/287391_small.jpg",
+     "page": "https://pixabay.com/videos/id-287391/",
+     "tags": "wheel, ferris, park, fun, sky, ferris wheel, entertainment, blue, ride, fair, circle, carnival, big, carousel, attraction, city, fairground, architecture, round, leisure leisure, spin, summer, high, amusement park",
+     "duration": 11,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 53031,
+     "url": "https://cdn.pixabay.com/video/2020/10/21/53031-471336865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/21/53031-471336865_small.jpg",
+     "page": "https://pixabay.com/videos/id-53031/",
+     "tags": "ferris wheel, fair, carousel, oktoberfest, circuit, spinning in circles, repetition, folk festival, fun, fairground, amusement park, pleasure, leisure time, ride, multicoloured, lighting, cycle, hype, showman, lights, high, gondolas",
+     "duration": 11,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 26922,
+     "url": "https://cdn.pixabay.com/video/2019/09/16/26922-361107881_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/16/26922-361107881_small.jpg",
+     "page": "https://pixabay.com/videos/id-26922/",
+     "tags": "circle, shape, pattern, motion, black, white, spin, hypnotic, wheel, design, geometric, unity, swirl, zen, circular, hulki okan tabak",
+     "duration": 11,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 278877,
+     "url": "https://cdn.pixabay.com/video/2025/05/13/278877_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/13/278877_small.jpg",
+     "page": "https://pixabay.com/videos/id-278877/",
+     "tags": "ferris wheel, amusement park, carnival, night lights, city lights, evening, urban scene, fair ground, neon, entertainment, spinning wheel, nightlife, cityscape, funfair, glowing, ride, motion, illuminated, skyline, festival, attraction, vibrant, light show, travel, magical evening",
+     "duration": 13,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 201508,
+     "url": "https://cdn.pixabay.com/video/2024/02/22/201508-915722916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/22/201508-915722916_small.jpg",
+     "page": "https://pixabay.com/videos/id-201508/",
+     "tags": "ferris wheel, amusement park, wheel, circle, spin, round",
+     "duration": 7,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 369899,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369899_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369899_small.jpg",
+     "page": "https://pixabay.com/videos/id-369899/",
+     "tags": "ferris wheel, spin, blue sky, marine, joy, high altitude, overlook, playground",
+     "duration": 22,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 377328,
+     "url": "https://cdn.pixabay.com/video/2026/09/18/377328_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/18/377328_small.jpg",
+     "page": "https://pixabay.com/videos/id-377328/",
+     "tags": "thrill, ride, funfair, extreme, england, britain, fairground, carnival, amusement, entertainment, festival, engineering, design, adrenaline, force, centrifugal, intense, british, uk, oxford, ferris wheel, english, physics, spinning, fun",
+     "duration": 20,
+     "query": "spinning wheel"
+    },
+    {
+     "pixabay_id": 219603,
+     "url": "https://cdn.pixabay.com/video/2024/07/05/219603_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/05/219603_small.jpg",
+     "page": "https://pixabay.com/videos/id-219603/",
+     "tags": "spinning, spiral, spin, swirl, stairs, gradient, vortex, twirl, motion, wheel, design, pinwheel, colorful, pattern, round",
+     "duration": 23,
+     "query": "spinning wheel"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "In one study, people with an unfinished goal",
+   "candidates": [
+    {
+     "pixabay_id": 158618,
+     "url": "https://cdn.pixabay.com/video/2023/04/12/158618-817153712_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/12/158618-817153712_small.jpg",
+     "page": "https://pixabay.com/videos/id-158618/",
+     "tags": "exam, test, professor, school, to study, english, errors, students",
+     "duration": 34,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 11862,
+     "url": "https://cdn.pixabay.com/video/2017/09/08/11862-233049431_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/08/11862-233049431_small.jpg",
+     "page": "https://pixabay.com/videos/id-11862/",
+     "tags": "the lessons are over, teacher, folder, lecture, school board, guru, educator, class, form, school, academy, seminary, education, academic, school program, training, practical, board, a piece of chalk, knowledge, cognition, the science, textbook, management, to study, to help, book, studies, student, woman, white, table, college, adult, literature, homework, university, beautiful, people, information, young woman, young, concept, clever, exam, hand, wisdom, reading",
+     "duration": 23,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 155164,
+     "url": "https://cdn.pixabay.com/video/2023/03/18/155164-809618953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/18/155164-809618953_small.jpg",
+     "page": "https://pixabay.com/videos/id-155164/",
+     "tags": "students, exam, study, school, education, read, cheating, cheater, library",
+     "duration": 23,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 11969,
+     "url": "https://cdn.pixabay.com/video/2017/09/13/11969-233836084_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/13/11969-233836084_small.jpg",
+     "page": "https://pixabay.com/videos/id-11969/",
+     "tags": "the lessons are over, teacher, folder, lecture, school board, guru, educator, class, form, school, academy, seminary, education, academic, school program, training, practical, board, a piece of chalk, knowledge, cognition, the science, textbook, management, to study, to help, book, studies, student, woman, white, table, college, adult, literature, homework, university, beautiful, people, information, young woman, young, concept, clever, exam, hand, wisdom, reading",
+     "duration": 18,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 355580,
+     "url": "https://cdn.pixabay.com/video/2026/05/30/355580_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/05/30/355580_small.jpg",
+     "page": "https://pixabay.com/videos/id-355580/",
+     "tags": "rohingya, student, girl, exam, refugee, camp, studying, test, classroom, concentration, learning, education, bangladesh, cox's bazar, future",
+     "duration": 8,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 296169,
+     "url": "https://cdn.pixabay.com/video/2025/08/08/296169_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/08/296169_small.jpg",
+     "page": "https://pixabay.com/videos/id-296169/",
+     "tags": "student, education, school",
+     "duration": 7,
+     "query": "students exam"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "students exam"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "kept getting distracted by it.",
+   "candidates": [
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 296169,
+     "url": "https://cdn.pixabay.com/video/2025/08/08/296169_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/08/296169_small.jpg",
+     "page": "https://pixabay.com/videos/id-296169/",
+     "tags": "student, education, school",
+     "duration": 7,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 140807,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_small.jpg",
+     "page": "https://pixabay.com/videos/id-140807/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 11,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 145428,
+     "url": "https://cdn.pixabay.com/video/2023/01/05/145428-787039445_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/05/145428-787039445_small.jpg",
+     "page": "https://pixabay.com/videos/id-145428/",
+     "tags": "student, read, write, library, book, read a book",
+     "duration": 13,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 131990,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_small.jpg",
+     "page": "https://pixabay.com/videos/id-131990/",
+     "tags": "student, to write, to study, work, task, issue, question, study",
+     "duration": 24,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 140808,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140808-776043763_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140808-776043763_small.jpg",
+     "page": "https://pixabay.com/videos/id-140808/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 16,
+     "query": "distracted student"
+    },
+    {
+     "pixabay_id": 12897,
+     "url": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_small.jpg",
+     "page": "https://pixabay.com/videos/id-12897/",
+     "tags": "school, student, studies, to read, book, young woman, cabinet, think",
+     "duration": 10,
+     "query": "distracted student"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "But one group first wrote a specific plan:",
+   "candidates": [
+    {
+     "pixabay_id": 1658,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_small.jpg",
+     "page": "https://pixabay.com/videos/id-1658/",
+     "tags": "whiteboard, planning, strategy, writing, plan, teamwork, office, people, business, education, presentation, strategy concept, corporate, person, businessman, display, show, present",
+     "duration": 13,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 68,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/68-135732328_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/68-135732328_small.jpg",
+     "page": "https://pixabay.com/videos/id-68/",
+     "tags": "notepad, sketchbook, sketching, writing, study, learn, plan, notes",
+     "duration": 6,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 69952,
+     "url": "https://cdn.pixabay.com/video/2021/04/04/69952-533273133_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/04/69952-533273133_small.jpg",
+     "page": "https://pixabay.com/videos/id-69952/",
+     "tags": "office, meeting, working, discussion, startup, business, computer, work, team, plan, brainstorming, teamwork, table, corporate, casual, people, company, writing, desk, conference, group, colleagues, teacher, project, coffee",
+     "duration": 15,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 185092,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_small.jpg",
+     "page": "https://pixabay.com/videos/id-185092/",
+     "tags": "book, wind, literature, education, writing, reading, poetry, novel, author",
+     "duration": 19,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "writing plan"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "writing plan"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "when, where, how.",
+   "candidates": [
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, beautiful wallpaper, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181407,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_small.jpg",
+     "page": "https://pixabay.com/videos/id-181407/",
+     "tags": "candles, lights, beautiful wallpaper, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 3019,
+     "url": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_small.jpg",
+     "page": "https://pixabay.com/videos/id-3019/",
+     "tags": "clock, camera quick, passage of time, time, hour, schedule, minutes, hands, watches, whatch, man, sphere, beautiful wallpaper, time-lapse, belt, leather, background, seconds, stopwatch, chronograph, backstitch, crocodile, stitches, aluminium, bright, luxury, luxurious, needles, handles, titanium, white gold, crono, skin, buckle, fleeting, transience, such time lapse, timing, minute, date, career, machinery, precision, calendar, deadlines, blur, plot, texture, numbers, brand, logo, buttons, quartz, swiss",
+     "duration": 10,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141487,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_small.jpg",
+     "page": "https://pixabay.com/videos/id-141487/",
+     "tags": "new year, 2023, celebration, calendar, date, time, sea, beach, holiday, wave, writing, sign, idea, note, to draw, trace, tourism, trip, island, tropical, ocean",
+     "duration": 26,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141489,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_small.jpg",
+     "page": "https://pixabay.com/videos/id-141489/",
+     "tags": "new year, christmas, celebration, calendar, year, new, sea, beach, holiday, wave, annual, writing, sign, feelings, idea, note, to draw, trace, tourism, trip, island, tropical, view, ocean",
+     "duration": 54,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 102135,
+     "url": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_small.jpg",
+     "page": "https://pixabay.com/videos/id-102135/",
+     "tags": "year, 2021, model, calendar, love",
+     "duration": 23,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 265467,
+     "url": "https://cdn.pixabay.com/video/2025/03/18/265467_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/18/265467_small.jpg",
+     "page": "https://pixabay.com/videos/id-265467/",
+     "tags": "sapa, taybac, vietnam, noodles, may, sapa vietnam, calendar",
+     "duration": 6,
+     "query": "calendar"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "The distraction disappeared, even though the task wasn't done.",
+   "candidates": [
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 223363,
+     "url": "https://cdn.pixabay.com/video/2024/07/26/223363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/26/223363_small.jpg",
+     "page": "https://pixabay.com/videos/id-223363/",
+     "tags": "woman, beach, relaxation, water, travel, alone, holiday, outdoors, nature",
+     "duration": 11,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 161062,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_small.jpg",
+     "page": "https://pixabay.com/videos/id-161062/",
+     "tags": "woman, headphones, earphones, music, listen, relax, park",
+     "duration": 10,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 140022,
+     "url": "https://cdn.pixabay.com/video/2022/11/22/140022-774032939_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/22/140022-774032939_small.jpg",
+     "page": "https://pixabay.com/videos/id-140022/",
+     "tags": "woman, model, swimming pool, girl, pool, summer, relaxation, holiday",
+     "duration": 6,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 233390,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233390_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233390_small.jpg",
+     "page": "https://pixabay.com/videos/id-233390/",
+     "tags": "woman, female, room, phone, candle, pose, modeling, bed, tired, relax, resting, night",
+     "duration": 13,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 184541,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_small.jpg",
+     "page": "https://pixabay.com/videos/id-184541/",
+     "tags": "woman, park, sitting, relaxing, happy, sunlight, fashion, countryside, person, outdoors, garden",
+     "duration": 13,
+     "query": "woman relaxed"
+    },
+    {
+     "pixabay_id": 129425,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129425-744370606_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129425-744370606_small.jpg",
+     "page": "https://pixabay.com/videos/id-129425/",
+     "tags": "meditation, spiritual, yoga, woman, concentration, exercise, healthy, lifestyle, nature, outdoor, people, person, prayer, relax, relaxation, silhouette, sky, sport, student, training",
+     "duration": 11,
+     "query": "woman relaxed"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "So tonight, don't finish everything.",
+   "candidates": [
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 3134,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3134-166335905_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3134-166335905_small.jpg",
+     "page": "https://pixabay.com/videos/id-3134/",
+     "tags": "city, night, lights, urban, cityscape, skyline, architecture, skyscraper, downtown, business, metropolitan, evening, america, dark, live wallpaper",
+     "duration": 54,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 225661,
+     "url": "https://cdn.pixabay.com/video/2024/08/09/225661_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/09/225661_small.jpg",
+     "page": "https://pixabay.com/videos/id-225661/",
+     "tags": "lake, fireworks, night view, city, lake biwa, summer events, colorful, japan",
+     "duration": 37,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 21118,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21118/",
+     "tags": "seoul, traffic, cars, city, speed, lights, south korea, night, outdoor, street, live wallpaper",
+     "duration": 6,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 21985,
+     "url": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_small.jpg",
+     "page": "https://pixabay.com/videos/id-21985/",
+     "tags": "seoul, city, streets, road, night view, traffic, cars, transport, buildings, time-lapse, congestion, live wallpaper",
+     "duration": 14,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 180386,
+     "url": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_small.jpg",
+     "page": "https://pixabay.com/videos/id-180386/",
+     "tags": "intersection, cars, pedestrian, night, urban, osaka, japan",
+     "duration": 31,
+     "query": "night city"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "Just write the plan.",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 185092,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_small.jpg",
+     "page": "https://pixabay.com/videos/id-185092/",
+     "tags": "book, wind, literature, education, writing, reading, poetry, novel, author",
+     "duration": 19,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 117,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_small.jpg",
+     "page": "https://pixabay.com/videos/id-117/",
+     "tags": "notebook, laptop, blur, home office, typing, writing, programming, developer, programmer, fingers, hands, mobile, electronics, device",
+     "duration": 13,
+     "query": "writing notebook night"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "writing notebook night"
+    }
+   ]
+  }
+ ]
+}

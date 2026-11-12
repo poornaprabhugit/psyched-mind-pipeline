@@ -1,0 +1,863 @@
+{
+ "id": "x01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You'd choose more pain.",
+   "candidates": [
+    {
+     "pixabay_id": 22704,
+     "url": "https://cdn.pixabay.com/video/2019/04/09/22704-329952760_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/09/22704-329952760_small.jpg",
+     "page": "https://pixabay.com/videos/id-22704/",
+     "tags": "doctor, tablet, compter, online, research, man, treatment, health, diagnosis, hospital, therapy, medicine, healthcare, disease, medical, clinic, healing, pharma, ill, recipe, pharmacy, recreation, stethoscope, pain",
+     "duration": 24,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 115473,
+     "url": "https://cdn.pixabay.com/video/2022/04/29/115473-704747962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/29/115473-704747962_small.jpg",
+     "page": "https://pixabay.com/videos/id-115473/",
+     "tags": "abandoned, grass, nature, rubble, destroyed, daylight, house, destruction, decay, war, gone, pain, suffering, peaceful, horror, 4k",
+     "duration": 59,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 83875,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83875-584870588_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83875-584870588_small.jpg",
+     "page": "https://pixabay.com/videos/id-83875/",
+     "tags": "woman, office, notebook, overworked, pain, people, person, preparation suffer, problem, professional, sad, sitting, stress, stressed, success, technology, tired, trouble, work, workplace, lifestyle",
+     "duration": 15,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 105686,
+     "url": "https://cdn.pixabay.com/video/2022/01/26/105686-670934807_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/26/105686-670934807_small.jpg",
+     "page": "https://pixabay.com/videos/id-105686/",
+     "tags": "tablet, glass, pain, disease, healthy, pharmacy, doctor, prescription, fall, acidic, soda, calcium, object",
+     "duration": 46,
+     "query": "man grimace pain"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man grimace pain"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Here's the strange reason.",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Scientists had people hold one hand in painfully cold water for a minute.",
+   "candidates": [
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 27803,
+     "url": "https://cdn.pixabay.com/video/2019/10/11/27803-365891137_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/11/27803-365891137_small.jpg",
+     "page": "https://pixabay.com/videos/id-27803/",
+     "tags": "yellow, liquid, paint, space, motion paint, macro, abstract, slow, ink, ink in water, fluid, flow, water, arts, acrylic, watercolor, beautiful wallpaper, parallax, lines, forms, backdrop, background, colors, live wallpaper",
+     "duration": 24,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 27539,
+     "url": "https://cdn.pixabay.com/video/2019/10/04/27539-364430966_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/04/27539-364430966_small.jpg",
+     "page": "https://pixabay.com/videos/id-27539/",
+     "tags": "running, bridge, mountains, men running, running in morning, running in winters, running on old bridge, drone view running, running aerial view, men running in morning, monsoon running, men running in hills",
+     "duration": 8,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 111280,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_small.jpg",
+     "page": "https://pixabay.com/videos/id-111280/",
+     "tags": "antique book, book opening, book scrolling, books, candlelight, compass, gold ring in hand",
+     "duration": 12,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 120522,
+     "url": "https://cdn.pixabay.com/video/2022/06/16/120522-721287010_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/16/120522-721287010_small.jpg",
+     "page": "https://pixabay.com/videos/id-120522/",
+     "tags": "golden retriever, dog, animal, water, playing in the water, canine, pet, swimming, outdoors",
+     "duration": 16,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 181541,
+     "url": "https://cdn.pixabay.com/video/2023/09/21/181541-866914085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/21/181541-866914085_small.jpg",
+     "page": "https://pixabay.com/videos/id-181541/",
+     "tags": "water, water tap, drinking water, fountain, water pipe, water splashes, slow motion, people in the background",
+     "duration": 31,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 33742,
+     "url": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_small.jpg",
+     "page": "https://pixabay.com/videos/id-33742/",
+     "tags": "wash your hands, water, soap, water tap, hygiene, hand, clean, hand washing, bathroom sink, coronavirus",
+     "duration": 32,
+     "query": "hand in water"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Then again: the same minute,",
+   "candidates": [
+    {
+     "pixabay_id": 68062,
+     "url": "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_small.jpg",
+     "page": "https://pixabay.com/videos/id-68062/",
+     "tags": "clock, time, watch, dial, minutes, pointer, hour, antique, hours, alarm, retro, stopwatch, seconds",
+     "duration": 20,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 160342,
+     "url": "https://cdn.pixabay.com/video/2023/04/24/160342-820741249_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/24/160342-820741249_small.jpg",
+     "page": "https://pixabay.com/videos/id-160342/",
+     "tags": "time, minute, sea, wave, idea, concept, relaxation, second, stopwatch, date, sky, beautiful wallpaper, background",
+     "duration": 57,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 224421,
+     "url": "https://cdn.pixabay.com/video/2024/08/02/224421_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/02/224421_small.jpg",
+     "page": "https://pixabay.com/videos/id-224421/",
+     "tags": "alarm, time, to wake up, morning, bell, pillow, bed, room, red, minute, second, stopwatch, retro, nostalgia, analogue, chronograph, work, to go, sound, to sleep, sleep, tired, dream, have a rest",
+     "duration": 59,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 3019,
+     "url": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_small.jpg",
+     "page": "https://pixabay.com/videos/id-3019/",
+     "tags": "clock, camera quick, passage of time, time, hour, schedule, minutes, hands, watches, whatch, man, sphere, beautiful wallpaper, time-lapse, belt, leather, background, seconds, stopwatch, chronograph, backstitch, crocodile, stitches, aluminium, bright, luxury, luxurious, needles, handles, titanium, white gold, crono, skin, buckle, fleeting, transience, such time lapse, timing, minute, date, career, machinery, precision, calendar, deadlines, blur, plot, texture, numbers, brand, logo, buttons, quartz, swiss",
+     "duration": 10,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84842,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84842-586995573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84842-586995573_small.jpg",
+     "page": "https://pixabay.com/videos/id-84842/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 30,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84843,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84843-586995578_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84843-586995578_small.jpg",
+     "page": "https://pixabay.com/videos/id-84843/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 16,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84844,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84844-586995581_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84844-586995581_small.jpg",
+     "page": "https://pixabay.com/videos/id-84844/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 32,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 224378,
+     "url": "https://cdn.pixabay.com/video/2024/08/02/224378_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/02/224378_small.jpg",
+     "page": "https://pixabay.com/videos/id-224378/",
+     "tags": "time, alarm, health, life, minute, second, fear, stopwatch, retro, date, analogue, conceptual, rhythm, pulse",
+     "duration": 59,
+     "query": "stopwatch"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "plus thirty seconds while the water warmed slightly.",
+   "candidates": [
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 23955,
+     "url": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_small.jpg",
+     "page": "https://pixabay.com/videos/id-23955/",
+     "tags": "tea, kettle, hot, pour, glass, drink, liquid, pouring, water, natural",
+     "duration": 24,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 95,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/95-135735410_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/95-135735410_small.jpg",
+     "page": "https://pixabay.com/videos/id-95/",
+     "tags": "drink, water, glass, pouring, refreshment, refreshing, reflection, liquid, full, drinking, thirst, table, dishes, transparent, clear, fresh",
+     "duration": 16,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 8253,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8253-207598596_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8253-207598596_small.jpg",
+     "page": "https://pixabay.com/videos/id-8253/",
+     "tags": "water, pouring, glass, liquid, thirst, thirsty, clean, blue, clear, drink, fresh, pour, wet, transparent, purity, flow",
+     "duration": 14,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 2290,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2290-157183576_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2290-157183576_small.jpg",
+     "page": "https://pixabay.com/videos/id-2290/",
+     "tags": "lemonade, pour, liquid, glass, drink, freshness, pouring, juice, healthy, summer, refreshment, water, soda, beverage, cocktail, lemon, food, restaurant, party, tasty, alcoholic, motion",
+     "duration": 16,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 4313,
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4313-178218570_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/08/4313-178218570_small.jpg",
+     "page": "https://pixabay.com/videos/id-4313/",
+     "tags": "green tea, tea leafs, beverage, hot, cup, pouring tea, water, drinking",
+     "duration": 32,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 25174,
+     "url": "https://cdn.pixabay.com/video/2019/07/12/25174-348110791_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/12/25174-348110791_small.jpg",
+     "page": "https://pixabay.com/videos/id-25174/",
+     "tags": "glass, drink, liquid, pouring, water, natural, relax, bubbles, bubble",
+     "duration": 27,
+     "query": "pouring water"
+    },
+    {
+     "pixabay_id": 34013,
+     "url": "https://cdn.pixabay.com/video/2020/03/20/34013-400217355_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/20/34013-400217355_small.jpg",
+     "page": "https://pixabay.com/videos/id-34013/",
+     "tags": "rain, raining, pouring, wet, water, cloud, thunder, lightning, wash",
+     "duration": 11,
+     "query": "pouring water"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Most chose to repeat the longer one.",
+   "candidates": [
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 19600,
+     "url": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_small.jpg",
+     "page": "https://pixabay.com/videos/id-19600/",
+     "tags": "chess, chess board, strategy, play, board game, chess pieces, think, challenge, game board, chess game, king, springer, tower, runners, leadership, decisions, people, hands",
+     "duration": 6,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 368039,
+     "url": "https://cdn.pixabay.com/video/2026/08/02/368039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/02/368039_small.jpg",
+     "page": "https://pixabay.com/videos/id-368039/",
+     "tags": "bird, red-flanked bluetail, scalpel, raising children, japan",
+     "duration": 10,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 48968,
+     "url": "https://cdn.pixabay.com/video/2020/09/03/48968-459186304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/03/48968-459186304_small.jpg",
+     "page": "https://pixabay.com/videos/id-48968/",
+     "tags": "barber, barbershop, hairstyle, hand, human hand, man, males, lifestyles, people, skill, work, beauty, care, hair, cutting, stylist, hairdresser, barber shop, slow",
+     "duration": 8,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 225519,
+     "url": "https://cdn.pixabay.com/video/2024/08/08/225519_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/08/225519_small.jpg",
+     "page": "https://pixabay.com/videos/id-225519/",
+     "tags": "cows, cattle raising, salamanca, villarino, framontanos, water, pond, nature, animals",
+     "duration": 10,
+     "query": "people raising hands"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Your brain doesn't store the whole experience.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "It keeps the worst moment",
+   "candidates": [
+    {
+     "pixabay_id": 61299,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61299-498228517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61299-498228517_small.jpg",
+     "page": "https://pixabay.com/videos/id-61299/",
+     "tags": "man, angry, stress, depression, anxiety, male, model, human, portrait, expression, adult, face, person",
+     "duration": 16,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 61290,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61290-498228525_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61290-498228525_small.jpg",
+     "page": "https://pixabay.com/videos/id-61290/",
+     "tags": "man, adult, face, person, psychology, emotions, male, model, human, expression, stress, beard, mustache",
+     "duration": 30,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 42854,
+     "url": "https://cdn.pixabay.com/video/2020/06/22/42854-433896396_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/22/42854-433896396_small.jpg",
+     "page": "https://pixabay.com/videos/id-42854/",
+     "tags": "racism, conflict, people, argument, aggressive, aggression, angry, emotion, emotional, expression, face, facial, fight, gesture, mad, male, man, race, stress, together, white man, young",
+     "duration": 20,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 61300,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61300-498228508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61300-498228508_small.jpg",
+     "page": "https://pixabay.com/videos/id-61300/",
+     "tags": "man, angry, stress, person, depression, anxiety, male, model, human, portrait, expression, adult, face, emotions",
+     "duration": 29,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 61294,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61294-498228514_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61294-498228514_small.jpg",
+     "page": "https://pixabay.com/videos/id-61294/",
+     "tags": "man, angry, pissed off, anger, stress, depression, male, model, pose, human, portrait, expression, adult, face, person",
+     "duration": 58,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 107264,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107264-678173498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107264-678173498_small.jpg",
+     "page": "https://pixabay.com/videos/id-107264/",
+     "tags": "anxiety, stress, depression, sad, alone, sadness, bills, money, rent, sue, dough, lost, serious, angry, stressed, headache, depressed, man, checks, sweater, bedroom, man worried, man with anxiety, no money, cash",
+     "duration": 8,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 42940,
+     "url": "https://cdn.pixabay.com/video/2020/06/23/42940-434300971_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/23/42940-434300971_small.jpg",
+     "page": "https://pixabay.com/videos/id-42940/",
+     "tags": "racism, black, bully, communication, connection, discrimination, diversity, ethnicities, harassment, human, hurt, man, meeting, mixed, person, race, sad, young, depression, unhappy, stress",
+     "duration": 10,
+     "query": "man stressed"
+    },
+    {
+     "pixabay_id": 42855,
+     "url": "https://cdn.pixabay.com/video/2020/06/22/42855-433955690_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/22/42855-433955690_small.jpg",
+     "page": "https://pixabay.com/videos/id-42855/",
+     "tags": "bully, communication, people, racism, black, connection, discrimination, diversity, ethnicities, friends, human, hurt, man, meeting, mixed, person, race, sad, woman, young, unhappy, stress",
+     "duration": 15,
+     "query": "man stressed"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "and the ending.",
+   "candidates": [
+    {
+     "pixabay_id": 140111,
+     "url": "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_small.jpg",
+     "page": "https://pixabay.com/videos/id-140111/",
+     "tags": "sea, ocean, seagulls, birds, sunset, dusk, beach, paradise, flight, nature",
+     "duration": 20,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 153976,
+     "url": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_small.jpg",
+     "page": "https://pixabay.com/videos/id-153976/",
+     "tags": "sunset, sea, sun, evening atmosphere, nature, landscape",
+     "duration": 21,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 201308,
+     "url": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_small.jpg",
+     "page": "https://pixabay.com/videos/id-201308/",
+     "tags": "beach, ocean, sunset, sea, nature, sky, sun, sunrise, summer, outdoors",
+     "duration": 59,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 138588,
+     "url": "https://cdn.pixabay.com/video/2022/11/11/138588-770315514_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/11/138588-770315514_small.jpg",
+     "page": "https://pixabay.com/videos/id-138588/",
+     "tags": "sea, ocean, beach, waves, sun, dusk, sunset, nature, rest, meditation",
+     "duration": 29,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 1844,
+     "url": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_small.jpg",
+     "page": "https://pixabay.com/videos/id-1844/",
+     "tags": "sunrise, sunset, weather, sky, clouds, twilight, atmosphere, timelapse",
+     "duration": 28,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 206272,
+     "url": "https://cdn.pixabay.com/video/2024/03/30/206272_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/30/206272_small.jpg",
+     "page": "https://pixabay.com/videos/id-206272/",
+     "tags": "beach, sunset, sky, sea, dusk, ocean, sun, twilight, horizon, water, silhouette, seascape, scenic, boat, clouds, orange, nature",
+     "duration": 35,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 59291,
+     "url": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_small.jpg",
+     "page": "https://pixabay.com/videos/id-59291/",
+     "tags": "mountains, fog, clouds, sunset, sunrise, forest, vietnam",
+     "duration": 19,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 22183,
+     "url": "https://cdn.pixabay.com/video/2019/03/21/22183-712840599_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/21/22183-712840599_small.jpg",
+     "page": "https://pixabay.com/videos/id-22183/",
+     "tags": "waves, water, sea, ocean, landscape, nature, sunset, coast",
+     "duration": 31,
+     "query": "sunset"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "So always end on a high, for others and yourself.",
+   "candidates": [
+    {
+     "pixabay_id": 116937,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_small.jpg",
+     "page": "https://pixabay.com/videos/id-116937/",
+     "tags": "fun, people, young, party, friends, group, friendship, lifestyle, students, celebration, happy, having, birthday, alcohol, college, diverse, man, woman, home, together, beer, leisure, laughing, vietnam, khmer",
+     "duration": 19,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 363873,
+     "url": "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/13/363873_small.jpg",
+     "page": "https://pixabay.com/videos/id-363873/",
+     "tags": "motivation, motivational, inspiration, friends",
+     "duration": 6,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 202134,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_small.jpg",
+     "page": "https://pixabay.com/videos/id-202134/",
+     "tags": "people, laptop, team, friend, sitting, grass",
+     "duration": 17,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 32938,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_small.jpg",
+     "page": "https://pixabay.com/videos/id-32938/",
+     "tags": "dance, celebrate, fun, celebration, happy, dancing, girl, festive, colorful, laughing, young, people, person",
+     "duration": 34,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 218795,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218795_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218795_small.jpg",
+     "page": "https://pixabay.com/videos/id-218795/",
+     "tags": "kids running, fun, happy, nature, laughing, smiling, ecuador",
+     "duration": 23,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, water, animal, pet, friend, nature",
+     "duration": 10,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 132355,
+     "url": "https://cdn.pixabay.com/video/2022/09/24/132355-753435444_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/24/132355-753435444_small.jpg",
+     "page": "https://pixabay.com/videos/id-132355/",
+     "tags": "spitz, pet, dog, friend, morning, animal, muzzle, wool",
+     "duration": 20,
+     "query": "friends laughing"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "A better ending is why you'd choose more pain.",
+   "candidates": [
+    {
+     "pixabay_id": 85303,
+     "url": "https://cdn.pixabay.com/video/2021/08/16/85303-590730574_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/16/85303-590730574_small.jpg",
+     "page": "https://pixabay.com/videos/id-85303/",
+     "tags": "woman, model, pier, sea, beach, young, girl, summer, vacation, female, person, smile, walk, blonde, glasses, sunset, laguna, venice, panorama",
+     "duration": 22,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 85872,
+     "url": "https://cdn.pixabay.com/video/2021/08/21/85872-592491504_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/21/85872-592491504_small.jpg",
+     "page": "https://pixabay.com/videos/id-85872/",
+     "tags": "woman, girl, smile, sunset, sea, summer, ocean, beach, sun, happy, young, sand, vacation, female, person, wooden, dawn, panorama",
+     "duration": 12,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 85874,
+     "url": "https://cdn.pixabay.com/video/2021/08/21/85874-592491492_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/21/85874-592491492_small.jpg",
+     "page": "https://pixabay.com/videos/id-85874/",
+     "tags": "woman, girl, smile, sunset, sea, summer, ocean, beach, sun, happy, young, sand, vacation, female, person, wooden, dawn, panorama",
+     "duration": 15,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 85875,
+     "url": "https://cdn.pixabay.com/video/2021/08/21/85875-592491487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/21/85875-592491487_small.jpg",
+     "page": "https://pixabay.com/videos/id-85875/",
+     "tags": "woman, girl, smile, sunset, sea, summer, ocean, beach, sun, happy, young, sand, vacation, female, person, wooden, dawn, panorama",
+     "duration": 20,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 38909,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_small.jpg",
+     "page": "https://pixabay.com/videos/id-38909/",
+     "tags": "woman, sunset, nature, sunrise, wind, hair",
+     "duration": 29,
+     "query": "woman smiling sunset"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling sunset"
+    }
+   ]
+  }
+ ]
+}
