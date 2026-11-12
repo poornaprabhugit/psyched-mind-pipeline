@@ -1,0 +1,212 @@
+[32m2026-11-12 19:49:04.654[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36mload_config[0m:[36m571[0m - [1mload config from file: /home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/mpt/config.toml[0m
+[32m2026-11-12 19:49:04.658[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36m<module>[0m:[36m729[0m - [1mMoneyPrinterTurbo v1.3.10[0m
+[32m2026-11-12 19:49:04[0m | [1mINFO[0m | "./main.py:7":[34m <module>[0m - [1mstart server, docs: http://127.0.0.1:8080/docs[0m
+[32m2026-11-12 19:49:06[0m | [1mINFO[0m | "./app/asgi.py:183":[34m configure_cors[0m - [1mbrowser cross-origin API access is disabled; set CORS_ALLOWED_ORIGINS to enable trusted origins[0m
+[32m2026-11-12 19:49:06[0m | [1mINFO[0m | "./app/asgi.py:26":[34m application_lifespan[0m - [1mstartup event[0m
+[32m2026-11-12 19:49:06[0m | [33m[1mWARNING[0m | "./app/asgi.py:30":[34m application_lifespan[0m - [33m[1mAPI key authentication is disabled; keep the API on a trusted network[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/controllers/manager/base_manager.py:57":[34m add_task[0m - [1madd task: start, current_tasks: 0[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/task.py:1562":[34m _run_pipeline[0m - [1mstart task: 2baada99-ea48-4449-aa7c-250091909d4a, stop_at: video[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=preparing, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:29[0m | [32m[1mSUCCESS[0m | "./app/controllers/v1/video.py:277":[34m create_task[0m - [32m[1mTask created: {
+    "task_id": "2baada99-ea48-4449-aa7c-250091909d4a",
+    "request_id": "fba93128-7188-4a2c-9489-4da3005ffbb4",
+    "params": {
+        "video_subject": "Pain of paying: cards make you spend more",
+        "video_script": "Your card is quietly making you pay more. Here's the proof. Researchers auctioned sold-out basketball tickets to business students. Half had to pay in cash. Half could pay by card. The card group bid more than double, for the exact same tickets. Handing over cash hurts, and that little pain makes you careful. A tap doesn't hurt at all. That's why your card is quietly making you pay more.",
+        "video_terms": [
+            "psychology"
+        ],
+        "video_aspect": "9:16",
+        "video_fit_mode": "cover",
+        "image_motion": "zoom",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": null,
+        "video_clip_duration": 3,
+        "video_clip_speed": 1.0,
+        "match_materials_to_script": false,
+        "video_count": 1,
+        "video_source": "local",
+        "video_materials": [
+            {
+                "provider": "local",
+                "url": "x03_01.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_02.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_03.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_04.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_05.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_06.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_07.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_08.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_09.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_10.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_11.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_12.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "x03_13.mp4",
+                "duration": 0,
+                "source_info": null
+            }
+        ],
+        "custom_audio_file": null,
+        "video_language": "",
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "voice_volume": 1.4,
+        "voice_rate": 1.1,
+        "bgm_type": "random",
+        "bgm_file": "",
+        "bgm_volume": 0.2,
+        "video_music_prompt": "",
+        "sonilo_bgm_prompt": "",
+        "subtitle_enabled": true,
+        "subtitle_position": "center",
+        "subtitle_display_mode": "word_by_word",
+        "subtitle_animation": "pop_spring",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFE600",
+        "text_background_color": false,
+        "rounded_subtitle_background": false,
+        "font_size": 80,
+        "stroke_color": "#000000",
+        "stroke_width": 4.0,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "video_script_prompt": "",
+        "custom_system_prompt": ""
+    }
+}[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/utils/utils.py:243":[34m check_ffmpeg_ready[0m - [1mffmpeg check passed, using: /usr/bin/ffmpeg[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=script, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/task.py:365":[34m generate_script[0m - [1m
+
+## generating video script[0m
+[32m2026-11-12 19:49:29[0m | [34m[1mDEBUG[0m | "./app/services/task.py:376":[34m generate_script[0m - [34m[1mvideo script: 
+Your card is quietly making you pay more. Here's the proof. Researchers auctioned sold-out basketball tickets to business students. Half had to pay in cash. Half could pay by card. The card group bid more than double, for the exact same tickets. Handing over cash hurts, and that little pain makes you careful. A tap doesn't hurt at all. That's why your card is quietly making you pay more.[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=terms, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=audio, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/task.py:578":[34m generate_audio[0m - [1m
+
+## generating audio[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/task.py:606":[34m generate_audio[0m - [1mno custom audio file provided, using TTS to generate audio.[0m
+[32m2026-11-12 19:49:29[0m | [1mINFO[0m | "./app/services/voice.py:1599":[34m azure_tts_v1[0m - [1mstart, voice name: en-US-ChristopherNeural, try: 1[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/voice.py:1643":[34m azure_tts_v1[0m - [1mcompleted, output file: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/audio.mp3[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=subtitle, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/task.py:663":[34m generate_subtitle[0m - [1m
+
+## generating subtitle[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/task.py:669":[34m generate_subtitle[0m - [1m
+
+## generating subtitle, provider: edge[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/voice.py:3577":[34m _write_subtitle_items[0m - [1mcompleted, subtitle file created: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/.subtitle-po177h8x.srt, duration: 25.841[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=materials, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:41[0m | [1mINFO[0m | "./app/services/task.py:739":[34m get_video_materials[0m - [1m
+
+## preprocess local materials[0m
+[32m2026-11-12 19:49:45[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=rendering, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-12 19:49:45[0m | [1mINFO[0m | "./app/services/task.py:1058":[34m generate_final_videos[0m - [1m
+
+## combining video: 1 => ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/combined-1.mp4[0m
+[32m2026-11-12 19:49:45[0m | [1mINFO[0m | "./app/services/video.py:1007":[34m combine_videos[0m - [1maudio duration: 26.64 seconds[0m
+[32m2026-11-12 19:49:45[0m | [1mINFO[0m | "./app/services/video.py:1008":[34m combine_videos[0m - [1mmaximum clip duration: 3 seconds[0m
+[32m2026-11-12 19:49:45[0m | [1mINFO[0m | "./app/services/video.py:1010":[34m combine_videos[0m - [1mrequired video duration: 26.74 seconds (audio duration + 0.10s safety margin)[0m
+[32m2026-11-12 19:49:49[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1108":[34m combine_videos[0m - [34m[1mtotal subclipped items: 88[0m
+[32m2026-11-12 19:49:49[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 1: 1920x1080, source: x03_01.mp4[0m
+[32m2026-11-12 19:49:49[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 2: 2560x1440, source: x03_02.mp4[0m
+[32m2026-11-12 19:50:00[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 1: 3.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:11[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 3: 720x1280, source: x03_03.mp4[0m
+[32m2026-11-12 19:50:11[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 2: 6.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:11[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 720x1280, ratio: 0.56, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:16[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 4: 2560x1440, source: x03_04.mp4[0m
+[32m2026-11-12 19:50:16[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 3: 9.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:16[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:28[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 5: 2160x4096, source: x03_05.mp4[0m
+[32m2026-11-12 19:50:28[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 4: 12.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:28[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2160x4096, ratio: 0.53, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:40[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 6: 1920x1080, source: x03_06.mp4[0m
+[32m2026-11-12 19:50:40[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 5: 15.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:40[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:50:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 7: 2560x1440, source: x03_07.mp4[0m
+[32m2026-11-12 19:50:51[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 6: 18.0 of 26.7s covered[0m
+[32m2026-11-12 19:50:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:51:01[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 8: 1920x1080, source: x03_08.mp4[0m
+[32m2026-11-12 19:51:01[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 7: 21.0 of 26.7s covered[0m
+[32m2026-11-12 19:51:01[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:51:11[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 9: 3840x2160, source: x03_09.mp4[0m
+[32m2026-11-12 19:51:11[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 8: 24.0 of 26.7s covered[0m
+[32m2026-11-12 19:51:12[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-12 19:51:26[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 9: 27.0 of 26.7s covered[0m
+[32m2026-11-12 19:51:26[0m | [1mINFO[0m | "./app/services/video.py:1295":[34m combine_videos[0m - [1mstarting clip merging process[0m
+[32m2026-11-12 19:51:26[0m | [1mINFO[0m | "./app/services/video.py:1303":[34m combine_videos[0m - [1mconcatenating 9 clips with ffmpeg[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1325":[34m combine_videos[0m - [1mvideo combining completed[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/task.py:1143":[34m generate_final_videos[0m - [1m
+
+## generating video: 1 => ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/final-1.mp4[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1653":[34m generate_video[0m - [1mgenerating video: 1080 x 1920[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1654":[34m generate_video[0m - [1m  ① video: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/combined-1.mp4[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1655":[34m generate_video[0m - [1m  ② audio: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/audio.mp3[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1656":[34m generate_video[0m - [1m  ③ subtitle: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/subtitle.srt[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1657":[34m generate_video[0m - [1m  ④ output: ./storage/tasks/2baada99-ea48-4449-aa7c-250091909d4a/final-1.mp4[0m
+[32m2026-11-12 19:51:55[0m | [1mINFO[0m | "./app/services/video.py:1677":[34m generate_video[0m - [1m  ⑤ font: ./resource/fonts/MicrosoftYaHeiBold.ttc[0m
+[32m2026-11-12 19:52:25[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=30s[0m
+[32m2026-11-12 19:52:38[0m | [32m[1mSUCCESS[0m | "./app/services/task.py:1920":[34m _run_pipeline[0m - [32m[1mtask 2baada99-ea48-4449-aa7c-250091909d4a finished, generated 1 videos.[0m
