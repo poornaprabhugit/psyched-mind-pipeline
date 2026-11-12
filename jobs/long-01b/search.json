@@ -1,0 +1,116 @@
+{
+ "videos": [
+  {
+   "id": "N0",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Stick around for number six: a small change that helped people save almost four times more.",
+     "queries": [
+      "piggy bank coins",
+      "saving money jar",
+      "coins stack growing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N1",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Brain scans point the same way. When people saw prices that felt too high, a brain region linked to pain and disgust became more active.",
+     "queries": [
+      "brain scan",
+      "mri scan",
+      "doctor brain scan"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "It even works with numbers that are obviously meaningless. People who first spun a wheel of fortune gave higher or lower estimates depending on where the wheel stopped.",
+     "queries": [
+      "wheel of fortune",
+      "roulette wheel",
+      "spinning wheel game"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Once you notice decoys, you see them everywhere: the very expensive wine on a menu that makes the second most expensive bottle look reasonable.",
+     "queries": [
+      "wine list restaurant",
+      "wine bottles shelf",
+      "sommelier wine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "lines": [
+    {
+     "n": 1,
+     "text": "It also helps explain why someone might keep money in savings while paying high interest on a credit card. In their head, those are two separate jars.",
+     "queries": [
+      "credit card bill",
+      "glass jars money",
+      "woman calculator bills"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "The same thing happened with pens, and again when the researchers repeated the experiment.",
+     "queries": [
+      "pen writing",
+      "ballpoint pen",
+      "pens desk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N6",
+   "lines": [
+    {
+     "n": 1,
+     "text": "And it isn't just money. When choosing a snack for right now, most people pick chocolate. When choosing for next week, most pick fruit.",
+     "queries": [
+      "chocolate bar",
+      "fruit bowl",
+      "woman eating chocolate"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N7",
+   "lines": [
+    {
+     "n": 1,
+     "text": "A later study looked at more than one hundred countries. In most of them, people who had recently given money to charity were happier, in poorer and richer countries alike.",
+     "queries": [
+      "world map globe",
+      "charity donation",
+      "volunteers smiling"
+     ]
+    }
+   ]
+  }
+ ]
+}
