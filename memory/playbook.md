@@ -57,7 +57,7 @@ When our data contradicts a [Pro] rule, our data wins and the change is logged i
 1. **Hook (<3 s):** visual + words land together. Rework the whole idea if the hook is weak. Use strong concrete words (secret, banned, free, cheap, "you") and the yellow hook card on frame 1 [Ours].
 2. **Foreshadow (next 2–3 s):** say what the viewer gets by the end ("…and one trick to use it today").
 3. **But/then tension:** each line raises a question the next answers. No year/name dumps in the voiceover [Ours].
-4. **End on the high point:** the biggest twist or most useful line last, so the ending feels strong and rewatches/loops happen. Target "stayed to watch" ≥ 70%, retention as close to 90%+ as possible.
+4. **End on the high point:** the biggest twist or most useful line last, so the ending feels strong and rewatches/loops happen. Hoyos aims for 90%+ retention. Our working target: "stayed to watch" ≥ 70% (our own goal, not a YouTube number; we started at ~44%).
 
 **Edit.**
 - New visual every 1.5–3 s, each clip literally matching the line [Ours].
