@@ -80,7 +80,7 @@
     "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_large.mp4",
     "https://cdn.pixabay.com/video/2024/12/18/247343_large.mp4",
     "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_large.mp4",
-    "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_large.mp4",
+    "https://cdn.pixabay.com/video/2016/11/15/6391-191704480_large.mp4",
     "https://cdn.pixabay.com/video/2024/06/19/217302_large.mp4",
     "https://cdn.pixabay.com/video/2016/09/19/5320-183300233_large.mp4",
     "https://cdn.pixabay.com/video/2019/02/01/21117-315137086_large.mp4",
@@ -151,8 +151,8 @@
    "script": "Would you rather have a hundred dollars today, or a hundred and ten next week? Lots of people take the hundred today. But ask them: a hundred dollars in a year, or a hundred and ten in a year and a week? Now almost everyone waits the extra week. It's the same one-week wait for the same ten dollars. But when the reward is right now, your brain overvalues it. This is called present bias. Your brain treats your future self almost like a stranger. That's why saving feels so hard. Saving means giving something up now, for someone you've never met: future you. Two economists designed a program around this. Instead of asking employees to save more today, they asked them to commit to saving part of their future pay raises. Nothing was taken from today's paycheck, so present bias never kicked in. In the first company that tried it, average savings rates went from three and a half percent to almost fourteen percent in under four years. Same people, same incomes. The only change was when the decision hit. And the final study answers the question everyone asks: can money actually make you happier?",
    "hook_text": "6 \u00b7 Present bias",
    "clips": [
-    "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
     "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
     "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
     "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
     "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4",
@@ -209,5 +209,6 @@
   "font_size": 64,
   "bgm_file": "resource/songs/output005.mp3",
   "bgm_volume": 0.12
- }
+ },
+ "run": 2
 }
