@@ -1,0 +1,3 @@
+x03b L1: 8 candidates
+x03b L2: 8 candidates
+x03b L3: 8 candidates

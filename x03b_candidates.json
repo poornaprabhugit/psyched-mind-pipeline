@@ -1,0 +1,239 @@
+{
+ "id": "x03b",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Half could pay by card.",
+   "candidates": [
+    {
+     "pixabay_id": 209456,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209456_small.jpg",
+     "page": "https://pixabay.com/videos/id-209456/",
+     "tags": "card, payment, terminal, contactless, to pay, roses, flowers, crowd, purchase, sale, colorful, nature, florist",
+     "duration": 15,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 3593,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3593-172488287_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3593-172488287_small.jpg",
+     "page": "https://pixabay.com/videos/id-3593/",
+     "tags": "escalator, airport, terminal, moving, transport, technology, modern, walkway, perspective",
+     "duration": 20,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 23544,
+     "url": "https://cdn.pixabay.com/video/2019/05/12/23544-335833111_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/12/23544-335833111_small.jpg",
+     "page": "https://pixabay.com/videos/id-23544/",
+     "tags": "bridge, terminal, architecture, traffic, cargo, lights, city, container, evening, port, shipping, ship, sea, aeral",
+     "duration": 32,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 23232,
+     "url": "https://cdn.pixabay.com/video/2019/05/01/23232-333604632_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/01/23232-333604632_small.jpg",
+     "page": "https://pixabay.com/videos/id-23232/",
+     "tags": "transport, traffic, highway, road, transportation, city, travel, driving, vehicles, architecture, industry, logistic, bridge, port, container, terminal, cars, live wallpaper",
+     "duration": 26,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 23008,
+     "url": "https://cdn.pixabay.com/video/2019/04/23/23008-332257750_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/23/23008-332257750_small.jpg",
+     "page": "https://pixabay.com/videos/id-23008/",
+     "tags": "container terminal, harbor, container, cargo, port, export, shipping, terminal, industry, logistics, ship, transport, harbour, warehouse",
+     "duration": 20,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 141044,
+     "url": "https://cdn.pixabay.com/video/2022/11/30/141044-776768266_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/30/141044-776768266_small.jpg",
+     "page": "https://pixabay.com/videos/id-141044/",
+     "tags": "container, terminal, airport, ship, ocean, drone",
+     "duration": 20,
+     "query": "card payment terminal"
+    },
+    {
+     "pixabay_id": 29804,
+     "url": "https://cdn.pixabay.com/video/2019/12/04/29804-377520739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/04/29804-377520739_small.jpg",
+     "page": "https://pixabay.com/videos/id-29804/",
+     "tags": "bangkok, thailand, airport, aircraft, asia, aviation, terminal, travel",
+     "duration": 14,
+     "query": "card payment terminal"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "A tap doesn't hurt at all.",
+   "candidates": [
+    {
+     "pixabay_id": 233382,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233382_small.jpg",
+     "page": "https://pixabay.com/videos/id-233382/",
+     "tags": "smartphone, laptop, online, internet, technology, marketing, podcast, connection, business, e-learning, payment, education, shopping, e commerce, job",
+     "duration": 16,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 202987,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_small.jpg",
+     "page": "https://pixabay.com/videos/id-202987/",
+     "tags": "phone, smartphone, mobile, portable, screen, digital, communication, texting, business, work",
+     "duration": 15,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 142641,
+     "url": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_small.jpg",
+     "page": "https://pixabay.com/videos/id-142641/",
+     "tags": "man, phone, smartphone, mobile",
+     "duration": 8,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 736,
+     "url": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_small.jpg",
+     "page": "https://pixabay.com/videos/id-736/",
+     "tags": "iphone, smartphone, scrolling, mobile, device, technology, cellphone, smart phone, mobile device, mobile phones, digital technology, screen",
+     "duration": 14,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 204527,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204527-924780715_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204527-924780715_small.jpg",
+     "page": "https://pixabay.com/videos/id-204527/",
+     "tags": "smartphone, cellphone, text, message, woman, discuss, technology",
+     "duration": 8,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 211636,
+     "url": "https://cdn.pixabay.com/video/2024/05/12/211636_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/12/211636_small.jpg",
+     "page": "https://pixabay.com/videos/id-211636/",
+     "tags": "woman, smartphone, communication, mobile, internet, technology, digital",
+     "duration": 10,
+     "query": "smartphone payment"
+    },
+    {
+     "pixabay_id": 204421,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_small.jpg",
+     "page": "https://pixabay.com/videos/id-204421/",
+     "tags": "man, call, smartphone, anger, to speak, yell, discuss, unhappy",
+     "duration": 22,
+     "query": "smartphone payment"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Shopping spree",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, crowd, beautiful wallpaper, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 99388,
+     "url": "https://cdn.pixabay.com/video/2021/11/30/99388-653120182_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/30/99388-653120182_small.jpg",
+     "page": "https://pixabay.com/videos/id-99388/",
+     "tags": "trip, walk, adventure, mountain, forest, nature, path, to walk, sport, woman, human, girl, bag, wander, view, shack, hobby, freedom, autumn, winter, season, leaves",
+     "duration": 46,
+     "query": "woman shopping bags"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "woman shopping bags"
+    }
+   ]
+  }
+ ]
+}
