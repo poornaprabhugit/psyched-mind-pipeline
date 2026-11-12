@@ -1,0 +1,83 @@
+{
+ "id": "N2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "It even works with numbers that are obviously meaningless. People who first spun a wheel of fortune gave higher or lower estimates depending on where the wheel stopped.",
+   "candidates": [
+    {
+     "pixabay_id": 33324,
+     "url": "https://cdn.pixabay.com/video/2020/03/07/33324-397122049_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/07/33324-397122049_small.jpg",
+     "page": "https://pixabay.com/videos/id-33324/",
+     "tags": "wheel of fortune, lights, fair, party, night, illumination, fun, entertainment, architecture, leisure, pleasure, colorful, showmen, carousel, skyscraper, city, illuminated, walk",
+     "duration": 10,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 362422,
+     "url": "https://cdn.pixabay.com/video/2026/07/06/362422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/06/362422_small.jpg",
+     "page": "https://pixabay.com/videos/id-362422/",
+     "tags": "wheel of fortune, wheel, fare",
+     "duration": 5,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 27057,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_small.jpg",
+     "page": "https://pixabay.com/videos/id-27057/",
+     "tags": "ferris wheel, amusement park, fun, ride, wheel, fair, carnival, festival, high, park, color, beautiful wallpaper, round, big, circle, excitement, background, movement",
+     "duration": 34,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 86001,
+     "url": "https://cdn.pixabay.com/video/2021/08/22/86001-590762248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/22/86001-590762248_small.jpg",
+     "page": "https://pixabay.com/videos/id-86001/",
+     "tags": "bird, peacock, feathers, plumage, multicoloured, wheel, peacock wheel, dazzling, proudly, splendid",
+     "duration": 24,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 18386,
+     "url": "https://cdn.pixabay.com/video/2018/09/23/18386-291585298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/23/18386-291585298_small.jpg",
+     "page": "https://pixabay.com/videos/id-18386/",
+     "tags": "ferris wheel, architecture, cityscape, district, downtown, dusk, evening, financial district, landmark, tourism, tower, travel, square, live wallpaper",
+     "duration": 10,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 94003,
+     "url": "https://cdn.pixabay.com/video/2021/10/31/94003-641767657_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/31/94003-641767657_small.jpg",
+     "page": "https://pixabay.com/videos/id-94003/",
+     "tags": "water wheel, old, water mill, mill wheel, flour mill, grind, power generation, wood, wooden wheel, wheel, wooden construction, sawmill",
+     "duration": 20,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 72566,
+     "url": "https://cdn.pixabay.com/video/2021/04/29/72566-543910236_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/29/72566-543910236_small.jpg",
+     "page": "https://pixabay.com/videos/id-72566/",
+     "tags": "bike, beach, biker, mountain bike, e-bike, cycling, mountain biking, nature, sport, cyclists, mountains, ebike, corsican, summer, bosch, wheel, electrically, pedelec, sporty, landscape, live wallpaper",
+     "duration": 32,
+     "query": "wheel of fortune"
+    },
+    {
+     "pixabay_id": 94004,
+     "url": "https://cdn.pixabay.com/video/2021/10/31/94004-641767659_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/31/94004-641767659_small.jpg",
+     "page": "https://pixabay.com/videos/id-94004/",
+     "tags": "water wheel, old, water mill, mill wheel, flour mill, grind, power generation, wood, wooden wheel, wheel, wooden construction, sawmill",
+     "duration": 16,
+     "query": "wheel of fortune"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "N3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Once you notice decoys, you see them everywhere: the very expensive wine on a menu that makes the second most expensive bottle look reasonable.",
+   "candidates": [
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 910,
+     "url": "https://cdn.pixabay.com/video/2015/10/08/910-141888470_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/08/910-141888470_small.jpg",
+     "page": "https://pixabay.com/videos/id-910/",
+     "tags": "restaurant, meal, lunch, spain, traditional, food, table, plate, gourmet, eat, people, restaurant table, dish, menu, food and wine, persons, enjoying, 139718812",
+     "duration": 8,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 33244,
+     "url": "https://cdn.pixabay.com/video/2020/03/04/33244-396487914_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/04/33244-396487914_small.jpg",
+     "page": "https://pixabay.com/videos/id-33244/",
+     "tags": "marriage, candles, love, decoration, to have lunch, romantic, romance, celebration, vintage, flowers, table, vacation, restaurant, light, bride, wine, symbol, elegant, relationship",
+     "duration": 15,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 3708,
+     "url": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_small.jpg",
+     "page": "https://pixabay.com/videos/id-3708/",
+     "tags": "wine, red wine, red, celebration, bowl, glass of wine, red wine glass, uva, crystal, demijohn, party, celebrate, gift, toast, toasting, fun, vineyard, flavor, to fill, empty, friends, alcohol, alcoholic, alcoholism, stun, get drunk, hangover, happy hour, beverage, pub, drink, restaurant, bottle",
+     "duration": 23,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "wine list restaurant"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine list restaurant"
+    }
+   ]
+  }
+ ]
+}

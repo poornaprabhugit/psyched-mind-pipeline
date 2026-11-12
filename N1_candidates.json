@@ -1,0 +1,83 @@
+{
+ "id": "N1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Brain scans point the same way. When people saw prices that felt too high, a brain region linked to pain and disgust became more active.",
+   "candidates": [
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 3013,
+     "url": "https://cdn.pixabay.com/video/2016/05/04/3013-165457883_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/04/3013-165457883_small.jpg",
+     "page": "https://pixabay.com/videos/id-3013/",
+     "tags": "stereo, tuner, music, technology, sound, radio, audio, equipment, entertainment, volume, button, dial, player, electrical, system, panel, control, adjusting, knob, power, display, hand, fm, air, channel, electronics, scan, switch, man, playing, analogue, vintage, retro, 1970's, station, old, music player, style, broadcast, device, nostalgia, listen",
+     "duration": 24,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 26967,
+     "url": "https://cdn.pixabay.com/video/2019/09/17/26967-361107936_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/17/26967-361107936_small.jpg",
+     "page": "https://pixabay.com/videos/id-26967/",
+     "tags": "radio telescope, telescope, bluesky, sky, landscape, astronomy, atmosphere, radio, scanning, space, satellite, earth, phenomenon",
+     "duration": 25,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 26968,
+     "url": "https://cdn.pixabay.com/video/2019/09/17/26968-361107935_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/17/26968-361107935_small.jpg",
+     "page": "https://pixabay.com/videos/id-26968/",
+     "tags": "radio telescope, telescope, bluesky, sky, landscape, astronomy, atmosphere, radio, scanning, space, satellite, earth, phenomenon",
+     "duration": 26,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain scan"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain scan"
+    }
+   ]
+  }
+ ]
+}

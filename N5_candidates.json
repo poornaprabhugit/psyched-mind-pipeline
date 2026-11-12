@@ -1,0 +1,83 @@
+{
+ "id": "N5",
+ "lines": [
+  {
+   "n": 1,
+   "text": "The same thing happened with pens, and again when the researchers repeated the experiment.",
+   "candidates": [
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 107240,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107240-678130070_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107240-678130070_small.jpg",
+     "page": "https://pixabay.com/videos/id-107240/",
+     "tags": "writing, stale, ink, pen, poem, retro, calligraphy, inkwell",
+     "duration": 20,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 107243,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_small.jpg",
+     "page": "https://pixabay.com/videos/id-107243/",
+     "tags": "ink, pen, retro, nostalgic, writing, stale, candle, book",
+     "duration": 24,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 107242,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_small.jpg",
+     "page": "https://pixabay.com/videos/id-107242/",
+     "tags": "ink, pen, retro, nostalgia, typewriter, book, paris, antique, hand writing",
+     "duration": 9,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 131993,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131993-751915314_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131993-751915314_small.jpg",
+     "page": "https://pixabay.com/videos/id-131993/",
+     "tags": "to write, to study, task, job, issue, question, study, student, hand, ballpoint, pen",
+     "duration": 23,
+     "query": "pen writing"
+    },
+    {
+     "pixabay_id": 80,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/80-135733160_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/80-135733160_small.jpg",
+     "page": "https://pixabay.com/videos/id-80/",
+     "tags": "school, scribble, student, drawing, notepad, sketchbook, pupil, learning, pen, write, doodle",
+     "duration": 11,
+     "query": "pen writing"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "id": "N6",
+ "lines": [
+  {
+   "n": 1,
+   "text": "And it isn't just money. When choosing a snack for right now, most people pick chocolate. When choosing for next week, most pick fruit.",
+   "candidates": [
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 9741,
+     "url": "https://cdn.pixabay.com/video/2017/06/09/9741-221158551_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/09/9741-221158551_small.jpg",
+     "page": "https://pixabay.com/videos/id-9741/",
+     "tags": "clouds, home from a bar, house",
+     "duration": 12,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 348214,
+     "url": "https://cdn.pixabay.com/video/2026/04/22/348214_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/22/348214_small.jpg",
+     "page": "https://pixabay.com/videos/id-348214/",
+     "tags": "animal, nature, beautiful, bird, multicoloured, bar, forest",
+     "duration": 10,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 69546,
+     "url": "https://cdn.pixabay.com/video/2021/03/31/69546-533374239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/31/69546-533374239_small.jpg",
+     "page": "https://pixabay.com/videos/id-69546/",
+     "tags": "coffee, bar tender, coffee maker, grains, preparation",
+     "duration": 9,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 126334,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126334-735976704_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126334-735976704_small.jpg",
+     "page": "https://pixabay.com/videos/id-126334/",
+     "tags": "bar, boats, applause, cocktail, drink, feast, restaurant, woman",
+     "duration": 5,
+     "query": "chocolate bar"
+    },
+    {
+     "pixabay_id": 79912,
+     "url": "https://cdn.pixabay.com/video/2021/07/02/79912-570698384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/02/79912-570698384_small.jpg",
+     "page": "https://pixabay.com/videos/id-79912/",
+     "tags": "whiskey, drink, cocktail, ice, glass, bar, alcohol, cold, celebration, prost",
+     "duration": 33,
+     "query": "chocolate bar"
+    }
+   ]
+  }
+ ]
+}
