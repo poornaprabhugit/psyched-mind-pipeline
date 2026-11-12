@@ -1,0 +1,863 @@
+{
+ "id": "L6",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Would you rather have a hundred dollars today, or a hundred and ten next week?",
+   "candidates": [
+    {
+     "pixabay_id": 153458,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_small.jpg",
+     "page": "https://pixabay.com/videos/id-153458/",
+     "tags": "money, cash, bank, banknote, bill, currency, dollar, finance, beautiful wallpaper, macro, paper, wealth, background, business, financial, investment, 100, usd, close-up, dollar bill, one hundred, close up",
+     "duration": 17,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46922,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_small.jpg",
+     "page": "https://pixabay.com/videos/id-46922/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 15,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46924,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_small.jpg",
+     "page": "https://pixabay.com/videos/id-46924/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 153460,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_small.jpg",
+     "page": "https://pixabay.com/videos/id-153460/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 86911,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_small.jpg",
+     "page": "https://pixabay.com/videos/id-86911/",
+     "tags": "money, dollar, euro, finance, cash, currency, us-dollar, banknotes, dollar bill, bank, business",
+     "duration": 64,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 153455,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_small.jpg",
+     "page": "https://pixabay.com/videos/id-153455/",
+     "tags": "european, euro, american, bank, banknote, bill, cash, close up, currency, dollar, finance, macro, money, paper, wealth, business, financial, investment, rotate, 100, usd, close-up, dollar bill, background",
+     "duration": 19,
+     "query": "dollar bills"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Lots of people take the hundred today.",
+   "candidates": [
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 19706,
+     "url": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_small.jpg",
+     "page": "https://pixabay.com/videos/id-19706/",
+     "tags": "pair, trust, conversation, talk, discussion, few, people, taking photos, friendship, man, woman, romantic, happy, romance, lovers, photographer, look at pictures, tourists",
+     "duration": 10,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 245,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_small.jpg",
+     "page": "https://pixabay.com/videos/id-245/",
+     "tags": "photography, camera, outdoors, vintage, photographer, photos, photo shooting, pictures, taking photos, taking pictures, images",
+     "duration": 179,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "man taking money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "man taking money"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "But ask them: a hundred dollars in a year, or a hundred and ten in a year and a week? Now almost everyone waits the extra week.",
+   "candidates": [
+    {
+     "pixabay_id": 141519,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_small.jpg",
+     "page": "https://pixabay.com/videos/id-141519/",
+     "tags": "book, reading, page, literature, education, read, nature, viewpoint, sea, seaside, wind, cloudy",
+     "duration": 15,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, beautiful wallpaper, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 181407,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_small.jpg",
+     "page": "https://pixabay.com/videos/id-181407/",
+     "tags": "candles, lights, beautiful wallpaper, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 185096,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_small.jpg",
+     "page": "https://pixabay.com/videos/id-185096/",
+     "tags": "book, pages, literature, beach, ocean, education, reading, study, school, learning, poet, writer",
+     "duration": 13,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "calendar pages"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "calendar pages"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "It's the same one-week wait for the same ten dollars. But when the reward is right now, your brain overvalues it.",
+   "candidates": [
+    {
+     "pixabay_id": 15629,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_small.jpg",
+     "page": "https://pixabay.com/videos/id-15629/",
+     "tags": "alarm, clock, watch, time, retro, vintage",
+     "duration": 11,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 34855,
+     "url": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_small.jpg",
+     "page": "https://pixabay.com/videos/id-34855/",
+     "tags": "macro, clock, glitter, mechanism, time",
+     "duration": 8,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 15604,
+     "url": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_small.jpg",
+     "page": "https://pixabay.com/videos/id-15604/",
+     "tags": "time, clock, watch, loop, hours, minutes, day, looping, deadline, countdown, business",
+     "duration": 29,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 37006,
+     "url": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_small.jpg",
+     "page": "https://pixabay.com/videos/id-37006/",
+     "tags": "clock, time, watches, inside, second, hours",
+     "duration": 18,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 50803,
+     "url": "https://cdn.pixabay.com/video/2020/09/25/50803-461709594_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/25/50803-461709594_small.jpg",
+     "page": "https://pixabay.com/videos/id-50803/",
+     "tags": "clock, time, minute, loop, timer, second, timing",
+     "duration": 60,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 146436,
+     "url": "https://cdn.pixabay.com/video/2023/01/14/146436-789533905_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/14/146436-789533905_small.jpg",
+     "page": "https://pixabay.com/videos/id-146436/",
+     "tags": "clock, time, timepiece",
+     "duration": 15,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 43295,
+     "url": "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_small.jpg",
+     "page": "https://pixabay.com/videos/id-43295/",
+     "tags": "time, watch, clock, pointer, seconds",
+     "duration": 20,
+     "query": "clock"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "This is called present bias. Your brain treats your future self almost like a stranger.",
+   "candidates": [
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 125430,
+     "url": "https://cdn.pixabay.com/video/2022/07/25/125430-733383712_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/25/125430-733383712_small.jpg",
+     "page": "https://pixabay.com/videos/id-125430/",
+     "tags": "man, adult, beard, elderly, face, beautiful wallpaper, glasses, caucasian, closeup, grandfather, hair, happy, human, lifestyle, male, mature, old, pensioner, people, person, portrait, background",
+     "duration": 11,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 6096,
+     "url": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_small.jpg",
+     "page": "https://pixabay.com/videos/id-6096/",
+     "tags": "park, old people, people, old, senior, elderly, happy, woman, retired, smiling, man, together, outdoors, grandmother, happy old people, looking, aged, lifestyle, pensioner, grandpa",
+     "duration": 29,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 147041,
+     "url": "https://cdn.pixabay.com/video/2023/01/18/147041-790648837_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/18/147041-790648837_small.jpg",
+     "page": "https://pixabay.com/videos/id-147041/",
+     "tags": "train, trip, man, old, tram, city, transport, vehicle, retro, black and white, speed, path, metro, station, urban, traveller",
+     "duration": 20,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 125431,
+     "url": "https://cdn.pixabay.com/video/2022/07/25/125431-733383722_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/25/125431-733383722_small.jpg",
+     "page": "https://pixabay.com/videos/id-125431/",
+     "tags": "man, adult, beard, bench, business, businessman, casual, communication, beautiful wallpaper, computer, connection, face, hipster, keyboard, laptop, lifestyle, male, old, outdoors, background",
+     "duration": 17,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 159908,
+     "url": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_small.jpg",
+     "page": "https://pixabay.com/videos/id-159908/",
+     "tags": "couple, people, woman, man, park, young, adult, outdoors, walk, old, lifestyle, love, happy, healthy, outside, together, street, nature",
+     "duration": 14,
+     "query": "old man"
+    },
+    {
+     "pixabay_id": 129701,
+     "url": "https://cdn.pixabay.com/video/2022/08/31/129701-745151210_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/31/129701-745151210_small.jpg",
+     "page": "https://pixabay.com/videos/id-129701/",
+     "tags": "ruin, d\u00fcrnstein, wachau, austria, lower austria, people, tourism, castle ruins, man, hike, sightseeing, architecture, old, destination, leisure time, nature",
+     "duration": 23,
+     "query": "old man"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "That's why saving feels so hard. Saving means giving something up now, for someone you've never met: future you.",
+   "candidates": [
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 138317,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138317-769163818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138317-769163818_small.jpg",
+     "page": "https://pixabay.com/videos/id-138317/",
+     "tags": "coins, piggy bank, smash, save up, inflation, shopping, savings, finance, hammer, euro, currency, business, income",
+     "duration": 13,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 46401,
+     "url": "https://cdn.pixabay.com/video/2020/08/04/46401-447431577_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/04/46401-447431577_small.jpg",
+     "page": "https://pixabay.com/videos/id-46401/",
+     "tags": "eur, currency, finance, money, banknotes, cash, business, economy, income, taxes, wealth, piggy bank, fiscal, accounting, investments, savings",
+     "duration": 32,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 95818,
+     "url": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_small.jpg",
+     "page": "https://pixabay.com/videos/id-95818/",
+     "tags": "dollar, money, economics, america, usa, usd, savings, bank, piggy bank, rich, inflation, finance, expensiveness, paper, cash, trade, earnings, success, investment, close, macro, background, wallet, account, accounting",
+     "duration": 59,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 126328,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126328-735976683_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126328-735976683_small.jpg",
+     "page": "https://pixabay.com/videos/id-126328/",
+     "tags": "bank, business, cash, coins, currency, dollar, economy, eur, autumn, finance, investment, piggy, poverty, savings, to sell, slow, movement, success, wealth, money",
+     "duration": 7,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 126331,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126331-735976694_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126331-735976694_small.jpg",
+     "page": "https://pixabay.com/videos/id-126331/",
+     "tags": "bank, business, coins, cash, dollar, economy, autumnal, finance, investment, currency, piggy, poverty, savings, to sell, movement, slow, success, money",
+     "duration": 28,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 126332,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126332-735976696_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126332-735976696_small.jpg",
+     "page": "https://pixabay.com/videos/id-126332/",
+     "tags": "bank, business, coins, cash, dollar, economy, autumnal, finance, investment, currency, piggy, poverty, savings, to sell, movement, slow, success, money",
+     "duration": 23,
+     "query": "piggy bank"
+    },
+    {
+     "pixabay_id": 126329,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126329-735976687_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126329-735976687_small.jpg",
+     "page": "https://pixabay.com/videos/id-126329/",
+     "tags": "bank, business, cash, coins, currency, dollar, economy, eur, autumn, finance, investment, money, piggy, poverty, savings, to sell, slow, movement, success, wealth",
+     "duration": 12,
+     "query": "piggy bank"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Two economists designed a program around this. Instead of asking employees to save more today, they asked them to commit to saving part of their future pay raises.",
+   "candidates": [
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 107425,
+     "url": "https://cdn.pixabay.com/video/2022/02/11/107425-678258632_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/11/107425-678258632_small.jpg",
+     "page": "https://pixabay.com/videos/id-107425/",
+     "tags": "business, office, laptop, communication, woman, computer, work, businesswoman, female, beautiful wallpaper, technology, young, worker, sitting, internet, caucasian, girl, working, workplace, typing, online, women, table, lady, background, wood",
+     "duration": 16,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 7269,
+     "url": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_small.jpg",
+     "page": "https://pixabay.com/videos/id-7269/",
+     "tags": "office, secretary, business, work, woman, businesswoman, people, job, professional, person, worker, desk, corporate, young, workplace, computer, female, manager, employee, girl, phone, technology, modern, busy, success, adult, occupation, reception, caucasian, boss, assistant, sitting",
+     "duration": 16,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 6389,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_small.jpg",
+     "page": "https://pixabay.com/videos/id-6389/",
+     "tags": "office, desk, work, beautiful wallpaper, bokeh, blur, background, people, workers, business, computer, table, room, technology, work space, start-up, corporate",
+     "duration": 13,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 63,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/63-135732123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/63-135732123_small.jpg",
+     "page": "https://pixabay.com/videos/id-63/",
+     "tags": "laptop, typing, notebook, computer, work, office, hands, male, man, office worker, mobile, programming, writing, letters",
+     "duration": 8,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 273582,
+     "url": "https://cdn.pixabay.com/video/2025/04/22/273582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/22/273582_small.jpg",
+     "page": "https://pixabay.com/videos/id-273582/",
+     "tags": "people, business, office, job, person, workers, building",
+     "duration": 5,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 141672,
+     "url": "https://cdn.pixabay.com/video/2022/12/05/141672-778334998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/05/141672-778334998_small.jpg",
+     "page": "https://pixabay.com/videos/id-141672/",
+     "tags": "call center, consultant, customer service, business people, helpline, manager, microphone, operator, support, telecommunication, telemarketing, worker, corporate, office, copyspace, male, professional, person, listening, sound, workplace",
+     "duration": 13,
+     "query": "office workers"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Nothing was taken from today's paycheck, so present bias never kicked in.",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 4853,
+     "url": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_small.jpg",
+     "page": "https://pixabay.com/videos/id-4853/",
+     "tags": "money, euro, finance, salary, cash, economy, income, bank, profit, business, check",
+     "duration": 10,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 50621,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_small.jpg",
+     "page": "https://pixabay.com/videos/id-50621/",
+     "tags": "money, envelope, dollar, salary, euro, business",
+     "duration": 24,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 50623,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_small.jpg",
+     "page": "https://pixabay.com/videos/id-50623/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 27,
+     "query": "salary"
+    },
+    {
+     "pixabay_id": 50629,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_small.jpg",
+     "page": "https://pixabay.com/videos/id-50629/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 9,
+     "query": "salary"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "In the first company that tried it, average savings rates went from three and a half percent to almost fourteen percent in under four years.",
+   "candidates": [
+    {
+     "pixabay_id": 349089,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349089_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349089_small.jpg",
+     "page": "https://pixabay.com/videos/id-349089/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 15,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 349091,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349091_small.jpg",
+     "page": "https://pixabay.com/videos/id-349091/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 17,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 221356,
+     "url": "https://cdn.pixabay.com/video/2024/07/15/221356_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/15/221356_small.jpg",
+     "page": "https://pixabay.com/videos/id-221356/",
+     "tags": "analysis, analytics, app, application, bitcoin, broker, btc, business, businessman, cellphone, chart, close-up, computer, crypto, cryptocurrency, digital, economy, exchange, finance, forex, freelance, graph, growth",
+     "duration": 35,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 308077,
+     "url": "https://cdn.pixabay.com/video/2025/10/05/308077_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/10/05/308077_small.jpg",
+     "page": "https://pixabay.com/videos/id-308077/",
+     "tags": "stock market, finance, trading, investment, economy, business, money, financial growth, market trends, data analysis, trading charts, stock exchange, wall street, forex, cryptocurrency, bitcoin, investor, business background, financial data, corporate, profit, economics, data visualization",
+     "duration": 16,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 308076,
+     "url": "https://cdn.pixabay.com/video/2025/10/05/308076_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/10/05/308076_small.jpg",
+     "page": "https://pixabay.com/videos/id-308076/",
+     "tags": "stock market, finance, trading, investment, economy, business, money, financial growth, market trends, data analysis, trading charts, stock exchange, wall street, forex, cryptocurrency, bitcoin, investor, business background, financial data, corporate, profit, economics, data visualization",
+     "duration": 9,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 349088,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349088_small.jpg",
+     "page": "https://pixabay.com/videos/id-349088/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 9,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 349085,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349085_small.jpg",
+     "page": "https://pixabay.com/videos/id-349085/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 16,
+     "query": "growth chart"
+    },
+    {
+     "pixabay_id": 349086,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349086_small.jpg",
+     "page": "https://pixabay.com/videos/id-349086/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 8,
+     "query": "growth chart"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "Same people, same incomes. The only change was when the decision hit.",
+   "candidates": [
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 87592,
+     "url": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_small.jpg",
+     "page": "https://pixabay.com/videos/id-87592/",
+     "tags": "work, office, people, write, office work, pencils, crayon",
+     "duration": 21,
+     "query": "people walking office"
+    },
+    {
+     "pixabay_id": 4723,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_small.jpg",
+     "page": "https://pixabay.com/videos/id-4723/",
+     "tags": "busy, office, people, indoors, business, work, office people, occupation, working people, corporate, modern, start-up",
+     "duration": 14,
+     "query": "people walking office"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "And the final study answers the question everyone asks: can money actually make you happier?",
+   "candidates": [
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 184541,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_small.jpg",
+     "page": "https://pixabay.com/videos/id-184541/",
+     "tags": "woman, park, sitting, relaxing, happy, sunlight, fashion, countryside, person, outdoors, garden",
+     "duration": 13,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 29313,
+     "url": "https://cdn.pixabay.com/video/2019/11/21/29313-374747478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/21/29313-374747478_small.jpg",
+     "page": "https://pixabay.com/videos/id-29313/",
+     "tags": "girl, to dance, music, festival, light, lighting, mood, dance, woman, elegant, ease, happy, happiness, ballerina",
+     "duration": 21,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 83859,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_small.jpg",
+     "page": "https://pixabay.com/videos/id-83859/",
+     "tags": "woman, smile, joyful, happy, model, park, tourist, lifestyle",
+     "duration": 10,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 42694,
+     "url": "https://cdn.pixabay.com/video/2020/06/20/42694-432087092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/20/42694-432087092_small.jpg",
+     "page": "https://pixabay.com/videos/id-42694/",
+     "tags": "the park, game, people, nature, happy, woman, entertainment",
+     "duration": 26,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 83868,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83868-584870601_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83868-584870601_small.jpg",
+     "page": "https://pixabay.com/videos/id-83868/",
+     "tags": "woman, phone, communication, joyful, model, happy, park, tourist, lifestyle",
+     "duration": 20,
+     "query": "happy woman"
+    },
+    {
+     "pixabay_id": 184539,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184539-873554744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184539-873554744_small.jpg",
+     "page": "https://pixabay.com/videos/id-184539/",
+     "tags": "woman, tree, bark, happy, sunlight, countryside, person, outdoors, garden",
+     "duration": 15,
+     "query": "happy woman"
+    }
+   ]
+  }
+ ]
+}

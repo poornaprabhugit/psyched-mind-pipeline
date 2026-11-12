@@ -1,0 +1,473 @@
+{
+ "id": "L0",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Your brain is quietly costing you money.",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 37417,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_small.jpg",
+     "page": "https://pixabay.com/videos/id-37417/",
+     "tags": "swing, empty, playground, lonely, abandoned, rocking chair, emotional, rest, quiet",
+     "duration": 12,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 63749,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_small.jpg",
+     "page": "https://pixabay.com/videos/id-63749/",
+     "tags": "abandoned, building, ruins, old, decay, architecture, destruction, barricaded, empty",
+     "duration": 17,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 42057,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_small.jpg",
+     "page": "https://pixabay.com/videos/id-42057/",
+     "tags": "abandoned, house, empty, building, old, mood, decay, architecture, ruin, lapsed, broken",
+     "duration": 26,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 138495,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_small.jpg",
+     "page": "https://pixabay.com/videos/id-138495/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 17,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 63970,
+     "url": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_small.jpg",
+     "page": "https://pixabay.com/videos/id-63970/",
+     "tags": "snow, cold, winter, dark, night, 4k, evening, snowing, city, urban, shops, street, empty, quiet, peaceful",
+     "duration": 31,
+     "query": "wallet empty"
+    },
+    {
+     "pixabay_id": 138504,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138504-769969201_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138504-769969201_small.jpg",
+     "page": "https://pixabay.com/videos/id-138504/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 32,
+     "query": "wallet empty"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Not because you're bad with money, but because of how every human brain is wired.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "In one experiment, people paid more than double for the exact same tickets, just because of how they paid.",
+   "candidates": [
+    {
+     "pixabay_id": 31782,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_small.jpg",
+     "page": "https://pixabay.com/videos/id-31782/",
+     "tags": "metro, bangkok, thailand, transport, people, ticket",
+     "duration": 13,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 36565,
+     "url": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_small.jpg",
+     "page": "https://pixabay.com/videos/id-36565/",
+     "tags": "flower, cherry, spring, tree, branch, nature, flowering, botany, tickets, plant, beautiful, season, botanical, time lapse",
+     "duration": 40,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 134789,
+     "url": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_small.jpg",
+     "page": "https://pixabay.com/videos/id-134789/",
+     "tags": "airport, trip, screen, aeroplane, passport, flight, flight ticket, departure",
+     "duration": 12,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 204452,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_small.jpg",
+     "page": "https://pixabay.com/videos/id-204452/",
+     "tags": "passengers, people, crowd, terminal, boarding pass, boarding, ticketing, ticket, lax, airport",
+     "duration": 35,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 131432,
+     "url": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_small.jpg",
+     "page": "https://pixabay.com/videos/id-131432/",
+     "tags": "airport, aeroplane, trip, ticket, application, landing, departure, gezi, holiday, lax",
+     "duration": 17,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 33924,
+     "url": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_small.jpg",
+     "page": "https://pixabay.com/videos/id-33924/",
+     "tags": "purple, spring, flowers, plant, nature, garden, bloom, blue, close up, flora, tickets",
+     "duration": 19,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 23710,
+     "url": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_small.jpg",
+     "page": "https://pixabay.com/videos/id-23710/",
+     "tags": "asia, thailand, thai, bangkok, traffic, transportation, bts, line, sky, convenient, rail, railway, tram, downtown, travel, ticket, station",
+     "duration": 22,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 9756,
+     "url": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_small.jpg",
+     "page": "https://pixabay.com/videos/id-9756/",
+     "tags": "tram, railway carriage, urban transport, electric vehicle, people, passengers, doors, seat, armchairs, shipping, transportation, vehicle, the cost of transportation, ticket, communications, movement, trip, street, railway, railway track, road, way, rails",
+     "duration": 7,
+     "query": "tickets"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In this video you'll see seven real psychology studies that show how your brain gets money wrong.",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 12751,
+     "url": "https://cdn.pixabay.com/video/2017/11/04/12751-241674238_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/04/12751-241674238_small.jpg",
+     "page": "https://pixabay.com/videos/id-12751/",
+     "tags": "coins, money, pennies, saving, economy, tip, cash, metal, silver, energy, movement",
+     "duration": 12,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 91678,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_small.jpg",
+     "page": "https://pixabay.com/videos/id-91678/",
+     "tags": "cards, coins, gambling, game, money, currency, finance, casino, happiness, poker, gambling addiction, game bank, win, slow motion",
+     "duration": 29,
+     "query": "money coins"
+    },
+    {
+     "pixabay_id": 59134,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59134-491926072_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59134-491926072_small.jpg",
+     "page": "https://pixabay.com/videos/id-59134/",
+     "tags": "cash, money, currency, finance, wealth, coin, investment, business, banking, financial",
+     "duration": 21,
+     "query": "money coins"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "And the last one shows the one way money reliably makes people happier.",
+   "candidates": [
+    {
+     "pixabay_id": 116937,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_small.jpg",
+     "page": "https://pixabay.com/videos/id-116937/",
+     "tags": "fun, people, young, party, friends, group, friendship, lifestyle, students, celebration, happy, having, birthday, alcohol, college, diverse, man, woman, home, together, beer, leisure, laughing, vietnam, khmer",
+     "duration": 19,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 363873,
+     "url": "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/13/363873_small.jpg",
+     "page": "https://pixabay.com/videos/id-363873/",
+     "tags": "motivation, motivational, inspiration, friends",
+     "duration": 6,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 202134,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_small.jpg",
+     "page": "https://pixabay.com/videos/id-202134/",
+     "tags": "people, laptop, team, friend, sitting, grass",
+     "duration": 17,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 32938,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_small.jpg",
+     "page": "https://pixabay.com/videos/id-32938/",
+     "tags": "dance, celebrate, fun, celebration, happy, dancing, girl, festive, colorful, laughing, young, people, person",
+     "duration": 34,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 218795,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218795_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218795_small.jpg",
+     "page": "https://pixabay.com/videos/id-218795/",
+     "tags": "kids running, fun, happy, nature, laughing, smiling, ecuador",
+     "duration": 23,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, water, animal, pet, friend, nature",
+     "duration": 10,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 77626,
+     "url": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_small.jpg",
+     "page": "https://pixabay.com/videos/id-77626/",
+     "tags": "dog, puppy, pet, field, friend, playing, animal, freedom, playful, nature, outdoors",
+     "duration": 8,
+     "query": "friends laughing"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Let's start with that ticket experiment.",
+   "candidates": [
+    {
+     "pixabay_id": 208442,
+     "url": "https://cdn.pixabay.com/video/2024/04/18/208442_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/18/208442_small.jpg",
+     "page": "https://pixabay.com/videos/id-208442/",
+     "tags": "basketball, hoop, net, urban, street, outdoors, sports, city",
+     "duration": 15,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 202371,
+     "url": "https://cdn.pixabay.com/video/2024/02/28/202371-918049021_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/28/202371-918049021_small.jpg",
+     "page": "https://pixabay.com/videos/id-202371/",
+     "tags": "london, thames, arena, o2 arena, boats, clouds, england, uk, speed, water, river",
+     "duration": 10,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 24166,
+     "url": "https://cdn.pixabay.com/video/2019/06/03/24166-340670680_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/03/24166-340670680_small.jpg",
+     "page": "https://pixabay.com/videos/id-24166/",
+     "tags": "baseball, stadium, prague, panorama, skyline, field, game, sports, arena",
+     "duration": 10,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 172590,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172590-847860517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172590-847860517_small.jpg",
+     "page": "https://pixabay.com/videos/id-172590/",
+     "tags": "amphitheater, monument, pula amphitheater, arena, drone, 4k, city, architecture, croatia",
+     "duration": 12,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 239964,
+     "url": "https://cdn.pixabay.com/video/2024/11/05/239964_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/05/239964_small.jpg",
+     "page": "https://pixabay.com/videos/id-239964/",
+     "tags": "stadium, arena, football, sports, city, match, field, grass, competition, street, drone, quadrocopter, architecture",
+     "duration": 12,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 202370,
+     "url": "https://cdn.pixabay.com/video/2024/02/28/202370-918049015_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/28/202370-918049015_small.jpg",
+     "page": "https://pixabay.com/videos/id-202370/",
+     "tags": "river, thames, arena, boats, clouds, england, uk, speed, water, movement, london",
+     "duration": 10,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 43731,
+     "url": "https://cdn.pixabay.com/video/2020/07/03/43731-436797210_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/03/43731-436797210_small.jpg",
+     "page": "https://pixabay.com/videos/id-43731/",
+     "tags": "school gym, building, playground, basketball, wooden floor, wooden beam, V\u0159esina, Czechia, Moravian-Silesian Region",
+     "duration": 39,
+     "query": "basketball arena"
+    },
+    {
+     "pixabay_id": 272520,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272520_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272520_small.jpg",
+     "page": "https://pixabay.com/videos/id-272520/",
+     "tags": "coli, architecture, ancient, rome, old, italy, city, travel, stone, history, historical, amphitheatre, tourist attraction, stadium, ruins, roman, drone, arena, arch, aerial, tourism, italian, historic, famous",
+     "duration": 30,
+     "query": "basketball arena"
+    }
+   ]
+  }
+ ]
+}

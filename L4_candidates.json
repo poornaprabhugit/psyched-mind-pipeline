@@ -1,0 +1,863 @@
+{
+ "id": "L4",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Imagine you've decided to see a play. The ticket costs ten dollars.",
+   "candidates": [
+    {
+     "pixabay_id": 130439,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_small.jpg",
+     "page": "https://pixabay.com/videos/id-130439/",
+     "tags": "theater, stage, caesarea, caesarea national park, ancient theater, israel, mediterranean sea, roman, architecture",
+     "duration": 13,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380218,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380218_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380218_small.jpg",
+     "page": "https://pixabay.com/videos/id-380218/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 6,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380217,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380217_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380217_small.jpg",
+     "page": "https://pixabay.com/videos/id-380217/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 5,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380220,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380220_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380220_small.jpg",
+     "page": "https://pixabay.com/videos/id-380220/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 12,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380221,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380221_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380221_small.jpg",
+     "page": "https://pixabay.com/videos/id-380221/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 6,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380219,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380219_small.jpg",
+     "page": "https://pixabay.com/videos/id-380219/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 15,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 37735,
+     "url": "https://cdn.pixabay.com/video/2020/05/01/37735-415142681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/01/37735-415142681_small.jpg",
+     "page": "https://pixabay.com/videos/id-37735/",
+     "tags": "acropolis, acropolis greece, building, old theatre stage, sky, tourism, town, old city panorama, old, historic, landmark, culture, urban",
+     "duration": 8,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 1275,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_small.jpg",
+     "page": "https://pixabay.com/videos/id-1275/",
+     "tags": "rotting christ, rock, concert, band, heavy metal, rock concert, music, entertainment, performance, stage, people, crowd, audience, club, light, stage lights, sound, live, party, event, fun, night, nightlife, 130680504",
+     "duration": 18,
+     "query": "theater stage"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "As you arrive at the theatre, you discover you've lost a ten-dollar bill.",
+   "candidates": [
+    {
+     "pixabay_id": 136740,
+     "url": "https://cdn.pixabay.com/video/2022/10/27/136740-764817305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/27/136740-764817305_small.jpg",
+     "page": "https://pixabay.com/videos/id-136740/",
+     "tags": "clock, pocket watch, clockwork, gears, mechanism, time, brass, metal, vintage, close up",
+     "duration": 14,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 37417,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_small.jpg",
+     "page": "https://pixabay.com/videos/id-37417/",
+     "tags": "swing, empty, playground, lonely, abandoned, rocking chair, emotional, rest, quiet",
+     "duration": 12,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 63749,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_small.jpg",
+     "page": "https://pixabay.com/videos/id-63749/",
+     "tags": "abandoned, building, ruins, old, decay, architecture, destruction, barricaded, empty",
+     "duration": 17,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 42057,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_small.jpg",
+     "page": "https://pixabay.com/videos/id-42057/",
+     "tags": "abandoned, house, empty, building, old, mood, decay, architecture, ruin, lapsed, broken",
+     "duration": 26,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 138495,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_small.jpg",
+     "page": "https://pixabay.com/videos/id-138495/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 17,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 63970,
+     "url": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_small.jpg",
+     "page": "https://pixabay.com/videos/id-63970/",
+     "tags": "snow, cold, winter, dark, night, 4k, evening, snowing, city, urban, shops, street, empty, quiet, peaceful",
+     "duration": 31,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 138504,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138504-769969201_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138504-769969201_small.jpg",
+     "page": "https://pixabay.com/videos/id-138504/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 32,
+     "query": "empty pocket"
+    },
+    {
+     "pixabay_id": 138500,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138500-769724717_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138500-769724717_small.jpg",
+     "page": "https://pixabay.com/videos/id-138500/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 52,
+     "query": "empty pocket"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Would you still buy a ticket? In the original study, eighty-eight percent said yes.",
+   "candidates": [
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 31782,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_small.jpg",
+     "page": "https://pixabay.com/videos/id-31782/",
+     "tags": "metro, bangkok, thailand, transport, people, ticket",
+     "duration": 13,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 87592,
+     "url": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_small.jpg",
+     "page": "https://pixabay.com/videos/id-87592/",
+     "tags": "work, office, people, write, office work, pencils, crayon",
+     "duration": 21,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 3188,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_small.jpg",
+     "page": "https://pixabay.com/videos/id-3188/",
+     "tags": "computer keyboard, typing, white, keyboard, computer, technology, business, office, internet, communication, fingers, hands, fast, text, messaging",
+     "duration": 14,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 3174,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_small.jpg",
+     "page": "https://pixabay.com/videos/id-3174/",
+     "tags": "computer keyboard, typing, hands, female, keyboard, computer, technology, business, office, internet, type, key, communication, pc, information, white, working, letter, fingers",
+     "duration": 12,
+     "query": "ticket office"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "ticket office"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Now imagine a different version. You bought the ticket in advance. At the door, you discover you've lost the ticket.",
+   "candidates": [
+    {
+     "pixabay_id": 99388,
+     "url": "https://cdn.pixabay.com/video/2021/11/30/99388-653120182_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/30/99388-653120182_small.jpg",
+     "page": "https://pixabay.com/videos/id-99388/",
+     "tags": "trip, walk, adventure, mountain, forest, nature, path, to walk, sport, woman, human, girl, bag, wander, view, shack, hobby, freedom, autumn, winter, season, leaves",
+     "duration": 46,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 80672,
+     "url": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_small.jpg",
+     "page": "https://pixabay.com/videos/id-80672/",
+     "tags": "kangaroo, marsupial, young, bag, furry, animal, cute, zoo hague",
+     "duration": 26,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 41869,
+     "url": "https://cdn.pixabay.com/video/2020/06/13/41869-431407027_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/13/41869-431407027_small.jpg",
+     "page": "https://pixabay.com/videos/id-41869/",
+     "tags": "trash, rubbish, garbage, waste, throwing away, paper, plastic, black bin bag, plastic bottles, plastic bag, event, pollution, disposal, overflow, environmental, foam, road, people, thailand, runners",
+     "duration": 10,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 89187,
+     "url": "https://cdn.pixabay.com/video/2021/09/21/89187-613200480_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/21/89187-613200480_small.jpg",
+     "page": "https://pixabay.com/videos/id-89187/",
+     "tags": "flowers, lotus, seed bag, wind, pond",
+     "duration": 37,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 29884,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29884-378294331_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29884-378294331_small.jpg",
+     "page": "https://pixabay.com/videos/id-29884/",
+     "tags": "travel, ipad, search, vacation, holiday, planning, location, looking, internet, searching, destination, tourism, airport, airline, vacations, departure, airplane, flying, trip, transportation",
+     "duration": 61,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 29886,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_small.jpg",
+     "page": "https://pixabay.com/videos/id-29886/",
+     "tags": "web, internet, real estate, laptop, digital, media, connected, tech, computer, information, communication, network, property, selling, home, house sale, searching, buying",
+     "duration": 24,
+     "query": "woman searching bag"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman searching bag"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Would you pay ten dollars for another one? This time, fewer than half said yes.",
+   "candidates": [
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 7826,
+     "url": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_small.jpg",
+     "page": "https://pixabay.com/videos/id-7826/",
+     "tags": "woman, girl, shooting, photography, paint, color, creative, cinemagraphs",
+     "duration": 9,
+     "query": "woman frustrated"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "woman frustrated"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "In both cases, you're ten dollars poorer. It's the same loss.",
+   "candidates": [
+    {
+     "pixabay_id": 209854,
+     "url": "https://cdn.pixabay.com/video/2024/04/28/209854_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/28/209854_small.jpg",
+     "page": "https://pixabay.com/videos/id-209854/",
+     "tags": "man, calculator, calculation, surprise, mathematics, figures",
+     "duration": 17,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 59139,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_small.jpg",
+     "page": "https://pixabay.com/videos/id-59139/",
+     "tags": "money, budget, count, cash, counting, calculator, finance, mortgage, economy, payment, business",
+     "duration": 20,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 174007,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_small.jpg",
+     "page": "https://pixabay.com/videos/id-174007/",
+     "tags": "woman, beautiful wallpaper, cash, money, paper, business, worker, calculator, background, investment, wealth",
+     "duration": 7,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 174006,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_small.jpg",
+     "page": "https://pixabay.com/videos/id-174006/",
+     "tags": "woman, cash, money, beautiful wallpaper, paper, business, worker, calculator, background, investment, wealth",
+     "duration": 9,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 209855,
+     "url": "https://cdn.pixabay.com/video/2024/04/28/209855_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/28/209855_small.jpg",
+     "page": "https://pixabay.com/videos/id-209855/",
+     "tags": "man, calculation, calculate, true, confirm, affirmation",
+     "duration": 8,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 59138,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59138-491926088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59138-491926088_small.jpg",
+     "page": "https://pixabay.com/videos/id-59138/",
+     "tags": "money, money counting machine, checkout, calculator, count, cost, pay, finance, calculate, business",
+     "duration": 12,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 150,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/150-135737445_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/150-135737445_small.jpg",
+     "page": "https://pixabay.com/videos/id-150/",
+     "tags": "keyboard, typing, number, num pad, num block, calculation, keys, letters, computer, pc, office",
+     "duration": 9,
+     "query": "calculator"
+    },
+    {
+     "pixabay_id": 87419,
+     "url": "https://cdn.pixabay.com/video/2021/09/03/87419-601466725_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/03/87419-601466725_small.jpg",
+     "page": "https://pixabay.com/videos/id-87419/",
+     "tags": "wall, bricks, cement, marble, beautiful wallpaper, venice, structure, template, material, architecture, calculation, construction, stones, facade, background",
+     "duration": 9,
+     "query": "calculator"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "But your brain doesn't keep money in one big pot. It keeps it in separate little accounts.",
+   "candidates": [
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 173315,
+     "url": "https://cdn.pixabay.com/video/2023/07/26/173315-849202482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/26/173315-849202482_small.jpg",
+     "page": "https://pixabay.com/videos/id-173315/",
+     "tags": "bell jar, ceramic, porcelain, decoration, shrub, nature",
+     "duration": 18,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 160783,
+     "url": "https://cdn.pixabay.com/video/2023/04/28/160783-822206426_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/28/160783-822206426_small.jpg",
+     "page": "https://pixabay.com/videos/id-160783/",
+     "tags": "bell jar, porcelain, yellow, decoration, construction pole, smoke, nature, decorative",
+     "duration": 20,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, animal, monetary, luck, waving, mascot, wealth, prosperity, feng shui, pet, finance, profit, coins",
+     "duration": 9,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "jars coins"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "jars coins"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "The lost bill comes out of a general cash account. The lost ticket comes out of the theatre account, and now the play seems to cost twenty.",
+   "candidates": [
+    {
+     "pixabay_id": 1823,
+     "url": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_small.jpg",
+     "page": "https://pixabay.com/videos/id-1823/",
+     "tags": "movie, opening credits, curtain up, curtain closed, movie theater, canvas, video",
+     "duration": 10,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 296780,
+     "url": "https://cdn.pixabay.com/video/2025/08/11/296780_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/11/296780_small.jpg",
+     "page": "https://pixabay.com/videos/id-296780/",
+     "tags": "frog, 4k, wildlife, film, movie, cinema, popcorn, projector, camera, theatre, media, curtain, clapperboard, filmstrip, youtube, award, filmmaking, entertainment, netflix, strip, demonstration, analog, recording",
+     "duration": 14,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 240995,
+     "url": "https://cdn.pixabay.com/video/2024/11/12/240995_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/12/240995_small.jpg",
+     "page": "https://pixabay.com/videos/id-240995/",
+     "tags": "theatre, curtains, open curtains, red curtain",
+     "duration": 18,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 122355,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122355-725067752_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122355-725067752_small.jpg",
+     "page": "https://pixabay.com/videos/id-122355/",
+     "tags": "curtain, wind, silence, silent, museum",
+     "duration": 10,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 130439,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_small.jpg",
+     "page": "https://pixabay.com/videos/id-130439/",
+     "tags": "theater, stage, caesarea, caesarea national park, ancient theater, israel, mediterranean sea, roman, architecture",
+     "duration": 13,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 39292,
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_small.jpg",
+     "page": "https://pixabay.com/videos/id-39292/",
+     "tags": "curtain, inside, house, room, weekend, bathrobe, windows, home, bedroom, quarantine, covid, lockdown, rest, calm, quiet, silence",
+     "duration": 13,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 219780,
+     "url": "https://cdn.pixabay.com/video/2024/07/06/219780_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/06/219780_small.jpg",
+     "page": "https://pixabay.com/videos/id-219780/",
+     "tags": "theater, roof, architecture, nature, quadrocopter, sun, flying, city, view, summer, drone",
+     "duration": 15,
+     "query": "theater curtain"
+    },
+    {
+     "pixabay_id": 87806,
+     "url": "https://cdn.pixabay.com/video/2021/09/08/87806-601467089_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/08/87806-601467089_small.jpg",
+     "page": "https://pixabay.com/videos/id-87806/",
+     "tags": "wedding, bride, groom, happiness, engagement, celebration, marry, marriage, beautiful, sea, nature, rose flower, ocean, wave, that, view, holiday, hotel, love, tulle, curtain, beach, annual, wind, rose, flowers",
+     "duration": 59,
+     "query": "theater curtain"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "This is called mental accounting.",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 117,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_small.jpg",
+     "page": "https://pixabay.com/videos/id-117/",
+     "tags": "notebook, laptop, blur, home office, typing, writing, programming, developer, programmer, fingers, hands, mobile, electronics, device",
+     "duration": 13,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 3160,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_small.jpg",
+     "page": "https://pixabay.com/videos/id-3160/",
+     "tags": "laptop, keyboard, typing, writing, notebook, computer, work, business, technology, office, communication, working, education, desk, programmer, computer keyboard, programming, hands, fingers",
+     "duration": 13,
+     "query": "notebook writing"
+    },
+    {
+     "pixabay_id": 6378,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6378-191636243_small.jpg",
+     "page": "https://pixabay.com/videos/id-6378/",
+     "tags": "notebook, keyboard, typing, writing, hand, fingers, computer, internet, laptop, professional, office, job, technology, home, education, device, blogging, programmer, programming, online, digital",
+     "duration": 15,
+     "query": "notebook writing"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "It's why a tax refund feels like free money to spend, while the same amount from your salary feels carefully earned.",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, beautiful wallpaper, shopping, crowd, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "shopping spree"
+    },
+    {
+     "pixabay_id": 15641,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15641-265858382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15641-265858382_small.jpg",
+     "page": "https://pixabay.com/videos/id-15641/",
+     "tags": "berlin, spree, flow, boat, ship, center, hospital, charit\u00e9, government district, skyline, big city, capital city, government, building, reside, churches",
+     "duration": 15,
+     "query": "shopping spree"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "A dollar is a dollar. But your brain labels every dollar by where it came from and what it's for.",
+   "candidates": [
+    {
+     "pixabay_id": 172891,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_small.jpg",
+     "page": "https://pixabay.com/videos/id-172891/",
+     "tags": "money, currency, dollar, cash, finance",
+     "duration": 9,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 153458,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_small.jpg",
+     "page": "https://pixabay.com/videos/id-153458/",
+     "tags": "money, cash, bank, banknote, bill, currency, dollar, finance, beautiful wallpaper, macro, paper, wealth, background, business, financial, investment, 100, usd, close-up, dollar bill, one hundred, close up",
+     "duration": 17,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 46922,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_small.jpg",
+     "page": "https://pixabay.com/videos/id-46922/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 15,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 153460,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_small.jpg",
+     "page": "https://pixabay.com/videos/id-153460/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "dollar"
+    },
+    {
+     "pixabay_id": 46924,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_small.jpg",
+     "page": "https://pixabay.com/videos/id-46924/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar"
+    }
+   ]
+  }
+ ]
+}

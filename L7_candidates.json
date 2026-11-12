@@ -1,0 +1,785 @@
+{
+ "id": "L7",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Researchers walked up to people in the morning and handed them an envelope with money. Five dollars for some, twenty for others.",
+   "candidates": [
+    {
+     "pixabay_id": 50621,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_small.jpg",
+     "page": "https://pixabay.com/videos/id-50621/",
+     "tags": "money, envelope, dollar, salary, euro, business",
+     "duration": 24,
+     "query": "envelope"
+    },
+    {
+     "pixabay_id": 118945,
+     "url": "https://cdn.pixabay.com/video/2022/06/01/118945-716230927_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/01/118945-716230927_small.jpg",
+     "page": "https://pixabay.com/videos/id-118945/",
+     "tags": "caterpillar, insect, butterfly, ermine spindle moth, animal, development, communal web, writhing, feeding, tree, enveloped",
+     "duration": 14,
+     "query": "envelope"
+    },
+    {
+     "pixabay_id": 31171,
+     "url": "https://cdn.pixabay.com/video/2020/01/12/31171-384523289_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/12/31171-384523289_small.jpg",
+     "page": "https://pixabay.com/videos/id-31171/",
+     "tags": "harbour museum, night, hamburg, cranes, elbe, hafencity, port city, germany, flow, container port, to dye, historical, fair play, envelope, multicoloured",
+     "duration": 18,
+     "query": "envelope"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "giving money"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Half were told to spend it on themselves by the end of the day: a bill, a treat, something for themselves.",
+   "candidates": [
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 32246,
+     "url": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_small.jpg",
+     "page": "https://pixabay.com/videos/id-32246/",
+     "tags": "coffee, coffee shop, cafe, drink, espresso, mug, tea, cup, people, shop, beverage, barista, meeting, communication, restaurant, starbucks, business, store",
+     "duration": 19,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126805,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_small.jpg",
+     "page": "https://pixabay.com/videos/id-126805/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro",
+     "duration": 16,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126804,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_small.jpg",
+     "page": "https://pixabay.com/videos/id-126804/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro of coffee",
+     "duration": 16,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126800,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126800-737028132_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126800-737028132_small.jpg",
+     "page": "https://pixabay.com/videos/id-126800/",
+     "tags": "coffee, coffee beans, coffee maker, coffee break, coffee shop, coffee table, smoke, macro of coffee",
+     "duration": 12,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 15482,
+     "url": "https://cdn.pixabay.com/video/2018/04/08/15482-264671690_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/08/15482-264671690_small.jpg",
+     "page": "https://pixabay.com/videos/id-15482/",
+     "tags": "coffee, esspresso, beans, aroma, roasting, coffee pot, caffeine, cup, old, wood, coffee beans, porcelain, close up, beverages, painted, coffee shop, roasted, manufacture, barista",
+     "duration": 11,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126803,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126803-737028141_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126803-737028141_small.jpg",
+     "page": "https://pixabay.com/videos/id-126803/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro of coffee",
+     "duration": 14,
+     "query": "coffee shop"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "The other half were told to spend it on someone else: a gift for a friend, or a donation to charity.",
+   "candidates": [
+    {
+     "pixabay_id": 110407,
+     "url": "https://cdn.pixabay.com/video/2022/03/11/110407-687682713_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/11/110407-687682713_small.jpg",
+     "page": "https://pixabay.com/videos/id-110407/",
+     "tags": "heart, symbol, love, decoration, mother's day, valentine's day, date of birth, give a gift",
+     "duration": 25,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 247208,
+     "url": "https://cdn.pixabay.com/video/2024/12/17/247208_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/17/247208_small.jpg",
+     "page": "https://pixabay.com/videos/id-247208/",
+     "tags": "christmas, background, decor, winter, advent, ornaments, lights, star, nature, red, bokeh, season, beautiful wallpaper, gifts",
+     "duration": 7,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 5317,
+     "url": "https://cdn.pixabay.com/video/2016/09/18/5317-183300227_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/18/5317-183300227_small.jpg",
+     "page": "https://pixabay.com/videos/id-5317/",
+     "tags": "music box, carousel, toy, decoration, kid, baby, horse, little horse, circus, fun, playground, music, colors, childish, treat, delicacy, delicate, gift, boy, girl, sound, sonority, gift with love",
+     "duration": 78,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 19260,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19260-300109088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19260-300109088_small.jpg",
+     "page": "https://pixabay.com/videos/id-19260/",
+     "tags": "jewelry, ring, black, diamonds, sapphire, panther, design, style, silver, platinum, white, gold, expensive, luxury, present, gift",
+     "duration": 36,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 14121,
+     "url": "https://cdn.pixabay.com/video/2018/02/04/14121-254487704_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/04/14121-254487704_small.jpg",
+     "page": "https://pixabay.com/videos/id-14121/",
+     "tags": "valley, cheonmasan, water, mountain, waterfall, mini waterfall, nature, wildflower, korea's nature, clear gift, rock",
+     "duration": 12,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 11289,
+     "url": "https://cdn.pixabay.com/video/2017/08/10/11289-229221023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/10/11289-229221023_small.jpg",
+     "page": "https://pixabay.com/videos/id-11289/",
+     "tags": "jewelry, ring, trying, finger, put on, gold, gem, blue, sapphire, engagement, wedding, present, luxury, expensive, gift, gemstone, precious, shiny, stone, crystal, romance, rich, marriage",
+     "duration": 8,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 19259,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19259-300109084_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19259-300109084_small.jpg",
+     "page": "https://pixabay.com/videos/id-19259/",
+     "tags": "jewelry, ring, eternity, gold, golden, gem, diamond, wedding, marry, design, marriage, jewellery, style, present, gift, female, anniversary, proposal, advertising, commercial",
+     "duration": 20,
+     "query": "gift giving"
+    },
+    {
+     "pixabay_id": 11543,
+     "url": "https://cdn.pixabay.com/video/2017/08/23/11543-231232163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/23/11543-231232163_small.jpg",
+     "page": "https://pixabay.com/videos/id-11543/",
+     "tags": "music box, carousel, music, sound, melody, peace, trust, happiness, baby, lullaby, child, small, innocent, night, sleep, present, music gift, hypnotize, peaceful, short video, love, breath, babies, horse, horses, toy, toy horse, music toy",
+     "duration": 64,
+     "query": "gift giving"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In the evening, the researchers called everyone back and asked how happy they felt.",
+   "candidates": [
+    {
+     "pixabay_id": 86866,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_small.jpg",
+     "page": "https://pixabay.com/videos/id-86866/",
+     "tags": "man, home office, laptop, call, phone, comfortable, relax, home",
+     "duration": 10,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 204421,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_small.jpg",
+     "page": "https://pixabay.com/videos/id-204421/",
+     "tags": "man, call, smartphone, anger, to speak, yell, discuss, unhappy",
+     "duration": 22,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 273931,
+     "url": "https://cdn.pixabay.com/video/2025/04/23/273931_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/23/273931_small.jpg",
+     "page": "https://pixabay.com/videos/id-273931/",
+     "tags": "man, phone, call, work, technology",
+     "duration": 22,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 227112,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227112_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227112_small.jpg",
+     "page": "https://pixabay.com/videos/id-227112/",
+     "tags": "phone calling, calling, phone, telephone, mobile, communication, talking, call, smartphone, cellphone, talk",
+     "duration": 20,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 64594,
+     "url": "https://cdn.pixabay.com/video/2021/02/08/64594-510542191_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/08/64594-510542191_small.jpg",
+     "page": "https://pixabay.com/videos/id-64594/",
+     "tags": "phone, app, touch screen, mobile phone, smartphone, communication, scrolling, mobile, screen, digital, technology, contact, wireless, call, internet, modern, communicate, connection, web page",
+     "duration": 17,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 1980,
+     "url": "https://cdn.pixabay.com/video/2016/01/26/1980-153555205_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/26/1980-153555205_small.jpg",
+     "page": "https://pixabay.com/videos/id-1980/",
+     "tags": "phone, make a phone call, voip, cable, voice over ip, select, phone number, tap",
+     "duration": 28,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 64595,
+     "url": "https://cdn.pixabay.com/video/2021/02/08/64595-510542195_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/08/64595-510542195_small.jpg",
+     "page": "https://pixabay.com/videos/id-64595/",
+     "tags": "phone, app, touch screen, mobile phone, smartphone, communication, scrolling, mobile, screen, digital, technology, contact, wireless, call, internet, modern, communicate, connection, web page",
+     "duration": 23,
+     "query": "phone call"
+    },
+    {
+     "pixabay_id": 34767,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34767-405202859_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34767-405202859_small.jpg",
+     "page": "https://pixabay.com/videos/id-34767/",
+     "tags": "telephone, sound, phone, ringing, call, ring, antique, old, bell",
+     "duration": 17,
+     "query": "phone call"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "The people who spent the money on others were happier.",
+   "candidates": [
+    {
+     "pixabay_id": 109817,
+     "url": "https://cdn.pixabay.com/video/2022/03/06/109817-685705725_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/06/109817-685705725_small.jpg",
+     "page": "https://pixabay.com/videos/id-109817/",
+     "tags": "dog, animal, pet, domestic, puppy, happy, funny, adorable, breed, pedigree, looking, nature, friend, mammal, eyes, doggy, lovely",
+     "duration": 24,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 109816,
+     "url": "https://cdn.pixabay.com/video/2022/03/06/109816-685705722_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/06/109816-685705722_small.jpg",
+     "page": "https://pixabay.com/videos/id-109816/",
+     "tags": "dog, animal, pet, domestic, puppy, happy, funny, adorable, breed, pedigree, looking, nature, friend, mammal, eyes, doggy, lovely",
+     "duration": 27,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 4727,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4727-179738642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4727-179738642_small.jpg",
+     "page": "https://pixabay.com/videos/id-4727/",
+     "tags": "dog, fetching, park, play, pet, fetch, animal, running, grass, happy, nature, outdoor, training, doggy, canine, summer, active, pedigree, friend, playful, companion",
+     "duration": 16,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 184828,
+     "url": "https://cdn.pixabay.com/video/2023/10/13/184828-874264394_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/13/184828-874264394_small.jpg",
+     "page": "https://pixabay.com/videos/id-184828/",
+     "tags": "kids, children, boys, friends, park, happy, nature",
+     "duration": 5,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 74540,
+     "url": "https://cdn.pixabay.com/video/2021/05/19/74540-552602429_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/19/74540-552602429_small.jpg",
+     "page": "https://pixabay.com/videos/id-74540/",
+     "tags": "children, kids, boys, friends, happy, happiness, brother, together, young, water, childhood, portrait, joy, fun, nature, outdoors",
+     "duration": 18,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 20454,
+     "url": "https://cdn.pixabay.com/video/2019/01/04/20454-309694522_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/04/20454-309694522_small.jpg",
+     "page": "https://pixabay.com/videos/id-20454/",
+     "tags": "walk, couple, romantic, sky, hello, romance, lovers, retirement, lifestyle, happiness, stroll, friends, together, silhouettes, magical, idyllic, peaceful, peace, love, trust, people, friendship, ocean, sea, tenerife, live wallpaper, welcome",
+     "duration": 28,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 1638,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1638-148614414_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1638-148614414_small.jpg",
+     "page": "https://pixabay.com/videos/id-1638/",
+     "tags": "kindergarden, hula hoop, rings, game, play, fun, toys, playing, kids, children, nursery, happy, child, girl, caucasian, childhood, friends, exercise, activity",
+     "duration": 14,
+     "query": "happy friends"
+    },
+    {
+     "pixabay_id": 41820,
+     "url": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_small.jpg",
+     "page": "https://pixabay.com/videos/id-41820/",
+     "tags": "diversity, meeting, communication, people, against racism, black, connection, ethnicities, friends, fun, group, happy, human, mixed race, multiracial, person, race racism, sharing, smiling, together, woman, young, summer",
+     "duration": 17,
+     "query": "happy friends"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "The amount didn't matter. How they spent it did.",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, animal, monetary, luck, waving, mascot, wealth, prosperity, feng shui, pet, finance, profit, coins",
+     "duration": 9,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74778,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_small.jpg",
+     "page": "https://pixabay.com/videos/id-74778/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 8,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "coins"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Before the study, most people predicted the opposite: that spending on themselves would make them happier, and that more money would help more. Both guesses were wrong.",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Other studies point the same way: spending on experiences and on other people tends to bring more lasting happiness than buying more things.",
+   "candidates": [
+    {
+     "pixabay_id": 124097,
+     "url": "https://cdn.pixabay.com/video/2022/07/14/124097-730204502_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/14/124097-730204502_small.jpg",
+     "page": "https://pixabay.com/videos/id-124097/",
+     "tags": "dog, spitz, machine, auto, journey, friend, animal",
+     "duration": 14,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 128509,
+     "url": "https://cdn.pixabay.com/video/2022/08/20/128509-741503602_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/20/128509-741503602_small.jpg",
+     "page": "https://pixabay.com/videos/id-128509/",
+     "tags": "couple, friends, tent, camping, conversation, mountains, lovers, love, romantic, travel, peak, nature",
+     "duration": 7,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 39597,
+     "url": "https://cdn.pixabay.com/video/2020/05/20/39597-423320393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/20/39597-423320393_small.jpg",
+     "page": "https://pixabay.com/videos/id-39597/",
+     "tags": "walking, people, path, to walk, men, city, hiking, friends, person, bridge, street, walk, liberty, pedestrians, backpack, friendship, backpacker, only, thinking, tourism, travel, in a hurry",
+     "duration": 23,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 4325,
+     "url": "https://cdn.pixabay.com/video/2016/08/09/4325-178218622_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/09/4325-178218622_small.jpg",
+     "page": "https://pixabay.com/videos/id-4325/",
+     "tags": "sightseeing, people, travel, tourism, vacation, friends, holidays, tourist, outdoors, couple, tour, town, looking, europe, female, famous, summer vacation, journey, travelers, city, trip, women, young, teenage, barcelona, spain",
+     "duration": 18,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 329058,
+     "url": "https://cdn.pixabay.com/video/2026/01/20/329058_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/20/329058_small.jpg",
+     "page": "https://pixabay.com/videos/id-329058/",
+     "tags": "waterfall, cascade, rapids, shallow water, deep water, pool, lagoon, turquoise, teal, emerald, clear water, vegetation, nature, summer, adventure, friends, fun, lifestyle, hidden gem, secret, secluded, pakistan, travel, wanderlust",
+     "duration": 8,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 329057,
+     "url": "https://cdn.pixabay.com/video/2026/01/20/329057_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/20/329057_small.jpg",
+     "page": "https://pixabay.com/videos/id-329057/",
+     "tags": "people, friends, group, adventure, lifestyle, summer, vacation, leisure, fun, waterfall, cascade, pool, lagoon, swimming hole, turquoise, teal, clear water, canyon, cliffs, reveal, nature, travel, pakistan, hidden gem, oasis",
+     "duration": 6,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 222925,
+     "url": "https://cdn.pixabay.com/video/2024/07/24/222925_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/24/222925_small.jpg",
+     "page": "https://pixabay.com/videos/id-222925/",
+     "tags": "city, traffic, roads, vehicles, cars, colombo, srilanka, landscape, travel, sky, transportation, people, lotus tower, bere lake, pettah, ceylon, friends",
+     "duration": 43,
+     "query": "friends travel"
+    },
+    {
+     "pixabay_id": 87149,
+     "url": "https://cdn.pixabay.com/video/2021/09/01/87149-601077291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/01/87149-601077291_small.jpg",
+     "page": "https://pixabay.com/videos/id-87149/",
+     "tags": "beach, friends, volleyball, ocean, sea, waves, horizon, island, sky, travel, nature",
+     "duration": 21,
+     "query": "friends travel"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "So your brain may be bad at handling money. But it's very good at one thing: feeling good when that money connects you to other people.",
+   "candidates": [
+    {
+     "pixabay_id": 116937,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_small.jpg",
+     "page": "https://pixabay.com/videos/id-116937/",
+     "tags": "fun, people, young, party, friends, group, friendship, lifestyle, students, celebration, happy, having, birthday, alcohol, college, diverse, man, woman, home, together, beer, leisure, laughing, vietnam, khmer",
+     "duration": 19,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 363873,
+     "url": "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/13/363873_small.jpg",
+     "page": "https://pixabay.com/videos/id-363873/",
+     "tags": "motivation, motivational, inspiration, friends",
+     "duration": 6,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 202134,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_small.jpg",
+     "page": "https://pixabay.com/videos/id-202134/",
+     "tags": "people, laptop, team, friend, sitting, grass",
+     "duration": 17,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 32938,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_small.jpg",
+     "page": "https://pixabay.com/videos/id-32938/",
+     "tags": "dance, celebrate, fun, celebration, happy, dancing, girl, festive, colorful, laughing, young, people, person",
+     "duration": 34,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 218795,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218795_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218795_small.jpg",
+     "page": "https://pixabay.com/videos/id-218795/",
+     "tags": "kids running, fun, happy, nature, laughing, smiling, ecuador",
+     "duration": 23,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, water, animal, pet, friend, nature",
+     "duration": 10,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 77626,
+     "url": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_small.jpg",
+     "page": "https://pixabay.com/videos/id-77626/",
+     "tags": "dog, puppy, pet, field, friend, playing, animal, freedom, playful, nature, outdoors",
+     "duration": 8,
+     "query": "friends laughing"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "If that surprised you, watch this next: why your brain only remembers the worst part and the ending of everything you live through.",
+   "candidates": [
+    {
+     "pixabay_id": 140111,
+     "url": "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_small.jpg",
+     "page": "https://pixabay.com/videos/id-140111/",
+     "tags": "sea, ocean, seagulls, birds, sunset, dusk, beach, paradise, flight, nature",
+     "duration": 20,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 153976,
+     "url": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_small.jpg",
+     "page": "https://pixabay.com/videos/id-153976/",
+     "tags": "sunset, sea, sun, evening atmosphere, nature, landscape",
+     "duration": 21,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 201308,
+     "url": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_small.jpg",
+     "page": "https://pixabay.com/videos/id-201308/",
+     "tags": "beach, ocean, sunset, sea, nature, sky, sun, sunrise, summer, outdoors",
+     "duration": 59,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 138588,
+     "url": "https://cdn.pixabay.com/video/2022/11/11/138588-770315514_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/11/138588-770315514_small.jpg",
+     "page": "https://pixabay.com/videos/id-138588/",
+     "tags": "sea, ocean, beach, waves, sun, dusk, sunset, nature, rest, meditation",
+     "duration": 29,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 1844,
+     "url": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_small.jpg",
+     "page": "https://pixabay.com/videos/id-1844/",
+     "tags": "sunrise, sunset, weather, sky, clouds, twilight, atmosphere, timelapse",
+     "duration": 28,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 206272,
+     "url": "https://cdn.pixabay.com/video/2024/03/30/206272_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/30/206272_small.jpg",
+     "page": "https://pixabay.com/videos/id-206272/",
+     "tags": "beach, sunset, sky, sea, dusk, ocean, sun, twilight, horizon, water, silhouette, seascape, scenic, boat, clouds, orange, nature",
+     "duration": 35,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 59291,
+     "url": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_small.jpg",
+     "page": "https://pixabay.com/videos/id-59291/",
+     "tags": "mountains, fog, clouds, sunset, sunrise, forest, vietnam",
+     "duration": 19,
+     "query": "sunset"
+    },
+    {
+     "pixabay_id": 22183,
+     "url": "https://cdn.pixabay.com/video/2019/03/21/22183-712840599_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/21/22183-712840599_small.jpg",
+     "page": "https://pixabay.com/videos/id-22183/",
+     "tags": "waves, water, sea, ocean, landscape, nature, sunset, coast",
+     "duration": 31,
+     "query": "sunset"
+    }
+   ]
+  }
+ ]
+}

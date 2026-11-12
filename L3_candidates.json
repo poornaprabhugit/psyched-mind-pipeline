@@ -1,0 +1,785 @@
+{
+ "id": "L3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Imagine a cinema. Small popcorn: three dollars. Large popcorn: seven dollars.",
+   "candidates": [
+    {
+     "pixabay_id": 2742,
+     "url": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_small.jpg",
+     "page": "https://pixabay.com/videos/id-2742/",
+     "tags": "popcorn, dive, pan, food, snack, corn, grain",
+     "duration": 17,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 190117,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_small.jpg",
+     "page": "https://pixabay.com/videos/id-190117/",
+     "tags": "couple, lovers, movies, popcorn, romance, relationship, valentine",
+     "duration": 8,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 37441,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_small.jpg",
+     "page": "https://pixabay.com/videos/id-37441/",
+     "tags": "popcorn, popping, corn, food, snack, sweet, kitchen, cooking pot, pot",
+     "duration": 30,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 2793,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_small.jpg",
+     "page": "https://pixabay.com/videos/id-2793/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 26,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 296780,
+     "url": "https://cdn.pixabay.com/video/2025/08/11/296780_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/11/296780_small.jpg",
+     "page": "https://pixabay.com/videos/id-296780/",
+     "tags": "frog, 4k, wildlife, film, movie, cinema, popcorn, projector, camera, theatre, media, curtain, clapperboard, filmstrip, youtube, award, filmmaking, entertainment, netflix, strip, demonstration, analog, recording",
+     "duration": 14,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 6391,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6391-191704480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6391-191704480_small.jpg",
+     "page": "https://pixabay.com/videos/id-6391/",
+     "tags": "popcorn, snack, cinema, machine, popcorn maker, food, entertainment",
+     "duration": 13,
+     "query": "popcorn"
+    },
+    {
+     "pixabay_id": 20738,
+     "url": "https://cdn.pixabay.com/video/2019/01/15/20738-311602920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/15/20738-311602920_small.jpg",
+     "page": "https://pixabay.com/videos/id-20738/",
+     "tags": "time lapse, kitchen, prescription, corn, oil, food, afternoon snack, popcorn, pop, salty, tasty, fluffy, fresh, delicious, nutrition, butter",
+     "duration": 65,
+     "query": "popcorn"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Most people pick the small.",
+   "candidates": [
+    {
+     "pixabay_id": 2793,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_small.jpg",
+     "page": "https://pixabay.com/videos/id-2793/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 26,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 2795,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2795-162802101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2795-162802101_small.jpg",
+     "page": "https://pixabay.com/videos/id-2795/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 39,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 247343,
+     "url": "https://cdn.pixabay.com/video/2024/12/18/247343_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/18/247343_small.jpg",
+     "page": "https://pixabay.com/videos/id-247343/",
+     "tags": "popcorn, food, cinema, snack, eat, entertainment, salty, tasty",
+     "duration": 26,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 190117,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_small.jpg",
+     "page": "https://pixabay.com/videos/id-190117/",
+     "tags": "couple, lovers, movies, popcorn, romance, relationship, valentine",
+     "duration": 8,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 120739,
+     "url": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_small.jpg",
+     "page": "https://pixabay.com/videos/id-120739/",
+     "tags": "lamb, farm animal, sheep, wool, animals, eating, nature, landscape, livestock, countryside",
+     "duration": 19,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 2104,
+     "url": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_small.jpg",
+     "page": "https://pixabay.com/videos/id-2104/",
+     "tags": "caterpillar, insect, danaus, gilippus, butterfly, calotropis, gigantea, pest, leaf, eating, animal, lilac",
+     "duration": 22,
+     "query": "popcorn eating"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "popcorn eating"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Now the cinema adds a medium for six fifty.",
+   "candidates": [
+    {
+     "pixabay_id": 190117,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_small.jpg",
+     "page": "https://pixabay.com/videos/id-190117/",
+     "tags": "couple, lovers, movies, popcorn, romance, relationship, valentine",
+     "duration": 8,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 2742,
+     "url": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_small.jpg",
+     "page": "https://pixabay.com/videos/id-2742/",
+     "tags": "popcorn, dive, pan, food, snack, corn, grain",
+     "duration": 17,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 149810,
+     "url": "https://cdn.pixabay.com/video/2023/02/08/149810-797189152_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/08/149810-797189152_small.jpg",
+     "page": "https://pixabay.com/videos/id-149810/",
+     "tags": "excavator bucket, excavator, stone, earthworks",
+     "duration": 30,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 2793,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_small.jpg",
+     "page": "https://pixabay.com/videos/id-2793/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 26,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 37441,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_small.jpg",
+     "page": "https://pixabay.com/videos/id-37441/",
+     "tags": "popcorn, popping, corn, food, snack, sweet, kitchen, cooking pot, pot",
+     "duration": 30,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 149809,
+     "url": "https://cdn.pixabay.com/video/2023/02/08/149809-797189150_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/08/149809-797189150_small.jpg",
+     "page": "https://pixabay.com/videos/id-149809/",
+     "tags": "excavator, stone, earthworks, excavator bucket",
+     "duration": 30,
+     "query": "popcorn bucket"
+    },
+    {
+     "pixabay_id": 28379,
+     "url": "https://cdn.pixabay.com/video/2019/10/28/28379-369341856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/28/28379-369341856_small.jpg",
+     "page": "https://pixabay.com/videos/id-28379/",
+     "tags": "autumn, background, beautiful, drips, beautiful wallpaper, forest, green, natural, nature, park, season, trees, water, well, wood, yellow, orange, colorful, bucket",
+     "duration": 6,
+     "query": "popcorn bucket"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Suddenly the large looks like a steal, just fifty cents more than the medium, and more people buy the large.",
+   "candidates": [
+    {
+     "pixabay_id": 190117,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/190117-887464159_small.jpg",
+     "page": "https://pixabay.com/videos/id-190117/",
+     "tags": "couple, lovers, movies, popcorn, romance, relationship, valentine",
+     "duration": 8,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 2742,
+     "url": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/08/2742-162242223_small.jpg",
+     "page": "https://pixabay.com/videos/id-2742/",
+     "tags": "popcorn, dive, pan, food, snack, corn, grain",
+     "duration": 17,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 2793,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_small.jpg",
+     "page": "https://pixabay.com/videos/id-2793/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 26,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 37441,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37441-414024639_small.jpg",
+     "page": "https://pixabay.com/videos/id-37441/",
+     "tags": "popcorn, popping, corn, food, snack, sweet, kitchen, cooking pot, pot",
+     "duration": 30,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 85687,
+     "url": "https://cdn.pixabay.com/video/2021/08/19/85687-591865503_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/19/85687-591865503_small.jpg",
+     "page": "https://pixabay.com/videos/id-85687/",
+     "tags": "giraffe, elegant, mammal, large, wilderness, savannah, nature, africa",
+     "duration": 21,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 85690,
+     "url": "https://cdn.pixabay.com/video/2021/08/19/85690-591865446_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/19/85690-591865446_small.jpg",
+     "page": "https://pixabay.com/videos/id-85690/",
+     "tags": "giraffe, large, mammal, elegant, wilderness, savannah, nature, africa",
+     "duration": 13,
+     "query": "large popcorn"
+    },
+    {
+     "pixabay_id": 85689,
+     "url": "https://cdn.pixabay.com/video/2021/08/19/85689-591865341_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/19/85689-591865341_small.jpg",
+     "page": "https://pixabay.com/videos/id-85689/",
+     "tags": "giraffe, mammal, large, elegant, wilderness, savannah, nature, africa",
+     "duration": 25,
+     "query": "large popcorn"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Nobody really wanted the medium. It was never meant to sell. It's a decoy.",
+   "candidates": [
+    {
+     "pixabay_id": 265501,
+     "url": "https://cdn.pixabay.com/video/2025/03/18/265501_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/18/265501_small.jpg",
+     "page": "https://pixabay.com/videos/id-265501/",
+     "tags": "duck, baby, bird, nature, animal, ornithology, beak, chick, feathers, fauna, grass",
+     "duration": 31,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 217302,
+     "url": "https://cdn.pixabay.com/video/2024/06/19/217302_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/19/217302_small.jpg",
+     "page": "https://pixabay.com/videos/id-217302/",
+     "tags": "duck, redhead duck, bird, waterfowl",
+     "duration": 18,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 219831,
+     "url": "https://cdn.pixabay.com/video/2024/07/07/219831_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/07/219831_small.jpg",
+     "page": "https://pixabay.com/videos/id-219831/",
+     "tags": "ducks, mallard duck, wild ducks, anas platyrhynchos, duck behavior, mallard habitat, mallard diet, duck migration, mallard reproduction, duck videos, duck documentary, ducks in water, ducks and wetlands, waterfowl, duck conservation, nature, bird behavior, wildlife, 4k bird watching, slow motion birds, slow motion 4k, canada",
+     "duration": 12,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 119018,
+     "url": "https://cdn.pixabay.com/video/2022/06/02/119018-716626064_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/02/119018-716626064_small.jpg",
+     "page": "https://pixabay.com/videos/id-119018/",
+     "tags": "white-cheeked duck, ducklings, duck, spot billed duck, animal, wild, nature",
+     "duration": 50,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 218810,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218810_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218810_small.jpg",
+     "page": "https://pixabay.com/videos/id-218810/",
+     "tags": "redhead duck, bird, aythya americana, diving duck, north american bird, wetlands, duck migration, redhead diving duck, bird watching, redhead duck habitat, waterfowl conservation, duck reproduction, wetland wildlife, wintering ducks, nature, north american wildlife, bird ecology",
+     "duration": 12,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 5320,
+     "url": "https://cdn.pixabay.com/video/2016/09/19/5320-183300233_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/19/5320-183300233_small.jpg",
+     "page": "https://pixabay.com/videos/id-5320/",
+     "tags": "duck, the park, pond, to swim, wild duck, birds, water",
+     "duration": 21,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 122306,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122306-725067623_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122306-725067623_small.jpg",
+     "page": "https://pixabay.com/videos/id-122306/",
+     "tags": "duck, tufted duck, waterbird, bird, animal, funny, swimming, water, lily pads, rain, male, female",
+     "duration": 21,
+     "query": "decoy duck"
+    },
+    {
+     "pixabay_id": 7151,
+     "url": "https://cdn.pixabay.com/video/2017/01/08/7151-199191168_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/08/7151-199191168_small.jpg",
+     "page": "https://pixabay.com/videos/id-7151/",
+     "tags": "duck on a pond, floating duck, duck, water surface, pond, birds",
+     "duration": 21,
+     "query": "decoy duck"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Researchers have shown this again and again: adding an option that is clearly worse makes the better option look much more attractive.",
+   "candidates": [
+    {
+     "pixabay_id": 20910,
+     "url": "https://cdn.pixabay.com/video/2019/01/24/20910-313490233_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/24/20910-313490233_small.jpg",
+     "page": "https://pixabay.com/videos/id-20910/",
+     "tags": "supermarket, shopping, shop, retail trade, food, shopping venture, consumption, load, purchasing, products, consumer, meal, customer, supermarket shelf, shelf, floor, tiles, market, shopping market, vegetables, fruit, department",
+     "duration": 18,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 21117,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21117-315137086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21117-315137086_small.jpg",
+     "page": "https://pixabay.com/videos/id-21117/",
+     "tags": "supermarket",
+     "duration": 6,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 137365,
+     "url": "https://cdn.pixabay.com/video/2022/11/01/137365-766338320_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/01/137365-766338320_small.jpg",
+     "page": "https://pixabay.com/videos/id-137365/",
+     "tags": "pumpkin, fruit, vegetable, halloween, plant, vegetarian, supermarket, colored, green, nature, feast",
+     "duration": 6,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 4730,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4730-179738652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4730-179738652_small.jpg",
+     "page": "https://pixabay.com/videos/id-4730/",
+     "tags": "indoor market, vegetable market, groceries, market, food, vegetable, organic, lifestyle, store, retail, supermarket, shop, healthy, consumerism, customer, shopping, caucasian, purchasing, natural, fresh",
+     "duration": 14,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 11253,
+     "url": "https://cdn.pixabay.com/video/2017/08/09/11253-229053638_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/09/11253-229053638_small.jpg",
+     "page": "https://pixabay.com/videos/id-11253/",
+     "tags": "book, shelf, inserting, library, literature, education, bookshelf, study, knowledge, read, bookcase, hand, male, placing, setting",
+     "duration": 7,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 41506,
+     "url": "https://cdn.pixabay.com/video/2020/06/08/41506-429661323_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/08/41506-429661323_small.jpg",
+     "page": "https://pixabay.com/videos/id-41506/",
+     "tags": "shelves, books, library, education, reading, a shelf, to read, literature, closet, the culture, language, development",
+     "duration": 13,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 11254,
+     "url": "https://cdn.pixabay.com/video/2017/08/09/11254-229053639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/09/11254-229053639_small.jpg",
+     "page": "https://pixabay.com/videos/id-11254/",
+     "tags": "bookshelf, book, library, education, knowledge, literature, shelf, textbook, bookstore, read, bookcase, studying, row, hand, male, man, setting, putting back",
+     "duration": 8,
+     "query": "supermarket shelf"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Your brain struggles to judge value on its own. It's much easier to compare.",
+   "candidates": [
+    {
+     "pixabay_id": 4315,
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_small.jpg",
+     "page": "https://pixabay.com/videos/id-4315/",
+     "tags": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast",
+     "duration": 27,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 127862,
+     "url": "https://cdn.pixabay.com/video/2022/08/14/127862-739487691_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/14/127862-739487691_small.jpg",
+     "page": "https://pixabay.com/videos/id-127862/",
+     "tags": "flower, plant, fennel, bee, insect, animal, bloom, product, vegetable, summer",
+     "duration": 30,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 45675,
+     "url": "https://cdn.pixabay.com/video/2020/07/27/45675-446485292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/27/45675-446485292_small.jpg",
+     "page": "https://pixabay.com/videos/id-45675/",
+     "tags": "pharmacy, production, factory, chemistry, product drug, medical, health, healthy, healthcare, disease, doctor, pharmaceutical, green",
+     "duration": 18,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 44598,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44598-439940213_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44598-439940213_small.jpg",
+     "page": "https://pixabay.com/videos/id-44598/",
+     "tags": "floating market, vietnam, river, farmer, business, boat, agriculture product, sale, buy, Vietnam, Can Tho",
+     "duration": 10,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 42963,
+     "url": "https://cdn.pixabay.com/video/2020/06/23/42963-434316724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/23/42963-434316724_small.jpg",
+     "page": "https://pixabay.com/videos/id-42963/",
+     "tags": "skincare, man, moisturizer, lotion, moisturizing, wellness, healthy, product, cosmetics, face, facial, treatment, bearded man, acne, skin, care, clean, hygiene, health",
+     "duration": 29,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 12437,
+     "url": "https://cdn.pixabay.com/video/2017/10/12/12437-238795767_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/12/12437-238795767_small.jpg",
+     "page": "https://pixabay.com/videos/id-12437/",
+     "tags": "roof coating, patriot roof coating products, nrcca, best roof coatings, roof coating contractor, commercial roof coating, elastomeric roof coating, roof paint, silicone roof coating, acrylic roof coating, white roof systems, white roofing products",
+     "duration": 17,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 209634,
+     "url": "https://cdn.pixabay.com/video/2024/04/27/209634_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/27/209634_small.jpg",
+     "page": "https://pixabay.com/videos/id-209634/",
+     "tags": "woman, cosmetics, products, freshness, healthy, beauty",
+     "duration": 9,
+     "query": "comparing products"
+    },
+    {
+     "pixabay_id": 14418,
+     "url": "https://cdn.pixabay.com/video/2018/02/21/14418-257068796_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/21/14418-257068796_small.jpg",
+     "page": "https://pixabay.com/videos/id-14418/",
+     "tags": "kitchen, nutrition, onion, vegetables, healthy diet, products, food, cook, organic products, healthy eating",
+     "duration": 17,
+     "query": "comparing products"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "So it compares whatever options are in front of it, even the ones placed there on purpose.",
+   "candidates": [
+    {
+     "pixabay_id": 910,
+     "url": "https://cdn.pixabay.com/video/2015/10/08/910-141888470_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/08/910-141888470_small.jpg",
+     "page": "https://pixabay.com/videos/id-910/",
+     "tags": "restaurant, meal, lunch, spain, traditional, food, table, plate, gourmet, eat, people, restaurant table, dish, menu, food and wine, persons, enjoying, 139718812",
+     "duration": 8,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 1623,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_small.jpg",
+     "page": "https://pixabay.com/videos/id-1623/",
+     "tags": "cafe, restaurant, talking, talk, people, sitting, chatting, menu, coffee, dinner, table, bar, drink, interior, cafe interior, restaurant interior",
+     "duration": 19,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11691,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_small.jpg",
+     "page": "https://pixabay.com/videos/id-11691/",
+     "tags": "cola, chicken, wings, food, fast, meat, snack, meal, french, fastfood, menu, fried, eating, fries, cup, sauce, restaurant, ketchup, lettuce, set",
+     "duration": 31,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11657,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11657-231758747_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11657-231758747_small.jpg",
+     "page": "https://pixabay.com/videos/id-11657/",
+     "tags": "cooking, prawn, in, sauce, food, seafood, shrimp, meal, cuisine, dinner, fresh, restaurant, nutrition, healthy, dish, kitchen, herb, culinary, recipe, ingredient, menu, prepare, oil, tomato, collage, composition, chef",
+     "duration": 58,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11607,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11607-231571864_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11607-231571864_small.jpg",
+     "page": "https://pixabay.com/videos/id-11607/",
+     "tags": "lobster, tails, cooking, seafood, food, fish, dinner, sea, meat, restaurant, meal, market, cuisine, cooked, shellfish, menu, grilled, shell, cook, kitchen, preparation, asian",
+     "duration": 22,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11603,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11603-231571844_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11603-231571844_small.jpg",
+     "page": "https://pixabay.com/videos/id-11603/",
+     "tags": "pork, cook, meat, food, cooking, dinner, steak, barbecue, delicious, ingredient, cut, hot, nutrition, menu, preparation, piece, red, kitchen, meal, restaurant",
+     "duration": 55,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11625,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11625-231571945_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11625-231571945_small.jpg",
+     "page": "https://pixabay.com/videos/id-11625/",
+     "tags": "crispy, beef, food, meal, meat, dinner, delicious, lunch, grilled, fresh, cuisine, sauce, restaurant, pepper, homemade, fried, cooking, tasty, plate, red, menu, snack",
+     "duration": 28,
+     "query": "menu restaurant"
+    },
+    {
+     "pixabay_id": 11621,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11621-231571931_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11621-231571931_small.jpg",
+     "page": "https://pixabay.com/videos/id-11621/",
+     "tags": "noodle, salad, dish, vegetable, dinner, asian, cuisine, chinese, food, bowl, green, restaurant, top, rice, healthy, meal, thai, shrimp, plate, cooking, lunch, menu, fresh, chopsticks, spicy, sauce",
+     "duration": 17,
+     "query": "menu restaurant"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "Next time you see three options, ask yourself: if the middle one didn't exist, which would I choose?",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "Halfway through, here's the study that changes how you think about losing money.",
+   "candidates": [
+    {
+     "pixabay_id": 130439,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_small.jpg",
+     "page": "https://pixabay.com/videos/id-130439/",
+     "tags": "theater, stage, caesarea, caesarea national park, ancient theater, israel, mediterranean sea, roman, architecture",
+     "duration": 13,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380218,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380218_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380218_small.jpg",
+     "page": "https://pixabay.com/videos/id-380218/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 6,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380217,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380217_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380217_small.jpg",
+     "page": "https://pixabay.com/videos/id-380217/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 5,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380220,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380220_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380220_small.jpg",
+     "page": "https://pixabay.com/videos/id-380220/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 12,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380221,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380221_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380221_small.jpg",
+     "page": "https://pixabay.com/videos/id-380221/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 6,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 380219,
+     "url": "https://cdn.pixabay.com/video/2026/10/01/380219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/01/380219_small.jpg",
+     "page": "https://pixabay.com/videos/id-380219/",
+     "tags": "drums, drummer, drum kit, cymbal, hi hat, tom tom, snare drum, percussion, rhythm, beat, rock music, post rock, progressive rock, depressive rock, instrumental rock, live performance, stage performance, music performance, black box theater, stage lighting, red light, blue light, concert rehearsal, 4k video, high quality",
+     "duration": 15,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 37735,
+     "url": "https://cdn.pixabay.com/video/2020/05/01/37735-415142681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/01/37735-415142681_small.jpg",
+     "page": "https://pixabay.com/videos/id-37735/",
+     "tags": "acropolis, acropolis greece, building, old theatre stage, sky, tourism, town, old city panorama, old, historic, landmark, culture, urban",
+     "duration": 8,
+     "query": "theater stage"
+    },
+    {
+     "pixabay_id": 1275,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_small.jpg",
+     "page": "https://pixabay.com/videos/id-1275/",
+     "tags": "rotting christ, rock, concert, band, heavy metal, rock concert, music, entertainment, performance, stage, people, crowd, audience, club, light, stage lights, sound, live, party, event, fun, night, nightlife, 130680504",
+     "duration": 18,
+     "query": "theater stage"
+    }
+   ]
+  }
+ ]
+}

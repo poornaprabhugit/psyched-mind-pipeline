@@ -1,0 +1,707 @@
+{
+ "id": "L5",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Researchers gave coffee mugs to half the students in a class. The other half got nothing.",
+   "candidates": [
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 133319,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_small.jpg",
+     "page": "https://pixabay.com/videos/id-133319/",
+     "tags": "coffee, coffee mug, office, desk",
+     "duration": 21,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 133988,
+     "url": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_small.jpg",
+     "page": "https://pixabay.com/videos/id-133988/",
+     "tags": "coffee, cup, mug, drink",
+     "duration": 21,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 142370,
+     "url": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_small.jpg",
+     "page": "https://pixabay.com/videos/id-142370/",
+     "tags": "coffee, drink, cup, mug, desk, computer",
+     "duration": 33,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 3595,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_small.jpg",
+     "page": "https://pixabay.com/videos/id-3595/",
+     "tags": "cup of coffee, hot, beverage, morning, aroma, steam, coffee, cup, drink, cafe, cappuccino, tea, espresso, mug, mocha, caffeine",
+     "duration": 44,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 69435,
+     "url": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_small.jpg",
+     "page": "https://pixabay.com/videos/id-69435/",
+     "tags": "cup, coffee, caffeine, drink, cafe, espresso, morning, mug, cappuccino",
+     "duration": 10,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 3158,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_small.jpg",
+     "page": "https://pixabay.com/videos/id-3158/",
+     "tags": "cup of coffee, hot, steaming, coffee, cup, drink, espresso, coffee cup, beverage, caffeine, mug, morning, fresh, cafe, breakfast, warm, aroma, brewed, liquid, cappuccino, table",
+     "duration": 50,
+     "query": "coffee mug"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Then they let them trade. Owners named the lowest price they'd accept. Buyers named the highest price they'd pay.",
+   "candidates": [
+    {
+     "pixabay_id": 272515,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272515_small.jpg",
+     "page": "https://pixabay.com/videos/id-272515/",
+     "tags": "urban, skyscraper, one world trade center, nyc, new york city, america, the usa, united states, tower, skyline, new york, manhattan, financial, downtown, district, city, architecture, wtc, world trade center, world trade, us, ny, metropolis, lower manhattan, highrise",
+     "duration": 14,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 216619,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216619_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216619_small.jpg",
+     "page": "https://pixabay.com/videos/id-216619/",
+     "tags": "shipping, import, export, port, container, trade, industry, transport",
+     "duration": 36,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 128565,
+     "url": "https://cdn.pixabay.com/video/2022/08/20/128565-741747709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/20/128565-741747709_small.jpg",
+     "page": "https://pixabay.com/videos/id-128565/",
+     "tags": "trade, bags, crafts, market, frida kahlo, mexico, morelos",
+     "duration": 5,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 23759,
+     "url": "https://cdn.pixabay.com/video/2019/05/17/23759-337232393_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/17/23759-337232393_small.jpg",
+     "page": "https://pixabay.com/videos/id-23759/",
+     "tags": "container, terminal, night, cargo, port, logistics, shipping, trade, export, ship, water, loading, industry, transport, delivery",
+     "duration": 19,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 23215,
+     "url": "https://cdn.pixabay.com/video/2019/05/01/23215-334239340_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/01/23215-334239340_small.jpg",
+     "page": "https://pixabay.com/videos/id-23215/",
+     "tags": "container ship, transport, logistics, cargo, container, shipping, export, ship, trade, port, import, industry, transportation, logistic, terminal",
+     "duration": 15,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 206633,
+     "url": "https://cdn.pixabay.com/video/2024/04/02/206633_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/02/206633_small.jpg",
+     "page": "https://pixabay.com/videos/id-206633/",
+     "tags": "boat, barges, lake, sailing boat, navigation, river, transport, trade, transport boat, landscape, nature",
+     "duration": 18,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 7676,
+     "url": "https://cdn.pixabay.com/video/2017/02/05/7676-202716543_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/05/7676-202716543_small.jpg",
+     "page": "https://pixabay.com/videos/id-7676/",
+     "tags": "market place, shopping mall, trade, barcelona, secondhand, spain, people, fashion, europe, tourism, spanish, european, town, tourists",
+     "duration": 11,
+     "query": "trade handshake"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "trade handshake"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "If people valued mugs the same way, about half the mugs should have changed hands. Very few did.",
+   "candidates": [
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 3158,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_small.jpg",
+     "page": "https://pixabay.com/videos/id-3158/",
+     "tags": "cup of coffee, hot, steaming, coffee, cup, drink, espresso, coffee cup, beverage, caffeine, mug, morning, fresh, cafe, breakfast, warm, aroma, brewed, liquid, cappuccino, table",
+     "duration": 50,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 243728,
+     "url": "https://cdn.pixabay.com/video/2024/11/28/243728_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/28/243728_small.jpg",
+     "page": "https://pixabay.com/videos/id-243728/",
+     "tags": "coffee, caffeine, cup, food, drink, beverage, man, cafe, hot, beans, table, aroma, mug, breakfast, cappuccino, sugar, drinks, roasted, morning, porcelain",
+     "duration": 44,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10422,
+     "url": "https://cdn.pixabay.com/video/2017/07/02/10422-224677291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/02/10422-224677291_small.jpg",
+     "page": "https://pixabay.com/videos/id-10422/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 10,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10391,
+     "url": "https://cdn.pixabay.com/video/2017/06/30/10391-224677287_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/30/10391-224677287_small.jpg",
+     "page": "https://pixabay.com/videos/id-10391/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 13,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10418,
+     "url": "https://cdn.pixabay.com/video/2017/07/02/10418-224677286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/02/10418-224677286_small.jpg",
+     "page": "https://pixabay.com/videos/id-10418/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 12,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 243727,
+     "url": "https://cdn.pixabay.com/video/2024/11/28/243727_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/28/243727_small.jpg",
+     "page": "https://pixabay.com/videos/id-243727/",
+     "tags": "coffee, caffeine, cup, food, beverage, drink, mug, cafe, hot, beans, table, cappuccino, aroma, sugar, drinks, roasted, espresso, morning",
+     "duration": 15,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 126431,
+     "url": "https://cdn.pixabay.com/video/2022/08/02/126431-735976914_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/02/126431-735976914_small.jpg",
+     "page": "https://pixabay.com/videos/id-126431/",
+     "tags": "coffee, coffee mug, coffee cup, table, americano",
+     "duration": 8,
+     "query": "mug table"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "The owners wanted more than twice what the buyers would pay, for a mug they'd owned for just a few minutes.",
+   "candidates": [
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 133988,
+     "url": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_small.jpg",
+     "page": "https://pixabay.com/videos/id-133988/",
+     "tags": "coffee, cup, mug, drink",
+     "duration": 21,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 142370,
+     "url": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_small.jpg",
+     "page": "https://pixabay.com/videos/id-142370/",
+     "tags": "coffee, drink, cup, mug, desk, computer",
+     "duration": 33,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 133319,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_small.jpg",
+     "page": "https://pixabay.com/videos/id-133319/",
+     "tags": "coffee, coffee mug, office, desk",
+     "duration": 21,
+     "query": "holding mug"
+    },
+    {
+     "pixabay_id": 7817,
+     "url": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_small.jpg",
+     "page": "https://pixabay.com/videos/id-7817/",
+     "tags": "sparkler, sparkles, cinemagraph, holding, hands, firework, fire",
+     "duration": 10,
+     "query": "holding mug"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "This is the endowment effect. The moment something becomes yours, giving it up feels like a loss.",
+   "candidates": [
+    {
+     "pixabay_id": 50461,
+     "url": "https://cdn.pixabay.com/video/2020/09/20/50461-460509270_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/20/50461-460509270_small.jpg",
+     "page": "https://pixabay.com/videos/id-50461/",
+     "tags": "object, flame, flammable, lighter, hand, fire, equipment, metal, gas, holding, burn, finger",
+     "duration": 75,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 101795,
+     "url": "https://cdn.pixabay.com/video/2021/12/17/101795-658820227_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/17/101795-658820227_small.jpg",
+     "page": "https://pixabay.com/videos/id-101795/",
+     "tags": "cigarette, tobacco, smoke, smoking, hand, addiction, burning, holding",
+     "duration": 9,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 101929,
+     "url": "https://cdn.pixabay.com/video/2021/12/18/101929-658840398_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/18/101929-658840398_small.jpg",
+     "page": "https://pixabay.com/videos/id-101929/",
+     "tags": "cigarette, tobacco, hand, holding, lighter, fire, flame, lighting, smoke",
+     "duration": 15,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 47551,
+     "url": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_small.jpg",
+     "page": "https://pixabay.com/videos/id-47551/",
+     "tags": "pot, flowers, hand, woman, garden, nature, gardening, holding, smelling flowers, springtime, green, natural, flower pot, environment, plant, earth",
+     "duration": 10,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 7817,
+     "url": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_small.jpg",
+     "page": "https://pixabay.com/videos/id-7817/",
+     "tags": "sparkler, sparkles, cinemagraph, holding, hands, firework, fire",
+     "duration": 10,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "holding hands object"
+    },
+    {
+     "pixabay_id": 79759,
+     "url": "https://cdn.pixabay.com/video/2021/07/01/79759-570129603_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/01/79759-570129603_small.jpg",
+     "page": "https://pixabay.com/videos/id-79759/",
+     "tags": "ammo, ammunition, barrel, bullet, charge, closeup, crime, double-barreled, gun, handgun, holding, hunter, load, man, metal, object, opening, outdoors, prepare, reload, reloading, rifle, shooting, shotgun, weapon",
+     "duration": 10,
+     "query": "holding hands object"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "And losses hit your brain harder than gains. Studies suggest a loss feels roughly twice as strong as a gain of the same size.",
+   "candidates": [
+    {
+     "pixabay_id": 85428,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85428-588675541_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85428-588675541_small.jpg",
+     "page": "https://pixabay.com/videos/id-85428/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 14,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 54162,
+     "url": "https://cdn.pixabay.com/video/2020/11/03/54162-476539778_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/03/54162-476539778_small.jpg",
+     "page": "https://pixabay.com/videos/id-54162/",
+     "tags": "man, boy, sad, depression, fitness, health, mood",
+     "duration": 23,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85432,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85432-588675535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85432-588675535_small.jpg",
+     "page": "https://pixabay.com/videos/id-85432/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 6,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85430,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85430-588675550_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85430-588675550_small.jpg",
+     "page": "https://pixabay.com/videos/id-85430/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 8,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85433,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85433-588675531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85433-588675531_small.jpg",
+     "page": "https://pixabay.com/videos/id-85433/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 11,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85429,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85429-588675545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85429-588675545_small.jpg",
+     "page": "https://pixabay.com/videos/id-85429/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 7,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85427,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85427-588675539_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85427-588675539_small.jpg",
+     "page": "https://pixabay.com/videos/id-85427/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 6,
+     "query": "sad man"
+    },
+    {
+     "pixabay_id": 85431,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85431-588675537_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85431-588675537_small.jpg",
+     "page": "https://pixabay.com/videos/id-85431/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 6,
+     "query": "sad man"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why free trials work so well. Once something is yours, cancelling feels like losing it.",
+   "candidates": [
+    {
+     "pixabay_id": 26531,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_small.jpg",
+     "page": "https://pixabay.com/videos/id-26531/",
+     "tags": "camera, camcorder, video, movie theater, equipment, lens, digital, technology, audiovisual, media, photo, tv, production, image, streaming, studio, the operator, event, people, celebration, show, crowd, entertainment",
+     "duration": 14,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 110608,
+     "url": "https://cdn.pixabay.com/video/2022/03/13/110608-689925303_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/13/110608-689925303_small.jpg",
+     "page": "https://pixabay.com/videos/id-110608/",
+     "tags": "land, sunrise, rocks, stream, peaceful, sunset, turning, television, spaceship, security, moon, clouds, nature, 4k",
+     "duration": 15,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 27228,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27228-362518551_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27228-362518551_small.jpg",
+     "page": "https://pixabay.com/videos/id-27228/",
+     "tags": "tv effect, glitch effect, technology, glitch, distortion, tv, chaos, digital, signal, effect, noise, monitor",
+     "duration": 50,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 46570,
+     "url": "https://cdn.pixabay.com/video/2020/08/06/46570-447876229_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/06/46570-447876229_small.jpg",
+     "page": "https://pixabay.com/videos/id-46570/",
+     "tags": "water, spring, river, nature, streaming",
+     "duration": 23,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 198979,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198979-909251560_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198979-909251560_small.jpg",
+     "page": "https://pixabay.com/videos/id-198979/",
+     "tags": "buildings, skyscrapers, tv tower, city, aerial, drone, urban, sunshine, park, river, water, pudong, shanghai tv tower, pearl tower, shanghai, china",
+     "duration": 13,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 177032,
+     "url": "https://cdn.pixabay.com/video/2023/08/21/177032-856646679_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/21/177032-856646679_small.jpg",
+     "page": "https://pixabay.com/videos/id-177032/",
+     "tags": "buildings, tv tower, skyscrapers, city, china, aerial, drone, urban, sunshine, park, river, water, shanghai, pudong, shanghai tv tower, pearl tower",
+     "duration": 58,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 15711,
+     "url": "https://cdn.pixabay.com/video/2018/04/20/15711-266043576_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/20/15711-266043576_small.jpg",
+     "page": "https://pixabay.com/videos/id-15711/",
+     "tags": "movie project, tv, studio, movie",
+     "duration": 5,
+     "query": "streaming tv"
+    },
+    {
+     "pixabay_id": 26536,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26536-357855259_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26536-357855259_small.jpg",
+     "page": "https://pixabay.com/videos/id-26536/",
+     "tags": "instagram, social network, internet, communication, social, smartphone, digital, community, multimedia, connection, live, streaming, transmission, mobile, hands",
+     "duration": 18,
+     "query": "streaming tv"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "And it's why that box of stuff in your closet is so hard to throw away.",
+   "candidates": [
+    {
+     "pixabay_id": 8686,
+     "url": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_small.jpg",
+     "page": "https://pixabay.com/videos/id-8686/",
+     "tags": "box, taper, industrial, production, packaging, cardboard, line, industry, postal service, logistics, package, packing, packing boxes",
+     "duration": 8,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 22333,
+     "url": "https://cdn.pixabay.com/video/2019/03/26/22333-326843232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/26/22333-326843232_small.jpg",
+     "page": "https://pixabay.com/videos/id-22333/",
+     "tags": "present, cardboard, presentation",
+     "duration": 5,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 143884,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_small.jpg",
+     "page": "https://pixabay.com/videos/id-143884/",
+     "tags": "christmas, xmas, decoration, celebration, gifts, 25 december, christmas gifts, gifts boxes, box",
+     "duration": 7,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 20112,
+     "url": "https://cdn.pixabay.com/video/2018/12/18/20112-307163913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/18/20112-307163913_small.jpg",
+     "page": "https://pixabay.com/videos/id-20112/",
+     "tags": "boxing, woman, sports, person, fight, body, female, model",
+     "duration": 13,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 2775,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_small.jpg",
+     "page": "https://pixabay.com/videos/id-2775/",
+     "tags": "blue tit, bird box, bird house, garden, nest, mate, bird, box, wildlife, nature, spring, small, nesting, ornithology, songbird, birdwatching",
+     "duration": 30,
+     "query": "cardboard boxes"
+    },
+    {
+     "pixabay_id": 65672,
+     "url": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_small.jpg",
+     "page": "https://pixabay.com/videos/id-65672/",
+     "tags": "honey, honey bees, honey box, crate, farm",
+     "duration": 52,
+     "query": "cardboard boxes"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "The next study shows how your brain handles the future, and how a simple change helped people save almost four times more.",
+   "candidates": [
+    {
+     "pixabay_id": 27981,
+     "url": "https://cdn.pixabay.com/video/2019/10/16/27981-366792806_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/16/27981-366792806_small.jpg",
+     "page": "https://pixabay.com/videos/id-27981/",
+     "tags": "sci fi, space, s, fantasy, sci-fi, futuristic, spaceship, future, alien",
+     "duration": 10,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 27980,
+     "url": "https://cdn.pixabay.com/video/2019/10/16/27980-366792816_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/16/27980-366792816_small.jpg",
+     "page": "https://pixabay.com/videos/id-27980/",
+     "tags": "sci fi, space, s, fantasy, sci-fi, futuristic, spaceship, future",
+     "duration": 11,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 19798,
+     "url": "https://cdn.pixabay.com/video/2018/12/06/19798-305283552_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/06/19798-305283552_small.jpg",
+     "page": "https://pixabay.com/videos/id-19798/",
+     "tags": "computer, universe, galaxy, space, science, technology, planet, earth, cosmos, future",
+     "duration": 5,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 2805,
+     "url": "https://cdn.pixabay.com/video/2016/04/15/2805-162943479_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/15/2805-162943479_small.jpg",
+     "page": "https://pixabay.com/videos/id-2805/",
+     "tags": "faucet, waste, water, economy, rationing, dripping, leaky faucet, energy, life, vital, nature, planet, open, cleaning, drink, metal, chrome, future compromised, save",
+     "duration": 34,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 6558,
+     "url": "https://cdn.pixabay.com/video/2016/11/25/6558-193388924_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/25/6558-193388924_small.jpg",
+     "page": "https://pixabay.com/videos/id-6558/",
+     "tags": "wind energy, windmill, wind, turbine, landscape, fields, renewable, energy, germany, sun, nature, environment, generator, electricity, power, environmental, mill, future, summer, sunlight, green, above, sunset, sunrise",
+     "duration": 9,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 79105,
+     "url": "https://cdn.pixabay.com/video/2021/06/26/79105-567908704_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/26/79105-567908704_small.jpg",
+     "page": "https://pixabay.com/videos/id-79105/",
+     "tags": "path, trek, hike, mountain, rocks, hill city, nature, ecology, ecological, environment, environmental, sustainability, future, clean air, health, pollution, sky, clouds, panorama, landscape, hiking, cactus, track, trail, footpath",
+     "duration": 30,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 241218,
+     "url": "https://cdn.pixabay.com/video/2024/11/13/241218_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/13/241218_small.jpg",
+     "page": "https://pixabay.com/videos/id-241218/",
+     "tags": "technology, tech, computer, digital, future, modern, programmer, virtual, internet, science",
+     "duration": 11,
+     "query": "future"
+    },
+    {
+     "pixabay_id": 176389,
+     "url": "https://cdn.pixabay.com/video/2023/08/17/176389-855480345_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/17/176389-855480345_small.jpg",
+     "page": "https://pixabay.com/videos/id-176389/",
+     "tags": "sunset, parent and child, sun, horizon, future, father, daughter",
+     "duration": 11,
+     "query": "future"
+    }
+   ]
+  }
+ ]
+}

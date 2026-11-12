@@ -1,0 +1,707 @@
+{
+ "id": "L2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Researchers asked experienced real estate agents to value a house.",
+   "candidates": [
+    {
+     "pixabay_id": 198888,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_small.jpg",
+     "page": "https://pixabay.com/videos/id-198888/",
+     "tags": "business, real estate, home, department, attorney, legal, balance, sale, market",
+     "duration": 10,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 110923,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110923-689949643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110923-689949643_small.jpg",
+     "page": "https://pixabay.com/videos/id-110923/",
+     "tags": "commercial, district, downtown, real estate, skyscraper, tower, business, urban, architecture, building, city, cityscape, banking, corporate, corporation, development, dramatic, dusk, economy, engineering, estate",
+     "duration": 7,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 185341,
+     "url": "https://cdn.pixabay.com/video/2023/10/17/185341-875417497_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/17/185341-875417497_small.jpg",
+     "page": "https://pixabay.com/videos/id-185341/",
+     "tags": "building, skyscraper, architecture, corporate, business, office, real estate, urban, skyline, cityscape",
+     "duration": 10,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 172861,
+     "url": "https://cdn.pixabay.com/video/2023/07/22/172861-847869894_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/22/172861-847869894_small.jpg",
+     "page": "https://pixabay.com/videos/id-172861/",
+     "tags": "villa, property, alanya mansions, antalya, basement, holiday, real estate, Alanya, Antalya, T\u00fcrkiye",
+     "duration": 31,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 154852,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154852-808562600_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154852-808562600_small.jpg",
+     "page": "https://pixabay.com/videos/id-154852/",
+     "tags": "cottages, camping, architecture, buildings, real estate",
+     "duration": 18,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 29886,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_small.jpg",
+     "page": "https://pixabay.com/videos/id-29886/",
+     "tags": "web, internet, real estate, laptop, digital, media, connected, tech, computer, information, communication, network, property, selling, home, house sale, searching, buying",
+     "duration": 24,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 1027,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1027-142621279_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1027-142621279_small.jpg",
+     "page": "https://pixabay.com/videos/id-1027/",
+     "tags": "home, house, returning, real estate, family, coming home, evening, nightfall, building, shelter, property, residential",
+     "duration": 16,
+     "query": "real estate agent"
+    },
+    {
+     "pixabay_id": 239967,
+     "url": "https://cdn.pixabay.com/video/2024/11/05/239967_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/05/239967_small.jpg",
+     "page": "https://pixabay.com/videos/id-239967/",
+     "tags": "skyscrapers, buildings, city, the fa\u00e7ade of the, architecture, contemporary, urban, glass, real estate, house, design",
+     "duration": 31,
+     "query": "real estate agent"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "They toured it, saw the neighbourhood, and got the same information sheet.",
+   "candidates": [
+    {
+     "pixabay_id": 377291,
+     "url": "https://cdn.pixabay.com/video/2026/09/18/377291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/18/377291_small.jpg",
+     "page": "https://pixabay.com/videos/id-377291/",
+     "tags": "castle, historical, architecture, stone, europe, ocean, jesus, christian, cloudy, gray, red, roof, brick, house, tour, travel, trip, tourism",
+     "duration": 26,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 197898,
+     "url": "https://cdn.pixabay.com/video/2024/01/23/197898-905833761_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/23/197898-905833761_small.jpg",
+     "page": "https://pixabay.com/videos/id-197898/",
+     "tags": "desert, landrover, offroad, sand, adventure, travel, tour, 4x4, cars",
+     "duration": 17,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 54705,
+     "url": "https://cdn.pixabay.com/video/2020/11/07/54705-477854532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/07/54705-477854532_small.jpg",
+     "page": "https://pixabay.com/videos/id-54705/",
+     "tags": "paris, tour eiffel, france, tour, eiffel, capital, europe",
+     "duration": 40,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 120556,
+     "url": "https://cdn.pixabay.com/video/2022/06/16/120556-721287135_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/16/120556-721287135_small.jpg",
+     "page": "https://pixabay.com/videos/id-120556/",
+     "tags": "cycling races, cyclist, professional cyclist, cycling, country tour, tour de suisse",
+     "duration": 52,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 230060,
+     "url": "https://cdn.pixabay.com/video/2024/09/06/230060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/06/230060_small.jpg",
+     "page": "https://pixabay.com/videos/id-230060/",
+     "tags": "bird, sperling, house sparrow, collect nesting material, nature",
+     "duration": 45,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 21800,
+     "url": "https://cdn.pixabay.com/video/2019/03/05/21800-322233954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/05/21800-322233954_small.jpg",
+     "page": "https://pixabay.com/videos/id-21800/",
+     "tags": "tour eiffel, paris, tower, tourists, tourist destination, travel",
+     "duration": 15,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 128620,
+     "url": "https://cdn.pixabay.com/video/2022/08/21/128620-741704839_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/21/128620-741704839_small.jpg",
+     "page": "https://pixabay.com/videos/id-128620/",
+     "tags": "boat, lake, mount fuji, lake kawaguchi, tour, drone",
+     "duration": 68,
+     "query": "house tour"
+    },
+    {
+     "pixabay_id": 59303,
+     "url": "https://cdn.pixabay.com/video/2020/12/15/59303-492700405_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/15/59303-492700405_small.jpg",
+     "page": "https://pixabay.com/videos/id-59303/",
+     "tags": "boats, river, tour, travel, hoi an, vietnam, Vietnam, Da Nang",
+     "duration": 10,
+     "query": "house tour"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Except for one number: the listing price. Some agents saw a high listing price, others a low one.",
+   "candidates": [
+    {
+     "pixabay_id": 349087,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349087_small.jpg",
+     "page": "https://pixabay.com/videos/id-349087/",
+     "tags": "file, folder, document, cabinet, archive, spreadsheet, paper, law, libra, justice, weigh, judge, paragraph, balance",
+     "duration": 17,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 87146,
+     "url": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_small.jpg",
+     "page": "https://pixabay.com/videos/id-87146/",
+     "tags": "file, documents, office, paperwork",
+     "duration": 6,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 87050,
+     "url": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_small.jpg",
+     "page": "https://pixabay.com/videos/id-87050/",
+     "tags": "ink, writing, pen, paper, letter, calligraphy, nostalgic, author, antique, contact, style, document, education, signature, inkwell, hand writing",
+     "duration": 18,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 41146,
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_small.jpg",
+     "page": "https://pixabay.com/videos/id-41146/",
+     "tags": "text, writing, document, page, writer, letter, ink, vintage, pen, retro, old, lyrics, calligraphy, author, daily",
+     "duration": 17,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 159030,
+     "url": "https://cdn.pixabay.com/video/2023/04/15/159030-818026301_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/15/159030-818026301_small.jpg",
+     "page": "https://pixabay.com/videos/id-159030/",
+     "tags": "hands, typing, keyboard, laptop, writing, pen, study, studying, university, college, academic, research, document, essay, group project, collaboration, teamwork",
+     "duration": 31,
+     "query": "documents"
+    },
+    {
+     "pixabay_id": 9037,
+     "url": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_small.jpg",
+     "page": "https://pixabay.com/videos/id-9037/",
+     "tags": "book, page, publication, knowledge, study, creativity, document, daily, notebook, open, opened, hand, browse",
+     "duration": 20,
+     "query": "documents"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "The agents who saw the higher price valued the very same house much higher.",
+   "candidates": [
+    {
+     "pixabay_id": 14476,
+     "url": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_small.jpg",
+     "page": "https://pixabay.com/videos/id-14476/",
+     "tags": "house, stone, street, motorbike, old, person, architecture, building, travel, home, tourism, summer, turkey, city",
+     "duration": 11,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 215303,
+     "url": "https://cdn.pixabay.com/video/2024/06/04/215303_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/04/215303_small.jpg",
+     "page": "https://pixabay.com/videos/id-215303/",
+     "tags": "city, australia, houses",
+     "duration": 17,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 230060,
+     "url": "https://cdn.pixabay.com/video/2024/09/06/230060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/06/230060_small.jpg",
+     "page": "https://pixabay.com/videos/id-230060/",
+     "tags": "bird, sperling, house sparrow, collect nesting material, nature",
+     "duration": 45,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 154140,
+     "url": "https://cdn.pixabay.com/video/2023/03/10/154140-807166727_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/10/154140-807166727_small.jpg",
+     "page": "https://pixabay.com/videos/id-154140/",
+     "tags": "house, fireplace, bonfire, firewood, flame, home",
+     "duration": 20,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 10685,
+     "url": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_small.jpg",
+     "page": "https://pixabay.com/videos/id-10685/",
+     "tags": "rooster, chicken, village, farm, polygamy, country house, family, bird, natural economy, animal husbandry",
+     "duration": 14,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 215424,
+     "url": "https://cdn.pixabay.com/video/2024/06/05/215424_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/05/215424_small.jpg",
+     "page": "https://pixabay.com/videos/id-215424/",
+     "tags": "house, forest, nature, landscape",
+     "duration": 14,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 326677,
+     "url": "https://cdn.pixabay.com/video/2026/01/08/326677_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/08/326677_small.jpg",
+     "page": "https://pixabay.com/videos/id-326677/",
+     "tags": "fireworks, party, celebrate, new year, 2026, extreme, drone, celebration, fun, explosion, ascending, street, house, urban, buildings",
+     "duration": 16,
+     "query": "house"
+    },
+    {
+     "pixabay_id": 327388,
+     "url": "https://cdn.pixabay.com/video/2026/01/13/327388_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/13/327388_small.jpg",
+     "page": "https://pixabay.com/videos/id-327388/",
+     "tags": "snow scene, mountain village, heavy snowfall area, traditional house, gassho-zukuri, world cultural heritage, shirakawa-go, japan",
+     "duration": 19,
+     "query": "house"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "And most of them said the listing price hadn't influenced them at all.",
+   "candidates": [
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 86867,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86867-594991237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86867-594991237_small.jpg",
+     "page": "https://pixabay.com/videos/id-86867/",
+     "tags": "woman, coffe, tea, drink, room, comfortable, working, business",
+     "duration": 12,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 27092,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_small.jpg",
+     "page": "https://pixabay.com/videos/id-27092/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 21,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 27091,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_small.jpg",
+     "page": "https://pixabay.com/videos/id-27091/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 12,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 203260,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_small.jpg",
+     "page": "https://pixabay.com/videos/id-203260/",
+     "tags": "woman, computer, laptop, typing, work, desk, business, marketing, communication, texting, cup, espresso, coffee, professional",
+     "duration": 5,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 27095,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27095-361827464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27095-361827464_small.jpg",
+     "page": "https://pixabay.com/videos/id-27095/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 12,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 174007,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_small.jpg",
+     "page": "https://pixabay.com/videos/id-174007/",
+     "tags": "woman, beautiful wallpaper, cash, money, paper, business, worker, calculator, background, investment, wealth",
+     "duration": 7,
+     "query": "business woman"
+    },
+    {
+     "pixabay_id": 174006,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_small.jpg",
+     "page": "https://pixabay.com/videos/id-174006/",
+     "tags": "woman, cash, money, beautiful wallpaper, paper, business, worker, calculator, background, investment, wealth",
+     "duration": 9,
+     "query": "business woman"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "This is called anchoring. The first number your brain sees becomes a reference point, and everything after it gets judged against that number.",
+   "candidates": [
+    {
+     "pixabay_id": 91783,
+     "url": "https://cdn.pixabay.com/video/2021/10/12/91783-636709200_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/12/91783-636709200_small.jpg",
+     "page": "https://pixabay.com/videos/id-91783/",
+     "tags": "boat, sailing boat, ocean, sailing, water, wind, beach, anchor, water sport, ship, sailing yacht, france, cote d'azur",
+     "duration": 19,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 374656,
+     "url": "https://cdn.pixabay.com/video/2026/09/06/374656_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/06/374656_small.jpg",
+     "page": "https://pixabay.com/videos/id-374656/",
+     "tags": "ship, sailing ship, anchored, port, sky, cloud, nippon maru, training ship, japan",
+     "duration": 11,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 987,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/987-142612102_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/987-142612102_small.jpg",
+     "page": "https://pixabay.com/videos/id-987/",
+     "tags": "boat, bay, harbor, anchored, sea, water, landscape, ocean, coast, nautical, ship, vessel, coastline, calm, quiet, sailing boat, resting",
+     "duration": 16,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 74205,
+     "url": "https://cdn.pixabay.com/video/2021/05/16/74205-550033503_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/16/74205-550033503_small.jpg",
+     "page": "https://pixabay.com/videos/id-74205/",
+     "tags": "boats, sea, swiss army, navy, marine, maritime, military, nautical, anchor, galleon, captain, army, border, control, battleship",
+     "duration": 22,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 74204,
+     "url": "https://cdn.pixabay.com/video/2021/05/16/74204-550033498_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/16/74204-550033498_small.jpg",
+     "page": "https://pixabay.com/videos/id-74204/",
+     "tags": "boats, sea, swiss army, navy, marine, maritime, military, nautical, anchor, galleon, captain, army, border, control, battleship",
+     "duration": 21,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 267894,
+     "url": "https://cdn.pixabay.com/video/2025/03/26/267894_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/26/267894_small.jpg",
+     "page": "https://pixabay.com/videos/id-267894/",
+     "tags": "sailboat, mooring, sea, boat, maritime, port, anchor, marin, nautical, rope, veil, ocean, ship, shore, sky, dusk, landscape, flag, pirate, tricolor, light breeze, ripple, mast, float",
+     "duration": 9,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 29456,
+     "url": "https://cdn.pixabay.com/video/2019/11/25/29456-376565525_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/25/29456-376565525_small.jpg",
+     "page": "https://pixabay.com/videos/id-29456/",
+     "tags": "merseyside, maritime, museum, liverpool, anchor, england, britain, sea, vessel, old, ship, port, boat, city, travel, transport, warehouse, europe, quay, water, dock, historic",
+     "duration": 31,
+     "query": "anchor"
+    },
+    {
+     "pixabay_id": 123707,
+     "url": "https://cdn.pixabay.com/video/2022/07/10/123707-728698095_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/10/123707-728698095_small.jpg",
+     "page": "https://pixabay.com/videos/id-123707/",
+     "tags": "boats, yacht, sea, antalya, sailing, turkey, fethiye, anchor, boat, marina, drone \u00e7ekimi, sailboat, kale, travel, myra, ruins, wind, old city marina, ocean, coast, monohull, sails, luxury yacht, sailing around the world",
+     "duration": 15,
+     "query": "anchor"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why a jacket marked down from three hundred to one fifty feels like a bargain, even if you'd never have paid one fifty for it on its own.",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 163117,
+     "url": "https://cdn.pixabay.com/video/2023/05/15/163117-827112884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/15/163117-827112884_small.jpg",
+     "page": "https://pixabay.com/videos/id-163117/",
+     "tags": "clothes, clothing, house, fashion, pants, shopping, clothing store",
+     "duration": 11,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 30703,
+     "url": "https://cdn.pixabay.com/video/2019/12/30/30703-383980330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/30/30703-383980330_small.jpg",
+     "page": "https://pixabay.com/videos/id-30703/",
+     "tags": "apparel, boutique, business, everyday, clothes, women's clothing, collection, design, fashion, fast fashion, female, female clothes, female section, garment, mall, market, modern, retail, sale, sell, shop, shopping mall, store, style, clothing",
+     "duration": 8,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 209896,
+     "url": "https://cdn.pixabay.com/video/2024/04/29/209896_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/29/209896_small.jpg",
+     "page": "https://pixabay.com/videos/id-209896/",
+     "tags": "woman, clothes, shop, retail store, casual, fashion, shopping",
+     "duration": 19,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 209895,
+     "url": "https://cdn.pixabay.com/video/2024/04/29/209895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/29/209895_small.jpg",
+     "page": "https://pixabay.com/videos/id-209895/",
+     "tags": "woman, clothes, store, retail store, style, fashion, shopping",
+     "duration": 19,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 140595,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_small.jpg",
+     "page": "https://pixabay.com/videos/id-140595/",
+     "tags": "woman, vynils, records, albums, books, library, book store, record store, vinyl store, berkley",
+     "duration": 23,
+     "query": "clothing store"
+    },
+    {
+     "pixabay_id": 2121,
+     "url": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_small.jpg",
+     "page": "https://pixabay.com/videos/id-2121/",
+     "tags": "shopping, pedestrian, time lapse, city, consumption, pedestrian zone, department stores, store window, department store, people, marketplace",
+     "duration": 32,
+     "query": "clothing store"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "The first price you see isn't information. It's an anchor. And once it's dropped, it's hard to pull back up.",
+   "candidates": [
+    {
+     "pixabay_id": 26818,
+     "url": "https://cdn.pixabay.com/video/2019/09/12/26818-361092071_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/12/26818-361092071_small.jpg",
+     "page": "https://pixabay.com/videos/id-26818/",
+     "tags": "jellyfish, sea, dangerous, underwater, tentacle, live wallpaper",
+     "duration": 16,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 110879,
+     "url": "https://cdn.pixabay.com/video/2022/03/15/110879-689510470_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/15/110879-689510470_small.jpg",
+     "page": "https://pixabay.com/videos/id-110879/",
+     "tags": "fish, underwater, aquarium, swim, school, circle, round, pattern",
+     "duration": 20,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 244754,
+     "url": "https://cdn.pixabay.com/video/2024/12/03/244754_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/03/244754_small.jpg",
+     "page": "https://pixabay.com/videos/id-244754/",
+     "tags": "turtle, ocean, tortoise, wildlife, underwater, snorkeling, marine life, sea life",
+     "duration": 30,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 16166,
+     "url": "https://cdn.pixabay.com/video/2018/05/12/16166-269541539_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/12/16166-269541539_small.jpg",
+     "page": "https://pixabay.com/videos/id-16166/",
+     "tags": "fishes, small, aquarium, small fish, sea creatures, underwater, hover, weightlessness",
+     "duration": 8,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 264272,
+     "url": "https://cdn.pixabay.com/video/2025/03/12/264272_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/12/264272_small.jpg",
+     "page": "https://pixabay.com/videos/id-264272/",
+     "tags": "jellyfish, tentacles, nature, ocean, sea, underwater, aquarium, creature, marine, Gdynia, Pomeranian Voivodeship, Poland",
+     "duration": 30,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 110877,
+     "url": "https://cdn.pixabay.com/video/2022/03/15/110877-689510466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/15/110877-689510466_small.jpg",
+     "page": "https://pixabay.com/videos/id-110877/",
+     "tags": "jellyfish, underwater, ocean, water, nature, aquarium, tentacles, beautiful, swim, marine life, animal, wild, live wallpaper",
+     "duration": 9,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 10480,
+     "url": "https://cdn.pixabay.com/video/2017/07/04/10480-224857514_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/04/10480-224857514_small.jpg",
+     "page": "https://pixabay.com/videos/id-10480/",
+     "tags": "jellyfish, tank, water, life, marine, blue, aquarium, sea, transparent, underwater, nature, swimming, animal, wildlife, sting, exotic, jelly, glowing, tentacles",
+     "duration": 112,
+     "query": "anchor underwater"
+    },
+    {
+     "pixabay_id": 1085,
+     "url": "https://cdn.pixabay.com/video/2015/10/18/1085-142801793_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/18/1085-142801793_small.jpg",
+     "page": "https://pixabay.com/videos/id-1085/",
+     "tags": "bubbles, air, underwater, water, liquid, transparent, clean, clear, background, freshness, aqua, macro, purity, beautiful wallpaper, fresh, 134138060",
+     "duration": 15,
+     "query": "anchor underwater"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "Now here's a trick that uses a product nobody is supposed to buy.",
+   "candidates": [
+    {
+     "pixabay_id": 107142,
+     "url": "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_small.jpg",
+     "page": "https://pixabay.com/videos/id-107142/",
+     "tags": "tape, music, registration, sound, speaker, studio, pulley, cinema, movie, retro, stale, reel to reel tape recorder, cinematic, real to real, reel tape",
+     "duration": 39,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 24496,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_small.jpg",
+     "page": "https://pixabay.com/videos/id-24496/",
+     "tags": "camera, the video camera, movie, cinema, photo, photographer, video, lens, shoot, cameraman, video camera, recording, digital",
+     "duration": 19,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 26537,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_small.jpg",
+     "page": "https://pixabay.com/videos/id-26537/",
+     "tags": "video, recording, cinema, camera, image, the media, technology, monitoring, production, notebook, monitor, internet, computer, screen, laptop, people, digital, keyboard, pc",
+     "duration": 18,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 107138,
+     "url": "https://cdn.pixabay.com/video/2022/02/08/107138-675298833_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/08/107138-675298833_small.jpg",
+     "page": "https://pixabay.com/videos/id-107138/",
+     "tags": "nostalgic, stale, time, cinema, antique, retro, classical, photography, time machine, cinematic",
+     "duration": 10,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 2793,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2793-162802090_small.jpg",
+     "page": "https://pixabay.com/videos/id-2793/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 26,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 130165,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130165-746395209_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130165-746395209_small.jpg",
+     "page": "https://pixabay.com/videos/id-130165/",
+     "tags": "mountains, clouds, sunrise, sunset, nature, landscape, fog, tree, city, drone, cinema",
+     "duration": 37,
+     "query": "cinema"
+    },
+    {
+     "pixabay_id": 992,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/992-142621119_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/992-142621119_small.jpg",
+     "page": "https://pixabay.com/videos/id-992/",
+     "tags": "director, movie, film, cinema, video maker, film producer, executive producer, recording, broadcasting, camera, cameraman, entertainment, executive, filming, film-making, footman, electronics",
+     "duration": 14,
+     "query": "cinema"
+    }
+   ]
+  }
+ ]
+}
