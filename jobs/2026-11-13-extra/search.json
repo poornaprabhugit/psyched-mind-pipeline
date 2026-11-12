@@ -1,0 +1,302 @@
+{
+ "videos": [
+  {
+   "id": "x01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You'd choose more pain.",
+     "queries": [
+      "man grimace pain",
+      "woman frustrated face",
+      "hand ice water"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Here's the strange reason.",
+     "queries": [
+      "man thinking",
+      "woman curious look"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Scientists had people hold one hand in painfully cold water for a minute.",
+     "queries": [
+      "hand in water",
+      "ice water bowl",
+      "ice cubes water"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Then again: the same minute,",
+     "queries": [
+      "stopwatch",
+      "clock ticking"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "plus thirty seconds while the water warmed slightly.",
+     "queries": [
+      "pouring water",
+      "water ripple hand"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Most chose to repeat the longer one.",
+     "queries": [
+      "people raising hands",
+      "woman nodding"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Your brain doesn't store the whole experience.",
+     "queries": [
+      "brain",
+      "old photos memories"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "It keeps the worst moment",
+     "queries": [
+      "man stressed",
+      "rollercoaster screaming"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "and the ending.",
+     "queries": [
+      "sunset",
+      "finish line runner"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "So always end on a high, for others and yourself.",
+     "queries": [
+      "friends laughing",
+      "high five",
+      "celebration"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "A better ending is why you'd choose more pain.",
+     "queries": [
+      "woman smiling sunset",
+      "couple sunset"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "x02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Can't switch off at night?",
+     "queries": [
+      "woman awake bed night",
+      "insomnia",
+      "man bed awake"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Your to-do list is hijacking your brain.",
+     "queries": [
+      "to do list",
+      "sticky notes",
+      "checklist notebook"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "And there's a simple fix.",
+     "queries": [
+      "writing notebook",
+      "pen paper"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Unfinished goals keep popping into your head,",
+     "queries": [
+      "woman thinking",
+      "stressed office worker"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "because your brain treats them as open loops.",
+     "queries": [
+      "spinning wheel",
+      "carousel spinning",
+      "brain"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "In one study, people with an unfinished goal",
+     "queries": [
+      "students exam",
+      "people working desk"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "kept getting distracted by it.",
+     "queries": [
+      "distracted student",
+      "woman distracted phone"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "But one group first wrote a specific plan:",
+     "queries": [
+      "writing plan",
+      "planner notebook"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "when, where, how.",
+     "queries": [
+      "calendar",
+      "clock",
+      "map"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "The distraction disappeared, even though the task wasn't done.",
+     "queries": [
+      "woman relaxed",
+      "calm breathing",
+      "man relaxed smiling"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "So tonight, don't finish everything.",
+     "queries": [
+      "night city",
+      "lamp night"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Just write the plan.",
+     "queries": [
+      "writing notebook night",
+      "closing notebook"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "x03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Your card is quietly making you pay more.",
+     "queries": [
+      "contactless payment",
+      "credit card payment",
+      "tap phone pay"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Here's the proof.",
+     "queries": [
+      "magnifying glass",
+      "receipt"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Researchers auctioned sold-out basketball tickets to business students.",
+     "queries": [
+      "basketball game",
+      "basketball arena",
+      "students lecture"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Half had to pay in cash.",
+     "queries": [
+      "cash money hand",
+      "counting money"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Half could pay by card.",
+     "queries": [
+      "credit card",
+      "card terminal"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "The card group bid more than double,",
+     "queries": [
+      "auction",
+      "raising hand",
+      "money stack"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "for the exact same tickets.",
+     "queries": [
+      "tickets",
+      "basketball"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Handing over cash hurts,",
+     "queries": [
+      "paying cash",
+      "wallet cash"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "and that little pain makes you careful.",
+     "queries": [
+      "man thinking wallet",
+      "woman counting money"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "A tap doesn't hurt at all.",
+     "queries": [
+      "contactless card payment",
+      "shopping"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "That's why your card is quietly making you pay more.",
+     "queries": [
+      "shopping bags",
+      "online shopping credit card"
+     ]
+    }
+   ]
+  }
+ ]
+}
