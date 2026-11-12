@@ -1,0 +1,36 @@
+{
+ "videos": [
+  {
+   "id": "x03b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Half could pay by card.",
+     "queries": [
+      "card payment terminal",
+      "paying with credit card",
+      "contactless"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "A tap doesn't hurt at all.",
+     "queries": [
+      "smartphone payment",
+      "tap to pay",
+      "card reader shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Shopping spree",
+     "queries": [
+      "woman shopping bags",
+      "shopping mall woman",
+      "cashier"
+     ]
+    }
+   ]
+  }
+ ]
+}
