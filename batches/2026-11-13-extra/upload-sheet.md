@@ -6,13 +6,13 @@ Rules applied: yellow hook card 0–2.5 s, short tense first line + foreshadow, 
 
 | Slot (Amsterdam) | File | Title | Prediction |
 |---|---|---|---|
-| Fri 13 Nov 16:00 | Why you'd choose more pain.mp4 | Why your brain remembers the ending most 🧠 | medium |
+| Thu 12 Nov 22:00 | Why you'd choose more pain.mp4 | Why your brain remembers the ending most 🧠 | medium |
+| Fri 13 Nov 16:00 | Why you spend more with a card.mp4 | Why you spend more with a card than cash 💳 | medium |
 | Fri 13 Nov 22:00 | Why mistakes make people like you more (hook card) | Why making mistakes makes people like you more ☕ | low–medium |
-| Sat 14 Nov 16:00 | Why you spend more with a card.mp4 | Why you spend more with a card than cash 💳 | medium |
-| Sat 14 Nov 22:00 | Why doorways make you forget (hook card) | Why you forget why you walked into a room 🚪 | medium–high (huge search term) |
-| Sun 15 Nov 16:00 | Can't switch off at night.mp4 | Can't sleep? Write this down before bed 🌙 | medium–high |
+| Sat 14 Nov 16:00 | Can't switch off at night.mp4 | Can't sleep? Write this down before bed 🌙 | medium–high |
+| Sat 14 Nov 22:00 | Why doorways make you forget (hook card) | Why you forget why you walked into a room 🚪 | medium–high |
+| Sun 15 Nov 16:00 | They liked you more than you think (hook card) | People like you more than you think 🧠 | medium |
 | Sun 15 Nov 22:00 | Everyone noticed your mistake (hook card) | Everyone noticed your mistake? Science says no 😳 | medium |
-| Mon 16 Nov 16:00 | They liked you more than you think (hook card) | People like you more than you think 🧠 | medium |
 
 (Liking gap and the sleep Short open on the same bedroom clip, so they're on different days.)
 
