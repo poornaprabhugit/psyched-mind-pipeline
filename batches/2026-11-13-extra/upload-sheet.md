@@ -68,3 +68,16 @@ After chatting with strangers, almost everyone underestimated how much the other
 Source: Boothby, Cooney, Sandstrom & Clark (2018), Psychological Science – https://doi.org/10.1177/0956797618783714
 Science-backed psychology · Sources in description · Not medical advice.
 #psychology #overthinking #socialanxiety #likinggap #shorts
+
+## Related video links (same theme; only already-public videos can be picked)
+| Short | Related video |
+|---|---|
+| Ending / pain | Mere exposure ("You don't like it…") → switch to Doorway once public |
+| Mistakes (pratfall) | Favor trick |
+| Card vs cash | Wobbly shelf (IKEA) |
+| Doorway | Ending / pain |
+| Can't sleep | "I'll start Monday" |
+| Spotlight | Mistakes (pratfall) |
+| Liking gap | Favor trick |
+Back-links on already-public Shorts: Favor trick → Liking gap, IKEA → Card vs cash, Mere exposure → Ending/pain, "I'll start Monday" → Can't sleep.
+Once the first long video is live, switch every Short's Related video to it (playbook §2/§5: the Shorts → long-video bridge).
