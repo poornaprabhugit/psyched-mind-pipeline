@@ -1,0 +1,66 @@
+{
+ "videos": [
+  {
+   "id": "x01",
+   "subject": "Peak-end rule: why you'd choose more pain",
+   "script": "You'd choose more pain. Here's the strange reason. Scientists had people hold one hand in painfully cold water for a minute. Then again: the same minute, plus thirty seconds while the water warmed slightly. Most chose to repeat the longer one. Your brain doesn't store the whole experience. It keeps the worst moment and the ending. So always end on a high, for others and yourself. A better ending is why you'd choose more pain.",
+   "hook_text": "You'd choose MORE pain. Here's why",
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/01/06/61294-498228514_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+    "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/08/02/224421_medium.mp4",
+    "https://cdn.pixabay.com/video/2016/02/29/2290-157183576_large.mp4",
+    "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+    "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+    "https://cdn.pixabay.com/video/2021/01/06/61299-498228517_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/22/140111-774507949_medium.mp4",
+    "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/21/85874-592491492_large.mp4"
+   ]
+  },
+  {
+   "id": "x02",
+   "subject": "Open loops: why you can't switch off at night",
+   "script": "Can't switch off at night? Your to-do list is hijacking your brain. And there's a simple fix. Unfinished goals keep popping into your head, because your brain treats them as open loops. In one study, people with an unfinished goal kept getting distracted by it. But one group first wrote a specific plan: when, where, how. The distraction disappeared, even though the task wasn't done. So tonight, don't finish everything. Just write the plan.",
+   "hook_text": "Why your brain won't switch off",
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/09/26/233390_large.mp4",
+    "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_large.mp4",
+    "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+    "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_large.mp4",
+    "https://cdn.pixabay.com/video/2019/09/16/26922-361107881_large.mp4",
+    "https://cdn.pixabay.com/video/2026/05/30/355580_large.mp4",
+    "https://cdn.pixabay.com/video/2023/01/05/145428-787039445_large.mp4",
+    "https://cdn.pixabay.com/video/2015/08/08/68-135732328_large.mp4",
+    "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+    "https://cdn.pixabay.com/video/2024/07/26/223363_large.mp4",
+    "https://cdn.pixabay.com/video/2016/05/12/3134-166335905_large.mp4",
+    "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+    "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_large.mp4"
+   ]
+  },
+  {
+   "id": "x03",
+   "subject": "Pain of paying: cards make you spend more",
+   "script": "Your card is quietly making you pay more. Here's the proof. Researchers auctioned sold-out basketball tickets to business students. Half had to pay in cash. Half could pay by card. The card group bid more than double, for the exact same tickets. Handing over cash hurts, and that little pain makes you careful. A tap doesn't hurt at all. That's why your card is quietly making you pay more.",
+   "hook_text": "Card users bid twice as much",
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+    "https://cdn.pixabay.com/video/2022/06/20/121090-724685732_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/11/18/139533-772542665_medium.mp4",
+    "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/09/26/233382_large.mp4",
+    "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+    "https://cdn.pixabay.com/video/2025/02/18/259095_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+    "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+    "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+    "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+    "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4"
+   ]
+  }
+ ]
+}
