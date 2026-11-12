@@ -73,6 +73,7 @@ def main(outdir):
                 videos.append({"id": it["id"], "title": it["snippet"]["title"],
                                "published": it["snippet"]["publishedAt"],
                                "privacy": it["status"]["privacyStatus"],
+                               "publish_at": it["status"].get("publishAt"),
                                "duration": it["contentDetails"]["duration"],
                                "statistics": it.get("statistics", {})})
     data["videos"] = videos
