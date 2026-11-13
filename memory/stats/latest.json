@@ -1,16 +1,121 @@
 {
- "collected_at": "2026-11-12T15:23:54.537211+00:00",
+ "collected_at": "2026-11-13T07:45:12.878151+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "96",
+   "viewCount": "102",
    "subscriberCount": "3",
    "hiddenSubscriberCount": false,
-   "videoCount": "3"
+   "videoCount": "5"
   }
  },
  "videos": [
+  {
+   "id": "6z_Euar4Wrg",
+   "title": "Why your brain remembers the ending most \ud83e\udde0",
+   "published": "2026-11-12T21:00:14Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT29S",
+   "statistics": {
+    "viewCount": "1",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "xHNCEPqi2DQ",
+   "title": "Can't sleep? Write this down before bed \ud83c\udf19",
+   "published": "2026-11-12T20:29:39Z",
+   "privacy": "private",
+   "publish_at": "2026-11-14T15:00:00Z",
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "F7pbRjlOYoI",
+   "title": "Everyone noticed your mistake? Science says no \ud83d\ude33",
+   "published": "2026-11-12T20:09:01Z",
+   "privacy": "private",
+   "publish_at": "2026-11-15T21:00:00Z",
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "1",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "NAmxKCaRIvw",
+   "title": "People like you more than you think \ud83e\udde0",
+   "published": "2026-11-12T20:08:52Z",
+   "privacy": "private",
+   "publish_at": "2026-11-15T15:00:00Z",
+   "duration": "PT31S",
+   "statistics": {
+    "viewCount": "1",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "E1bnd50DpGs",
+   "title": "Why you forget why you walked into a room \ud83d\udeaa",
+   "published": "2026-11-12T20:08:48Z",
+   "privacy": "private",
+   "publish_at": "2026-11-14T21:00:00Z",
+   "duration": "PT27S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "IYrmhlu2pa0",
+   "title": "Why making mistakes makes people like you more \u2615",
+   "published": "2026-11-12T20:08:42Z",
+   "privacy": "private",
+   "publish_at": "2026-11-13T21:00:00Z",
+   "duration": "PT35S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "WdR33wEaImo",
+   "title": "Why you spend more with a card than cash \ud83d\udcb3",
+   "published": "2026-11-12T20:08:37Z",
+   "privacy": "private",
+   "publish_at": "2026-11-13T15:00:00Z",
+   "duration": "PT27S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "AWwEyFrD7d8",
    "title": "The favor trick that makes people like you \ud83d\udcd6",
@@ -19,7 +124,7 @@
    "publish_at": null,
    "duration": "PT28S",
    "statistics": {
-    "viewCount": "3",
+    "viewCount": "16",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -49,7 +154,7 @@
    "publish_at": null,
    "duration": "PT29S",
    "statistics": {
-    "viewCount": "63",
+    "viewCount": "65",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -64,76 +169,62 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "36",
+    "viewCount": "37",
     "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "sc7_JxDC780",
-   "title": "Why mistakes make people like you more \u2615",
-   "published": "2026-11-10T18:14:42Z",
-   "privacy": "private",
-   "publish_at": "2026-11-13T11:00:00Z",
-   "duration": "PT35S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "V2Ov2mOg6w8",
-   "title": "Why doorways make you forget \ud83d\udeaa",
-   "published": "2026-11-10T18:14:38Z",
-   "privacy": "private",
-   "publish_at": "2026-11-14T11:00:00Z",
-   "duration": "PT27S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "vtA1urwY1Ek",
-   "title": "They liked you more than you think \ud83e\udde0",
-   "published": "2026-11-10T18:14:31Z",
-   "privacy": "private",
-   "publish_at": "2026-11-15T11:00:00Z",
-   "duration": "PT31S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "LXF5w9QilAg",
-   "title": "Spotlight effect | Everyone noticed your mistake? Science says no \ud83d\ude33",
-   "published": "2026-11-10T18:14:25Z",
-   "privacy": "private",
-   "publish_at": "2026-11-16T11:00:00Z",
-   "duration": "PT30S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
    }
   }
  ],
- "per_video": [],
- "daily": [],
- "traffic_sources": [],
+ "per_video": [
+  {
+   "video": "1YpGk3PgSTc",
+   "views": 34,
+   "engagedViews": 8,
+   "estimatedMinutesWatched": 4,
+   "averageViewDuration": 27,
+   "averageViewPercentage": 90.17,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  }
+ ],
+ "daily": [
+  {
+   "day": "2026-11-10",
+   "views": 34,
+   "subscribersGained": 3,
+   "estimatedMinutesWatched": 4
+  }
+ ],
+ "traffic_sources": [
+  {
+   "insightTrafficSourceType": "SHORTS",
+   "views": 20,
+   "averageViewDuration": 7
+  },
+  {
+   "insightTrafficSourceType": "YT_CHANNEL",
+   "views": 12,
+   "averageViewDuration": 31
+  },
+  {
+   "insightTrafficSourceType": "YT_OTHER_PAGE",
+   "views": 1,
+   "averageViewDuration": 0
+  },
+  {
+   "insightTrafficSourceType": "YT_SEARCH",
+   "views": 1,
+   "averageViewDuration": 17
+  },
+  {
+   "insightTrafficSourceType": "NO_LINK_OTHER",
+   "views": 0,
+   "averageViewDuration": 0
+  }
+ ],
  "countries": []
 }
