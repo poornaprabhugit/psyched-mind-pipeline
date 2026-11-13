@@ -20,3 +20,11 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 
 ## [Pro] rules our data contradicts
 - _None yet (no video ≥1,000 views)._
+
+## Decided for the 14 Nov batch (2026-11-13, after user flagged <50 views in 5 h)
+Evidence: Shorts-feed viewers average 7 s on ~30 s Shorts; only 8 of 34 views were engaged (mere exposure); every Short stalls after its day-1 test burst. Diagnosis (playbook §7): the first 1–3 s lose the feed test audience. Changes, all aimed at "stayed to watch":
+1. Shorter: 15–22 s default (was 25–35 s). Cut the setup; the effect is explained in one line.
+2. First frame = the most striking moving clip + hook card, never a calm establishing shot; voice starts at 0.0 s with no lead-in.
+3. Hook line names a situation the viewer is in right now ("You just checked your phone for no reason"), not a topic.
+4. One visual change every ~1.5 s in the first 5 s.
+5. Keep everything else fixed this week so the effect of 1–4 is readable.
