@@ -1,0 +1,54 @@
+{
+ "videos": [
+  {
+   "id": "s07",
+   "subject": "The happiest way to spend $40",
+   "script": "Spending forty dollars on time made people happier than spending it on stuff. Researchers gave working adults forty dollars, twice. Once for something material. Once to buy time: a cleaner, a delivery, a ride. Yet hardly anyone spends extra money that way. Rich isn't more stuff. It's more time. That's why",
+   "hook_text": "$40 on stuff vs $40 on time",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+    "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+    "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4",
+    "https://cdn.pixabay.com/video/2017/05/28/9375-219285223_large.mp4",
+    "https://cdn.pixabay.com/video/2020/02/05/31961-389724712_large.mp4",
+    "https://cdn.pixabay.com/video/2024/07/26/223363_large.mp4",
+    "https://cdn.pixabay.com/video/2021/07/05/80344-572853594_large.mp4",
+    "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+    "https://cdn.pixabay.com/video/2024/10/22/237649_large.mp4",
+    "https://cdn.pixabay.com/video/2024/10/22/237638_large.mp4",
+    "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_large.mp4"
+   ]
+  },
+  {
+   "id": "r1",
+   "subject": "Walking through a doorway makes you forget",
+   "script": "Walking through a doorway makes you forget. Researchers tested it: people forgot more after stepping through a door than after walking the same distance in one room. Your brain treats a doorway like a scene change in a movie. It closes the old scene, and files your reason for walking in with it. That's why",
+   "hook_text": "Doorways erase your plans",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/07/14/124170-730515125_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/06/01/214855_medium.mp4",
+    "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+    "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+    "https://cdn.pixabay.com/video/2022/07/27/125778-735656062_large.mp4",
+    "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_large.mp4",
+    "https://cdn.pixabay.com/video/2022/04/17/114254-700585823_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+    "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+    "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4"
+   ]
+  }
+ ],
+ "tighten": true
+}
