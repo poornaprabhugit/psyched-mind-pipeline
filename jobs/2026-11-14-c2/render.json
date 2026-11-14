@@ -1,0 +1,53 @@
+{
+ "videos": [
+  {
+   "id": "n04",
+   "subject": "Why free makes you choose worse",
+   "script": "Make the cheap chocolate free, and people stop buying the fancy one. Researchers sold a fancy truffle for fifteen cents, a cheap chocolate for one. Most bought the truffle. Then both got one cent cheaper. Fourteen cents, or free. Most grabbed the free one. Free feels better than any discount. That's why, if you",
+   "hook_text": "Luxury truffle vs FREE chocolate",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_large.mp4",
+    "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_large.mp4",
+    "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_large.mp4",
+    "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+    "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+    "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+    "https://cdn.pixabay.com/video/2023/06/22/168344-838892840_large.mp4",
+    "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_medium.mp4",
+    "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+    "https://cdn.pixabay.com/video/2019/04/05/22601-328624863_large.mp4"
+   ]
+  },
+  {
+   "id": "n07",
+   "subject": "Money keeps buying happiness, for most",
+   "script": "More money keeps making most people happier, way past seventy-five thousand. Even the scientist behind that famous limit helped test it. Thirty-three thousand workers rated their mood on their phones. Happiness kept rising, up to half a million a year. Only the unhappiest fifth levelled off, around a hundred thousand. Money fixes money problems, not heartbreak. But for everyone else,",
+   "hook_text": "$75K happiness limit? Not for most.",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_large.mp4",
+    "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+    "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4",
+    "https://cdn.pixabay.com/video/2024/04/20/208770_large.mp4",
+    "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_large.mp4",
+    "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+    "https://cdn.pixabay.com/video/2020/11/03/54162-476539778_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/02/20/32630-393990051_large.mp4",
+    "https://cdn.pixabay.com/video/2020/09/15/50022-459915458_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/31/174008-850361316_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/15/85212-590779450_large.mp4"
+   ]
+  }
+ ],
+ "tighten": true
+}
