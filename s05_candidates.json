@@ -1,0 +1,629 @@
+{
+ "id": "s05",
+ "lines": [
+  {
+   "n": 1,
+   "text": "After one sleepless night, your brain overreacts.",
+   "candidates": [
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "insomnia"
+    },
+    {
+     "pixabay_id": 6970,
+     "url": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_small.jpg",
+     "page": "https://pixabay.com/videos/id-6970/",
+     "tags": "lion, hagenbeck, yawning, big cat, to sunbathe, panthera leo, rock, majestic, zoo, awake",
+     "duration": 21,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 177369,
+     "url": "https://cdn.pixabay.com/video/2023/08/23/177369-857376756_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/23/177369-857376756_small.jpg",
+     "page": "https://pixabay.com/videos/id-177369/",
+     "tags": "koala, koala bear, tree, marsupial, yawn, animal, wildlife, australia, asleep, sleepy, awake, cute, furry, wilderness, adorable, nature",
+     "duration": 59,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 10339,
+     "url": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_small.jpg",
+     "page": "https://pixabay.com/videos/id-10339/",
+     "tags": "milky way, heaven, starry sky, night, stars, evening sky, space, night sky",
+     "duration": 13,
+     "query": "man awake night"
+    },
+    {
+     "pixabay_id": 215751,
+     "url": "https://cdn.pixabay.com/video/2024/06/07/215751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/07/215751_small.jpg",
+     "page": "https://pixabay.com/videos/id-215751/",
+     "tags": "man, office work, business, payroll, payroll management, working late night, computer, digital, tired",
+     "duration": 18,
+     "query": "man awake night"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Scientists kept people awake a night and a day,",
+   "candidates": [
+    {
+     "pixabay_id": 34855,
+     "url": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_small.jpg",
+     "page": "https://pixabay.com/videos/id-34855/",
+     "tags": "macro, clock, glitter, mechanism, time",
+     "duration": 8,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 15629,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_small.jpg",
+     "page": "https://pixabay.com/videos/id-15629/",
+     "tags": "alarm, clock, watch, time, retro, vintage",
+     "duration": 11,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 10339,
+     "url": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_small.jpg",
+     "page": "https://pixabay.com/videos/id-10339/",
+     "tags": "milky way, heaven, starry sky, night, stars, evening sky, space, night sky",
+     "duration": 13,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 7093,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7093-198553482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7093-198553482_small.jpg",
+     "page": "https://pixabay.com/videos/id-7093/",
+     "tags": "moon, moonlight, night, full moon, heaven, darkness, night shot, mystical, gespentisch, ghostly, clouds, gruesome, horror mood, grim, dark, cloud passage, cloud pre-accession train, night sky",
+     "duration": 30,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 202877,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202877-919288692_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202877-919288692_small.jpg",
+     "page": "https://pixabay.com/videos/id-202877/",
+     "tags": "mount fuji, snow, clouds, night",
+     "duration": 12,
+     "query": "night clock"
+    },
+    {
+     "pixabay_id": 257593,
+     "url": "https://cdn.pixabay.com/video/2025/02/10/257593_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/10/257593_small.jpg",
+     "page": "https://pixabay.com/videos/id-257593/",
+     "tags": "campfire, flames, night, fire, camp, burn, burning, wood, outdoors, bonfire, wind, sparks, orange, night time, dark, consume, firewood",
+     "duration": 14,
+     "query": "night clock"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "then showed them upsetting pictures in a brain scanner.",
+   "candidates": [
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "mri scanner"
+    },
+    {
+     "pixabay_id": 136458,
+     "url": "https://cdn.pixabay.com/video/2022/10/25/136458-764399870_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/25/136458-764399870_small.jpg",
+     "page": "https://pixabay.com/videos/id-136458/",
+     "tags": "dialysis, machine, blood wash, hospital, Germany, Lower Saxony, Langenhagen",
+     "duration": 36,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 49815,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_small.jpg",
+     "page": "https://pixabay.com/videos/id-49815/",
+     "tags": "blood pressure, doctor, health, hospital, heart, stethoscope, nurse, medical, investigation, disease, medicine, electrocardiogram",
+     "duration": 21,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 21114,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21114-315191258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21114-315191258_small.jpg",
+     "page": "https://pixabay.com/videos/id-21114/",
+     "tags": "hospital, vision correction, doctor, eyes, glasses",
+     "duration": 10,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 49809,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_small.jpg",
+     "page": "https://pixabay.com/videos/id-49809/",
+     "tags": "doctor, x-ray, hospital, nurse, medicine, dentistry, diagnosis, medical, nursing, clinic, health, patient, healthcare",
+     "duration": 17,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 21936,
+     "url": "https://cdn.pixabay.com/video/2019/03/11/21936-322869299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/11/21936-322869299_small.jpg",
+     "page": "https://pixabay.com/videos/id-21936/",
+     "tags": "dental equipment, hospital, dental clinic, medicine, clinic",
+     "duration": 9,
+     "query": "hospital"
+    },
+    {
+     "pixabay_id": 49814,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49814-458438872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49814-458438872_small.jpg",
+     "page": "https://pixabay.com/videos/id-49814/",
+     "tags": "female doctor, x-ray, hospital, doctor, patient, technology, care, illness, females",
+     "duration": 12,
+     "query": "hospital"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Their brain's alarm centre reacted about sixty percent more",
+   "candidates": [
+    {
+     "pixabay_id": 15629,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_small.jpg",
+     "page": "https://pixabay.com/videos/id-15629/",
+     "tags": "alarm, clock, watch, time, retro, vintage",
+     "duration": 11,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 19044,
+     "url": "https://cdn.pixabay.com/video/2018/11/01/19044-298313350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/01/19044-298313350_small.jpg",
+     "page": "https://pixabay.com/videos/id-19044/",
+     "tags": "alarm clock, wake up, awakening, watch, hours, morning, alarm, minute, sleep, retro, old one, vintage, time",
+     "duration": 7,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 21222,
+     "url": "https://cdn.pixabay.com/video/2019/02/07/21222-316092837_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/07/21222-316092837_small.jpg",
+     "page": "https://pixabay.com/videos/id-21222/",
+     "tags": "alarm clock, home, time, watch, hour, minute, alarm, deadline",
+     "duration": 61,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 21223,
+     "url": "https://cdn.pixabay.com/video/2019/02/07/21223-316116285_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/07/21223-316116285_small.jpg",
+     "page": "https://pixabay.com/videos/id-21223/",
+     "tags": "alarm clock, home, time, watch, hour, minute, alarm, deadline",
+     "duration": 61,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 205519,
+     "url": "https://cdn.pixabay.com/video/2024/03/24/205519-927335684_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/24/205519-927335684_small.jpg",
+     "page": "https://pixabay.com/videos/id-205519/",
+     "tags": "alert, alarm, war, danger, risk, worried, panic, disaster, conflict, screen, computer, monitor",
+     "duration": 16,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 61621,
+     "url": "https://cdn.pixabay.com/video/2021/01/10/61621-499906216_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/10/61621-499906216_small.jpg",
+     "page": "https://pixabay.com/videos/id-61621/",
+     "tags": "clock, alarm, desk, time, lapse, moving, watch, vintage, timer, steampunk, retro, gear, metal, gears, antique, machine",
+     "duration": 14,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 122810,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122810-726391893_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122810-726391893_small.jpg",
+     "page": "https://pixabay.com/videos/id-122810/",
+     "tags": "clock, time, minutes, second, gold, clock face, numbers, division, frame, alarm, macro",
+     "duration": 13,
+     "query": "alarm"
+    },
+    {
+     "pixabay_id": 172747,
+     "url": "https://cdn.pixabay.com/video/2023/07/22/172747-847860574_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/22/172747-847860574_small.jpg",
+     "page": "https://pixabay.com/videos/id-172747/",
+     "tags": "alarm, minutes, seconds, time, season, success, symbol, beautiful wallpaper, sea, morning, background",
+     "duration": 30,
+     "query": "alarm"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "than in people who'd slept.",
+   "candidates": [
+    {
+     "pixabay_id": 1405,
+     "url": "https://cdn.pixabay.com/video/2015/11/27/1405-147169806_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/27/1405-147169806_small.jpg",
+     "page": "https://pixabay.com/videos/id-1405/",
+     "tags": "puppet, marionette, shadow, person, control, figure, artwork, woman, female, sleeping, lying, movie, studio, creativity, video art, 145360317",
+     "duration": 41,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 44647,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44647-439940300_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44647-439940300_small.jpg",
+     "page": "https://pixabay.com/videos/id-44647/",
+     "tags": "yawn, woman, sleep, night, fatigue, depression, sleepy, face, mouth, open, person, morning, expression, portrait, cute, tired, wake, loose, rest, young, comfortable",
+     "duration": 8,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 382957,
+     "url": "https://cdn.pixabay.com/video/2026/10/15/382957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/15/382957_small.jpg",
+     "page": "https://pixabay.com/videos/id-382957/",
+     "tags": "building, terrace, balcony, windows, doors, parapet, rampart, swing, woman, child, play, happiness, family, mom, baby, mother, grandmother, together, nap, sleep, asleep",
+     "duration": 7,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 35693,
+     "url": "https://cdn.pixabay.com/video/2020/04/11/35693-407701673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/11/35693-407701673_small.jpg",
+     "page": "https://pixabay.com/videos/id-35693/",
+     "tags": "cat, sleep, animal, sleeping, pet, cute, sweet, kitty, lazy, nature, comfort, kitten",
+     "duration": 18,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 35733,
+     "url": "https://cdn.pixabay.com/video/2020/04/11/35733-407701799_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/11/35733-407701799_small.jpg",
+     "page": "https://pixabay.com/videos/id-35733/",
+     "tags": "cat, kitty, sleep, kitten, pet, animal, cute, adorable, sleeping, young, little, sweet",
+     "duration": 8,
+     "query": "woman sleeping"
+    },
+    {
+     "pixabay_id": 2449,
+     "url": "https://cdn.pixabay.com/video/2016/03/14/2449-159139941_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/03/14/2449-159139941_small.jpg",
+     "page": "https://pixabay.com/videos/id-2449/",
+     "tags": "cat, sleeping, rest, pet, kitten, animal, laziness, hair",
+     "duration": 37,
+     "query": "woman sleeping"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "And the part that calms it down was less connected.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "So that argument after a bad night?",
+   "candidates": [
+    {
+     "pixabay_id": 50311,
+     "url": "https://cdn.pixabay.com/video/2020/09/19/50311-460401325_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/19/50311-460401325_small.jpg",
+     "page": "https://pixabay.com/videos/id-50311/",
+     "tags": "couple, arguing, domestic violence, angry, divorce, fighting, infidelity, conflict, argue, argument, boyfriend, girlfriend, adultery, problem, talking, jealous, breakup, conversation, love, fight, husband, woman, wife, unhappy",
+     "duration": 9,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 50312,
+     "url": "https://cdn.pixabay.com/video/2020/09/19/50312-460401327_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/19/50312-460401327_small.jpg",
+     "page": "https://pixabay.com/videos/id-50312/",
+     "tags": "couple, arguing, fight, fighting, crying, conflict, problem, anger, argument, argue, disagreement, people, disagree, dispute, cheating, caught, relationship, breaking up, sad, divorce, break up, aggression, domestic violence",
+     "duration": 20,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 245932,
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/09/245932_small.jpg",
+     "page": "https://pixabay.com/videos/id-245932/",
+     "tags": "couple, love, lovers, together, relationship, romance, romantic",
+     "duration": 7,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 5278,
+     "url": "https://cdn.pixabay.com/video/2016/09/14/5278-182817488_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/14/5278-182817488_small.jpg",
+     "page": "https://pixabay.com/videos/id-5278/",
+     "tags": "rainy, rain, night, summer, colorful, reflection, wet, weather, road, puddles, street, couple, live wallpaper",
+     "duration": 61,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 203196,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_small.jpg",
+     "page": "https://pixabay.com/videos/id-203196/",
+     "tags": "sunset, seagulls, birds, gulls, silhouette, sky, sun, wildlife, seabirds, couple, nature, eearhday",
+     "duration": 49,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 172681,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_small.jpg",
+     "page": "https://pixabay.com/videos/id-172681/",
+     "tags": "married couple, old couple, happy couple, music, headphones",
+     "duration": 11,
+     "query": "couple arguing"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "couple arguing"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Sleep on it first.",
+   "candidates": [
+    {
+     "pixabay_id": 360429,
+     "url": "https://cdn.pixabay.com/video/2026/06/24/360429_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/06/24/360429_small.jpg",
+     "page": "https://pixabay.com/videos/id-360429/",
+     "tags": "sailboat, sail, boots, ship, sleep, sport, trip, horizon, blue, wave, sea, ocean, waves, nature, that, view, holiday, tropical, sunny, tourism, sky, atmospheric, peaceful, peace",
+     "duration": 59,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 1405,
+     "url": "https://cdn.pixabay.com/video/2015/11/27/1405-147169806_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/27/1405-147169806_small.jpg",
+     "page": "https://pixabay.com/videos/id-1405/",
+     "tags": "puppet, marionette, shadow, person, control, figure, artwork, woman, female, sleeping, lying, movie, studio, creativity, video art, 145360317",
+     "duration": 41,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 35693,
+     "url": "https://cdn.pixabay.com/video/2020/04/11/35693-407701673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/11/35693-407701673_small.jpg",
+     "page": "https://pixabay.com/videos/id-35693/",
+     "tags": "cat, sleep, animal, sleeping, pet, cute, sweet, kitty, lazy, nature, comfort, kitten",
+     "duration": 18,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 306155,
+     "url": "https://cdn.pixabay.com/video/2025/09/24/306155_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/24/306155_small.jpg",
+     "page": "https://pixabay.com/videos/id-306155/",
+     "tags": "sun, seascape, water, sunset, sea, horizon, red, ocean, reflection, calm, tranquil scene, peaceful, calmness, calming, peace",
+     "duration": 12,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 35733,
+     "url": "https://cdn.pixabay.com/video/2020/04/11/35733-407701799_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/11/35733-407701799_small.jpg",
+     "page": "https://pixabay.com/videos/id-35733/",
+     "tags": "cat, kitty, sleep, kitten, pet, animal, cute, adorable, sleeping, young, little, sweet",
+     "duration": 8,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 2449,
+     "url": "https://cdn.pixabay.com/video/2016/03/14/2449-159139941_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/03/14/2449-159139941_small.jpg",
+     "page": "https://pixabay.com/videos/id-2449/",
+     "tags": "cat, sleeping, rest, pet, kitten, animal, laziness, hair",
+     "duration": 37,
+     "query": "woman sleeping peaceful"
+    },
+    {
+     "pixabay_id": 65560,
+     "url": "https://cdn.pixabay.com/video/2021/02/18/65560-515098344_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/18/65560-515098344_small.jpg",
+     "page": "https://pixabay.com/videos/id-65560/",
+     "tags": "ocean, waves, water, shore, florida, sea, beach, nature, travel, summer, seascape, tropical, vacation, sand, paradise, coast, exotic, relaxation, calm, peace, peaceful, landscape",
+     "duration": 23,
+     "query": "woman sleeping peaceful"
+    }
+   ]
+  }
+ ]
+}

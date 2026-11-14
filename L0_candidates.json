@@ -1,0 +1,785 @@
+{
+ "id": "L0",
+ "lines": [
+  {
+   "n": 1,
+   "text": "The most expensive handbag in the shop is often the one with the smallest logo.",
+   "candidates": [
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 3582,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_small.jpg",
+     "page": "https://pixabay.com/videos/id-3582/",
+     "tags": "thief, bag, car, stealing, criminal, man, steal, crime, purse, robbery, automobile, theft, auto, bandit, safety, handbag, vehicle, breaking, insurance, security, risk, valuables",
+     "duration": 9,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 67201,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_small.jpg",
+     "page": "https://pixabay.com/videos/id-67201/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 11,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 1303,
+     "url": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_small.jpg",
+     "page": "https://pixabay.com/videos/id-1303/",
+     "tags": "hotel, resort, restaurant, travel, luxury, luxury hotel, tourism, holiday, business, design, room, interior, furniture, decoration, creative, modern, contemporary, 131618933",
+     "duration": 49,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 28543,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_small.jpg",
+     "page": "https://pixabay.com/videos/id-28543/",
+     "tags": "porsche, speedster, convertible, cars, 911, oldtimer, luxury, vintage car",
+     "duration": 7,
+     "query": "luxury handbag"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "And the people most eager to look rich tend to buy the loudest one.",
+   "candidates": [
+    {
+     "pixabay_id": 3582,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_small.jpg",
+     "page": "https://pixabay.com/videos/id-3582/",
+     "tags": "thief, bag, car, stealing, criminal, man, steal, crime, purse, robbery, automobile, theft, auto, bandit, safety, handbag, vehicle, breaking, insurance, security, risk, valuables",
+     "duration": 9,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 34854,
+     "url": "https://cdn.pixabay.com/video/2020/04/03/34854-405203068_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/03/34854-405203068_small.jpg",
+     "page": "https://pixabay.com/videos/id-34854/",
+     "tags": "lotus flowers, lotus, flower, blooming, logo, meditation, the leaves, the garden, zen, nice, water",
+     "duration": 20,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 126834,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126834-737020159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126834-737020159_small.jpg",
+     "page": "https://pixabay.com/videos/id-126834/",
+     "tags": "funchal, madeira, portugal, city, people, daylight, buildings, urban, trees, logo, woman, girl",
+     "duration": 30,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 133604,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133604-757274773_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133604-757274773_small.jpg",
+     "page": "https://pixabay.com/videos/id-133604/",
+     "tags": "sign, ocean, path, direction, trip, aim, success, writing, plaque, logo, concept, idea, design, symbol, sea, waves, coast, beach",
+     "duration": 59,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 133602,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133602-757274755_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133602-757274755_small.jpg",
+     "page": "https://pixabay.com/videos/id-133602/",
+     "tags": "sign, ocean, los angeles, city, state, california, holiday, writing, plaque, logo, concept, idea, design, symbol, sea, wave, coast, beach",
+     "duration": 59,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 133603,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133603-757274764_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133603-757274764_small.jpg",
+     "page": "https://pixabay.com/videos/id-133603/",
+     "tags": "sign, sea, ukraine, country, independence, peace, flag, plaque, logo, concept, idea, design, symbol, freedom, waves, ocean, coast, beach",
+     "duration": 59,
+     "query": "logo handbag"
+    },
+    {
+     "pixabay_id": 133608,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133608-757335694_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133608-757335694_small.jpg",
+     "page": "https://pixabay.com/videos/id-133608/",
+     "tags": "sign, jazz, music, path, direction, trip, far, aim, success, to go, holiday, writing, plaque, logo, concept, idea, design",
+     "duration": 56,
+     "query": "logo handbag"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "That's not a fashion rule. It's psychology, and researchers have measured it.",
+   "candidates": [
+    {
+     "pixabay_id": 192281,
+     "url": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_small.jpg",
+     "page": "https://pixabay.com/videos/id-192281/",
+     "tags": "scientist, laboratory, research, space, science, technology, discussion",
+     "duration": 15,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262464,
+     "url": "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/04/262464_small.jpg",
+     "page": "https://pixabay.com/videos/id-262464/",
+     "tags": "scientist, laboratory, lab, blue-collar",
+     "duration": 21,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 81241,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_small.jpg",
+     "page": "https://pixabay.com/videos/id-81241/",
+     "tags": "quality, test, control, industry, plant, lab, production, technician, technology, worker, factory, laboratory, analysis, equipment, research, agriculture, gmo, person, medical, scientist",
+     "duration": 9,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262188,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262188_small.jpg",
+     "page": "https://pixabay.com/videos/id-262188/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 14,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262187,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262187_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262187_small.jpg",
+     "page": "https://pixabay.com/videos/id-262187/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 12,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 4372,
+     "url": "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_small.jpg",
+     "page": "https://pixabay.com/videos/id-4372/",
+     "tags": "laboratory, architecture, modern, science, technology, office, future, lab, machine, tool, engineering, architect, creative, scientist, technical",
+     "duration": 11,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 216232,
+     "url": "https://cdn.pixabay.com/video/2024/06/11/216232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/11/216232_small.jpg",
+     "page": "https://pixabay.com/videos/id-216232/",
+     "tags": "chemistry, science, laboratory, physics, experiment, scientist, energy, equipment",
+     "duration": 16,
+     "query": "scientist laboratory"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In this video you'll see seven real studies about looking rich.",
+   "candidates": [
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 28543,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_small.jpg",
+     "page": "https://pixabay.com/videos/id-28543/",
+     "tags": "porsche, speedster, convertible, cars, 911, oldtimer, luxury, vintage car",
+     "duration": 7,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 536,
+     "url": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_small.jpg",
+     "page": "https://pixabay.com/videos/id-536/",
+     "tags": "driving, car, road trip, audi, automobile, travel, vacation, road, street, traffic, luxury, couple, love, trip, excursion, 114063706",
+     "duration": 20,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 13596,
+     "url": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_small.jpg",
+     "page": "https://pixabay.com/videos/id-13596/",
+     "tags": "jaguar, xj, antique car, old car, big cat, wildcat, elegant, automobile, limousine, luxury, vehicle, classic, luxury car, car, restored, expensive, aerial view, landscape, sea, lake, road, driven, retro, newly restored, nobelkrosse, brand, dream car, historical, rarity, nostalgia",
+     "duration": 12,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24387,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24387-342401483_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24387-342401483_small.jpg",
+     "page": "https://pixabay.com/videos/id-24387/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 6,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24388,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_small.jpg",
+     "page": "https://pixabay.com/videos/id-24388/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 5,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 133707,
+     "url": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_small.jpg",
+     "page": "https://pixabay.com/videos/id-133707/",
+     "tags": "woman, driver, car, reflection, transportation, chauffeur, luxury, driving, road",
+     "duration": 25,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24386,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24386-342401485_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24386-342401485_small.jpg",
+     "page": "https://pixabay.com/videos/id-24386/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 6,
+     "query": "luxury car"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "How a price tag changes what you taste,",
+   "candidates": [
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 15983,
+     "url": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_small.jpg",
+     "page": "https://pixabay.com/videos/id-15983/",
+     "tags": "wine, tasting, sommelier, celebration, gourmet, winery, culture, splash, wineglass",
+     "duration": 22,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 1075,
+     "url": "https://cdn.pixabay.com/video/2015/10/18/1075-142790246_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/18/1075-142790246_small.jpg",
+     "page": "https://pixabay.com/videos/id-1075/",
+     "tags": "wine tasting, food, wine, fresh, salad, healthy, traditional, macedonian, restaurant, drink, natural, meal, organic, nutrition, vitamin, freshness, ripe, eating, color, snack, lunch, table, 142317357",
+     "duration": 13,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 179344,
+     "url": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_small.jpg",
+     "page": "https://pixabay.com/videos/id-179344/",
+     "tags": "grapes, grapevine, fruit, healthy, wine growing, food",
+     "duration": 15,
+     "query": "wine tasting"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "why people treat you differently in a logo shirt,",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 1108,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1108-142930228_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1108-142930228_small.jpg",
+     "page": "https://pixabay.com/videos/id-1108/",
+     "tags": "tailor, clothing, folding, shirt, shop, textiles, clothes, table, work, tidy, acurate, fashion",
+     "duration": 8,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 286314,
+     "url": "https://cdn.pixabay.com/video/2025/06/17/286314_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/17/286314_small.jpg",
+     "page": "https://pixabay.com/videos/id-286314/",
+     "tags": "forest, trees, nature, man, shorts, t-shirt, camping, survival, hike, axe, chop wood",
+     "duration": 28,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 133895,
+     "url": "https://cdn.pixabay.com/video/2022/10/07/133895-758336556_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/07/133895-758336556_small.jpg",
+     "page": "https://pixabay.com/videos/id-133895/",
+     "tags": "girl, face, female, hair, lifestyle, asian, copy space, person, portrait, posing, shirt, skirt, smile, student, teenager",
+     "duration": 13,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 31924,
+     "url": "https://cdn.pixabay.com/video/2020/02/04/31924-389236392_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/04/31924-389236392_small.jpg",
+     "page": "https://pixabay.com/videos/id-31924/",
+     "tags": "t-shirts, girl, woman, model",
+     "duration": 10,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 135024,
+     "url": "https://cdn.pixabay.com/video/2022/10/15/135024-760679995_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/15/135024-760679995_small.jpg",
+     "page": "https://pixabay.com/videos/id-135024/",
+     "tags": "dog, canine, puppy, costume, glasses, shirt, fun",
+     "duration": 13,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 6121,
+     "url": "https://cdn.pixabay.com/video/2016/10/26/6121-189135209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/26/6121-189135209_small.jpg",
+     "page": "https://pixabay.com/videos/id-6121/",
+     "tags": "sewing machine, sewing, tailoring, crafts, shirt, clothes, thread, needle, tailor, machine, hands, work, light",
+     "duration": 59,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 67861,
+     "url": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_small.jpg",
+     "page": "https://pixabay.com/videos/id-67861/",
+     "tags": "belief, shirt, man, quote, trust, faith, glowing letters",
+     "duration": 7,
+     "query": "polo shirt"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "why a fake designer item can change how honest you are,",
+   "candidates": [
+    {
+     "pixabay_id": 215189,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215189_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215189_small.jpg",
+     "page": "https://pixabay.com/videos/id-215189/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 51,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 133339,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_small.jpg",
+     "page": "https://pixabay.com/videos/id-133339/",
+     "tags": "sunflower, blossoms, yellow, bloom, nature, sunglasses",
+     "duration": 18,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 215188,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215188_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215188_small.jpg",
+     "page": "https://pixabay.com/videos/id-215188/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 52,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 189573,
+     "url": "https://cdn.pixabay.com/video/2023/11/18/189573-886016219_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/18/189573-886016219_small.jpg",
+     "page": "https://pixabay.com/videos/id-189573/",
+     "tags": "man, women, friends, models, sunglasses, fashion",
+     "duration": 36,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 113915,
+     "url": "https://cdn.pixabay.com/video/2022/04/14/113915-699857851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/14/113915-699857851_small.jpg",
+     "page": "https://pixabay.com/videos/id-113915/",
+     "tags": "sun, tan, bikini, sunbathing, girl, woman, sunglasses, pool, summer, swimwear, relax",
+     "duration": 27,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 34259,
+     "url": "https://cdn.pixabay.com/video/2020/03/25/34259-400974053_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/25/34259-400974053_small.jpg",
+     "page": "https://pixabay.com/videos/id-34259/",
+     "tags": "beach, girl, woman, sea, ocean, travel, summer, surf, happy, lady, vacation, water, relax, women, smile, people, female, sunglasses, standing, sun, sand, health",
+     "duration": 10,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 120202,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120202-720504810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120202-720504810_small.jpg",
+     "page": "https://pixabay.com/videos/id-120202/",
+     "tags": "sunglasses, woman, hot, darling, wind, blue, relax",
+     "duration": 12,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 240463,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240463_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240463_small.jpg",
+     "page": "https://pixabay.com/videos/id-240463/",
+     "tags": "man, eyes, face, sunglasses, reflection, television, smile, 4k",
+     "duration": 18,
+     "query": "sunglasses"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "and the one question that shows most of us would accept less money, just to feel richer.",
+   "candidates": [
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "money stack"
+    },
+    {
+     "pixabay_id": 28839,
+     "url": "https://cdn.pixabay.com/video/2019/11/07/28839-372045694_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/07/28839-372045694_small.jpg",
+     "page": "https://pixabay.com/videos/id-28839/",
+     "tags": "ocean, rocks, waves, oregon, guanos, landscape, sea stack, breaking waves",
+     "duration": 23,
+     "query": "money stack"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "Stick around for number six. It's the one people argue about most.",
+   "candidates": [
+    {
+     "pixabay_id": 37799,
+     "url": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_small.jpg",
+     "page": "https://pixabay.com/videos/id-37799/",
+     "tags": "woman, person, emotions, red, sweater, girl, young, beauty, model, beautiful wallpaper, beautiful, look forward, surprised, background, black",
+     "duration": 21,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 106379,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_small.jpg",
+     "page": "https://pixabay.com/videos/id-106379/",
+     "tags": "celebration, beautiful wallpaper, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, evening, birthday, coffee, tea, candle, writing, red, woman, women, romance",
+     "duration": 59,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 45119,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_small.jpg",
+     "page": "https://pixabay.com/videos/id-45119/",
+     "tags": "surprise, joy, girl, gift, birthday, young, woman",
+     "duration": 17,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 48019,
+     "url": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_small.jpg",
+     "page": "https://pixabay.com/videos/id-48019/",
+     "tags": "girl, surprised, beauty, woman, portrait, face, human, female, pretty, hair, hands, beautiful, person",
+     "duration": 14,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman surprised"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "First, an experiment that put wine drinkers inside a brain scanner.",
+   "candidates": [
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "mri scanner"
+    },
+    {
+     "pixabay_id": 67396,
+     "url": "https://cdn.pixabay.com/video/2021/03/09/67396-522626719_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/09/67396-522626719_small.jpg",
+     "page": "https://pixabay.com/videos/id-67396/",
+     "tags": "wine, glass, pouring red wine, pouring, alcohol, drink, bottle, beverage, celebration, cheers, liquid, luxury, wineglass, alcoholic, toast",
+     "duration": 23,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 67394,
+     "url": "https://cdn.pixabay.com/video/2021/03/09/67394-522639883_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/09/67394-522639883_small.jpg",
+     "page": "https://pixabay.com/videos/id-67394/",
+     "tags": "wine, glass, pouring, alcohol, drink, bottle, beverage, celebration, glasses, cheers, liquid, luxury, wineglass, alcoholic, toast",
+     "duration": 28,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 4315,
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_small.jpg",
+     "page": "https://pixabay.com/videos/id-4315/",
+     "tags": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast",
+     "duration": 27,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 257265,
+     "url": "https://cdn.pixabay.com/video/2025/02/09/257265_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/09/257265_small.jpg",
+     "page": "https://pixabay.com/videos/id-257265/",
+     "tags": "pouring vine, vine, pouring, drink, glass, pour, liquid, beverage, alcohol, bottle, red, closeup, event, festival, celebration, banquet, lifestyle, bokeh",
+     "duration": 19,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 23955,
+     "url": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/25/23955-338863711_small.jpg",
+     "page": "https://pixabay.com/videos/id-23955/",
+     "tags": "tea, kettle, hot, pour, glass, drink, liquid, pouring, water, natural",
+     "duration": 24,
+     "query": "wine pouring"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine pouring"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1097 @@
+{
+ "id": "L7",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Number seven: would you take less money to be richer?",
+   "candidates": [
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172892,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_small.jpg",
+     "page": "https://pixabay.com/videos/id-172892/",
+     "tags": "money, cash, finance, currency, business, office",
+     "duration": 9,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers at Harvard asked students and staff to imagine two worlds, where prices are the same.",
+   "candidates": [
+    {
+     "pixabay_id": 90933,
+     "url": "https://cdn.pixabay.com/video/2021/10/05/90933-629483642_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/05/90933-629483642_small.jpg",
+     "page": "https://pixabay.com/videos/id-90933/",
+     "tags": "hanover, campus, leibniz university hannover, guelph castle, historical, architecture, campus welfengarten, building",
+     "duration": 23,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 90907,
+     "url": "https://cdn.pixabay.com/video/2021/10/05/90907-629483627_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/05/90907-629483627_small.jpg",
+     "page": "https://pixabay.com/videos/id-90907/",
+     "tags": "building, hanover, architecture, leibniz university hannover, luh, historical, guelph castle, campus",
+     "duration": 30,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 378586,
+     "url": "https://cdn.pixabay.com/video/2026/09/24/378586_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/24/378586_small.jpg",
+     "page": "https://pixabay.com/videos/id-378586/",
+     "tags": "drone, aerial, mcewan hall, bristo square, city, edinburgh, uk, student, university, campus, cityscape, 4k drone, panning shot, academic building, college, campus life, architecture, castle, edinburgh old town, sky, 4k drone view, wide landscape, dome, blue dome, tourism",
+     "duration": 10,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 379878,
+     "url": "https://cdn.pixabay.com/video/2026/09/30/379878_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/30/379878_small.jpg",
+     "page": "https://pixabay.com/videos/id-379878/",
+     "tags": "edinburgh, uk, summer, park, drone, meadows, scotland, spring, cherry blossom, cherry blossom season, trees, city, campus, building, university, afternoon stroll, pathways, 4k aerial footage, 4k drone, panning shot, wide view, landscape, distance view, green space, grass",
+     "duration": 8,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 36950,
+     "url": "https://cdn.pixabay.com/video/2020/04/23/36950-415142664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/23/36950-415142664_small.jpg",
+     "page": "https://pixabay.com/videos/id-36950/",
+     "tags": "university, people, education, college, group, student, study, campus, architecture, academic, building, woman, male, studying, together, female, school, smile, discussion, learning, young, man, guy, lecture",
+     "duration": 34,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 369787,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369787_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369787_small.jpg",
+     "page": "https://pixabay.com/videos/id-369787/",
+     "tags": "active, stroll, edinburgh, university, university of edinburgh, campus, beautiful day, blue sky, bikes, city, college, education, outside, students, walking, people, trees, buildings, architecture, sunny, graduation, clear day, sun, peaceful, ambience",
+     "duration": 17,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 369804,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369804_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369804_small.jpg",
+     "page": "https://pixabay.com/videos/id-369804/",
+     "tags": "active, stroll, edinburgh, university, university of edinburgh, campus, beautiful day, blue sky, bikes, city, college, education, outside, students, walking, people, trees, buildings, architecture, sunny, skateboard, graduation",
+     "duration": 36,
+     "query": "university campus"
+    },
+    {
+     "pixabay_id": 379881,
+     "url": "https://cdn.pixabay.com/video/2026/09/30/379881_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/30/379881_small.jpg",
+     "page": "https://pixabay.com/videos/id-379881/",
+     "tags": "edinburgh, uk, summer, park, drone, meadows, scotland, spring, cherry blossom, cherry blossom season, trees, city, campus, building, university, afternoon stroll, pathways, 4k aerial footage, 4k drone, panning shot, wide view, landscape, distance view, green space, grass",
+     "duration": 18,
+     "query": "university campus"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "In world A, you earn fifty thousand dollars a year, and everyone else earns twenty-five thousand.",
+   "candidates": [
+    {
+     "pixabay_id": 2543,
+     "url": "https://cdn.pixabay.com/video/2016/03/21/2543-159935547_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/03/21/2543-159935547_small.jpg",
+     "page": "https://pixabay.com/videos/id-2543/",
+     "tags": "blue tit, bird house, pecking, bird, blue, nature, wildlife, house, wild, nest, season, wood, outdoor, box, garden, small, nesting, breeding, uk, cute",
+     "duration": 37,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 2775,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_small.jpg",
+     "page": "https://pixabay.com/videos/id-2775/",
+     "tags": "blue tit, bird box, bird house, garden, nest, mate, bird, box, wildlife, nature, spring, small, nesting, ornithology, songbird, birdwatching",
+     "duration": 30,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 111253,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111253-690743074_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111253-690743074_small.jpg",
+     "page": "https://pixabay.com/videos/id-111253/",
+     "tags": "animal, dog, pet, play, home, house, jumping, labrador, friendship, pedigree, person, puppy, playing, cute, running, small, together, training, boy, funny, caucasian, feeding",
+     "duration": 18,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 111252,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111252-690770644_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111252-690770644_small.jpg",
+     "page": "https://pixabay.com/videos/id-111252/",
+     "tags": "animal, dog, pet, play, home, house, jumping, labrador, friendship, pedigree, person, puppy, playing, cute, running, small, together, training, boy, funny, caucasian, feeding",
+     "duration": 23,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 111251,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111251-690770639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111251-690770639_small.jpg",
+     "page": "https://pixabay.com/videos/id-111251/",
+     "tags": "animal, dog, pet, play, home, house, jumping, labrador, friendship, pedigree, person, puppy, playing, cute, running, small, together, training, boy, funny, caucasian, feeding",
+     "duration": 29,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 111250,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111250-690770634_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111250-690770634_small.jpg",
+     "page": "https://pixabay.com/videos/id-111250/",
+     "tags": "animal, dog, pet, play, home, house, jumping, labrador, friendship, pedigree, person, puppy, playing, cute, running, small, together, training, boy, funny, caucasian, feeding",
+     "duration": 26,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 111254,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111254-690743083_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111254-690743083_small.jpg",
+     "page": "https://pixabay.com/videos/id-111254/",
+     "tags": "animal, dog, pet, play, home, house, jumping, labrador, friendship, pedigree, person, puppy, playing, cute, running, small, together, training, boy, funny, caucasian, feeding",
+     "duration": 10,
+     "query": "small house"
+    },
+    {
+     "pixabay_id": 37718,
+     "url": "https://cdn.pixabay.com/video/2020/04/30/37718-414096008_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/30/37718-414096008_small.jpg",
+     "page": "https://pixabay.com/videos/id-37718/",
+     "tags": "blue tit, bird, brood, bird house, nature, animal, songbird, garden, small bird, brood care, feed, foraging, red, green",
+     "duration": 6,
+     "query": "small house"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In world B, you earn one hundred thousand a year, and everyone else earns two hundred thousand.",
+   "candidates": [
+    {
+     "pixabay_id": 335,
+     "url": "https://cdn.pixabay.com/video/2015/08/11/335-136011399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/11/335-136011399_small.jpg",
+     "page": "https://pixabay.com/videos/id-335/",
+     "tags": "city, aerial view, usa, skyscrapers, high-rises, buildings, streets, roads, structure, america, big city, manchester, united states, black and white, rows of houses, 135817525",
+     "duration": 5,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 201671,
+     "url": "https://cdn.pixabay.com/video/2024/02/23/201671-916080479_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/23/201671-916080479_small.jpg",
+     "page": "https://pixabay.com/videos/id-201671/",
+     "tags": "city, rain, thunder, window, night, houses, big city",
+     "duration": 61,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 291454,
+     "url": "https://cdn.pixabay.com/video/2025/07/14/291454_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/14/291454_small.jpg",
+     "page": "https://pixabay.com/videos/id-291454/",
+     "tags": "london, english, travel, westminster, united kingdom, tourism, house of parliament, flying, famous, blue sky, big ben, uk, landmark, cityscape, city, building, architecture, westminster abbey, river thames, panorama, landscape, iconic",
+     "duration": 22,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 230060,
+     "url": "https://cdn.pixabay.com/video/2024/09/06/230060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/06/230060_small.jpg",
+     "page": "https://pixabay.com/videos/id-230060/",
+     "tags": "bird, sperling, house sparrow, collect nesting material, nature",
+     "duration": 45,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 27057,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_small.jpg",
+     "page": "https://pixabay.com/videos/id-27057/",
+     "tags": "ferris wheel, amusement park, fun, ride, wheel, fair, carnival, festival, beautiful wallpaper, high, park, color, round, big, circle, excitement, background, movement",
+     "duration": 34,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 181114,
+     "url": "https://cdn.pixabay.com/video/2023/09/18/181114-865745500_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/18/181114-865745500_small.jpg",
+     "page": "https://pixabay.com/videos/id-181114/",
+     "tags": "traffic, crowd, crossing, crosswalk, japan, tokyo, shibuya, big city, skyscrapers",
+     "duration": 10,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 161402,
+     "url": "https://cdn.pixabay.com/video/2023/05/02/161402-823219563_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/02/161402-823219563_small.jpg",
+     "page": "https://pixabay.com/videos/id-161402/",
+     "tags": "ural owl, owl, plumage, bird, big, wildlife",
+     "duration": 15,
+     "query": "big house"
+    },
+    {
+     "pixabay_id": 10685,
+     "url": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_small.jpg",
+     "page": "https://pixabay.com/videos/id-10685/",
+     "tags": "rooster, chicken, village, farm, polygamy, country house, family, bird, natural economy, animal husbandry",
+     "duration": 14,
+     "query": "big house"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Which world do you choose? Take a second.",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 12897,
+     "url": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_small.jpg",
+     "page": "https://pixabay.com/videos/id-12897/",
+     "tags": "school, student, studies, to read, book, young woman, cabinet, think",
+     "duration": 10,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79392,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_small.jpg",
+     "page": "https://pixabay.com/videos/id-79392/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79386,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_small.jpg",
+     "page": "https://pixabay.com/videos/id-79386/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79395,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_small.jpg",
+     "page": "https://pixabay.com/videos/id-79395/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 51,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79393,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_small.jpg",
+     "page": "https://pixabay.com/videos/id-79393/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 12,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79387,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_small.jpg",
+     "page": "https://pixabay.com/videos/id-79387/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 59,
+     "query": "woman thinking"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "In world B you'd have twice the money, and it buys exactly the same things.",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, beautiful wallpaper, crowd, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "shopping"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "And yet about half the people chose world A. Half the money, as long as they were richer than everyone around them. And these were people at a school of public health: educated, thoughtful, answering a calm survey with no one watching.",
+   "candidates": [
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 1630,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_small.jpg",
+     "page": "https://pixabay.com/videos/id-1630/",
+     "tags": "concert, light effects, cheering, audience, light beams, people, crowd, happy, party, festival, music, dance, performance, stage, band, group, cheering crowd, event, entertainment, young, happiness, cheerful, fun, festival crowd, crowd of people, rock, concert crowd, live, excitement, rock concert, celebration, applauding, popular, light, concert stage, music festival, sound",
+     "duration": 15,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 36510,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_small.jpg",
+     "page": "https://pixabay.com/videos/id-36510/",
+     "tags": "airport, people, crowd, busy, live wallpaper, welcome, hello",
+     "duration": 11,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 53902,
+     "url": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_small.jpg",
+     "page": "https://pixabay.com/videos/id-53902/",
+     "tags": "traffic, city traffic, drone, transportation, crowd, driving, megalopolis, city, street, urban, car, sun, evening, sunset, schaffhausen, switzerland, live wallpaper",
+     "duration": 5,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 1643,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_small.jpg",
+     "page": "https://pixabay.com/videos/id-1643/",
+     "tags": "india, people, asia, street, asian, person, culture, city, town, road, busy, crowd, alley, shiva, urban, men, women, market",
+     "duration": 14,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 3630,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_small.jpg",
+     "page": "https://pixabay.com/videos/id-3630/",
+     "tags": "crosswalk, crowd, people, many, crowded, city, street, pedestrians, urban, busy, walking, rush hour",
+     "duration": 15,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 41315,
+     "url": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_small.jpg",
+     "page": "https://pixabay.com/videos/id-41315/",
+     "tags": "singapore, people, street, crowd, city, night",
+     "duration": 11,
+     "query": "crowd"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "That's the engine behind everything in this video. Your brain doesn't measure wealth in dollars. It measures it in comparison.",
+   "candidates": [
+    {
+     "pixabay_id": 212433,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212433_small.jpg",
+     "page": "https://pixabay.com/videos/id-212433/",
+     "tags": "snake, reptile, scales, animal, python, viper, anaconda, poisonous, head, venomous, scale, poison, cold-blooded, wild, australia, jungle, dangerous, wildlife, nature",
+     "duration": 11,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 3779,
+     "url": "https://cdn.pixabay.com/video/2016/07/10/3779-174173901_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/10/3779-174173901_small.jpg",
+     "page": "https://pixabay.com/videos/id-3779/",
+     "tags": "water dragon, lizard, chinese, physignathus, concincinus, water, dragon, green, asian, reptile, chinese dragon, terrarium, vivarium, china, wildlife, cocincinus, animal, nature, eye, iguana, pet, skin, agama, tropical, creature, tree, colorful, exotic, wild, drake, crawling, wood, scale, forest, reptilia, zoo, wilderness, vitality, diurnal, arboreal, outdoor, fauna, vertebrate, vivid, looking, natural",
+     "duration": 20,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 220923,
+     "url": "https://cdn.pixabay.com/video/2024/07/13/220923_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/13/220923_small.jpg",
+     "page": "https://pixabay.com/videos/id-220923/",
+     "tags": "snake, python, rare snake, rough-scaled python, reptile, scales, serpent, boa, australian snake, australian python",
+     "duration": 28,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 77806,
+     "url": "https://cdn.pixabay.com/video/2021/06/15/77806-563529552_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/15/77806-563529552_small.jpg",
+     "page": "https://pixabay.com/videos/id-77806/",
+     "tags": "snake, reptile, scales, fauna, animal",
+     "duration": 31,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 214346,
+     "url": "https://cdn.pixabay.com/video/2024/05/29/214346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/29/214346_small.jpg",
+     "page": "https://pixabay.com/videos/id-214346/",
+     "tags": "snake, reptile, scales, animal, wildlife, nature",
+     "duration": 9,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 208424,
+     "url": "https://cdn.pixabay.com/video/2024/04/18/208424_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/18/208424_small.jpg",
+     "page": "https://pixabay.com/videos/id-208424/",
+     "tags": "crocodile, creature, reptile, scales, skin, animal, nature",
+     "duration": 14,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 72381,
+     "url": "https://cdn.pixabay.com/video/2021/04/27/72381-542491332_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/27/72381-542491332_small.jpg",
+     "page": "https://pixabay.com/videos/id-72381/",
+     "tags": "lizard, iguana, chameleon, reptile, scales, animal, exotarium",
+     "duration": 19,
+     "query": "scales"
+    },
+    {
+     "pixabay_id": 118756,
+     "url": "https://cdn.pixabay.com/video/2022/05/31/118756-715736002_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/31/118756-715736002_small.jpg",
+     "page": "https://pixabay.com/videos/id-118756/",
+     "tags": "fish, water, rivers, animal, eye, fish scales, creature, light, wildlife, slow motion",
+     "duration": 45,
+     "query": "scales"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "The wine, the cookies, the logo, the quiet bag, the red sneakers, even the fake sunglasses: they're all about where you stand next to other people.",
+   "candidates": [
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 14627,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_small.jpg",
+     "page": "https://pixabay.com/videos/id-14627/",
+     "tags": "sparkling wine, give a, glass, alcohol, celebration",
+     "duration": 30,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 14628,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_small.jpg",
+     "page": "https://pixabay.com/videos/id-14628/",
+     "tags": "sparkling wine, macro, details, champagne glass, abut",
+     "duration": 46,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 227113,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227113_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227113_small.jpg",
+     "page": "https://pixabay.com/videos/id-227113/",
+     "tags": "making cocktail, cocktail, drink, glass, bar, juice, refreshment, fruit, wine, beverage, mixology, party",
+     "duration": 12,
+     "query": "wine glass"
+    },
+    {
+     "pixabay_id": 45978,
+     "url": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_small.jpg",
+     "page": "https://pixabay.com/videos/id-45978/",
+     "tags": "wineglass, red wine, wine, glass, reflection, romance, celebration, shiny, cutout, image, romantic, liquid, splash, motion, smooth, round, color, anniversary, drink, food, beverage, bubbles, drop, pour",
+     "duration": 33,
+     "query": "wine glass"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "And the same survey found something telling: for holidays, most people chose more time off for themselves, even if others got more.",
+   "candidates": [
+    {
+     "pixabay_id": 29982,
+     "url": "https://cdn.pixabay.com/video/2019/12/08/29982-378308905_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/08/29982-378308905_small.jpg",
+     "page": "https://pixabay.com/videos/id-29982/",
+     "tags": "beach, ocean, waves, kids, running, vacation, sea, water, sand, sky, nature, rock, mountain, new zealand, holiday, outdoors",
+     "duration": 15,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 203974,
+     "url": "https://cdn.pixabay.com/video/2024/03/12/203974-923133846_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/12/203974-923133846_small.jpg",
+     "page": "https://pixabay.com/videos/id-203974/",
+     "tags": "boats, travel, journey, road trip, coast, ocean, beach, trip, vacation, sea, europe, italy, travel destinations",
+     "duration": 14,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 161045,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161045-822582085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161045-822582085_small.jpg",
+     "page": "https://pixabay.com/videos/id-161045/",
+     "tags": "beach, coastline, travel, tourism, summer, vacation, ocean view, scenic, landscape, relaxation, serenity, nature, aerial footage, drone",
+     "duration": 29,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 3581,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3581-172488192_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3581-172488192_small.jpg",
+     "page": "https://pixabay.com/videos/id-3581/",
+     "tags": "coastline, beach, city, usa, sunset, aerial view, vacation, summer, sea, water, sand, travel, tourism, people, shore, lifestyle, coast, ocean, recreation, holiday",
+     "duration": 64,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 91,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_small.jpg",
+     "page": "https://pixabay.com/videos/id-91/",
+     "tags": "photographer, beach, photography, camera, woman, girl, people, coast, sea, ocean, vacation, holidays, tourism, tourist, view, photo, picture, viewpoint, female",
+     "duration": 15,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 23011,
+     "url": "https://cdn.pixabay.com/video/2019/04/23/23011-332483109_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/23/23011-332483109_small.jpg",
+     "page": "https://pixabay.com/videos/id-23011/",
+     "tags": "motor boat, boats, splash, racing, sea, caribbean, race, speed, vacation, fun, beach, holiday, water, sport, activity, bahamas, island, tourism, outdoor, resort, boating, sunny",
+     "duration": 13,
+     "query": "beach vacation"
+    },
+    {
+     "pixabay_id": 65560,
+     "url": "https://cdn.pixabay.com/video/2021/02/18/65560-515098344_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/18/65560-515098344_small.jpg",
+     "page": "https://pixabay.com/videos/id-65560/",
+     "tags": "ocean, waves, water, shore, florida, sea, beach, nature, travel, summer, seascape, tropical, vacation, sand, paradise, coast, exotic, relaxation, calm, peace, peaceful, landscape",
+     "duration": 23,
+     "query": "beach vacation"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "Comparison hits hardest on the things other people can see.",
+   "candidates": [
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 28543,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_small.jpg",
+     "page": "https://pixabay.com/videos/id-28543/",
+     "tags": "porsche, speedster, convertible, cars, 911, oldtimer, luxury, vintage car",
+     "duration": 7,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 536,
+     "url": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_small.jpg",
+     "page": "https://pixabay.com/videos/id-536/",
+     "tags": "driving, car, road trip, audi, automobile, travel, vacation, road, street, traffic, luxury, couple, love, trip, excursion, 114063706",
+     "duration": 20,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 13596,
+     "url": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_small.jpg",
+     "page": "https://pixabay.com/videos/id-13596/",
+     "tags": "jaguar, xj, antique car, old car, big cat, wildcat, elegant, automobile, limousine, luxury, vehicle, classic, luxury car, car, restored, expensive, aerial view, landscape, sea, lake, road, driven, retro, newly restored, nobelkrosse, brand, dream car, historical, rarity, nostalgia",
+     "duration": 12,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24387,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24387-342401483_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24387-342401483_small.jpg",
+     "page": "https://pixabay.com/videos/id-24387/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 6,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24388,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24388-342401480_small.jpg",
+     "page": "https://pixabay.com/videos/id-24388/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 5,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 133707,
+     "url": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_small.jpg",
+     "page": "https://pixabay.com/videos/id-133707/",
+     "tags": "woman, driver, car, reflection, transportation, chauffeur, luxury, driving, road",
+     "duration": 25,
+     "query": "luxury car"
+    },
+    {
+     "pixabay_id": 24386,
+     "url": "https://cdn.pixabay.com/video/2019/06/13/24386-342401485_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/13/24386-342401485_small.jpg",
+     "page": "https://pixabay.com/videos/id-24386/",
+     "tags": "automobile, black, antique car, vehicle, luxury, car, dare, vintage, dynamics, glittering, workshop, dark, service",
+     "duration": 6,
+     "query": "luxury car"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "Try this today: the next time you feel poor, check who you're comparing yourself to.",
+   "candidates": [
+    {
+     "pixabay_id": 88686,
+     "url": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_small.jpg",
+     "page": "https://pixabay.com/videos/id-88686/",
+     "tags": "phone, scrolling phone, woman, picnic, hands, girl, summer, nature",
+     "duration": 5,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 736,
+     "url": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_small.jpg",
+     "page": "https://pixabay.com/videos/id-736/",
+     "tags": "iphone, smartphone, scrolling, mobile, device, technology, cellphone, smart phone, mobile device, mobile phones, digital technology, screen",
+     "duration": 14,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 1110,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1110-142930245_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1110-142930245_small.jpg",
+     "page": "https://pixabay.com/videos/id-1110/",
+     "tags": "smartphone, touch screen, navigation, touch control, scrolling, hands, finders, man, male, navigate, mobile, phone, device, electronics",
+     "duration": 7,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 3180,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3180-166339024_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3180-166339024_small.jpg",
+     "page": "https://pixabay.com/videos/id-3180/",
+     "tags": "smartphone, scrolling, app, mobile, device, modern, communication, internet, wireless, touchscreen, technology, digital, cellphone, gadget, telephone, using, equipment, hand, cellular, multimedia, smart phone, communicator, screen",
+     "duration": 13,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 2294,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2294-157183594_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2294-157183594_small.jpg",
+     "page": "https://pixabay.com/videos/id-2294/",
+     "tags": "scrolling, touchscreen, mobile phone, smartphone, background, tablet, computer, using, internet, communication, screen, tablet pc, beautiful wallpaper, technology, bokeh, blur",
+     "duration": 14,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 735,
+     "url": "https://cdn.pixabay.com/video/2015/09/09/735-138808018_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/09/735-138808018_small.jpg",
+     "page": "https://pixabay.com/videos/id-735/",
+     "tags": "iphone, scrolling, technology, touchscreen, cellphone, digital, smartphone, communication, mobile, screen, device, display",
+     "duration": 14,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 169445,
+     "url": "https://cdn.pixabay.com/video/2023/06/30/169445-841382824_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/30/169445-841382824_small.jpg",
+     "page": "https://pixabay.com/videos/id-169445/",
+     "tags": "smart phone, mobile phone, scrolling, photos, night, cellphone, phone, online, social media, browsing, internet, app, application, screen, dark room",
+     "duration": 25,
+     "query": "phone scrolling"
+    },
+    {
+     "pixabay_id": 64594,
+     "url": "https://cdn.pixabay.com/video/2021/02/08/64594-510542191_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/08/64594-510542191_small.jpg",
+     "page": "https://pixabay.com/videos/id-64594/",
+     "tags": "phone, app, touch screen, mobile phone, smartphone, communication, scrolling, mobile, screen, digital, technology, contact, wireless, call, internet, modern, communicate, connection, web page",
+     "duration": 17,
+     "query": "phone scrolling"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "Compare with your own life a year ago instead. That's the one comparison that tells you if you're actually getting richer.",
+   "candidates": [
+    {
+     "pixabay_id": 2119,
+     "url": "https://cdn.pixabay.com/video/2016/02/11/2119-155244112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/11/2119-155244112_small.jpg",
+     "page": "https://pixabay.com/videos/id-2119/",
+     "tags": "islands, ocean, sunrise, landscape, woods, sunlight, morning, sunrise landscape, trees, sea, forest landscape, forest, romantic, aerial",
+     "duration": 25,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 59291,
+     "url": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/15/59291-492700392_small.jpg",
+     "page": "https://pixabay.com/videos/id-59291/",
+     "tags": "mountains, fog, clouds, sunset, sunrise, forest, vietnam",
+     "duration": 19,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 153821,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153821-806526710_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153821-806526710_small.jpg",
+     "page": "https://pixabay.com/videos/id-153821/",
+     "tags": "mountain, sunrise, nepal, mardi, dhaulagiri",
+     "duration": 25,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 1844,
+     "url": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/05/1844-150885307_small.jpg",
+     "page": "https://pixabay.com/videos/id-1844/",
+     "tags": "sunrise, sunset, weather, sky, clouds, twilight, atmosphere, timelapse",
+     "duration": 28,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 201308,
+     "url": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/21/201308-915375262_small.jpg",
+     "page": "https://pixabay.com/videos/id-201308/",
+     "tags": "beach, ocean, sunset, sea, nature, sky, sun, sunrise, summer, outdoors",
+     "duration": 59,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 189813,
+     "url": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_small.jpg",
+     "page": "https://pixabay.com/videos/id-189813/",
+     "tags": "trees, forest, woods, sunrise, morning, rays, fog, netherlands, drenthe",
+     "duration": 23,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 246391,
+     "url": "https://cdn.pixabay.com/video/2024/12/12/246391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/12/246391_small.jpg",
+     "page": "https://pixabay.com/videos/id-246391/",
+     "tags": "sunrise, horizon, winter, snow, cold, season, winter landscape, landscape",
+     "duration": 10,
+     "query": "sunrise"
+    },
+    {
+     "pixabay_id": 66810,
+     "url": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/03/66810-520427372_small.jpg",
+     "page": "https://pixabay.com/videos/id-66810/",
+     "tags": "grass, dew, field, fog, morning, nature, sunshine, green, grassland, farm, sunlight, sunrise, sun",
+     "duration": 28,
+     "query": "sunrise"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "If you want to see how the same brain loses money in everyday spending, watch this next: why your brain is bad with money.",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 36705,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_small.jpg",
+     "page": "https://pixabay.com/videos/id-36705/",
+     "tags": "phone, wallet, money",
+     "duration": 19,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50623,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_small.jpg",
+     "page": "https://pixabay.com/videos/id-50623/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 27,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50629,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_small.jpg",
+     "page": "https://pixabay.com/videos/id-50629/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 9,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50625,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_small.jpg",
+     "page": "https://pixabay.com/videos/id-50625/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 12,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50627,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_small.jpg",
+     "page": "https://pixabay.com/videos/id-50627/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 7,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 95818,
+     "url": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_small.jpg",
+     "page": "https://pixabay.com/videos/id-95818/",
+     "tags": "dollar, money, economics, america, usa, usd, savings, bank, piggy bank, rich, inflation, finance, expensiveness, paper, cash, trade, earnings, success, investment, close, macro, background, wallet, account, accounting",
+     "duration": 59,
+     "query": "wallet"
+    }
+   ]
+  }
+ ]
+}

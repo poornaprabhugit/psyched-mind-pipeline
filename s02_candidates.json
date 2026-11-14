@@ -1,0 +1,707 @@
+{
+ "id": "s02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You'd pick the worse holiday, just because it cost more.",
+   "candidates": [
+    {
+     "pixabay_id": 7418,
+     "url": "https://cdn.pixabay.com/video/2017/01/18/7418-200092486_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/18/7418-200092486_small.jpg",
+     "page": "https://pixabay.com/videos/id-7418/",
+     "tags": "mountains, beautiful landscape, winter, sunset, season, countryside, aerial, snow, nature, scenery, warm, trees, forest, ecology, ski region, skiing, sunlight, colorful, panorama, environment, scenic, idyllic, evening, horizon, drone, aerial view",
+     "duration": 14,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 21511,
+     "url": "https://cdn.pixabay.com/video/2019/02/19/21511-318977956_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/19/21511-318977956_small.jpg",
+     "page": "https://pixabay.com/videos/id-21511/",
+     "tags": "skiing, man, mountain, snow, snow valley, ice skiing",
+     "duration": 9,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 29951,
+     "url": "https://cdn.pixabay.com/video/2019/12/07/29951-378294537_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/07/29951-378294537_small.jpg",
+     "page": "https://pixabay.com/videos/id-29951/",
+     "tags": "ski hill, skiing, snowboarding, ski, hill, winter, snow, cold, snowboard, lift, ski lift",
+     "duration": 17,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 13450,
+     "url": "https://cdn.pixabay.com/video/2017/12/17/13450-248520535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/17/13450-248520535_small.jpg",
+     "page": "https://pixabay.com/videos/id-13450/",
+     "tags": "skier, ski slope, to ski, ski area, pizol, winter sports, departure, downhill skiing, speed, quickly",
+     "duration": 19,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 8558,
+     "url": "https://cdn.pixabay.com/video/2017/04/02/8558-211218171_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/02/8558-211218171_small.jpg",
+     "page": "https://pixabay.com/videos/id-8558/",
+     "tags": "ski, winter, snow, mountains, winter sports, to ski, alpine, snowboard, wintry, ski area, piste, lift, chairlift, ski lift, cable car",
+     "duration": 50,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 33175,
+     "url": "https://cdn.pixabay.com/video/2020/03/03/33175-396487744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/03/33175-396487744_small.jpg",
+     "page": "https://pixabay.com/videos/id-33175/",
+     "tags": "skiing, lift to the mountain, snowy view",
+     "duration": 8,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 322246,
+     "url": "https://cdn.pixabay.com/video/2025/12/16/322246_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/16/322246_small.jpg",
+     "page": "https://pixabay.com/videos/id-322246/",
+     "tags": "ski, skiing, snow, winter, nature, mountains, cold, landscape, snowy, sports, people, chairlift, ski lift",
+     "duration": 10,
+     "query": "skiing"
+    },
+    {
+     "pixabay_id": 29948,
+     "url": "https://cdn.pixabay.com/video/2019/12/07/29948-378294529_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/07/29948-378294529_small.jpg",
+     "page": "https://pixabay.com/videos/id-29948/",
+     "tags": "ski hill, skiing, snowboarding, ski, hill, winter, snow, cold, snowboard, lift, ski lift",
+     "duration": 18,
+     "query": "skiing"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Scientists told people: you've booked two ski trips,",
+   "candidates": [
+    {
+     "pixabay_id": 10837,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10837-226625002_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10837-226625002_small.jpg",
+     "page": "https://pixabay.com/videos/id-10837/",
+     "tags": "skiing, resort, winter, sports, lift, mountains, ski, snow, sport, vacation, holiday, travel, skier, ski poles",
+     "duration": 17,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 273972,
+     "url": "https://cdn.pixabay.com/video/2025/04/23/273972_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/23/273972_small.jpg",
+     "page": "https://pixabay.com/videos/id-273972/",
+     "tags": "chairlift, t bar lift, ski lifts, winter, snow, landscape, skiing, sports, cold, resort, ski-lift",
+     "duration": 18,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 31752,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31752-388997399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31752-388997399_small.jpg",
+     "page": "https://pixabay.com/videos/id-31752/",
+     "tags": "ski lift, snow lift, skiing, snowboarding, resort, chairlift, lift, sport, snowboard, winter, mountain, cold, snow, ski, skier, white, slopes, wintry",
+     "duration": 9,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 10829,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10829-226624989_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10829-226624989_small.jpg",
+     "page": "https://pixabay.com/videos/id-10829/",
+     "tags": "skiing, slope, downhill, winter, ski, snow, sport, mountain, resort, vacation, skier, recreation",
+     "duration": 21,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 334186,
+     "url": "https://cdn.pixabay.com/video/2026/02/12/334186_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/02/12/334186_small.jpg",
+     "page": "https://pixabay.com/videos/id-334186/",
+     "tags": "snow scene, ski resort, skier, snowboarder, gondola, snowfall, fog, winter, japan",
+     "duration": 28,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 17603,
+     "url": "https://cdn.pixabay.com/video/2018/08/01/17603-283238178_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/08/01/17603-283238178_small.jpg",
+     "page": "https://pixabay.com/videos/id-17603/",
+     "tags": "scuolasci, crossroads, ski, ski resort, skiing, skiers, snow",
+     "duration": 14,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 6660,
+     "url": "https://cdn.pixabay.com/video/2016/12/04/6660-194421106_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/12/04/6660-194421106_small.jpg",
+     "page": "https://pixabay.com/videos/id-6660/",
+     "tags": "winter, landscape, snow, skiing, ski resort, aerial, nature, sky, blue, mountain, scenic, outdoor, alpine, high, top, flight, natural, hafjell, norway, illehammer, scene, ski, cold, december",
+     "duration": 12,
+     "query": "ski resort"
+    },
+    {
+     "pixabay_id": 10790,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10790-226624906_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10790-226624906_small.jpg",
+     "page": "https://pixabay.com/videos/id-10790/",
+     "tags": "cable car, lift, mountains, transport, vacation, ski, transportation, tourism, ski resort, ropeway, cableway, downhill, elevator, alpine, funicular",
+     "duration": 14,
+     "query": "ski resort"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "one for a hundred dollars, one for fifty.",
+   "candidates": [
+    {
+     "pixabay_id": 153458,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_small.jpg",
+     "page": "https://pixabay.com/videos/id-153458/",
+     "tags": "money, cash, beautiful wallpaper, bank, banknote, bill, currency, dollar, finance, macro, paper, wealth, background, business, financial, investment, 100, usd, close-up, dollar bill, one hundred, close up",
+     "duration": 17,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46922,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_small.jpg",
+     "page": "https://pixabay.com/videos/id-46922/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 15,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46924,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_small.jpg",
+     "page": "https://pixabay.com/videos/id-46924/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 153460,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_small.jpg",
+     "page": "https://pixabay.com/videos/id-153460/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 86911,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_small.jpg",
+     "page": "https://pixabay.com/videos/id-86911/",
+     "tags": "money, dollar, euro, finance, cash, currency, us-dollar, banknotes, dollar bill, bank, business",
+     "duration": 64,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 153455,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_small.jpg",
+     "page": "https://pixabay.com/videos/id-153455/",
+     "tags": "european, euro, american, bank, banknote, bill, cash, close up, currency, dollar, finance, macro, money, paper, wealth, business, financial, investment, rotate, 100, usd, close-up, dollar bill, background",
+     "duration": 19,
+     "query": "dollar bills"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "The cheaper one sounds more fun.",
+   "candidates": [
+    {
+     "pixabay_id": 144661,
+     "url": "https://cdn.pixabay.com/video/2022/12/29/144661-785139932_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/29/144661-785139932_small.jpg",
+     "page": "https://pixabay.com/videos/id-144661/",
+     "tags": "winter, sports, cross country skiing, snow, snow landscape, man, winter sports, winter fun, healthy, fitness, nature",
+     "duration": 16,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 4724,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4724-179738628_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4724-179738628_small.jpg",
+     "page": "https://pixabay.com/videos/id-4724/",
+     "tags": "wakeboard, cable skiing, water-ski, sports, water sports, activity, water, ski, fun, man, summer, speed, fast, lake, recreation, wet, outdoor, lifestyle, splash",
+     "duration": 15,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 21587,
+     "url": "https://cdn.pixabay.com/video/2019/02/22/21587-319373323_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/22/21587-319373323_small.jpg",
+     "page": "https://pixabay.com/videos/id-21587/",
+     "tags": "mountains, ski, to ski, snow, chairlift, skier, winter sports, snowboard, winter, sun, cold, backcountry skiiing, winter landscape, mountain, landscape, alps, white, ski slope, expedition, snowboarding, activity, fun, heaven",
+     "duration": 10,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 13445,
+     "url": "https://cdn.pixabay.com/video/2017/12/17/13445-248520525_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/17/13445-248520525_small.jpg",
+     "page": "https://pixabay.com/videos/id-13445/",
+     "tags": "drag lift, lift, to ski, ironing lift, winter fun, winter sports, ski lift, tractor, return station, redirection, ski sport, pulleys",
+     "duration": 13,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 13444,
+     "url": "https://cdn.pixabay.com/video/2017/12/17/13444-248520522_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/17/13444-248520522_small.jpg",
+     "page": "https://pixabay.com/videos/id-13444/",
+     "tags": "drag lift, lift, to ski, ironing lift, winter fun, winter sports, ski lift, tractor, return station, redirection, ski sport, pulleys",
+     "duration": 10,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 10787,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10787-226624900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10787-226624900_small.jpg",
+     "page": "https://pixabay.com/videos/id-10787/",
+     "tags": "apr\u00e8s ski, party, skiing, winter, crowd, people, snow, fun",
+     "duration": 13,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 106939,
+     "url": "https://cdn.pixabay.com/video/2022/02/06/106939-674268804_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/06/106939-674268804_small.jpg",
+     "page": "https://pixabay.com/videos/id-106939/",
+     "tags": "chairlift, sport, ski, skiing, transport, winter, switzerland, fun, snowboarding, snow, mountains",
+     "duration": 19,
+     "query": "skiing fun"
+    },
+    {
+     "pixabay_id": 7418,
+     "url": "https://cdn.pixabay.com/video/2017/01/18/7418-200092486_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/18/7418-200092486_small.jpg",
+     "page": "https://pixabay.com/videos/id-7418/",
+     "tags": "mountains, beautiful landscape, winter, sunset, season, countryside, aerial, snow, nature, scenery, warm, trees, forest, ecology, ski region, skiing, sunlight, colorful, panorama, environment, scenic, idyllic, evening, horizon, drone, aerial view",
+     "duration": 14,
+     "query": "skiing fun"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Oops, same weekend.",
+   "candidates": [
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, beautiful wallpaper, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181407,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_small.jpg",
+     "page": "https://pixabay.com/videos/id-181407/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, beautiful wallpaper, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 3019,
+     "url": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_small.jpg",
+     "page": "https://pixabay.com/videos/id-3019/",
+     "tags": "clock, camera quick, passage of time, time, hour, schedule, minutes, hands, watches, whatch, beautiful wallpaper, man, sphere, time-lapse, belt, leather, background, seconds, stopwatch, chronograph, backstitch, crocodile, stitches, aluminium, bright, luxury, luxurious, needles, handles, titanium, white gold, crono, skin, buckle, fleeting, transience, such time lapse, timing, minute, date, career, machinery, precision, calendar, deadlines, blur, plot, texture, numbers, brand, logo, buttons, quartz, swiss",
+     "duration": 10,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141487,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_small.jpg",
+     "page": "https://pixabay.com/videos/id-141487/",
+     "tags": "new year, 2023, celebration, calendar, date, time, sea, beach, holiday, wave, writing, sign, idea, note, to draw, trace, tourism, trip, island, tropical, ocean",
+     "duration": 26,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141489,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_small.jpg",
+     "page": "https://pixabay.com/videos/id-141489/",
+     "tags": "new year, christmas, celebration, calendar, year, new, sea, beach, holiday, wave, annual, writing, sign, feelings, idea, note, to draw, trace, tourism, trip, island, tropical, view, ocean",
+     "duration": 54,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 102135,
+     "url": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_small.jpg",
+     "page": "https://pixabay.com/videos/id-102135/",
+     "tags": "year, 2021, model, calendar, love",
+     "duration": 23,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 265467,
+     "url": "https://cdn.pixabay.com/video/2025/03/18/265467_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/18/265467_small.jpg",
+     "page": "https://pixabay.com/videos/id-265467/",
+     "tags": "sapa, taybac, vietnam, noodles, may, sapa vietnam, calendar",
+     "duration": 6,
+     "query": "calendar"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "More than half picked the expensive trip.",
+   "candidates": [
+    {
+     "pixabay_id": 277097,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277097_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277097_small.jpg",
+     "page": "https://pixabay.com/videos/id-277097/",
+     "tags": "mountain, snow, nature, travel, fog, landscape",
+     "duration": 18,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 25477,
+     "url": "https://cdn.pixabay.com/video/2019/07/24/25477-350507890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/24/25477-350507890_small.jpg",
+     "page": "https://pixabay.com/videos/id-25477/",
+     "tags": "vosges, france, snow, nature, landscape, mountain, forest, cold, mountains, winter, trees, tree, white, snowy, wintry, ice",
+     "duration": 19,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 305657,
+     "url": "https://cdn.pixabay.com/video/2025/09/22/305657_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/22/305657_small.jpg",
+     "page": "https://pixabay.com/videos/id-305657/",
+     "tags": "mountain, nature, landscape, austria, hiking, italy, alps, switzerland, path, snow, alpine, panorama, peak, sky, clouds",
+     "duration": 14,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 348057,
+     "url": "https://cdn.pixabay.com/video/2026/04/21/348057_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/21/348057_small.jpg",
+     "page": "https://pixabay.com/videos/id-348057/",
+     "tags": "geothermal, iceland, nature, steam, landscape, natural, mountain, waterfall, trees, snow, winter, cold, frost, snowy, frozen, ice, cliffs",
+     "duration": 22,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 240841,
+     "url": "https://cdn.pixabay.com/video/2024/11/11/240841_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/11/240841_small.jpg",
+     "page": "https://pixabay.com/videos/id-240841/",
+     "tags": "pagoda, mountains, japan, japanese, sakura, fuji, snow, asia, flowers, nature, clouds, fog, foliage, fuji japan, fujiyama, fujiyoshida, landmark, movement, mountain, landscape",
+     "duration": 14,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 270940,
+     "url": "https://cdn.pixabay.com/video/2025/04/09/270940_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/09/270940_small.jpg",
+     "page": "https://pixabay.com/videos/id-270940/",
+     "tags": "matterhorn, switzerland, mountain, zermatt, nature, landscape, alps, snow, summit, peak, winter, ice, alpine, clouds, sky, adventure, light, cold, swiss",
+     "duration": 9,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 327388,
+     "url": "https://cdn.pixabay.com/video/2026/01/13/327388_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/13/327388_small.jpg",
+     "page": "https://pixabay.com/videos/id-327388/",
+     "tags": "snow scene, mountain village, heavy snowfall area, traditional house, gassho-zukuri, world cultural heritage, shirakawa-go, japan",
+     "duration": 19,
+     "query": "mountain snow"
+    },
+    {
+     "pixabay_id": 205422,
+     "url": "https://cdn.pixabay.com/video/2024/03/24/205422-926957395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/24/205422-926957395_small.jpg",
+     "page": "https://pixabay.com/videos/id-205422/",
+     "tags": "sunrise, mountain village, mountains, snow, fog, snow landscape, timelapse",
+     "duration": 21,
+     "query": "mountain snow"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "The money's gone either way,",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 138495,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138495-769724700_small.jpg",
+     "page": "https://pixabay.com/videos/id-138495/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 17,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 37417,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_small.jpg",
+     "page": "https://pixabay.com/videos/id-37417/",
+     "tags": "swing, empty, playground, lonely, abandoned, rocking chair, emotional, rest, quiet",
+     "duration": 12,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 42057,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_small.jpg",
+     "page": "https://pixabay.com/videos/id-42057/",
+     "tags": "abandoned, house, empty, building, old, mood, decay, architecture, ruin, lapsed, broken",
+     "duration": 26,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 63749,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_small.jpg",
+     "page": "https://pixabay.com/videos/id-63749/",
+     "tags": "abandoned, building, ruins, old, decay, architecture, destruction, barricaded, empty",
+     "duration": 17,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 63970,
+     "url": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/03/63970-509068415_small.jpg",
+     "page": "https://pixabay.com/videos/id-63970/",
+     "tags": "snow, cold, winter, dark, night, 4k, evening, snowing, city, urban, shops, street, empty, quiet, peaceful",
+     "duration": 31,
+     "query": "empty wallet"
+    },
+    {
+     "pixabay_id": 138499,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138499-769724711_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138499-769724711_small.jpg",
+     "page": "https://pixabay.com/videos/id-138499/",
+     "tags": "horror, eerie, scary, halloween, dark, shopping mall, flickering lights, abandoned, empty, spooky, haunting, haunted, paranormal, terror",
+     "duration": 36,
+     "query": "empty wallet"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "but your brain hates wasting it.",
+   "candidates": [
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man frustrated"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man frustrated"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "So ask: if both were free, which would I pick?",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 83859,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_small.jpg",
+     "page": "https://pixabay.com/videos/id-83859/",
+     "tags": "woman, smile, joyful, happy, model, park, tourist, lifestyle",
+     "duration": 10,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman thinking smile"
+    },
+    {
+     "pixabay_id": 45132,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_small.jpg",
+     "page": "https://pixabay.com/videos/id-45132/",
+     "tags": "girl, young, woman, pose, face, model, female, person, beauty, portrait, smile",
+     "duration": 19,
+     "query": "woman thinking smile"
+    }
+   ]
+  }
+ ]
+}

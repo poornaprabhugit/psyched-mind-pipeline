@@ -1,0 +1,707 @@
+{
+ "id": "s07",
+ "lines": [
+  {
+   "n": 1,
+   "text": "The happiest way to spend forty dollars isn't on stuff.",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, beautiful wallpaper, crowd, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "shopping bags"
+    },
+    {
+     "pixabay_id": 80672,
+     "url": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_small.jpg",
+     "page": "https://pixabay.com/videos/id-80672/",
+     "tags": "kangaroo, marsupial, young, bag, furry, animal, cute, zoo hague",
+     "duration": 26,
+     "query": "shopping bags"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers gave working adults forty dollars, twice.",
+   "candidates": [
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 44639,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44639-439413049_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44639-439413049_small.jpg",
+     "page": "https://pixabay.com/videos/id-44639/",
+     "tags": "success, work, victory, beautiful, ok, good, you're right, woman, portrait, youth, human, person, hand, finger, sign, icon, economics, idea, career, money, strategy, growth, professional, leadership",
+     "duration": 8,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 127341,
+     "url": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_small.jpg",
+     "page": "https://pixabay.com/videos/id-127341/",
+     "tags": "coins, bitcoin, blockchain, money, magnifying glass, golden, cryptocurrency, hand, silver, finances",
+     "duration": 15,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 269529,
+     "url": "https://cdn.pixabay.com/video/2025/04/03/269529_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/03/269529_small.jpg",
+     "page": "https://pixabay.com/videos/id-269529/",
+     "tags": "money, card, shopping, business, gift, payment, pay, hand, cash",
+     "duration": 8,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "money hand"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money hand"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Once to buy something material.",
+   "candidates": [
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, beautiful wallpaper, crowd, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "shopping"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "shopping"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Once to buy time:",
+   "candidates": [
+    {
+     "pixabay_id": 15629,
+     "url": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_small.jpg",
+     "page": "https://pixabay.com/videos/id-15629/",
+     "tags": "alarm, clock, watch, time, retro, vintage",
+     "duration": 11,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 34855,
+     "url": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/03/34855-403777679_small.jpg",
+     "page": "https://pixabay.com/videos/id-34855/",
+     "tags": "macro, clock, glitter, mechanism, time",
+     "duration": 8,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 15604,
+     "url": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_small.jpg",
+     "page": "https://pixabay.com/videos/id-15604/",
+     "tags": "time, clock, watch, loop, hours, minutes, day, looping, deadline, countdown, business",
+     "duration": 29,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 37006,
+     "url": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_small.jpg",
+     "page": "https://pixabay.com/videos/id-37006/",
+     "tags": "clock, time, watches, inside, second, hours",
+     "duration": 18,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 146436,
+     "url": "https://cdn.pixabay.com/video/2023/01/14/146436-789533905_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/14/146436-789533905_small.jpg",
+     "page": "https://pixabay.com/videos/id-146436/",
+     "tags": "clock, time, timepiece",
+     "duration": 15,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 50803,
+     "url": "https://cdn.pixabay.com/video/2020/09/25/50803-461709594_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/25/50803-461709594_small.jpg",
+     "page": "https://pixabay.com/videos/id-50803/",
+     "tags": "clock, time, minute, loop, timer, second, timing",
+     "duration": 60,
+     "query": "clock"
+    },
+    {
+     "pixabay_id": 43295,
+     "url": "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_small.jpg",
+     "page": "https://pixabay.com/videos/id-43295/",
+     "tags": "time, watch, clock, pointer, seconds",
+     "duration": 20,
+     "query": "clock"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "a cleaner, a delivery, a ride.",
+   "candidates": [
+    {
+     "pixabay_id": 38116,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38116-415315967_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38116-415315967_small.jpg",
+     "page": "https://pixabay.com/videos/id-38116/",
+     "tags": "dish, wash, that, kitchen, cleaning, food, house, soap, sink, bubbles, washing, coronavirus, disinfection, bacteria, detergent, faucet, human, fork, knife, spoon, glass, plate, dirt",
+     "duration": 60,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 34592,
+     "url": "https://cdn.pixabay.com/video/2020/03/30/34592-402679701_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/30/34592-402679701_small.jpg",
+     "page": "https://pixabay.com/videos/id-34592/",
+     "tags": "corona, virus, mask, infection, epidemic, covid-19, quarantine, disease, computer, house, internet, woman, portrait, protection, coronavirus, cleaning, hygiene, wuhan, doctor, flu, health, pathogen, panic, mouthpiece",
+     "duration": 20,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 34589,
+     "url": "https://cdn.pixabay.com/video/2020/03/30/34589-402679674_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/30/34589-402679674_small.jpg",
+     "page": "https://pixabay.com/videos/id-34589/",
+     "tags": "corona, virus, mask, infection, epidemic, covid-19, quarantine, disease, computer, house, internet, woman, portrait, protection, coronavirus, cleaning, hygiene, wuhan, doctor, flu, health, pathogen, panic, mouthpiece",
+     "duration": 36,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 38115,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38115-415315962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38115-415315962_small.jpg",
+     "page": "https://pixabay.com/videos/id-38115/",
+     "tags": "wash, that, soap, cleaning, human, fingers, hygiene, coronavirus, kitchen, house, epidemic, infection, disease, protection, pathogen, health, flu, quarantine, danger, virus, faucet",
+     "duration": 28,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 37325,
+     "url": "https://cdn.pixabay.com/video/2020/04/27/37325-413555862_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/27/37325-413555862_small.jpg",
+     "page": "https://pixabay.com/videos/id-37325/",
+     "tags": "woman, hair, drying, bathroom, bathe, cleaning, dry, machine, face, portrait, human, house, maintenance, paint, wind, movement, girl, beauty, beautiful, attractive, fashion, youth, people, make-up, women",
+     "duration": 22,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 37324,
+     "url": "https://cdn.pixabay.com/video/2020/04/27/37324-413555868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/27/37324-413555868_small.jpg",
+     "page": "https://pixabay.com/videos/id-37324/",
+     "tags": "mask, coronavirus, virus, epidemic, house, disease, protection, quarantine, infection, pathogen, health, hygiene, cleaning, mouthpiece, corona, woman, hair, drying, bathroom, bathe, dry, machine, portrait",
+     "duration": 45,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 34591,
+     "url": "https://cdn.pixabay.com/video/2020/03/30/34591-402679692_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/30/34591-402679692_small.jpg",
+     "page": "https://pixabay.com/videos/id-34591/",
+     "tags": "corona, virus, mask, infection, epidemic, covid-19, quarantine, disease, computer, house, internet, woman, portrait, protection, coronavirus, cleaning, hygiene, wuhan, doctor, flu, health, pathogen, panic, mouthpiece",
+     "duration": 52,
+     "query": "cleaning house"
+    },
+    {
+     "pixabay_id": 26357,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26357-357839116_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26357-357839116_small.jpg",
+     "page": "https://pixabay.com/videos/id-26357/",
+     "tags": "korea, seoul, clean, landscape, travel, urban, sky, cityscape, view, asia, asian, scene, landmark, tower, nature, aerial, traditional, korean style, korean style house, hank, korean traditional, korean traditional architecture",
+     "duration": 25,
+     "query": "cleaning house"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Buying time made them happier that day.",
+   "candidates": [
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 184541,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184541-873554751_small.jpg",
+     "page": "https://pixabay.com/videos/id-184541/",
+     "tags": "woman, park, sitting, relaxing, happy, sunlight, fashion, countryside, person, outdoors, garden",
+     "duration": 13,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 304376,
+     "url": "https://cdn.pixabay.com/video/2025/09/16/304376_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/16/304376_small.jpg",
+     "page": "https://pixabay.com/videos/id-304376/",
+     "tags": "drone, beach, nature, landscape, camera, flight, uav, person, walking, coast, alone, woman, relaxing",
+     "duration": 37,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 184538,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184538-873554743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184538-873554743_small.jpg",
+     "page": "https://pixabay.com/videos/id-184538/",
+     "tags": "woman, meditation, wellness, positivity, relaxing, person, modern, serene, harmony, tranquility, sunrise, sunset, peaceful, green grass, lifestyle, sitting, breathing, concentration, nature",
+     "duration": 15,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 223363,
+     "url": "https://cdn.pixabay.com/video/2024/07/26/223363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/26/223363_small.jpg",
+     "page": "https://pixabay.com/videos/id-223363/",
+     "tags": "woman, beach, relaxation, water, travel, alone, holiday, outdoors, nature",
+     "duration": 11,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 161062,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_small.jpg",
+     "page": "https://pixabay.com/videos/id-161062/",
+     "tags": "woman, headphones, earphones, music, listen, relax, park",
+     "duration": 10,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 1194,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1194-143842667_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1194-143842667_small.jpg",
+     "page": "https://pixabay.com/videos/id-1194/",
+     "tags": "training, fitness, spa, body, woman, shape, exercise, health, gym, fit, sport, workout, active, lifestyle, adult, female, swimming, relaxing, massage, athletic, recovery, physiotherapist, treatment, care, 133411649",
+     "duration": 10,
+     "query": "woman relaxing"
+    },
+    {
+     "pixabay_id": 140022,
+     "url": "https://cdn.pixabay.com/video/2022/11/22/140022-774032939_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/22/140022-774032939_small.jpg",
+     "page": "https://pixabay.com/videos/id-140022/",
+     "tags": "woman, model, swimming pool, girl, pool, summer, relaxation, holiday",
+     "duration": 6,
+     "query": "woman relaxing"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Yet hardly anyone spends extra money that way.",
+   "candidates": [
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 275107,
+     "url": "https://cdn.pixabay.com/video/2025/04/27/275107_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/27/275107_small.jpg",
+     "page": "https://pixabay.com/videos/id-275107/",
+     "tags": "road, highway, street, countryside, roadside, shiva, travel, footpath, india, delhi, local, crowd, people, cart, shopping, market, fruits, fresh, organic, mint, peppermint, juice, drink, smoothie",
+     "duration": 6,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 34728,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34728-403777528_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34728-403777528_small.jpg",
+     "page": "https://pixabay.com/videos/id-34728/",
+     "tags": "girl, model, girl on shopping, shopping, cart, girl doing shopping",
+     "duration": 10,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 80344,
+     "url": "https://cdn.pixabay.com/video/2021/07/05/80344-572853594_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/05/80344-572853594_small.jpg",
+     "page": "https://pixabay.com/videos/id-80344/",
+     "tags": "carts, shopping cart, supermarket, shopping, purchase, business, transport, market, shop, metal",
+     "duration": 11,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, beautiful wallpaper, crowd, many, bokeh, blur, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping cart"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping cart"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Rich isn't more stuff.",
+   "candidates": [
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 67201,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_small.jpg",
+     "page": "https://pixabay.com/videos/id-67201/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 11,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 1303,
+     "url": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_small.jpg",
+     "page": "https://pixabay.com/videos/id-1303/",
+     "tags": "hotel, resort, restaurant, travel, luxury, luxury hotel, tourism, holiday, business, design, room, interior, furniture, decoration, creative, modern, contemporary, 131618933",
+     "duration": 49,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 28543,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_small.jpg",
+     "page": "https://pixabay.com/videos/id-28543/",
+     "tags": "porsche, speedster, convertible, cars, 911, oldtimer, luxury, vintage car",
+     "duration": 7,
+     "query": "luxury"
+    },
+    {
+     "pixabay_id": 133707,
+     "url": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/05/133707-757782444_small.jpg",
+     "page": "https://pixabay.com/videos/id-133707/",
+     "tags": "woman, driver, car, reflection, transportation, chauffeur, luxury, driving, road",
+     "duration": 25,
+     "query": "luxury"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "It's more time.",
+   "candidates": [
+    {
+     "pixabay_id": 237643,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237643_small.jpg",
+     "page": "https://pixabay.com/videos/id-237643/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 8,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 204535,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204535-924724206_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204535-924724206_small.jpg",
+     "page": "https://pixabay.com/videos/id-204535/",
+     "tags": "trees, park, outdoors, scenery, nature, road, leisure, people, family, drone",
+     "duration": 35,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 140029,
+     "url": "https://cdn.pixabay.com/video/2022/11/22/140029-774012791_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/22/140029-774012791_small.jpg",
+     "page": "https://pixabay.com/videos/id-140029/",
+     "tags": "people, walking, snow, winter, cold, walk, nature, outdoors, park, season, lifestyle, family, person, holiday, snowy, fun, female, landscape",
+     "duration": 19,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 237638,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237638_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237638_small.jpg",
+     "page": "https://pixabay.com/videos/id-237638/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 6,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 237649,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237649_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237649_small.jpg",
+     "page": "https://pixabay.com/videos/id-237649/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 11,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 81926,
+     "url": "https://cdn.pixabay.com/video/2021/07/18/81926-576572867_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/18/81926-576572867_small.jpg",
+     "page": "https://pixabay.com/videos/id-81926/",
+     "tags": "swans, lake, birds, plumage, animals, family, nature, fauna, pond, park, landscape",
+     "duration": 63,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 9806,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9806-221467919_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9806-221467919_small.jpg",
+     "page": "https://pixabay.com/videos/id-9806/",
+     "tags": "kids, playground, stairs, gorka, tires, fungus, game, fun, childhood, vacation, joy, emotions, boy, baby, sun, happiness, child, warmly, smile, laughter, family, kid, the park",
+     "duration": 18,
+     "query": "family park"
+    },
+    {
+     "pixabay_id": 20453,
+     "url": "https://cdn.pixabay.com/video/2019/01/04/20453-309694518_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/04/20453-309694518_small.jpg",
+     "page": "https://pixabay.com/videos/id-20453/",
+     "tags": "roller coaster, theme park, fun, leisure, entertainment, rollercoaster, amusement, recreation, thrill, joy, vacation, day off, happy, adventure, brave, courage, family, young",
+     "duration": 15,
+     "query": "family park"
+    }
+   ]
+  }
+ ]
+}

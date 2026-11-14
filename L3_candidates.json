@@ -1,0 +1,941 @@
+{
+ "id": "L3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Number three: the logo effect. And keep watching, because number six turns this one upside down.",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 1108,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1108-142930228_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1108-142930228_small.jpg",
+     "page": "https://pixabay.com/videos/id-1108/",
+     "tags": "tailor, clothing, folding, shirt, shop, textiles, clothes, table, work, tidy, acurate, fashion",
+     "duration": 8,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 286314,
+     "url": "https://cdn.pixabay.com/video/2025/06/17/286314_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/17/286314_small.jpg",
+     "page": "https://pixabay.com/videos/id-286314/",
+     "tags": "forest, trees, nature, man, shorts, t-shirt, camping, survival, hike, axe, chop wood",
+     "duration": 28,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 133895,
+     "url": "https://cdn.pixabay.com/video/2022/10/07/133895-758336556_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/07/133895-758336556_small.jpg",
+     "page": "https://pixabay.com/videos/id-133895/",
+     "tags": "girl, face, female, hair, lifestyle, asian, copy space, person, portrait, posing, shirt, skirt, smile, student, teenager",
+     "duration": 13,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 31924,
+     "url": "https://cdn.pixabay.com/video/2020/02/04/31924-389236392_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/04/31924-389236392_small.jpg",
+     "page": "https://pixabay.com/videos/id-31924/",
+     "tags": "t-shirts, girl, woman, model",
+     "duration": 10,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 135024,
+     "url": "https://cdn.pixabay.com/video/2022/10/15/135024-760679995_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/15/135024-760679995_small.jpg",
+     "page": "https://pixabay.com/videos/id-135024/",
+     "tags": "dog, canine, puppy, costume, glasses, shirt, fun",
+     "duration": 13,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 6121,
+     "url": "https://cdn.pixabay.com/video/2016/10/26/6121-189135209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/26/6121-189135209_small.jpg",
+     "page": "https://pixabay.com/videos/id-6121/",
+     "tags": "sewing machine, sewing, tailoring, crafts, shirt, clothes, thread, needle, tailor, machine, hands, work, light",
+     "duration": 59,
+     "query": "polo shirt"
+    },
+    {
+     "pixabay_id": 67861,
+     "url": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_small.jpg",
+     "page": "https://pixabay.com/videos/id-67861/",
+     "tags": "belief, shirt, man, quote, trust, faith, glowing letters",
+     "duration": 7,
+     "query": "polo shirt"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers in the Netherlands ran a set of experiments with one simple change: the same shirt, with or without a luxury brand logo.",
+   "candidates": [
+    {
+     "pixabay_id": 27999,
+     "url": "https://cdn.pixabay.com/video/2019/10/16/27999-366978301_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/16/27999-366978301_small.jpg",
+     "page": "https://pixabay.com/videos/id-27999/",
+     "tags": "the hague, the netherlands, shopping street, small street, time lapse",
+     "duration": 10,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 386354,
+     "url": "https://cdn.pixabay.com/video/2026/11/01/386354_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/01/386354_small.jpg",
+     "page": "https://pixabay.com/videos/id-386354/",
+     "tags": "netherlands, forest, street, summer, clear, beautiful, trees, road",
+     "duration": 18,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 4721,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4721-179738611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4721-179738611_small.jpg",
+     "page": "https://pixabay.com/videos/id-4721/",
+     "tags": "boat, canal, tourists, amsterdam, water street, urban, vehicle, traveling, tourism, city, river, building, europe, historic, european, architecture, cityscape, travel, netherlands",
+     "duration": 14,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 292930,
+     "url": "https://cdn.pixabay.com/video/2025/07/22/292930_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/22/292930_small.jpg",
+     "page": "https://pixabay.com/videos/id-292930/",
+     "tags": "travel, car, highway, netherlands, road, transport, drenthe, bike, motorbike, motorcycle, vehicle, asphalt, street, motorway",
+     "duration": 52,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 292940,
+     "url": "https://cdn.pixabay.com/video/2025/07/22/292940_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/22/292940_small.jpg",
+     "page": "https://pixabay.com/videos/id-292940/",
+     "tags": "travel, car, highway, netherlands, road, transport, drenthe, bike, motorbike, motorcycle, vehicle, asphalt, street, motorway",
+     "duration": 28,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 292933,
+     "url": "https://cdn.pixabay.com/video/2025/07/22/292933_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/22/292933_small.jpg",
+     "page": "https://pixabay.com/videos/id-292933/",
+     "tags": "travel, car, highway, netherlands, road, transport, drenthe, bike, motorbike, motorcycle, vehicle, asphalt, street, motorway",
+     "duration": 10,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 292934,
+     "url": "https://cdn.pixabay.com/video/2025/07/22/292934_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/22/292934_small.jpg",
+     "page": "https://pixabay.com/videos/id-292934/",
+     "tags": "travel, car, highway, netherlands, road, transport, drenthe, bike, motorbike, motorcycle, vehicle, asphalt, street, motorway",
+     "duration": 44,
+     "query": "netherlands street"
+    },
+    {
+     "pixabay_id": 292948,
+     "url": "https://cdn.pixabay.com/video/2025/07/22/292948_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/22/292948_small.jpg",
+     "page": "https://pixabay.com/videos/id-292948/",
+     "tags": "travel, car, highway, netherlands, road, transport, drenthe, bike, motorbike, motorcycle, vehicle, asphalt, street, motorway",
+     "duration": 32,
+     "query": "netherlands street"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "In one, people watched a video of a man in a job interview.",
+   "candidates": [
+    {
+     "pixabay_id": 59686,
+     "url": "https://cdn.pixabay.com/video/2020/12/19/59686-493894242_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/19/59686-493894242_small.jpg",
+     "page": "https://pixabay.com/videos/id-59686/",
+     "tags": "nerves, nervous, anxious, twitching, interview, anxiety, professional, hiring, corporate, work, employee, person, job, unemployment, businessman, body, communication, fidgeting, dating, business, office, hands, moisturised, beautiful hands, handsome",
+     "duration": 26,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 50019,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50019-459915451_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50019-459915451_small.jpg",
+     "page": "https://pixabay.com/videos/id-50019/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 20,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 50021,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50021-459915456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50021-459915456_small.jpg",
+     "page": "https://pixabay.com/videos/id-50021/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 20,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 50020,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50020-459915455_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50020-459915455_small.jpg",
+     "page": "https://pixabay.com/videos/id-50020/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 22,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 50022,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50022-459915458_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50022-459915458_small.jpg",
+     "page": "https://pixabay.com/videos/id-50022/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park, unhappy, uninterested",
+     "duration": 27,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 135892,
+     "url": "https://cdn.pixabay.com/video/2022/10/21/135892-764370835_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/21/135892-764370835_small.jpg",
+     "page": "https://pixabay.com/videos/id-135892/",
+     "tags": "workers, builders, job, work, colombia",
+     "duration": 30,
+     "query": "job interview"
+    },
+    {
+     "pixabay_id": 137186,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_small.jpg",
+     "page": "https://pixabay.com/videos/id-137186/",
+     "tags": "office, team work, desk, job, responsibility",
+     "duration": 11,
+     "query": "job interview"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Same man, same answers, same voice. The only difference was the small logo on his shirt. Not his skills, not his experience. And the viewers would probably have said the logo meant nothing to them.",
+   "candidates": [
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 349094,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349094_small.jpg",
+     "page": "https://pixabay.com/videos/id-349094/",
+     "tags": "business, computer, working, report, marketing, information, office, data, statistics, facts, file, stationary, interview, loan, feedback, flag, credit, investment, think, idea, thinking, human, women, people",
+     "duration": 20,
+     "query": "man interview"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man interview"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "With the luxury logo, viewers rated him as more suitable for the job, and suggested a salary about nine percent higher.",
+   "candidates": [
+    {
+     "pixabay_id": 62216,
+     "url": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_small.jpg",
+     "page": "https://pixabay.com/videos/id-62216/",
+     "tags": "handshake, greeting, hello, deal, thanks, trust, welcome",
+     "duration": 6,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 211204,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211204_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211204_small.jpg",
+     "page": "https://pixabay.com/videos/id-211204/",
+     "tags": "meeting, business, hello, office, people, handshake, partnership",
+     "duration": 11,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 318026,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318026_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318026_small.jpg",
+     "page": "https://pixabay.com/videos/id-318026/",
+     "tags": "handshake, business, meeting, corporate, hello, finance, city, rooftop, building",
+     "duration": 10,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 318027,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318027_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318027_small.jpg",
+     "page": "https://pixabay.com/videos/id-318027/",
+     "tags": "handshake, business, meeting, corporate, finance, city, rooftop, hello, building",
+     "duration": 16,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 4853,
+     "url": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_small.jpg",
+     "page": "https://pixabay.com/videos/id-4853/",
+     "tags": "money, euro, finance, salary, cash, economy, income, bank, profit, business, check",
+     "duration": 10,
+     "query": "salary money"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "salary money"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "salary money"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "salary money"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "In another, a person wearing a logo sweater collected money for charity.",
+   "candidates": [
+    {
+     "pixabay_id": 379716,
+     "url": "https://cdn.pixabay.com/video/2026/09/29/379716_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/29/379716_small.jpg",
+     "page": "https://pixabay.com/videos/id-379716/",
+     "tags": "joy, happiness, fun, presence, ecology, connection, community, scars, humanitarian, charity, volunteer, donation, homeless, support, empathy, kindness",
+     "duration": 9,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 304676,
+     "url": "https://cdn.pixabay.com/video/2025/09/17/304676_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/17/304676_small.jpg",
+     "page": "https://pixabay.com/videos/id-304676/",
+     "tags": "donate, man, help, saving, budget, finance, indoors, people, business, economy, investment, debt, expense, success, one person, wages, growth, charity, insurance, invest, planning, account, donation, earning, payment",
+     "duration": 13,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 21617,
+     "url": "https://cdn.pixabay.com/video/2019/02/23/21617-319452308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/23/21617-319452308_small.jpg",
+     "page": "https://pixabay.com/videos/id-21617/",
+     "tags": "medicine, blood cells, health, blood donation, artery",
+     "duration": 42,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 268562,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268562_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268562_small.jpg",
+     "page": "https://pixabay.com/videos/id-268562/",
+     "tags": "beach, aerial view, waves, 4k, beautiful, drone view, above, golden hour, donation, hiking, 4k drone footage, fuerteventura, morro jable, drone video, stunning morning, people walking, holiday, destination, adventure, beach walk, beach sand, sunny, nature",
+     "duration": 20,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 139400,
+     "url": "https://cdn.pixabay.com/video/2022/11/17/139400-772291230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/17/139400-772291230_small.jpg",
+     "page": "https://pixabay.com/videos/id-139400/",
+     "tags": "charity, village, people, help, ethnic, vietnam, quang tri",
+     "duration": 10,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 139550,
+     "url": "https://cdn.pixabay.com/video/2022/11/18/139550-772542748_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/18/139550-772542748_small.jpg",
+     "page": "https://pixabay.com/videos/id-139550/",
+     "tags": "charity, social activities, high land, ethnic minority, vietnam, non-governmental, people",
+     "duration": 23,
+     "query": "charity donation"
+    },
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "donation box"
+    },
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "donation box"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "With the logo, more people gave.",
+   "candidates": [
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "giving money"
+    },
+    {
+     "pixabay_id": 3816,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_small.jpg",
+     "page": "https://pixabay.com/videos/id-3816/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "giving money"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Why? A luxury label is an expensive signal.",
+   "candidates": [
+    {
+     "pixabay_id": 13596,
+     "url": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_small.jpg",
+     "page": "https://pixabay.com/videos/id-13596/",
+     "tags": "jaguar, xj, antique car, old car, big cat, wildcat, elegant, automobile, limousine, luxury, vehicle, classic, luxury car, car, restored, expensive, aerial view, landscape, sea, lake, road, driven, retro, newly restored, nobelkrosse, brand, dream car, historical, rarity, nostalgia",
+     "duration": 12,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 3019,
+     "url": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_small.jpg",
+     "page": "https://pixabay.com/videos/id-3019/",
+     "tags": "clock, camera quick, passage of time, time, hour, schedule, minutes, hands, watches, whatch, beautiful wallpaper, man, sphere, time-lapse, belt, leather, background, seconds, stopwatch, chronograph, backstitch, crocodile, stitches, aluminium, bright, luxury, luxurious, needles, handles, titanium, white gold, crono, skin, buckle, fleeting, transience, such time lapse, timing, minute, date, career, machinery, precision, calendar, deadlines, blur, plot, texture, numbers, brand, logo, buttons, quartz, swiss",
+     "duration": 10,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 386654,
+     "url": "https://cdn.pixabay.com/video/2026/11/02/386654_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/02/386654_small.jpg",
+     "page": "https://pixabay.com/videos/id-386654/",
+     "tags": "golden rings, orbit, minimal, luxury, elegant, seamless loop, black gold, premium, motion graphics, loopable, circles, arcs, logo reveal, award, finance, sophisticated, glowing, abstract, branding background, full hd",
+     "duration": 10,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 67201,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_small.jpg",
+     "page": "https://pixabay.com/videos/id-67201/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 11,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "luxury brand"
+    },
+    {
+     "pixabay_id": 117133,
+     "url": "https://cdn.pixabay.com/video/2022/05/16/117133-710564131_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/16/117133-710564131_small.jpg",
+     "page": "https://pixabay.com/videos/id-117133/",
+     "tags": "fire, flame, heat, hearth, hot, flammable, burn, campfire, brand, atmosphere",
+     "duration": 27,
+     "query": "luxury brand"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "It's costly to fake, so the brain reads it as a hint of wealth and status.",
+   "candidates": [
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 144453,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144453-784605675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144453-784605675_small.jpg",
+     "page": "https://pixabay.com/videos/id-144453/",
+     "tags": "money, rich, girl, millionaire, dollars, currency",
+     "duration": 31,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 216597,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216597_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216597_small.jpg",
+     "page": "https://pixabay.com/videos/id-216597/",
+     "tags": "man, coffee, think, pause, relaxation",
+     "duration": 10,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 268524,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268524_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268524_small.jpg",
+     "page": "https://pixabay.com/videos/id-268524/",
+     "tags": "swan, water bird, bird, animal rich, nature, lake, lake zurich",
+     "duration": 35,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 268522,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268522_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268522_small.jpg",
+     "page": "https://pixabay.com/videos/id-268522/",
+     "tags": "toad, common toad, pond dwellers, duckweed, animal rich, animal",
+     "duration": 10,
+     "query": "rich man"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "rich man"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "And people with status are people we want on our side.",
+   "candidates": [
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 1112,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_small.jpg",
+     "page": "https://pixabay.com/videos/id-1112/",
+     "tags": "talk, discussion, meeting, team, group, conference, discuss, people, chairs, sitting, chatting, talking, debating, argument, men",
+     "duration": 7,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 39890,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_small.jpg",
+     "page": "https://pixabay.com/videos/id-39890/",
+     "tags": "office, people, business, work, team, human, corporate, the meeting, planning, project, young, plan",
+     "duration": 12,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 710,
+     "url": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_small.jpg",
+     "page": "https://pixabay.com/videos/id-710/",
+     "tags": "board, write, man, memo, memory, chalk, meeting, meet, office, business, team",
+     "duration": 23,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 268230,
+     "url": "https://cdn.pixabay.com/video/2025/03/28/268230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/28/268230_small.jpg",
+     "page": "https://pixabay.com/videos/id-268230/",
+     "tags": "business, office, computer, man, laptop, company, corporate, meeting, work, marketing, team, technology, people, internet, planning, professional, working, project, web, startup, building, young, students, plan",
+     "duration": 12,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 137265,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137265-766326232_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137265-766326232_small.jpg",
+     "page": "https://pixabay.com/videos/id-137265/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 14,
+     "query": "team meeting"
+    },
+    {
+     "pixabay_id": 137250,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137250-766326162_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137250-766326162_small.jpg",
+     "page": "https://pixabay.com/videos/id-137250/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 7,
+     "query": "team meeting"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "Try this today: notice the next time you judge someone by a brand. You're reacting to a signal, not the person.",
+   "candidates": [
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 76621,
+     "url": "https://cdn.pixabay.com/video/2021/06/06/76621-559757958_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/06/76621-559757958_small.jpg",
+     "page": "https://pixabay.com/videos/id-76621/",
+     "tags": "man, adult, road, walking, walk, people",
+     "duration": 22,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 25208,
+     "url": "https://cdn.pixabay.com/video/2019/07/14/25208-348661247_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/14/25208-348661247_small.jpg",
+     "page": "https://pixabay.com/videos/id-25208/",
+     "tags": "walking, fast, people, street",
+     "duration": 11,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 23796,
+     "url": "https://cdn.pixabay.com/video/2019/05/20/23796-337668530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/20/23796-337668530_small.jpg",
+     "page": "https://pixabay.com/videos/id-23796/",
+     "tags": "legs, walking, city, street, movement, people",
+     "duration": 10,
+     "query": "people walking"
+    },
+    {
+     "pixabay_id": 39836,
+     "url": "https://cdn.pixabay.com/video/2020/05/22/39836-424360861_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/22/39836-424360861_small.jpg",
+     "page": "https://pixabay.com/videos/id-39836/",
+     "tags": "people, street, ukraine, pokrov, city, park, walking",
+     "duration": 24,
+     "query": "people walking"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "And that brings us to the strange part: the quietest signals are often the richest.",
+   "candidates": [
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 3582,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3582-172488198_small.jpg",
+     "page": "https://pixabay.com/videos/id-3582/",
+     "tags": "thief, bag, car, stealing, criminal, man, steal, crime, purse, robbery, automobile, theft, auto, bandit, safety, handbag, vehicle, breaking, insurance, security, risk, valuables",
+     "duration": 9,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 67201,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_small.jpg",
+     "page": "https://pixabay.com/videos/id-67201/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 11,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 1303,
+     "url": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_small.jpg",
+     "page": "https://pixabay.com/videos/id-1303/",
+     "tags": "hotel, resort, restaurant, travel, luxury, luxury hotel, tourism, holiday, business, design, room, interior, furniture, decoration, creative, modern, contemporary, 131618933",
+     "duration": 49,
+     "query": "luxury handbag"
+    },
+    {
+     "pixabay_id": 28543,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28543-370332702_small.jpg",
+     "page": "https://pixabay.com/videos/id-28543/",
+     "tags": "porsche, speedster, convertible, cars, 911, oldtimer, luxury, vintage car",
+     "duration": 7,
+     "query": "luxury handbag"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,707 @@
+{
+ "id": "s01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You think winning the lottery would fix your life.",
+   "candidates": [
+    {
+     "pixabay_id": 31782,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_small.jpg",
+     "page": "https://pixabay.com/videos/id-31782/",
+     "tags": "metro, bangkok, thailand, transport, people, ticket",
+     "duration": 13,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 36565,
+     "url": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_small.jpg",
+     "page": "https://pixabay.com/videos/id-36565/",
+     "tags": "flower, cherry, spring, tree, branch, nature, flowering, botany, tickets, plant, beautiful, season, botanical, time lapse",
+     "duration": 40,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 131432,
+     "url": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_small.jpg",
+     "page": "https://pixabay.com/videos/id-131432/",
+     "tags": "airport, aeroplane, trip, ticket, application, landing, departure, gezi, holiday, lax",
+     "duration": 17,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 134789,
+     "url": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_small.jpg",
+     "page": "https://pixabay.com/videos/id-134789/",
+     "tags": "airport, trip, screen, aeroplane, passport, flight, flight ticket, departure",
+     "duration": 12,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 204452,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_small.jpg",
+     "page": "https://pixabay.com/videos/id-204452/",
+     "tags": "passengers, people, crowd, terminal, boarding pass, boarding, ticketing, ticket, lax, airport",
+     "duration": 35,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 33924,
+     "url": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_small.jpg",
+     "page": "https://pixabay.com/videos/id-33924/",
+     "tags": "purple, spring, flowers, plant, nature, garden, bloom, blue, close up, flora, tickets",
+     "duration": 19,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 23710,
+     "url": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_small.jpg",
+     "page": "https://pixabay.com/videos/id-23710/",
+     "tags": "asia, thailand, thai, bangkok, traffic, transportation, bts, line, sky, convenient, rail, railway, tram, downtown, travel, ticket, station",
+     "duration": 22,
+     "query": "lottery ticket"
+    },
+    {
+     "pixabay_id": 9756,
+     "url": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_small.jpg",
+     "page": "https://pixabay.com/videos/id-9756/",
+     "tags": "tram, railway carriage, urban transport, electric vehicle, people, passengers, doors, seat, armchairs, shipping, transportation, vehicle, the cost of transportation, ticket, communications, movement, trip, street, railway, railway track, road, way, rails",
+     "duration": 7,
+     "query": "lottery ticket"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Scientists interviewed lottery winners.",
+   "candidates": [
+    {
+     "pixabay_id": 147704,
+     "url": "https://cdn.pixabay.com/video/2023/01/23/147704-792078376_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/23/147704-792078376_small.jpg",
+     "page": "https://pixabay.com/videos/id-147704/",
+     "tags": "soccer ball, ball, kid, sports",
+     "duration": 6,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 50109,
+     "url": "https://cdn.pixabay.com/video/2020/09/16/50109-459915579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/16/50109-459915579_small.jpg",
+     "page": "https://pixabay.com/videos/id-50109/",
+     "tags": "tennis, match, sport, ball, game, trainer, player, athletic, leisure, athlete, training, wimbledon, sports, court, equipment, competition",
+     "duration": 18,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 18080,
+     "url": "https://cdn.pixabay.com/video/2018/09/04/18080-288458738_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/04/18080-288458738_small.jpg",
+     "page": "https://pixabay.com/videos/id-18080/",
+     "tags": "golf, wells, sport, golf ball, green",
+     "duration": 10,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 143882,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143882-784164214_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143882-784164214_small.jpg",
+     "page": "https://pixabay.com/videos/id-143882/",
+     "tags": "christmas, decoration, wreath, flowers, christmas tree, anime, lights, red ball",
+     "duration": 8,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 11414,
+     "url": "https://cdn.pixabay.com/video/2017/08/16/11414-230268465_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/16/11414-230268465_small.jpg",
+     "page": "https://pixabay.com/videos/id-11414/",
+     "tags": "plasma ball, plasma lamp, lamp, discharge, electricity, physical toy, flashes, light rays, plasma, inert gas entladungsr\u00f6hre, plasma globe, plasma sphere, electrode, particles, friction, optical effect, the gas mixture, swiss science center technorama",
+     "duration": 15,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 8029,
+     "url": "https://cdn.pixabay.com/video/2017/03/01/8029-206210318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/01/8029-206210318_small.jpg",
+     "page": "https://pixabay.com/videos/id-8029/",
+     "tags": "semper opera house, culture, opera, theatre, festivities, dance, dresden, semper opera ball, theatre square, opera house, saxony, germany, ball",
+     "duration": 46,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 74670,
+     "url": "https://cdn.pixabay.com/video/2021/05/20/74670-553204565_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/20/74670-553204565_small.jpg",
+     "page": "https://pixabay.com/videos/id-74670/",
+     "tags": "tennis, sport, ball, racket, the game, woman, sporty, youth",
+     "duration": 10,
+     "query": "lottery balls"
+    },
+    {
+     "pixabay_id": 21145,
+     "url": "https://cdn.pixabay.com/video/2019/02/02/21145-315137126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/02/21145-315137126_small.jpg",
+     "page": "https://pixabay.com/videos/id-21145/",
+     "tags": "soap bubbles, winter, frost, snow, cold, ice, ball, icy",
+     "duration": 20,
+     "query": "lottery balls"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "They weren't happier than people who'd won nothing.",
+   "candidates": [
+    {
+     "pixabay_id": 44637,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_small.jpg",
+     "page": "https://pixabay.com/videos/id-44637/",
+     "tags": "stress, woman, face, depression, trouble, sadness, will be bored, quarantine, hair, portrait, coronavirus, sad, expression, young, adult, anxiety, people, worried, concern, migraine, girl, despair, person, emotion, loneliness",
+     "duration": 29,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 47139,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_small.jpg",
+     "page": "https://pixabay.com/videos/id-47139/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress",
+     "duration": 18,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 44638,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_small.jpg",
+     "page": "https://pixabay.com/videos/id-44638/",
+     "tags": "coronavirus, quarantine, mask, woman, girl, portrait, will be bored, depression, health, virus, infection, epidemic, flu, beautiful, isolation, disease, hospital, nurse, help, clinical, protection, stress",
+     "duration": 11,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 44641,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_small.jpg",
+     "page": "https://pixabay.com/videos/id-44641/",
+     "tags": "woman, coronavirus, mask, quarantine, will be bored, depression, stress, home, virus, health, epidemic, infection, protection, covid, flu, disease, portrait, beautiful, isolation, girl, covid-19, hygiene, model, pose",
+     "duration": 16,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "bored man"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "bored man"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "And everyday pleasures,",
+   "candidates": [
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 31672,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31672-387972311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31672-387972311_small.jpg",
+     "page": "https://pixabay.com/videos/id-31672/",
+     "tags": "drinking coffee, while enjoying the coffee, coffee, enjoy, morning, hot, delicious, woman",
+     "duration": 8,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 4947,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4947-181538471_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4947-181538471_small.jpg",
+     "page": "https://pixabay.com/videos/id-4947/",
+     "tags": "coffee, grains, steam, cup, smoke, morning, breakfast, espresso, fried, drink, a cup of coffee, whole bean coffee",
+     "duration": 11,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 3595,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_small.jpg",
+     "page": "https://pixabay.com/videos/id-3595/",
+     "tags": "cup of coffee, hot, beverage, morning, aroma, steam, coffee, cup, drink, cafe, cappuccino, tea, espresso, mug, mocha, caffeine",
+     "duration": 44,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 3158,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_small.jpg",
+     "page": "https://pixabay.com/videos/id-3158/",
+     "tags": "cup of coffee, hot, steaming, coffee, cup, drink, espresso, coffee cup, beverage, caffeine, mug, morning, fresh, cafe, breakfast, warm, aroma, brewed, liquid, cappuccino, table",
+     "duration": 50,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 40167,
+     "url": "https://cdn.pixabay.com/video/2020/05/25/40167-424912126_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/25/40167-424912126_small.jpg",
+     "page": "https://pixabay.com/videos/id-40167/",
+     "tags": "coffee, falling coffee beans, the smell of, aroma, morning, caffeine, cafe, brown, light, shadow",
+     "duration": 50,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 69435,
+     "url": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_small.jpg",
+     "page": "https://pixabay.com/videos/id-69435/",
+     "tags": "cup, coffee, caffeine, drink, cafe, espresso, morning, mug, cappuccino",
+     "duration": 10,
+     "query": "coffee morning"
+    },
+    {
+     "pixabay_id": 40166,
+     "url": "https://cdn.pixabay.com/video/2020/05/25/40166-424912123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/25/40166-424912123_small.jpg",
+     "page": "https://pixabay.com/videos/id-40166/",
+     "tags": "coffee, coffee beans, aroma, caffeine, seeds, cafe, minimalism, fresh, brown, in the morning, taste",
+     "duration": 10,
+     "query": "coffee morning"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "a chat with a friend, a good breakfast,",
+   "candidates": [
+    {
+     "pixabay_id": 1623,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_small.jpg",
+     "page": "https://pixabay.com/videos/id-1623/",
+     "tags": "cafe, restaurant, talking, talk, people, sitting, chatting, menu, coffee, dinner, table, bar, drink, interior, cafe interior, restaurant interior",
+     "duration": 19,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 6409,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_small.jpg",
+     "page": "https://pixabay.com/videos/id-6409/",
+     "tags": "restaurant, couple, bokeh, blur, background, talking, relaxed, cafe, bar, beautiful wallpaper, meeting, people, relaxation, lifestyle, cafeteria",
+     "duration": 20,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 202135,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_small.jpg",
+     "page": "https://pixabay.com/videos/id-202135/",
+     "tags": "boss, employee, talking, angry, argument",
+     "duration": 19,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 1112,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_small.jpg",
+     "page": "https://pixabay.com/videos/id-1112/",
+     "tags": "talk, discussion, meeting, team, group, conference, discuss, people, chairs, sitting, chatting, talking, debating, argument, men",
+     "duration": 7,
+     "query": "friends talking cafe"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "felt smaller to them.",
+   "candidates": [
+    {
+     "pixabay_id": 44637,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_small.jpg",
+     "page": "https://pixabay.com/videos/id-44637/",
+     "tags": "stress, woman, face, depression, trouble, sadness, will be bored, quarantine, hair, portrait, coronavirus, sad, expression, young, adult, anxiety, people, worried, concern, migraine, girl, despair, person, emotion, loneliness",
+     "duration": 29,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 47139,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_small.jpg",
+     "page": "https://pixabay.com/videos/id-47139/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress",
+     "duration": 18,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 44638,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_small.jpg",
+     "page": "https://pixabay.com/videos/id-44638/",
+     "tags": "coronavirus, quarantine, mask, woman, girl, portrait, will be bored, depression, health, virus, infection, epidemic, flu, beautiful, isolation, disease, hospital, nurse, help, clinical, protection, stress",
+     "duration": 11,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 44641,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_small.jpg",
+     "page": "https://pixabay.com/videos/id-44641/",
+     "tags": "woman, coronavirus, mask, quarantine, will be bored, depression, stress, home, virus, health, epidemic, infection, protection, covid, flu, disease, portrait, beautiful, isolation, girl, covid-19, hygiene, model, pose",
+     "duration": 16,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman bored"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman bored"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Your brain gets used to anything, even millions.",
+   "candidates": [
+    {
+     "pixabay_id": 143861,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143861-784164182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143861-784164182_small.jpg",
+     "page": "https://pixabay.com/videos/id-143861/",
+     "tags": "house, villa, architecture, luxury home, modern, building, garden, mansion, sunny, window",
+     "duration": 5,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 211152,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211152_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211152_small.jpg",
+     "page": "https://pixabay.com/videos/id-211152/",
+     "tags": "swimming pool, house, hotel, villa, outdoor, pool, water, nature, resort, vacation, leisure, architecture, interior, apartment, luxury, landscape",
+     "duration": 10,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 197942,
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197942-906226451_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/24/197942-906226451_small.jpg",
+     "page": "https://pixabay.com/videos/id-197942/",
+     "tags": "villa, beach, sea, drone, summer, italia, mediterranean, travel, coastline, aerial, vacation, italian culture, ocean, tourism, sunset, architecture, paradise, island life, luxury, coastal, sardinia, landscape",
+     "duration": 10,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 221342,
+     "url": "https://cdn.pixabay.com/video/2024/07/15/221342_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/15/221342_small.jpg",
+     "page": "https://pixabay.com/videos/id-221342/",
+     "tags": "portofino, liguria, italy, seaside, aerial view, drone footage, mediterranean town, coastal buildings, sea, clear water, summer tourism, harbor, luxury villas, waterfront city, italian coast, colorful houses, scenic coastline, iconic landmark, castello brown, villa olivetta, hillside town",
+     "duration": 15,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 197940,
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197940-906226447_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/24/197940-906226447_small.jpg",
+     "page": "https://pixabay.com/videos/id-197940/",
+     "tags": "villa, sea, ocean, beach, sardinia, drone, summer, italia, mediterranean, travel, coastline, aerial, vacation, italian culture, tourism, sunset, architecture, paradise, island life, luxury, coastal, landscape",
+     "duration": 6,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 278195,
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278195_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/11/278195_small.jpg",
+     "page": "https://pixabay.com/videos/id-278195/",
+     "tags": "luxury beachfront villas, beach, royalty free, free use, aerial, coast, travel, resort, marina, ocean, summer, architecture, mountains",
+     "duration": 11,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 221920,
+     "url": "https://cdn.pixabay.com/video/2024/07/18/221920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/18/221920_small.jpg",
+     "page": "https://pixabay.com/videos/id-221920/",
+     "tags": "italian coast, harbor, coastal architecture, portofino, liguria, italy, seaside, aerial view, mediterranean town, coastal buildings, sea, summer tourism, luxury villas, waterfront city, colorful houses, scenic coastline, iconic landmark, lush greenery, turquoise waters, drone",
+     "duration": 11,
+     "query": "luxury villa"
+    },
+    {
+     "pixabay_id": 78557,
+     "url": "https://cdn.pixabay.com/video/2021/06/22/78557-566388813_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/22/78557-566388813_small.jpg",
+     "page": "https://pixabay.com/videos/id-78557/",
+     "tags": "infinity pool, sea, luxury home, villa, luxury apartment, vacations, swim, paradise, dream island, water, sky, summer, ocean, tropical, thailand",
+     "duration": 22,
+     "query": "luxury villa"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "So the small joys you already have?",
+   "candidates": [
+    {
+     "pixabay_id": 33631,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_small.jpg",
+     "page": "https://pixabay.com/videos/id-33631/",
+     "tags": "child, child smiling, baby, kid, happy, smile, childhood, person, little, children, cheerful, girl, happiness, female, cute, family, smiling, laugh, playing",
+     "duration": 30,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 288599,
+     "url": "https://cdn.pixabay.com/video/2025/06/30/288599_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/30/288599_small.jpg",
+     "page": "https://pixabay.com/videos/id-288599/",
+     "tags": "children's merry-go-round, merry-go-round, kids games, forest, nature, outdoor, playground, scenery, landscape, fun, play, joy, movement, breeze, daytime, sunlight, greenery, adventure, childhood, family, happy, merry-go-round in motion, children playing games, forest playground, kids laughing",
+     "duration": 50,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 216696,
+     "url": "https://cdn.pixabay.com/video/2024/06/14/216696_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/14/216696_small.jpg",
+     "page": "https://pixabay.com/videos/id-216696/",
+     "tags": "baboons, apes, cub, family, tree trunk, sitting, wildlife",
+     "duration": 16,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 16111,
+     "url": "https://cdn.pixabay.com/video/2018/05/10/16111-269128115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/10/16111-269128115_small.jpg",
+     "page": "https://pixabay.com/videos/id-16111/",
+     "tags": "hawthorn, blossoms, to flourish, roses, pome fruit family, bloom, time lapse, timelapse",
+     "duration": 10,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 10685,
+     "url": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/16/10685-226624850_small.jpg",
+     "page": "https://pixabay.com/videos/id-10685/",
+     "tags": "rooster, chicken, village, farm, polygamy, country house, family, bird, natural economy, animal husbandry",
+     "duration": 14,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 237643,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237643_small.jpg",
+     "page": "https://pixabay.com/videos/id-237643/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 8,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "family laughing"
+    },
+    {
+     "pixabay_id": 172686,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_small.jpg",
+     "page": "https://pixabay.com/videos/id-172686/",
+     "tags": "dining table, table, eat, dinner, family, family dinner",
+     "duration": 12,
+     "query": "family laughing"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "They're worth more than you think.",
+   "candidates": [
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 188912,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/188912-884171167_small.jpg",
+     "page": "https://pixabay.com/videos/id-188912/",
+     "tags": "grass, plants, wind, sunlight, sunshine, sky, nature",
+     "duration": 19,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 253423,
+     "url": "https://cdn.pixabay.com/video/2025/01/19/253423_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/19/253423_small.jpg",
+     "page": "https://pixabay.com/videos/id-253423/",
+     "tags": "tree, sunlight, sunshine, namibia, africa, branches, leaves",
+     "duration": 10,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 331030,
+     "url": "https://cdn.pixabay.com/video/2026/01/28/331030_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/28/331030_small.jpg",
+     "page": "https://pixabay.com/videos/id-331030/",
+     "tags": "landscape, clouds, sea of fog, sunlight, tree, nature, light",
+     "duration": 22,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 12687,
+     "url": "https://cdn.pixabay.com/video/2017/10/30/12687-241236784_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/30/12687-241236784_small.jpg",
+     "page": "https://pixabay.com/videos/id-12687/",
+     "tags": "trees, forest, nature, landscape, plants, green, sunbeam, sunlight, sunset",
+     "duration": 17,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 199788,
+     "url": "https://cdn.pixabay.com/video/2024/02/08/199788-911378451_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/08/199788-911378451_small.jpg",
+     "page": "https://pixabay.com/videos/id-199788/",
+     "tags": "sunrise, clouds, chimney, smoke, industry, sun, sunlight, factory, production",
+     "duration": 17,
+     "query": "woman smiling sunlight"
+    },
+    {
+     "pixabay_id": 184539,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184539-873554744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184539-873554744_small.jpg",
+     "page": "https://pixabay.com/videos/id-184539/",
+     "tags": "woman, tree, bark, happy, sunlight, countryside, person, outdoors, garden",
+     "duration": 15,
+     "query": "woman smiling sunlight"
+    }
+   ]
+  }
+ ]
+}

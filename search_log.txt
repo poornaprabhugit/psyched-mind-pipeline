@@ -1,0 +1,205 @@
+s01 L1: 8 candidates
+s01 L2: 8 candidates
+s01 L3: 8 candidates
+s01 L4: 8 candidates
+s01 L5: 8 candidates
+s01 L6: 8 candidates
+s01 L7: 8 candidates
+s01 L8: 8 candidates
+s01 L9: 8 candidates
+s02 L1: 8 candidates
+s02 L2: 8 candidates
+s02 L3: 8 candidates
+s02 L4: 8 candidates
+s02 L5: 8 candidates
+s02 L6: 8 candidates
+s02 L7: 8 candidates
+s02 L8: 8 candidates
+s02 L9: 8 candidates
+s03 L1: 8 candidates
+s03 L2: 8 candidates
+s03 L3: 8 candidates
+s03 L4: 8 candidates
+s03 L5: 8 candidates
+s03 L6: 8 candidates
+s03 L7: 8 candidates
+s03 L8: 8 candidates
+s03 L9: 8 candidates
+s04 L1: 8 candidates
+s04 L2: 8 candidates
+s04 L3: 8 candidates
+s04 L4: 8 candidates
+s04 L5: 8 candidates
+s04 L6: 8 candidates
+s04 L7: 8 candidates
+s04 L8: 8 candidates
+s05 L1: 8 candidates
+s05 L2: 8 candidates
+s05 L3: 8 candidates
+s05 L4: 8 candidates
+s05 L5: 8 candidates
+s05 L6: 8 candidates
+s05 L7: 8 candidates
+s05 L8: 8 candidates
+s06 L1: 8 candidates
+s06 L2: 8 candidates
+s06 L3: 8 candidates
+s06 L4: 8 candidates
+s06 L5: 8 candidates
+s06 L6: 8 candidates
+s06 L7: 8 candidates
+s07 L1: 8 candidates
+s07 L2: 8 candidates
+s07 L3: 8 candidates
+s07 L4: 8 candidates
+s07 L5: 8 candidates
+s07 L6: 8 candidates
+s07 L7: 8 candidates
+s07 L8: 8 candidates
+s07 L9: 8 candidates
+L0 L1: 8 candidates
+L0 L2: 8 candidates
+L0 L3: 8 candidates
+L0 L4: 8 candidates
+L0 L5: 8 candidates
+L0 L6: 8 candidates
+L0 L7: 8 candidates
+L0 L8: 8 candidates
+L0 L9: 8 candidates
+L0 L10: 8 candidates
+L1 L1: 8 candidates
+L1 L2: 8 candidates
+L1 L3: 8 candidates
+L1 L4: 8 candidates
+L1 L5: 8 candidates
+L1 L6: 8 candidates
+L1 L7: 8 candidates
+L1 L8: 8 candidates
+L1 L9: 8 candidates
+L1 L10: 8 candidates
+L1 L11: 8 candidates
+L1 L12: 8 candidates
+L1 L13: 8 candidates
+L1 L14: 8 candidates
+L1 L15: 8 candidates
+L2 L1: 8 candidates
+L2 L2: 8 candidates
+L2 L3: 8 candidates
+L2 L4: 8 candidates
+L2 L5: 8 candidates
+L2 L6: 8 candidates
+L2 L7: 8 candidates
+L2 L8: 8 candidates
+L2 L9: 8 candidates
+L2 L10: 8 candidates
+L2 L11: 8 candidates
+L2 L12: 8 candidates
+L2 L13: 8 candidates
+L3 L1: 8 candidates
+L3 L2: 8 candidates
+L3 L3: 8 candidates
+L3 L4: 8 candidates
+L3 L5: 8 candidates
+L3 L6: 8 candidates
+L3 L7: 8 candidates
+L3 L8: 8 candidates
+L3 L9: 8 candidates
+L3 L10: 8 candidates
+L3 L11: 8 candidates
+L3 L12: 8 candidates
+L4 L1: 8 candidates
+L4 L2: 8 candidates
+L4 L3: 8 candidates
+L4 L4: 8 candidates
+L4 L5: 8 candidates
+L4 L6: 8 candidates
+L4 L7: 8 candidates
+L4 L8: 8 candidates
+L4 L9: 8 candidates
+L4 L10: 8 candidates
+L4 L11: 8 candidates
+L4 L12: 8 candidates
+L4 L13: 8 candidates
+L4 L14: 8 candidates
+L5 L1: 8 candidates
+L5 L2: 8 candidates
+L5 L3: 8 candidates
+L5 L4: 8 candidates
+L5 L5: 8 candidates
+L5 L6: 8 candidates
+L5 L7: 8 candidates
+L5 L8: 8 candidates
+L5 L9: 8 candidates
+L5 L10: 8 candidates
+L5 L11: 8 candidates
+L5 L12: 8 candidates
+L5 L13: 8 candidates
+  retry 1 https://cdn.pixabay.com/video/2022/10/04/133546-757315286_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2022/10/04/133546-757315286_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2022/10/04/133546-757315286_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2022/10/04/133546-757315286_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2016/05/12/3175-166339863_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2016/05/12/3175-166339863_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2016/05/12/3175-166339863_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2016/05/12/3175-166339863_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg: HTTP Error 429: Too Many Requests
+  retry 1 https://cdn.pixabay.com/video/2019/02/21/21557-321866799_small.jpg: HTTP Error 429: Too Many Requests
+  retry 2 https://cdn.pixabay.com/video/2019/02/21/21557-321866799_small.jpg: HTTP Error 429: Too Many Requests
+  retry 3 https://cdn.pixabay.com/video/2019/02/21/21557-321866799_small.jpg: HTTP Error 429: Too Many Requests
+  retry 4 https://cdn.pixabay.com/video/2019/02/21/21557-321866799_small.jpg: HTTP Error 429: Too Many Requests
+L6 L1: 8 candidates
+L6 L2: 8 candidates
+L6 L3: 8 candidates
+L6 L4: 8 candidates
+L6 L5: 8 candidates
+L6 L6: 8 candidates
+L6 L7: 8 candidates
+L6 L8: 8 candidates
+L6 L9: 8 candidates
+L6 L10: 8 candidates
+L6 L11: 8 candidates
+L6 L12: 8 candidates
+L6 L13: 8 candidates
+L6 L14: 8 candidates
+L6 L15: 8 candidates
+L7 L1: 8 candidates
+L7 L2: 8 candidates
+L7 L3: 8 candidates
+L7 L4: 8 candidates
+L7 L5: 8 candidates
+L7 L6: 8 candidates
+L7 L7: 8 candidates
+L7 L8: 8 candidates
+L7 L9: 8 candidates
+L7 L10: 8 candidates
+L7 L11: 8 candidates
+L7 L12: 8 candidates
+L7 L13: 8 candidates
+L7 L14: 8 candidates

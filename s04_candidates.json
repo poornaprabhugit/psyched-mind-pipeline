@@ -1,0 +1,629 @@
+{
+ "id": "s04",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Those free stamps on your loyalty card aren't a gift.",
+   "candidates": [
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 32246,
+     "url": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_small.jpg",
+     "page": "https://pixabay.com/videos/id-32246/",
+     "tags": "coffee, coffee shop, cafe, drink, espresso, mug, tea, cup, people, shop, beverage, barista, meeting, communication, restaurant, starbucks, business, store",
+     "duration": 19,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126805,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_small.jpg",
+     "page": "https://pixabay.com/videos/id-126805/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro",
+     "duration": 16,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126804,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_small.jpg",
+     "page": "https://pixabay.com/videos/id-126804/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro of coffee",
+     "duration": 16,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126800,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126800-737028132_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126800-737028132_small.jpg",
+     "page": "https://pixabay.com/videos/id-126800/",
+     "tags": "coffee, coffee beans, coffee maker, coffee break, coffee shop, coffee table, smoke, macro of coffee",
+     "duration": 12,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 15482,
+     "url": "https://cdn.pixabay.com/video/2018/04/08/15482-264671690_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/08/15482-264671690_small.jpg",
+     "page": "https://pixabay.com/videos/id-15482/",
+     "tags": "coffee, esspresso, beans, aroma, roasting, coffee pot, caffeine, cup, old, wood, coffee beans, porcelain, close up, beverages, painted, coffee shop, roasted, manufacture, barista",
+     "duration": 11,
+     "query": "coffee shop"
+    },
+    {
+     "pixabay_id": 126803,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126803-737028141_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126803-737028141_small.jpg",
+     "page": "https://pixabay.com/videos/id-126803/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro of coffee",
+     "duration": 14,
+     "query": "coffee shop"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers gave car-wash customers one of two cards:",
+   "candidates": [
+    {
+     "pixabay_id": 5644,
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_small.jpg",
+     "page": "https://pixabay.com/videos/id-5644/",
+     "tags": "car wash, washing, water, drops, wet, clean, fresh",
+     "duration": 15,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 3555,
+     "url": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_small.jpg",
+     "page": "https://pixabay.com/videos/id-3555/",
+     "tags": "car wash, vehicle care, automobile, to wash, car maintenance, clean",
+     "duration": 186,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 2030,
+     "url": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_small.jpg",
+     "page": "https://pixabay.com/videos/id-2030/",
+     "tags": "car, headlight, automobile, washing, vehicle, auto, jet, car wash, maintenance, spray, transportation, bmw, transport, clean, service",
+     "duration": 6,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 30420,
+     "url": "https://cdn.pixabay.com/video/2019/12/20/30420-381526058_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/20/30420-381526058_small.jpg",
+     "page": "https://pixabay.com/videos/id-30420/",
+     "tags": "carwash, car, wash, automobile, automatic car wash",
+     "duration": 58,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 32890,
+     "url": "https://cdn.pixabay.com/video/2020/02/26/32890-394144302_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/26/32890-394144302_small.jpg",
+     "page": "https://pixabay.com/videos/id-32890/",
+     "tags": "car wash centre, car wash, jet wash, car, wash, wash centre, carwash, roller wash, car wash enclosure, enclosures",
+     "duration": 32,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 30421,
+     "url": "https://cdn.pixabay.com/video/2019/12/20/30421-381526061_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/20/30421-381526061_small.jpg",
+     "page": "https://pixabay.com/videos/id-30421/",
+     "tags": "carwash, car, wash, automatic car wash",
+     "duration": 59,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 114686,
+     "url": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_small.jpg",
+     "page": "https://pixabay.com/videos/id-114686/",
+     "tags": "hairdryer, car wash, clean, to clean, cleaning, blow, dry, machine, carwash, water, cleaning supplies",
+     "duration": 21,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 189762,
+     "url": "https://cdn.pixabay.com/video/2023/11/19/189762-886572590_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/19/189762-886572590_small.jpg",
+     "page": "https://pixabay.com/videos/id-189762/",
+     "tags": "car wash, car, water, soap, brushes, automobile, wet",
+     "duration": 59,
+     "query": "car wash"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "eight stamps needed,",
+   "candidates": [
+    {
+     "pixabay_id": 15211,
+     "url": "https://cdn.pixabay.com/video/2018/03/26/15211-262150448_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/26/15211-262150448_small.jpg",
+     "page": "https://pixabay.com/videos/id-15211/",
+     "tags": "crocus, blossom, bloom, bloom, to flourish, yellow, yellow flower, rubber stamp, time lapse, timelapse",
+     "duration": 22,
+     "query": "stamp"
+    },
+    {
+     "pixabay_id": 368491,
+     "url": "https://cdn.pixabay.com/video/2026/08/04/368491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/04/368491_small.jpg",
+     "page": "https://pixabay.com/videos/id-368491/",
+     "tags": "the fish, sea, tropical, exotic, nature, animal, fishes, aquarium, that, coral, ocean, animals, dive, discovery, beautiful, colors, color, reef, fauna, to swim, fin, stamp",
+     "duration": 14,
+     "query": "stamp"
+    },
+    {
+     "pixabay_id": 368489,
+     "url": "https://cdn.pixabay.com/video/2026/08/04/368489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/04/368489_small.jpg",
+     "page": "https://pixabay.com/videos/id-368489/",
+     "tags": "the fish, sea, tropical, exotic, nature, animal, fishes, aquarium, that, coral, ocean, animals, dive, discovery, beautiful, colors, color, reef, fauna, to swim, fin, stamp",
+     "duration": 9,
+     "query": "stamp"
+    },
+    {
+     "pixabay_id": 368490,
+     "url": "https://cdn.pixabay.com/video/2026/08/04/368490_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/04/368490_small.jpg",
+     "page": "https://pixabay.com/videos/id-368490/",
+     "tags": "the fish, sea, tropical, exotic, nature, animal, fishes, aquarium, that, coral, ocean, animals, dive, discovery, beautiful, colors, color, reef, fauna, to swim, fin, stamp",
+     "duration": 12,
+     "query": "stamp"
+    },
+    {
+     "pixabay_id": 13937,
+     "url": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_small.jpg",
+     "page": "https://pixabay.com/videos/id-13937/",
+     "tags": "date of birth, birthday party, birthday card, congratulations, greeting card, love greeting, love, emotions, fixed",
+     "duration": 11,
+     "query": "card"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "card"
+    },
+    {
+     "pixabay_id": 225910,
+     "url": "https://cdn.pixabay.com/video/2024/08/11/225910_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/11/225910_small.jpg",
+     "page": "https://pixabay.com/videos/id-225910/",
+     "tags": "hairy teasel, card, blossom, bloom, plant, anthers, nature, to flourish, bloom",
+     "duration": 35,
+     "query": "card"
+    },
+    {
+     "pixabay_id": 200139,
+     "url": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_small.jpg",
+     "page": "https://pixabay.com/videos/id-200139/",
+     "tags": "dinner, decoration, chairs, candles, arrangement, anniversary, autumn, banquet, boho, bouquet, candlelight, card, catering, celebration, ceremony, decor, dining, elegance, elegant, event",
+     "duration": 6,
+     "query": "card"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "or ten, with two already stamped.",
+   "candidates": [
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 145360,
+     "url": "https://cdn.pixabay.com/video/2023/01/05/145360-786449200_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/05/145360-786449200_small.jpg",
+     "page": "https://pixabay.com/videos/id-145360/",
+     "tags": "flow, bach, riverbank, meadow, paper ship, paper boat, water",
+     "duration": 11,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 13053,
+     "url": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_small.jpg",
+     "page": "https://pixabay.com/videos/id-13053/",
+     "tags": "write, writing, calligraphy, letters, paper, lettering, old script, nostalgia, old paper, read, text, font, china, chinese, graphically, art",
+     "duration": 40,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 49395,
+     "url": "https://cdn.pixabay.com/video/2020/09/08/49395-459436810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/08/49395-459436810_small.jpg",
+     "page": "https://pixabay.com/videos/id-49395/",
+     "tags": "girl, drawing, colors, paper, table, school, kindergarten, kids, draw",
+     "duration": 18,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 38919,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38919-418897639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38919-418897639_small.jpg",
+     "page": "https://pixabay.com/videos/id-38919/",
+     "tags": "library, office, books, paper, business, work, to write, annotation",
+     "duration": 11,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 207982,
+     "url": "https://cdn.pixabay.com/video/2024/04/14/207982_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/14/207982_small.jpg",
+     "page": "https://pixabay.com/videos/id-207982/",
+     "tags": "book, paper, old, pages, antique, vintage, wood, retro, bible, literature, leather, object, civilization",
+     "duration": 7,
+     "query": "stamping paper"
+    },
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "stamping paper"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Same eight washes.",
+   "candidates": [
+    {
+     "pixabay_id": 5644,
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_small.jpg",
+     "page": "https://pixabay.com/videos/id-5644/",
+     "tags": "car wash, washing, water, drops, wet, clean, fresh",
+     "duration": 15,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 3555,
+     "url": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_small.jpg",
+     "page": "https://pixabay.com/videos/id-3555/",
+     "tags": "car wash, vehicle care, automobile, to wash, car maintenance, clean",
+     "duration": 186,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 2030,
+     "url": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_small.jpg",
+     "page": "https://pixabay.com/videos/id-2030/",
+     "tags": "car, headlight, automobile, washing, vehicle, auto, jet, car wash, maintenance, spray, transportation, bmw, transport, clean, service",
+     "duration": 6,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 30420,
+     "url": "https://cdn.pixabay.com/video/2019/12/20/30420-381526058_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/20/30420-381526058_small.jpg",
+     "page": "https://pixabay.com/videos/id-30420/",
+     "tags": "carwash, car, wash, automobile, automatic car wash",
+     "duration": 58,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 32890,
+     "url": "https://cdn.pixabay.com/video/2020/02/26/32890-394144302_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/26/32890-394144302_small.jpg",
+     "page": "https://pixabay.com/videos/id-32890/",
+     "tags": "car wash centre, car wash, jet wash, car, wash, wash centre, carwash, roller wash, car wash enclosure, enclosures",
+     "duration": 32,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 30421,
+     "url": "https://cdn.pixabay.com/video/2019/12/20/30421-381526061_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/20/30421-381526061_small.jpg",
+     "page": "https://pixabay.com/videos/id-30421/",
+     "tags": "carwash, car, wash, automatic car wash",
+     "duration": 59,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 114686,
+     "url": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_small.jpg",
+     "page": "https://pixabay.com/videos/id-114686/",
+     "tags": "hairdryer, car wash, clean, to clean, cleaning, blow, dry, machine, carwash, water, cleaning supplies",
+     "duration": 21,
+     "query": "car wash"
+    },
+    {
+     "pixabay_id": 189762,
+     "url": "https://cdn.pixabay.com/video/2023/11/19/189762-886572590_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/19/189762-886572590_small.jpg",
+     "page": "https://pixabay.com/videos/id-189762/",
+     "tags": "car wash, car, water, soap, brushes, automobile, wet",
+     "duration": 59,
+     "query": "car wash"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "The head-start card got almost twice as many finishers.",
+   "candidates": [
+    {
+     "pixabay_id": 3555,
+     "url": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/26/3555-172317909_small.jpg",
+     "page": "https://pixabay.com/videos/id-3555/",
+     "tags": "car wash, vehicle care, automobile, to wash, car maintenance, clean",
+     "duration": 186,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 2030,
+     "url": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/31/2030-153703078_small.jpg",
+     "page": "https://pixabay.com/videos/id-2030/",
+     "tags": "car, headlight, automobile, washing, vehicle, auto, jet, car wash, maintenance, spray, transportation, bmw, transport, clean, service",
+     "duration": 6,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 5644,
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/22/5644-183850491_small.jpg",
+     "page": "https://pixabay.com/videos/id-5644/",
+     "tags": "car wash, washing, water, drops, wet, clean, fresh",
+     "duration": 15,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 28176,
+     "url": "https://cdn.pixabay.com/video/2019/10/23/28176-368238593_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/23/28176-368238593_small.jpg",
+     "page": "https://pixabay.com/videos/id-28176/",
+     "tags": "cars, traffic, rain, danger, autumn, winter, city, transport, vehicle, lead, brake light, visibility, drops, jam, clean windshield, traveling, highway, madrid, cloudy, rainy, raining, moisture, wet, aquaplaning, overtaking",
+     "duration": 10,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 28177,
+     "url": "https://cdn.pixabay.com/video/2019/10/23/28177-368238598_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/23/28177-368238598_small.jpg",
+     "page": "https://pixabay.com/videos/id-28177/",
+     "tags": "cars, traffic, rain, danger, autumn, winter, city, transport, vehicle, lead, brake light, visibility, drops, jam, clean windshield, traveling, highway, madrid, cloudy, rainy, raining, moisture, wet, aquaplaning, overtaking",
+     "duration": 6,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 114686,
+     "url": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/21/114686-701830280_small.jpg",
+     "page": "https://pixabay.com/videos/id-114686/",
+     "tags": "hairdryer, car wash, clean, to clean, cleaning, blow, dry, machine, carwash, water, cleaning supplies",
+     "duration": 21,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 192954,
+     "url": "https://cdn.pixabay.com/video/2023/12/12/192954-893872088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/12/192954-893872088_small.jpg",
+     "page": "https://pixabay.com/videos/id-192954/",
+     "tags": "cars, traffic, road, power, business, industry, wind, windmill, california, altamont, sun, energy, trip, breeze, heat, sky, hot, alternative, clean, electricity",
+     "duration": 17,
+     "query": "clean car"
+    },
+    {
+     "pixabay_id": 114687,
+     "url": "https://cdn.pixabay.com/video/2022/04/21/114687-701830283_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/21/114687-701830283_small.jpg",
+     "page": "https://pixabay.com/videos/id-114687/",
+     "tags": "full wash, cleaning, clean, cleanwash, car wash, to brush, rotate, water, cleaning supplies",
+     "duration": 27,
+     "query": "clean car"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Your brain hates leaving things half-done.",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 131159,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_small.jpg",
+     "page": "https://pixabay.com/videos/id-131159/",
+     "tags": "lego, build up, puzzle, play, architecture, think",
+     "duration": 21,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 60721,
+     "url": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_small.jpg",
+     "page": "https://pixabay.com/videos/id-60721/",
+     "tags": "can you solve this, solve it, quiz, puzzle, riddle, puzzles, game, question, answer, challenge, choices, solve, apply, application, demo, demonstrate, deduction, enigmas, level, teach, teacher, teaching, school, test, skill",
+     "duration": 10,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 50961,
+     "url": "https://cdn.pixabay.com/video/2020/09/27/50961-464062995_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/27/50961-464062995_small.jpg",
+     "page": "https://pixabay.com/videos/id-50961/",
+     "tags": "boy, child, learning, school, puzzle, activity",
+     "duration": 17,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 130135,
+     "url": "https://cdn.pixabay.com/video/2022/09/03/130135-746386393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/03/130135-746386393_small.jpg",
+     "page": "https://pixabay.com/videos/id-130135/",
+     "tags": "cube, rubik, rubik's cube, puzzle, think, issue, play",
+     "duration": 26,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "puzzle"
+    },
+    {
+     "pixabay_id": 128972,
+     "url": "https://cdn.pixabay.com/video/2022/08/24/128972-742902053_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/24/128972-742902053_small.jpg",
+     "page": "https://pixabay.com/videos/id-128972/",
+     "tags": "rubik's cube, rubik, puzzle, study, hobbies, desk",
+     "duration": 24,
+     "query": "puzzle"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Use it: give your next goal a head start.",
+   "candidates": [
+    {
+     "pixabay_id": 10809,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10809-226624946_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10809-226624946_small.jpg",
+     "page": "https://pixabay.com/videos/id-10809/",
+     "tags": "runner, shore, coast, coastline, jogging, run, sports, active, freedom, beach, healthy, lifestyle, person, training, sport, jogger, fitness, sea, exercise, workout, morning, athlete",
+     "duration": 12,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 206632,
+     "url": "https://cdn.pixabay.com/video/2024/04/02/206632_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/02/206632_small.jpg",
+     "page": "https://pixabay.com/videos/id-206632/",
+     "tags": "man, runner, jogger, running, sport, park, nature",
+     "duration": 6,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 138644,
+     "url": "https://cdn.pixabay.com/video/2022/11/11/138644-770315621_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/11/138644-770315621_small.jpg",
+     "page": "https://pixabay.com/videos/id-138644/",
+     "tags": "man, surf, waves, beach, runner, sea, ocean, nature, movement, dusk, sunset, meditation, rest, relaxing, sport",
+     "duration": 30,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 26562,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26562-358041209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26562-358041209_small.jpg",
+     "page": "https://pixabay.com/videos/id-26562/",
+     "tags": "sea, running, water, ocean, jogging, run, runner, fitness",
+     "duration": 20,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 15748,
+     "url": "https://cdn.pixabay.com/video/2018/04/22/15748-266043652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/22/15748-266043652_small.jpg",
+     "page": "https://pixabay.com/videos/id-15748/",
+     "tags": "running, marathon, zurich, run, sports, runner, athletic, sportiness, competition, fit, sport event, sports event, running shoes",
+     "duration": 29,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 8140,
+     "url": "https://cdn.pixabay.com/video/2017/03/04/8140-207209061_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/04/8140-207209061_small.jpg",
+     "page": "https://pixabay.com/videos/id-8140/",
+     "tags": "stadium, sports, running event, team challenge, dresden, saxony, germany, running, runner",
+     "duration": 19,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 32934,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32934-395456365_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32934-395456365_small.jpg",
+     "page": "https://pixabay.com/videos/id-32934/",
+     "tags": "exercise, running, fitness, lifestyle, woman, workout, active, jogging, fit, people, sport, sports, health, athletic, runner, training, healthy, marathon, outdoor, race",
+     "duration": 13,
+     "query": "runner start"
+    },
+    {
+     "pixabay_id": 32386,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32386-392248819_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32386-392248819_small.jpg",
+     "page": "https://pixabay.com/videos/id-32386/",
+     "tags": "chess board, chess pieces, chess game, checkmate, tower, runner, horse, king, lady, chess, slider travel",
+     "duration": 26,
+     "query": "runner start"
+    }
+   ]
+  }
+ ]
+}

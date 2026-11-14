@@ -1,0 +1,1175 @@
+{
+ "id": "L1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Number one: the price tag you can taste.",
+   "candidates": [
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 3708,
+     "url": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_small.jpg",
+     "page": "https://pixabay.com/videos/id-3708/",
+     "tags": "wine, red wine, red, celebration, bowl, glass of wine, red wine glass, uva, crystal, demijohn, party, celebrate, gift, toast, toasting, fun, vineyard, flavor, to fill, empty, friends, alcohol, alcoholic, alcoholism, stun, get drunk, hangover, happy hour, beverage, pub, drink, restaurant, bottle",
+     "duration": 23,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 4315,
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_small.jpg",
+     "page": "https://pixabay.com/videos/id-4315/",
+     "tags": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast",
+     "duration": 27,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 9997,
+     "url": "https://cdn.pixabay.com/video/2017/06/16/9997-222013861_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/16/9997-222013861_small.jpg",
+     "page": "https://pixabay.com/videos/id-9997/",
+     "tags": "beach, bottle, contamination, sand",
+     "duration": 21,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "wine bottle price"
+    },
+    {
+     "pixabay_id": 179344,
+     "url": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_small.jpg",
+     "page": "https://pixabay.com/videos/id-179344/",
+     "tags": "grapes, grapevine, fruit, healthy, wine growing, food",
+     "duration": 15,
+     "query": "wine bottle price"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers at Caltech gave volunteers sips of wine while they lay inside a brain scanner.",
+   "candidates": [
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "mri scanner"
+    },
+    {
+     "pixabay_id": 21114,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21114-315191258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21114-315191258_small.jpg",
+     "page": "https://pixabay.com/videos/id-21114/",
+     "tags": "hospital, vision correction, doctor, eyes, glasses",
+     "duration": 10,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 136458,
+     "url": "https://cdn.pixabay.com/video/2022/10/25/136458-764399870_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/25/136458-764399870_small.jpg",
+     "page": "https://pixabay.com/videos/id-136458/",
+     "tags": "dialysis, machine, blood wash, hospital, Germany, Lower Saxony, Langenhagen",
+     "duration": 36,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 21936,
+     "url": "https://cdn.pixabay.com/video/2019/03/11/21936-322869299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/11/21936-322869299_small.jpg",
+     "page": "https://pixabay.com/videos/id-21936/",
+     "tags": "dental equipment, hospital, dental clinic, medicine, clinic",
+     "duration": 9,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 49815,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_small.jpg",
+     "page": "https://pixabay.com/videos/id-49815/",
+     "tags": "blood pressure, doctor, health, hospital, heart, stethoscope, nurse, medical, investigation, disease, medicine, electrocardiogram",
+     "duration": 21,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 49808,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49808-458438856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49808-458438856_small.jpg",
+     "page": "https://pixabay.com/videos/id-49808/",
+     "tags": "female doctor, hospital, doctor, nurse, clinic, female, medical, healthcare, health, woman, patient",
+     "duration": 14,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "hospital scanner"
+    },
+    {
+     "pixabay_id": 49809,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_small.jpg",
+     "page": "https://pixabay.com/videos/id-49809/",
+     "tags": "doctor, x-ray, hospital, nurse, medicine, dentistry, diagnosis, medical, nursing, clinic, health, patient, healthcare",
+     "duration": 17,
+     "query": "hospital scanner"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "They were told they would taste five different Cabernet Sauvignons, and they saw the price of each one.",
+   "candidates": [
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 3708,
+     "url": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/05/3708-173505143_small.jpg",
+     "page": "https://pixabay.com/videos/id-3708/",
+     "tags": "wine, red wine, red, celebration, bowl, glass of wine, red wine glass, uva, crystal, demijohn, party, celebrate, gift, toast, toasting, fun, vineyard, flavor, to fill, empty, friends, alcohol, alcoholic, alcoholism, stun, get drunk, hangover, happy hour, beverage, pub, drink, restaurant, bottle",
+     "duration": 23,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 113171,
+     "url": "https://cdn.pixabay.com/video/2022/04/07/113171-697585548_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/07/113171-697585548_small.jpg",
+     "page": "https://pixabay.com/videos/id-113171/",
+     "tags": "glass, wine, alcohol, red wine, drink, red, bottle, white, studio",
+     "duration": 16,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 67396,
+     "url": "https://cdn.pixabay.com/video/2021/03/09/67396-522626719_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/09/67396-522626719_small.jpg",
+     "page": "https://pixabay.com/videos/id-67396/",
+     "tags": "wine, glass, pouring red wine, pouring, alcohol, drink, bottle, beverage, celebration, cheers, liquid, luxury, wineglass, alcoholic, toast",
+     "duration": 23,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 67394,
+     "url": "https://cdn.pixabay.com/video/2021/03/09/67394-522639883_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/09/67394-522639883_small.jpg",
+     "page": "https://pixabay.com/videos/id-67394/",
+     "tags": "wine, glass, pouring, alcohol, drink, bottle, beverage, celebration, glasses, cheers, liquid, luxury, wineglass, alcoholic, toast",
+     "duration": 28,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 9119,
+     "url": "https://cdn.pixabay.com/video/2017/05/11/9119-217261226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/11/9119-217261226_small.jpg",
+     "page": "https://pixabay.com/videos/id-9119/",
+     "tags": "wine, drinking, alcohol, drink, beverage, bottle, lifestyle, glass, liquid, white, cheers, home, night",
+     "duration": 9,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine bottles"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "wine bottles"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "But there were really only three wines.",
+   "candidates": [
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 14627,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_small.jpg",
+     "page": "https://pixabay.com/videos/id-14627/",
+     "tags": "sparkling wine, give a, glass, alcohol, celebration",
+     "duration": 30,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 45978,
+     "url": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_small.jpg",
+     "page": "https://pixabay.com/videos/id-45978/",
+     "tags": "wineglass, red wine, wine, glass, reflection, romance, celebration, shiny, cutout, image, romantic, liquid, splash, motion, smooth, round, color, anniversary, drink, food, beverage, bubbles, drop, pour",
+     "duration": 33,
+     "query": "three glasses wine"
+    },
+    {
+     "pixabay_id": 14628,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_small.jpg",
+     "page": "https://pixabay.com/videos/id-14628/",
+     "tags": "sparkling wine, macro, details, champagne glass, abut",
+     "duration": 46,
+     "query": "three glasses wine"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Two of them came back twice: once with a cheap price, once with an expensive one.",
+   "candidates": [
+    {
+     "pixabay_id": 993,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_small.jpg",
+     "page": "https://pixabay.com/videos/id-993/",
+     "tags": "sale, price, city, new york, billboard, sign, offer, discount, label, special, market, sale tag, retail, best price, shopping, marketing",
+     "duration": 14,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 107858,
+     "url": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_small.jpg",
+     "page": "https://pixabay.com/videos/id-107858/",
+     "tags": "common heron, cormorants, duck, birds, group form, price, creek, animal",
+     "duration": 31,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 116943,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_small.jpg",
+     "page": "https://pixabay.com/videos/id-116943/",
+     "tags": "sheep, animal, farm animal, farm, flock, horns, white, whole, pack, cute, lamb, grazing, walking, daylight, livestock, tagged, herd",
+     "duration": 21,
+     "query": "price tag"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "A wine labelled forty-five dollars was the same wine they had also tasted labelled five dollars.",
+   "candidates": [
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 15983,
+     "url": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_small.jpg",
+     "page": "https://pixabay.com/videos/id-15983/",
+     "tags": "wine, tasting, sommelier, celebration, gourmet, winery, culture, splash, wineglass",
+     "duration": 22,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 1075,
+     "url": "https://cdn.pixabay.com/video/2015/10/18/1075-142790246_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/18/1075-142790246_small.jpg",
+     "page": "https://pixabay.com/videos/id-1075/",
+     "tags": "wine tasting, food, wine, fresh, salad, healthy, traditional, macedonian, restaurant, drink, natural, meal, organic, nutrition, vitamin, freshness, ripe, eating, color, snack, lunch, table, 142317357",
+     "duration": 13,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "wine tasting"
+    },
+    {
+     "pixabay_id": 179344,
+     "url": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/06/179344-861795811_small.jpg",
+     "page": "https://pixabay.com/videos/id-179344/",
+     "tags": "grapes, grapevine, fruit, healthy, wine growing, food",
+     "duration": 15,
+     "query": "wine tasting"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "You can guess the ratings. People said the expensive version tasted better.",
+   "candidates": [
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 15983,
+     "url": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/03/15983-268112393_small.jpg",
+     "page": "https://pixabay.com/videos/id-15983/",
+     "tags": "wine, tasting, sommelier, celebration, gourmet, winery, culture, splash, wineglass",
+     "duration": 22,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 129711,
+     "url": "https://cdn.pixabay.com/video/2022/08/31/129711-745174960_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/31/129711-745174960_small.jpg",
+     "page": "https://pixabay.com/videos/id-129711/",
+     "tags": "wachau, wine area, rock, landscape, people, woman, man, outlook, enjoy, break, drink, relax, nature",
+     "duration": 20,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 132583,
+     "url": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/26/132583-754103130_small.jpg",
+     "page": "https://pixabay.com/videos/id-132583/",
+     "tags": "grapes, blue, wine harvest, wine growing, grapevine, fruit, food, rebstock, nature",
+     "duration": 20,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "man tasting wine"
+    },
+    {
+     "pixabay_id": 44572,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44572-439924977_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44572-439924977_small.jpg",
+     "page": "https://pixabay.com/videos/id-44572/",
+     "tags": "china, tea co, tea culture, purple clay teapot, tea cup, poetry, zen, the buddha system, tasting, drink tea, man, chinese, chinese man, classical poetry, a collection of poems, chinese traditional culture, artistic conception, beautiful, chinese aesthetics, bonsai, poetry clothing, the poem means, hanfu",
+     "duration": 41,
+     "query": "man tasting wine"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "But here's what surprised the researchers: it wasn't just talk.",
+   "candidates": [
+    {
+     "pixabay_id": 37799,
+     "url": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_small.jpg",
+     "page": "https://pixabay.com/videos/id-37799/",
+     "tags": "woman, person, emotions, red, sweater, girl, young, beauty, model, beautiful wallpaper, beautiful, look forward, surprised, background, black",
+     "duration": 21,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 106379,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_small.jpg",
+     "page": "https://pixabay.com/videos/id-106379/",
+     "tags": "celebration, beautiful wallpaper, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, evening, birthday, coffee, tea, candle, writing, red, woman, women, romance",
+     "duration": 59,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 45119,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_small.jpg",
+     "page": "https://pixabay.com/videos/id-45119/",
+     "tags": "surprise, joy, girl, gift, birthday, young, woman",
+     "duration": 17,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 48019,
+     "url": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_small.jpg",
+     "page": "https://pixabay.com/videos/id-48019/",
+     "tags": "girl, surprised, beauty, woman, portrait, face, human, female, pretty, hair, hands, beautiful, person",
+     "duration": 14,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman surprised"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "When people believed the wine was expensive, a brain area linked to pleasure became more active.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "Same liquid, same tongue, a different experience in the brain. And the basic taste areas of the brain didn't change. The difference was in how much they enjoyed it.",
+   "candidates": [
+    {
+     "pixabay_id": 81170,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81170-575216182_small.jpg",
+     "page": "https://pixabay.com/videos/id-81170/",
+     "tags": "wine, drink, alcohol, beverage, red wine, glass, celebration, romantic, glassware",
+     "duration": 30,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 56914,
+     "url": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/20/56914-481961515_small.jpg",
+     "page": "https://pixabay.com/videos/id-56914/",
+     "tags": "wine, glass, red, pour, drink, toast, refreshment",
+     "duration": 19,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 14627,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_small.jpg",
+     "page": "https://pixabay.com/videos/id-14627/",
+     "tags": "sparkling wine, give a, glass, alcohol, celebration",
+     "duration": 30,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 14628,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14628-258543535_small.jpg",
+     "page": "https://pixabay.com/videos/id-14628/",
+     "tags": "sparkling wine, macro, details, champagne glass, abut",
+     "duration": 46,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 227113,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227113_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227113_small.jpg",
+     "page": "https://pixabay.com/videos/id-227113/",
+     "tags": "making cocktail, cocktail, drink, glass, bar, juice, refreshment, fruit, wine, beverage, mixology, party",
+     "duration": 12,
+     "query": "wine glass swirl"
+    },
+    {
+     "pixabay_id": 45978,
+     "url": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/30/45978-447087658_small.jpg",
+     "page": "https://pixabay.com/videos/id-45978/",
+     "tags": "wineglass, red wine, wine, glass, reflection, romance, celebration, shiny, cutout, image, romantic, liquid, splash, motion, smooth, round, color, anniversary, drink, food, beverage, bubbles, drop, pour",
+     "duration": 33,
+     "query": "wine glass swirl"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "Your brain doesn't just measure what's in the glass. It predicts how good something will be, and price is one of its strongest clues.",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "Then it partly delivers the experience it predicted.",
+   "candidates": [
+    {
+     "pixabay_id": 31672,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31672-387972311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31672-387972311_small.jpg",
+     "page": "https://pixabay.com/videos/id-31672/",
+     "tags": "drinking coffee, while enjoying the coffee, coffee, enjoy, morning, hot, delicious, woman",
+     "duration": 8,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 129711,
+     "url": "https://cdn.pixabay.com/video/2022/08/31/129711-745174960_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/31/129711-745174960_small.jpg",
+     "page": "https://pixabay.com/videos/id-129711/",
+     "tags": "wachau, wine area, rock, landscape, people, woman, man, outlook, enjoy, break, drink, relax, nature",
+     "duration": 20,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 116351,
+     "url": "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/08/116351-707531430_small.jpg",
+     "page": "https://pixabay.com/videos/id-116351/",
+     "tags": "woman, path, park, road, riding, bicycle, garosu-gil, meta-porsche inquiries enjoy, spring landscape, republic of korea",
+     "duration": 32,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 979,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/979-142612063_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/979-142612063_small.jpg",
+     "page": "https://pixabay.com/videos/id-979/",
+     "tags": "girl, woman, coast, beach, smile, outdoors, relax, calm, caucasian, happy, people, young, female, lifestyle, enjoy, sea, ocean, hike, beauty, healthy",
+     "duration": 14,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 210230,
+     "url": "https://cdn.pixabay.com/video/2024/05/01/210230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/01/210230_small.jpg",
+     "page": "https://pixabay.com/videos/id-210230/",
+     "tags": "woman, headphones, music, dance, enjoy",
+     "duration": 22,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 120036,
+     "url": "https://cdn.pixabay.com/video/2022/06/12/120036-719677568_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/12/120036-719677568_small.jpg",
+     "page": "https://pixabay.com/videos/id-120036/",
+     "tags": "coast, bench, sea, alanya, antalya, coastal city, enjoying, ocean, panoramic view, turkish, viewpoint, young woman",
+     "duration": 12,
+     "query": "woman enjoying"
+    },
+    {
+     "pixabay_id": 254787,
+     "url": "https://cdn.pixabay.com/video/2025/01/26/254787_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/26/254787_small.jpg",
+     "page": "https://pixabay.com/videos/id-254787/",
+     "tags": "mountain, evening adventure, clouds, sky, enjoying nature, amazing nature, hike, wanderlust, beautiful, mountain air, outdoors, bavaria, eibsee, upper bavaria, alpine panorama, landscape",
+     "duration": 12,
+     "query": "woman enjoying"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "That's why the expensive version of almost anything can feel better, even when it isn't.",
+   "candidates": [
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 1303,
+     "url": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/10/1303-145340146_small.jpg",
+     "page": "https://pixabay.com/videos/id-1303/",
+     "tags": "hotel, resort, restaurant, travel, luxury, luxury hotel, tourism, holiday, business, design, room, interior, furniture, decoration, creative, modern, contemporary, 131618933",
+     "duration": 49,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 1190,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1190-143842655_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1190-143842655_small.jpg",
+     "page": "https://pixabay.com/videos/id-1190/",
+     "tags": "restaurant, hotel, dinner, design, decorative, elegant, luxury, gourmet, eating, delicious, resort, dining, dessert, tasty",
+     "duration": 15,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 3152,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3152-166336023_small.jpg",
+     "page": "https://pixabay.com/videos/id-3152/",
+     "tags": "restaurant, wine glasses, wine, glass, drink, celebration, alcohol, dinner, table, romance, wineglass, beverage, luxury, romantic, anniversary, glasses, dining, food, people, taste, tasting, setting",
+     "duration": 30,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 1633,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1633-148614395_small.jpg",
+     "page": "https://pixabay.com/videos/id-1633/",
+     "tags": "wine glasses, red wine, wine, drink, red, bottle, glasses, alcohol, liquid, glass, beverage, luxury, celebration, winery, food, restaurant, wineglass",
+     "duration": 12,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 28977,
+     "url": "https://cdn.pixabay.com/video/2019/11/12/28977-372617952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/12/28977-372617952_small.jpg",
+     "page": "https://pixabay.com/videos/id-28977/",
+     "tags": "beach, bar, sea, vacations, ocean, water, sand, summer, nature, landscape, beverages, glass, wine glass, restaurant, jamaica, sun, alcohol, luxury, tropical, cocktail, alcoholic, celebration, liquid, coast, hotel",
+     "duration": 12,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 135153,
+     "url": "https://cdn.pixabay.com/video/2022/10/16/135153-761273531_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/16/135153-761273531_small.jpg",
+     "page": "https://pixabay.com/videos/id-135153/",
+     "tags": "restaurant, tables, wellness, salon, lying, luxury, lifestyle",
+     "duration": 12,
+     "query": "luxury restaurant"
+    },
+    {
+     "pixabay_id": 3261,
+     "url": "https://cdn.pixabay.com/video/2016/05/22/3261-167695258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/22/3261-167695258_small.jpg",
+     "page": "https://pixabay.com/videos/id-3261/",
+     "tags": "champagne, glass, prosecco, wine, dining, bubbles, drink, luxury, toast, wineglass, restaurant, celebration, champagne glass, champagne bubbles, sparkle",
+     "duration": 14,
+     "query": "luxury restaurant"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "Try this today: next time you compare two versions of something, cover the price first. Decide which you prefer, then look.",
+   "candidates": [
+    {
+     "pixabay_id": 20910,
+     "url": "https://cdn.pixabay.com/video/2019/01/24/20910-313490233_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/24/20910-313490233_small.jpg",
+     "page": "https://pixabay.com/videos/id-20910/",
+     "tags": "supermarket, shopping, shop, retail trade, food, shopping venture, consumption, load, purchasing, products, consumer, meal, customer, supermarket shelf, shelf, floor, tiles, market, shopping market, vegetables, fruit, department",
+     "duration": 18,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 21117,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21117-315137086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21117-315137086_small.jpg",
+     "page": "https://pixabay.com/videos/id-21117/",
+     "tags": "supermarket",
+     "duration": 6,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 137365,
+     "url": "https://cdn.pixabay.com/video/2022/11/01/137365-766338320_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/01/137365-766338320_small.jpg",
+     "page": "https://pixabay.com/videos/id-137365/",
+     "tags": "pumpkin, fruit, vegetable, halloween, plant, vegetarian, supermarket, colored, green, nature, feast",
+     "duration": 6,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 4730,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4730-179738652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4730-179738652_small.jpg",
+     "page": "https://pixabay.com/videos/id-4730/",
+     "tags": "indoor market, vegetable market, groceries, market, food, vegetable, organic, lifestyle, store, retail, supermarket, shop, healthy, consumerism, customer, shopping, caucasian, purchasing, natural, fresh",
+     "duration": 14,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 11253,
+     "url": "https://cdn.pixabay.com/video/2017/08/09/11253-229053638_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/09/11253-229053638_small.jpg",
+     "page": "https://pixabay.com/videos/id-11253/",
+     "tags": "book, shelf, inserting, library, literature, education, bookshelf, study, knowledge, read, bookcase, hand, male, placing, setting",
+     "duration": 7,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 41506,
+     "url": "https://cdn.pixabay.com/video/2020/06/08/41506-429661323_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/08/41506-429661323_small.jpg",
+     "page": "https://pixabay.com/videos/id-41506/",
+     "tags": "shelves, books, library, education, reading, a shelf, to read, literature, closet, the culture, language, development",
+     "duration": 13,
+     "query": "supermarket shelf"
+    },
+    {
+     "pixabay_id": 11254,
+     "url": "https://cdn.pixabay.com/video/2017/08/09/11254-229053639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/09/11254-229053639_small.jpg",
+     "page": "https://pixabay.com/videos/id-11254/",
+     "tags": "bookshelf, book, library, education, knowledge, literature, shelf, textbook, bookstore, read, bookcase, studying, row, hand, male, man, setting, putting back",
+     "duration": 8,
+     "query": "supermarket shelf"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "text": "But price isn't the only thing that makes something feel valuable. Sometimes all it takes is having less of it.",
+   "candidates": [
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 245490,
+     "url": "https://cdn.pixabay.com/video/2024/12/07/245490_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/07/245490_small.jpg",
+     "page": "https://pixabay.com/videos/id-245490/",
+     "tags": "pastries, christmas cookies, cookie, biscuit, mail\u00e4nderli, christmas",
+     "duration": 11,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 173315,
+     "url": "https://cdn.pixabay.com/video/2023/07/26/173315-849202482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/26/173315-849202482_small.jpg",
+     "page": "https://pixabay.com/videos/id-173315/",
+     "tags": "bell jar, ceramic, porcelain, decoration, shrub, nature",
+     "duration": 18,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 160783,
+     "url": "https://cdn.pixabay.com/video/2023/04/28/160783-822206426_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/28/160783-822206426_small.jpg",
+     "page": "https://pixabay.com/videos/id-160783/",
+     "tags": "bell jar, porcelain, yellow, decoration, construction pole, smoke, nature, decorative",
+     "duration": 20,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 191429,
+     "url": "https://cdn.pixabay.com/video/2023/11/30/191429-890109730_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/30/191429-890109730_small.jpg",
+     "page": "https://pixabay.com/videos/id-191429/",
+     "tags": "cookies, cakes, bakery, food",
+     "duration": 20,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 245639,
+     "url": "https://cdn.pixabay.com/video/2024/12/08/245639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/08/245639_small.jpg",
+     "page": "https://pixabay.com/videos/id-245639/",
+     "tags": "anise, aniseed rolls, christmas cookies, christmas, before christmas, christmas time, to bake, pastries, aniseed cookies",
+     "duration": 12,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 153817,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153817-806178213_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153817-806178213_small.jpg",
+     "page": "https://pixabay.com/videos/id-153817/",
+     "tags": "macaroon, snack, sweet, food, oven, cake, delightful, biscuit, french, pastry, traditional, colored",
+     "duration": 8,
+     "query": "cookie jar"
+    },
+    {
+     "pixabay_id": 100315,
+     "url": "https://cdn.pixabay.com/video/2021/12/11/100315-657132696_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/11/100315-657132696_small.jpg",
+     "page": "https://pixabay.com/videos/id-100315/",
+     "tags": "christmas, cookies, candle, light, flame, decoration, advent, mood, atmospheric, christmas baking, food",
+     "duration": 16,
+     "query": "cookie jar"
+    }
+   ]
+  }
+ ]
+}

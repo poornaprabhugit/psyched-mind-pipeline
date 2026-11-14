@@ -1,0 +1,707 @@
+{
+ "id": "s03",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You'd defend a choice you never made.",
+   "candidates": [
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man arguing"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man arguing"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Scientists showed people two faces: who's more attractive?",
+   "candidates": [
+    {
+     "pixabay_id": 301635,
+     "url": "https://cdn.pixabay.com/video/2025/09/04/301635_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/04/301635_small.jpg",
+     "page": "https://pixabay.com/videos/id-301635/",
+     "tags": "couple, lovers, grandparents, together, men, woman, portrait, wedding, marriage",
+     "duration": 11,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 45132,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_small.jpg",
+     "page": "https://pixabay.com/videos/id-45132/",
+     "tags": "girl, young, woman, pose, face, model, female, person, beauty, portrait, smile",
+     "duration": 19,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 19258,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_small.jpg",
+     "page": "https://pixabay.com/videos/id-19258/",
+     "tags": "water, young, bottle, woman, person, drink, beautiful, portrait, sed",
+     "duration": 9,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 47098,
+     "url": "https://cdn.pixabay.com/video/2020/08/13/47098-452600642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/13/47098-452600642_small.jpg",
+     "page": "https://pixabay.com/videos/id-47098/",
+     "tags": "woman, walking, girl, roses, lady, face, portrait",
+     "duration": 10,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 44686,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_small.jpg",
+     "page": "https://pixabay.com/videos/id-44686/",
+     "tags": "girl, dance, headphones, woman, female, model, portrait, young, fantasy, retro, beauty",
+     "duration": 22,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 185789,
+     "url": "https://cdn.pixabay.com/video/2023/10/20/185789-876545919_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/20/185789-876545919_small.jpg",
+     "page": "https://pixabay.com/videos/id-185789/",
+     "tags": "woman, projection, projector, beautiful wallpaper, portrait, background",
+     "duration": 5,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 275172,
+     "url": "https://cdn.pixabay.com/video/2025/04/27/275172_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/27/275172_small.jpg",
+     "page": "https://pixabay.com/videos/id-275172/",
+     "tags": "trader, woman, portrait, people, selling, africa, face, female, nigerian, lagos",
+     "duration": 13,
+     "query": "portrait woman"
+    },
+    {
+     "pixabay_id": 12004,
+     "url": "https://cdn.pixabay.com/video/2017/09/15/12004-234428494_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/15/12004-234428494_small.jpg",
+     "page": "https://pixabay.com/videos/id-12004/",
+     "tags": "woman applying makeup, mask, make up, attractive, melted, fashion, lips, human, woman, portrait, girl, face, close up, female, pretty, young woman, beauty",
+     "duration": 8,
+     "query": "portrait woman"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Then, with a magician's trick,",
+   "candidates": [
+    {
+     "pixabay_id": 110921,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110921-689510582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110921-689510582_small.jpg",
+     "page": "https://pixabay.com/videos/id-110921/",
+     "tags": "cloud, mountain, peak, nature, water, cliff, landscape, view, america, crater, dusk, magician, moving, recreation, reflect, scenery, shadow, smoke, time, twilight, us, arctic, drought",
+     "duration": 12,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 13937,
+     "url": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_small.jpg",
+     "page": "https://pixabay.com/videos/id-13937/",
+     "tags": "date of birth, birthday party, birthday card, congratulations, greeting card, love greeting, love, emotions, fixed",
+     "duration": 11,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 225910,
+     "url": "https://cdn.pixabay.com/video/2024/08/11/225910_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/11/225910_small.jpg",
+     "page": "https://pixabay.com/videos/id-225910/",
+     "tags": "hairy teasel, card, blossom, bloom, plant, anthers, nature, to flourish, bloom",
+     "duration": 35,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 200139,
+     "url": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/11/200139-912119482_small.jpg",
+     "page": "https://pixabay.com/videos/id-200139/",
+     "tags": "dinner, decoration, chairs, candles, arrangement, anniversary, autumn, banquet, boho, bouquet, candlelight, card, catering, celebration, ceremony, decor, dining, elegance, elegant, event",
+     "duration": 6,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 91678,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_small.jpg",
+     "page": "https://pixabay.com/videos/id-91678/",
+     "tags": "cards, coins, gambling, game, money, currency, finance, casino, happiness, poker, gambling addiction, game bank, win, slow motion",
+     "duration": 29,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 43079,
+     "url": "https://cdn.pixabay.com/video/2020/06/25/43079-432464838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/25/43079-432464838_small.jpg",
+     "page": "https://pixabay.com/videos/id-43079/",
+     "tags": "happy birthday, date of birth, greeting card, love, birthday card, heart, congratulation",
+     "duration": 30,
+     "query": "magician cards"
+    },
+    {
+     "pixabay_id": 131160,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131160-749706756_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131160-749706756_small.jpg",
+     "page": "https://pixabay.com/videos/id-131160/",
+     "tags": "camera, memory card, photographer, photography, memory, dslr, digital, technology",
+     "duration": 13,
+     "query": "magician cards"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "they handed over the face they'd rejected.",
+   "candidates": [
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 9081,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9081-217264504_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9081-217264504_small.jpg",
+     "page": "https://pixabay.com/videos/id-9081/",
+     "tags": "origami, paper, bend, plane, isolated, close up, transport, bent, hand, time lapse",
+     "duration": 30,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 10824,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_small.jpg",
+     "page": "https://pixabay.com/videos/id-10824/",
+     "tags": "sketch, draw, pencil, drawing, design, hand, paper, creative, artist, pen, sketching, artistic, artwork, paint, creativity, school, painting, designer",
+     "duration": 15,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "hand giving paper"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "hand giving paper"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Most didn't notice.",
+   "candidates": [
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man nodding"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man nodding"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "They even explained their choice.",
+   "candidates": [
+    {
+     "pixabay_id": 370,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_small.jpg",
+     "page": "https://pixabay.com/videos/id-370/",
+     "tags": "sea, beach, ocean, back light, surfer, man, woman, pair, happy, holiday, talking, waves, sparkle, glitter, water, coast, 9311383",
+     "duration": 10,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 19706,
+     "url": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_small.jpg",
+     "page": "https://pixabay.com/videos/id-19706/",
+     "tags": "pair, trust, conversation, talk, discussion, few, people, taking photos, friendship, man, woman, romantic, happy, romance, lovers, photographer, look at pictures, tourists",
+     "duration": 10,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 42408,
+     "url": "https://cdn.pixabay.com/video/2020/06/17/42408-431511624_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/17/42408-431511624_small.jpg",
+     "page": "https://pixabay.com/videos/id-42408/",
+     "tags": "mobile phone, man, chat, dating, partner search, smartphone, app, fun, mobile, bed, internet, young, attractive, dialogue, sms, instagram, facebook, twitter, hands, digital",
+     "duration": 23,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 9490,
+     "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_small.jpg",
+     "page": "https://pixabay.com/videos/id-9490/",
+     "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
+     "duration": 9,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 43147,
+     "url": "https://cdn.pixabay.com/video/2020/06/26/43147-435893243_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/26/43147-435893243_small.jpg",
+     "page": "https://pixabay.com/videos/id-43147/",
+     "tags": "man, silhouette, tea, shore, chinese temple, background, traditional culture, tea culture, the buddha system, monk, beautiful wallpaper, lay, to chat with, meditation, fan, on sat, chinese style, abode, temple",
+     "duration": 27,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 43146,
+     "url": "https://cdn.pixabay.com/video/2020/06/26/43146-435893212_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/26/43146-435893212_small.jpg",
+     "page": "https://pixabay.com/videos/id-43146/",
+     "tags": "silhouette, man, lake, zen, china, temple, on sat, traditional culture, tea, tea culture, the buddha system, monk, to chat with, meditation, shake fan, abode, poetry",
+     "duration": 33,
+     "query": "man talking"
+    },
+    {
+     "pixabay_id": 10069,
+     "url": "https://cdn.pixabay.com/video/2017/06/19/10069-222371278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/19/10069-222371278_small.jpg",
+     "page": "https://pixabay.com/videos/id-10069/",
+     "tags": "man and woman are on the road, human, people, family, summer, field, road, dust, conversation, talk, horizon, sky, clouds, step, walking, go, primer",
+     "duration": 10,
+     "query": "man talking"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "One man said he liked her earrings. The face he'd actually chosen had none.",
+   "candidates": [
+    {
+     "pixabay_id": 3723,
+     "url": "https://cdn.pixabay.com/video/2016/07/06/3723-173719869_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/06/3723-173719869_small.jpg",
+     "page": "https://pixabay.com/videos/id-3723/",
+     "tags": "reindeer, christmas, moose, fun, to dance, wiggle, ears, figure, plush, cute, funny, christmas time, stuffed animal",
+     "duration": 45,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 102918,
+     "url": "https://cdn.pixabay.com/video/2021/12/30/102918-661305070_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/30/102918-661305070_small.jpg",
+     "page": "https://pixabay.com/videos/id-102918/",
+     "tags": "lynx, predator, ears, brush ears, dangerous, carnivores, hunter, wildlife, zoo, zoo hague",
+     "duration": 18,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 132776,
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_small.jpg",
+     "page": "https://pixabay.com/videos/id-132776/",
+     "tags": "barley, grain, ear, cereal ear, barley ear",
+     "duration": 40,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 2700,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2700-161671343_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2700-161671343_small.jpg",
+     "page": "https://pixabay.com/videos/id-2700/",
+     "tags": "corn, summer, field, ears of corn, ear, bohemia, cornfield, gold, countryside, nature",
+     "duration": 13,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 2717,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_small.jpg",
+     "page": "https://pixabay.com/videos/id-2717/",
+     "tags": "squirrel, head, grey squirrel, eating, feeding, bird feeder, wildlife, fur, nature, wild, brown, gray, grey, paws, rodent, ears, eyes, legs, mouth, seeds, sunflower, tree, cute, outdoors",
+     "duration": 25,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 169020,
+     "url": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_small.jpg",
+     "page": "https://pixabay.com/videos/id-169020/",
+     "tags": "rye, grain, ear, sunset, food, agriculture, cultivation, nature",
+     "duration": 18,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 81204,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81204-575216196_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81204-575216196_small.jpg",
+     "page": "https://pixabay.com/videos/id-81204/",
+     "tags": "hare, rabbit, bunny, ears, animal, cute, fur, grass",
+     "duration": 19,
+     "query": "earrings"
+    },
+    {
+     "pixabay_id": 170871,
+     "url": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_small.jpg",
+     "page": "https://pixabay.com/videos/id-170871/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 20,
+     "query": "earrings"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Your brain invents reasons after you decide.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "So how sure are you about your last choice?",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking"
+    }
+   ]
+  }
+ ]
+}

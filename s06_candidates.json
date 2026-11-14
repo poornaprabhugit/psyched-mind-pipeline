@@ -1,0 +1,551 @@
+{
+ "id": "s06",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Your brain is listening to conversations you're ignoring.",
+   "candidates": [
+    {
+     "pixabay_id": 1630,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_small.jpg",
+     "page": "https://pixabay.com/videos/id-1630/",
+     "tags": "concert, light effects, cheering, audience, light beams, people, crowd, happy, party, festival, music, dance, performance, stage, band, group, cheering crowd, event, entertainment, young, happiness, cheerful, fun, festival crowd, crowd of people, rock, concert crowd, live, excitement, rock concert, celebration, applauding, popular, light, concert stage, music festival, sound",
+     "duration": 15,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 1275,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_small.jpg",
+     "page": "https://pixabay.com/videos/id-1275/",
+     "tags": "rotting christ, rock, concert, band, heavy metal, rock concert, music, entertainment, performance, stage, people, crowd, audience, club, light, stage lights, sound, live, party, event, fun, night, nightlife, 130680504",
+     "duration": 18,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 142035,
+     "url": "https://cdn.pixabay.com/video/2022/12/07/142035-779071814_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/07/142035-779071814_small.jpg",
+     "page": "https://pixabay.com/videos/id-142035/",
+     "tags": "crowd, people, music, drums, party, happy, life, daylight",
+     "duration": 8,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 1258,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1258-144566586_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1258-144566586_small.jpg",
+     "page": "https://pixabay.com/videos/id-1258/",
+     "tags": "dj, techno, music, club, disco, party, entertainment, nightlife, dance, nightclub, equipment, dj party, audio, sound, mixing, turntable, mixer, technology, night, clubbing, event, rhythm, dance party, people, crowd, 143992414",
+     "duration": 51,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 1257,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1257-144566582_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1257-144566582_small.jpg",
+     "page": "https://pixabay.com/videos/id-1257/",
+     "tags": "dj, techno, music, club, disco, party, entertainment, nightlife, dance, nightclub, equipment, dj party, audio, sound, mixing, turntable, mixer, technology, night, clubbing, event, rhythm, dance party, people, crowd, 143992184",
+     "duration": 59,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 4757,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4757-179739319_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4757-179739319_small.jpg",
+     "page": "https://pixabay.com/videos/id-4757/",
+     "tags": "cobblestones, pavement, legs, crowd, party, people, feed, standing, city, urban, night, sidewalk",
+     "duration": 25,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 142038,
+     "url": "https://cdn.pixabay.com/video/2022/12/07/142038-779071822_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/07/142038-779071822_small.jpg",
+     "page": "https://pixabay.com/videos/id-142038/",
+     "tags": "dance, group, music, fitness, party, happy, dancing, moving, streets, crowd, celebration, boulevard, daylight, art, life, gran canaria, spain",
+     "duration": 26,
+     "query": "party crowd"
+    },
+    {
+     "pixabay_id": 142032,
+     "url": "https://cdn.pixabay.com/video/2022/12/07/142032-779071806_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/07/142032-779071806_small.jpg",
+     "page": "https://pixabay.com/videos/id-142032/",
+     "tags": "dance, group, music, fitness, party, happy, dancing, moving, streets, crowd, celebration, boulevard, daylight, art, life, gran canaria, spain",
+     "duration": 22,
+     "query": "party crowd"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Scientists played a different voice into each ear",
+   "candidates": [
+    {
+     "pixabay_id": 172681,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_small.jpg",
+     "page": "https://pixabay.com/videos/id-172681/",
+     "tags": "married couple, old couple, happy couple, music, headphones",
+     "duration": 11,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 161062,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_small.jpg",
+     "page": "https://pixabay.com/videos/id-161062/",
+     "tags": "woman, headphones, earphones, music, listen, relax, park",
+     "duration": 10,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 45254,
+     "url": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_small.jpg",
+     "page": "https://pixabay.com/videos/id-45254/",
+     "tags": "man, walking, street, headphones, city, architecture, building, cathedral, perspective",
+     "duration": 19,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 44686,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_small.jpg",
+     "page": "https://pixabay.com/videos/id-44686/",
+     "tags": "girl, dance, headphones, woman, female, model, portrait, young, fantasy, retro, beauty",
+     "duration": 22,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 84583,
+     "url": "https://cdn.pixabay.com/video/2021/08/10/84583-590762060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/10/84583-590762060_small.jpg",
+     "page": "https://pixabay.com/videos/id-84583/",
+     "tags": "headphones, music, swing, listening, wind, technology, sound, fun, equipment, electronic, microphone, mobile",
+     "duration": 39,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 2284,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2284-157183539_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2284-157183539_small.jpg",
+     "page": "https://pixabay.com/videos/id-2284/",
+     "tags": "music, headphones, hi-fi, audio-video, av, major tom, listen, listening, sound, young, technology, earphones, audio, entertainment, hear, modern, equipment",
+     "duration": 17,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 2289,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2289-157183570_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2289-157183570_small.jpg",
+     "page": "https://pixabay.com/videos/id-2289/",
+     "tags": "headphones, jack, earphones, headset, audio, music, sound, equipment, stereo, microphone, entertainment, notebook, laptop, electronics",
+     "duration": 14,
+     "query": "headphones"
+    },
+    {
+     "pixabay_id": 71458,
+     "url": "https://cdn.pixabay.com/video/2021/04/18/71458-538476148_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/18/71458-538476148_small.jpg",
+     "page": "https://pixabay.com/videos/id-71458/",
+     "tags": "woman, seat, headphones, train, transport",
+     "duration": 32,
+     "query": "headphones"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "and asked people to repeat only one.",
+   "candidates": [
+    {
+     "pixabay_id": 161062,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161062-822582130_small.jpg",
+     "page": "https://pixabay.com/videos/id-161062/",
+     "tags": "woman, headphones, earphones, music, listen, relax, park",
+     "duration": 10,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 44686,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_small.jpg",
+     "page": "https://pixabay.com/videos/id-44686/",
+     "tags": "girl, dance, headphones, woman, female, model, portrait, young, fantasy, retro, beauty",
+     "duration": 22,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 71458,
+     "url": "https://cdn.pixabay.com/video/2021/04/18/71458-538476148_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/18/71458-538476148_small.jpg",
+     "page": "https://pixabay.com/videos/id-71458/",
+     "tags": "woman, seat, headphones, train, transport",
+     "duration": 32,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 237248,
+     "url": "https://cdn.pixabay.com/video/2024/10/20/237248_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/20/237248_small.jpg",
+     "page": "https://pixabay.com/videos/id-237248/",
+     "tags": "young woman, woman, sea, nature, ocean, beach, wave, water, sky, landscape, sunset, twilight, sun, headphones, music, audio",
+     "duration": 9,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 161063,
+     "url": "https://cdn.pixabay.com/video/2023/04/30/161063-822582134_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/30/161063-822582134_small.jpg",
+     "page": "https://pixabay.com/videos/id-161063/",
+     "tags": "woman, headphones, earphones, music, listen, relax, park",
+     "duration": 10,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 131635,
+     "url": "https://cdn.pixabay.com/video/2022/09/17/131635-750742441_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/17/131635-750742441_small.jpg",
+     "page": "https://pixabay.com/videos/id-131635/",
+     "tags": "woman, headset, headphones, music, device, fun",
+     "duration": 28,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 210230,
+     "url": "https://cdn.pixabay.com/video/2024/05/01/210230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/01/210230_small.jpg",
+     "page": "https://pixabay.com/videos/id-210230/",
+     "tags": "woman, headphones, music, dance, enjoy",
+     "duration": 22,
+     "query": "woman headphones"
+    },
+    {
+     "pixabay_id": 131629,
+     "url": "https://cdn.pixabay.com/video/2022/09/17/131629-750742426_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/17/131629-750742426_small.jpg",
+     "page": "https://pixabay.com/videos/id-131629/",
+     "tags": "woman, music, headphones, female, lady",
+     "duration": 14,
+     "query": "woman headphones"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Hidden in the other ear: their own name.",
+   "candidates": [
+    {
+     "pixabay_id": 132776,
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_small.jpg",
+     "page": "https://pixabay.com/videos/id-132776/",
+     "tags": "barley, grain, ear, cereal ear, barley ear",
+     "duration": 40,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 169020,
+     "url": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_small.jpg",
+     "page": "https://pixabay.com/videos/id-169020/",
+     "tags": "rye, grain, ear, sunset, food, agriculture, cultivation, nature",
+     "duration": 18,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 170871,
+     "url": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_small.jpg",
+     "page": "https://pixabay.com/videos/id-170871/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 20,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 168885,
+     "url": "https://cdn.pixabay.com/video/2023/06/26/168885-839807943_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/26/168885-839807943_small.jpg",
+     "page": "https://pixabay.com/videos/id-168885/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 19,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 170870,
+     "url": "https://cdn.pixabay.com/video/2023/07/10/170870-844432929_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/10/170870-844432929_small.jpg",
+     "page": "https://pixabay.com/videos/id-170870/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 25,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 169021,
+     "url": "https://cdn.pixabay.com/video/2023/06/27/169021-840229952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/27/169021-840229952_small.jpg",
+     "page": "https://pixabay.com/videos/id-169021/",
+     "tags": "rye, grain, ear, sunset, food, agriculture, cultivation, nature",
+     "duration": 22,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 168877,
+     "url": "https://cdn.pixabay.com/video/2023/06/26/168877-839807929_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/26/168877-839807929_small.jpg",
+     "page": "https://pixabay.com/videos/id-168877/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 26,
+     "query": "ear"
+    },
+    {
+     "pixabay_id": 179597,
+     "url": "https://cdn.pixabay.com/video/2023/09/08/179597-862589834_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/08/179597-862589834_small.jpg",
+     "page": "https://pixabay.com/videos/id-179597/",
+     "tags": "rabbit, fur, sniff nose, cute, wildlife, long ears",
+     "duration": 14,
+     "query": "ear"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "About a third heard it.",
+   "candidates": [
+    {
+     "pixabay_id": 37799,
+     "url": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/01/37799-415200696_small.jpg",
+     "page": "https://pixabay.com/videos/id-37799/",
+     "tags": "woman, person, emotions, red, sweater, girl, young, beauty, model, beautiful wallpaper, beautiful, look forward, surprised, background, black",
+     "duration": 21,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 106379,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_small.jpg",
+     "page": "https://pixabay.com/videos/id-106379/",
+     "tags": "celebration, beautiful wallpaper, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, evening, birthday, coffee, tea, candle, writing, red, woman, women, romance",
+     "duration": 59,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 45119,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_small.jpg",
+     "page": "https://pixabay.com/videos/id-45119/",
+     "tags": "surprise, joy, girl, gift, birthday, young, woman",
+     "duration": 17,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 48019,
+     "url": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/24/48019-452600863_small.jpg",
+     "page": "https://pixabay.com/videos/id-48019/",
+     "tags": "girl, surprised, beauty, woman, portrait, face, human, female, pretty, hair, hands, beautiful, person",
+     "duration": 14,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman surprised"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman surprised"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Part of your brain keeps scanning the noise for what matters to you.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why, in a loud room, you still hear your name.",
+   "candidates": [
+    {
+     "pixabay_id": 326677,
+     "url": "https://cdn.pixabay.com/video/2026/01/08/326677_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/08/326677_small.jpg",
+     "page": "https://pixabay.com/videos/id-326677/",
+     "tags": "fireworks, party, celebrate, new year, 2026, extreme, drone, celebration, fun, explosion, ascending, street, house, urban, buildings",
+     "duration": 16,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 1258,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1258-144566586_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1258-144566586_small.jpg",
+     "page": "https://pixabay.com/videos/id-1258/",
+     "tags": "dj, techno, music, club, disco, party, entertainment, nightlife, dance, nightclub, equipment, dj party, audio, sound, mixing, turntable, mixer, technology, night, clubbing, event, rhythm, dance party, people, crowd, 143992414",
+     "duration": 51,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 694,
+     "url": "https://cdn.pixabay.com/video/2015/09/05/694-138408488_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/05/694-138408488_small.jpg",
+     "page": "https://pixabay.com/videos/id-694/",
+     "tags": "fireworks, sparkles, night, pyrotechnics, shower of sparks, explosion, party, event, colors, sky, 128645904",
+     "duration": 20,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 104514,
+     "url": "https://cdn.pixabay.com/video/2022/01/15/104514-666958130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/15/104514-666958130_small.jpg",
+     "page": "https://pixabay.com/videos/id-104514/",
+     "tags": "killer, multicoloured, party cracker, sylvester, party, shining, party mood, fireworks",
+     "duration": 13,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 1257,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1257-144566582_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1257-144566582_small.jpg",
+     "page": "https://pixabay.com/videos/id-1257/",
+     "tags": "dj, techno, music, club, disco, party, entertainment, nightlife, dance, nightclub, equipment, dj party, audio, sound, mixing, turntable, mixer, technology, night, clubbing, event, rhythm, dance party, people, crowd, 143992184",
+     "duration": 59,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 5269,
+     "url": "https://cdn.pixabay.com/video/2016/09/14/5269-182817482_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/14/5269-182817482_small.jpg",
+     "page": "https://pixabay.com/videos/id-5269/",
+     "tags": "fireworks, fireworks display, party",
+     "duration": 133,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 1275,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_small.jpg",
+     "page": "https://pixabay.com/videos/id-1275/",
+     "tags": "rotting christ, rock, concert, band, heavy metal, rock concert, music, entertainment, performance, stage, people, crowd, audience, club, light, stage lights, sound, live, party, event, fun, night, nightlife, 130680504",
+     "duration": 18,
+     "query": "party"
+    },
+    {
+     "pixabay_id": 1630,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_small.jpg",
+     "page": "https://pixabay.com/videos/id-1630/",
+     "tags": "concert, light effects, cheering, audience, light beams, people, crowd, happy, party, festival, music, dance, performance, stage, band, group, cheering crowd, event, entertainment, young, happiness, cheerful, fun, festival crowd, crowd of people, rock, concert crowd, live, excitement, rock concert, celebration, applauding, popular, light, concert stage, music festival, sound",
+     "duration": 15,
+     "query": "party"
+    }
+   ]
+  }
+ ]
+}

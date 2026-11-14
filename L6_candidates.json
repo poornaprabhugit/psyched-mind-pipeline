@@ -1,0 +1,1175 @@
+{
+ "id": "L6",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Number six: the counterfeit self.",
+   "candidates": [
+    {
+     "pixabay_id": 215189,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215189_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215189_small.jpg",
+     "page": "https://pixabay.com/videos/id-215189/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 51,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 133339,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_small.jpg",
+     "page": "https://pixabay.com/videos/id-133339/",
+     "tags": "sunflower, blossoms, yellow, bloom, nature, sunglasses",
+     "duration": 18,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 215188,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215188_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215188_small.jpg",
+     "page": "https://pixabay.com/videos/id-215188/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 52,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 189573,
+     "url": "https://cdn.pixabay.com/video/2023/11/18/189573-886016219_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/18/189573-886016219_small.jpg",
+     "page": "https://pixabay.com/videos/id-189573/",
+     "tags": "man, women, friends, models, sunglasses, fashion",
+     "duration": 36,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 113915,
+     "url": "https://cdn.pixabay.com/video/2022/04/14/113915-699857851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/14/113915-699857851_small.jpg",
+     "page": "https://pixabay.com/videos/id-113915/",
+     "tags": "sun, tan, bikini, sunbathing, girl, woman, sunglasses, pool, summer, swimwear, relax",
+     "duration": 27,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 34259,
+     "url": "https://cdn.pixabay.com/video/2020/03/25/34259-400974053_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/25/34259-400974053_small.jpg",
+     "page": "https://pixabay.com/videos/id-34259/",
+     "tags": "beach, girl, woman, sea, ocean, travel, summer, surf, happy, lady, vacation, water, relax, women, smile, people, female, sunglasses, standing, sun, sand, health",
+     "duration": 10,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 120202,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120202-720504810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120202-720504810_small.jpg",
+     "page": "https://pixabay.com/videos/id-120202/",
+     "tags": "sunglasses, woman, hot, darling, wind, blue, relax",
+     "duration": 12,
+     "query": "sunglasses"
+    },
+    {
+     "pixabay_id": 240463,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240463_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240463_small.jpg",
+     "page": "https://pixabay.com/videos/id-240463/",
+     "tags": "man, eyes, face, sunglasses, reflection, television, smile, 4k",
+     "duration": 18,
+     "query": "sunglasses"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers gave women real designer sunglasses, a brand that sells for hundreds of dollars.",
+   "candidates": [
+    {
+     "pixabay_id": 215189,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215189_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215189_small.jpg",
+     "page": "https://pixabay.com/videos/id-215189/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 51,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 133339,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_small.jpg",
+     "page": "https://pixabay.com/videos/id-133339/",
+     "tags": "sunflower, blossoms, yellow, bloom, nature, sunglasses",
+     "duration": 18,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 215188,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215188_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215188_small.jpg",
+     "page": "https://pixabay.com/videos/id-215188/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 52,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 206029,
+     "url": "https://cdn.pixabay.com/video/2024/03/29/206029_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg",
+     "page": "https://pixabay.com/videos/id-206029/",
+     "tags": "tailor, clothing, fashion designer, tailor shop",
+     "duration": 46,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 10824,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_small.jpg",
+     "page": "https://pixabay.com/videos/id-10824/",
+     "tags": "sketch, draw, pencil, drawing, design, hand, paper, creative, artist, pen, sketching, artistic, artwork, paint, creativity, school, painting, designer",
+     "duration": 15,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 960,
+     "url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_small.jpg",
+     "page": "https://pixabay.com/videos/id-960/",
+     "tags": "painting, drawing, colors, design, brush, artist painting, artistic, decoration, watercolor, creative, summer, hand drawing, picture, hearts, love, romantic, 104695749",
+     "duration": 21,
+     "query": "designer sunglasses"
+    },
+    {
+     "pixabay_id": 25245,
+     "url": "https://cdn.pixabay.com/video/2019/07/14/25245-348376973_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/14/25245-348376973_small.jpg",
+     "page": "https://pixabay.com/videos/id-25245/",
+     "tags": "fashion show, models, clothing, fashion, design, catwalk, designer clothes, vogue, elegant, women, out of the ordinary, extravagant",
+     "duration": 31,
+     "query": "designer sunglasses"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "But some were told their pair came from a box labelled counterfeit. Others, from a box labelled authentic.",
+   "candidates": [
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 143884,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_small.jpg",
+     "page": "https://pixabay.com/videos/id-143884/",
+     "tags": "christmas, xmas, decoration, celebration, gifts, 25 december, christmas gifts, gifts boxes, box",
+     "duration": 7,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 8686,
+     "url": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_small.jpg",
+     "page": "https://pixabay.com/videos/id-8686/",
+     "tags": "box, taper, industrial, production, packaging, cardboard, line, industry, postal service, logistics, package, packing, packing boxes",
+     "duration": 8,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 135086,
+     "url": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_small.jpg",
+     "page": "https://pixabay.com/videos/id-135086/",
+     "tags": "rodent, box, nibble, wood, scratch, wild, zoo",
+     "duration": 14,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 2775,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_small.jpg",
+     "page": "https://pixabay.com/videos/id-2775/",
+     "tags": "blue tit, bird box, bird house, garden, nest, mate, bird, box, wildlife, nature, spring, small, nesting, ornithology, songbird, birdwatching",
+     "duration": 30,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 117487,
+     "url": "https://cdn.pixabay.com/video/2022/05/19/117487-711854505_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/19/117487-711854505_small.jpg",
+     "page": "https://pixabay.com/videos/id-117487/",
+     "tags": "bird, nesting box, approach, feeding, ornithology, wildlife, nature",
+     "duration": 39,
+     "query": "box"
+    },
+    {
+     "pixabay_id": 65672,
+     "url": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_small.jpg",
+     "page": "https://pixabay.com/videos/id-65672/",
+     "tags": "honey, honey bees, honey box, crate, farm",
+     "duration": 52,
+     "query": "box"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In reality, every pair was genuine.",
+   "candidates": [
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 26493,
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.jpg",
+     "page": "https://pixabay.com/videos/id-26493/",
+     "tags": "colours, pattern, texture, abstract, macro, close-up",
+     "duration": 74,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 240531,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240531_small.jpg",
+     "page": "https://pixabay.com/videos/id-240531/",
+     "tags": "bacon, pan, hot, belly bacon, meal, food, close up",
+     "duration": 7,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 30470,
+     "url": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_small.jpg",
+     "page": "https://pixabay.com/videos/id-30470/",
+     "tags": "bee, honey bee, insect, pollen, close up, live wallpaper",
+     "duration": 6,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 199545,
+     "url": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_small.jpg",
+     "page": "https://pixabay.com/videos/id-199545/",
+     "tags": "beef, patty, hamburger, burger, grill, electric grill, meal, flesh, tasty, close up, food",
+     "duration": 7,
+     "query": "sunglasses close up"
+    },
+    {
+     "pixabay_id": 197946,
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_small.jpg",
+     "page": "https://pixabay.com/videos/id-197946/",
+     "tags": "grass, plant, dry, park, garden, botanical, spring, summer, leaves, wind, close up, green, forest, nature",
+     "duration": 55,
+     "query": "sunglasses close up"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Then the women wore the sunglasses while they solved maths puzzles,",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 131159,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_small.jpg",
+     "page": "https://pixabay.com/videos/id-131159/",
+     "tags": "lego, build up, puzzle, play, architecture, think",
+     "duration": 21,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 35449,
+     "url": "https://cdn.pixabay.com/video/2020/04/08/35449-407130915_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/08/35449-407130915_small.jpg",
+     "page": "https://pixabay.com/videos/id-35449/",
+     "tags": "education, school, kid, study, library, books, literature, student, children, research, write, science, play, math, teacher, class",
+     "duration": 14,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 60721,
+     "url": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_small.jpg",
+     "page": "https://pixabay.com/videos/id-60721/",
+     "tags": "can you solve this, solve it, quiz, puzzle, riddle, puzzles, game, question, answer, challenge, choices, solve, apply, application, demo, demonstrate, deduction, enigmas, level, teach, teacher, teaching, school, test, skill",
+     "duration": 10,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 122511,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122511-725502923_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122511-725502923_small.jpg",
+     "page": "https://pixabay.com/videos/id-122511/",
+     "tags": "billiards, the game, ball, billiard cue, hit, to win, white, traditional, hobby, strike, sport, intelligence, talent, math, education, to learn, to work, exercise, snowdrop, green, table, strategy, training",
+     "duration": 16,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 145483,
+     "url": "https://cdn.pixabay.com/video/2023/01/06/145483-787039535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/06/145483-787039535_small.jpg",
+     "page": "https://pixabay.com/videos/id-145483/",
+     "tags": "candle, birthday, celebration, burning, fire, light, culture, traditional, beautiful wallpaper, cake, fun, happiness, background, anniversary, surprise, age, new, present, concept, christmas, new year, nine, number, math",
+     "duration": 21,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 50961,
+     "url": "https://cdn.pixabay.com/video/2020/09/27/50961-464062995_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/27/50961-464062995_small.jpg",
+     "page": "https://pixabay.com/videos/id-50961/",
+     "tags": "boy, child, learning, school, puzzle, activity",
+     "duration": 17,
+     "query": "math puzzle"
+    },
+    {
+     "pixabay_id": 43022,
+     "url": "https://cdn.pixabay.com/video/2020/06/24/43022-434334062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/24/43022-434334062_small.jpg",
+     "page": "https://pixabay.com/videos/id-43022/",
+     "tags": "cube, abstract, art, background, concept, design, digital, dynamic, effect, futuristic, geometry, graphic, intelligence, artificial intelligence, discovery, maths, light, motion, pattern, space, beautiful wallpaper, texture, scifi",
+     "duration": 24,
+     "query": "math puzzle"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "and graded their own work, with a chance to cheat for more money.",
+   "candidates": [
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 10824,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_small.jpg",
+     "page": "https://pixabay.com/videos/id-10824/",
+     "tags": "sketch, draw, pencil, drawing, design, hand, paper, creative, artist, pen, sketching, artistic, artwork, paint, creativity, school, painting, designer",
+     "duration": 15,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 36473,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36473-411342209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36473-411342209_small.jpg",
+     "page": "https://pixabay.com/videos/id-36473/",
+     "tags": "landfill, drone, trash, waste, garbage, recycling, pollution, plastic, disposal, junk, rubbish, environment, icon, litter, reuse, paper, pencil, mountain, pile, renewable, energy, travel, earth day",
+     "duration": 16,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 36472,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36472-411342192_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36472-411342192_small.jpg",
+     "page": "https://pixabay.com/videos/id-36472/",
+     "tags": "landfill, drone, trash, waste, garbage, recycling, pollution, plastic, disposal, junk, rubbish, environment, icon, litter, reuse, paper, pencil, mountain, pile, renewable, energy",
+     "duration": 12,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 91851,
+     "url": "https://cdn.pixabay.com/video/2021/10/12/91851-636709259_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/12/91851-636709259_small.jpg",
+     "page": "https://pixabay.com/videos/id-91851/",
+     "tags": "journal, pencil, book, notebook, write, writing, park, bench, diary, paper",
+     "duration": 13,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 42409,
+     "url": "https://cdn.pixabay.com/video/2020/06/17/42409-431511636_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/17/42409-431511636_small.jpg",
+     "page": "https://pixabay.com/videos/id-42409/",
+     "tags": "pen, work, desk, paper, creative, letter, pencils",
+     "duration": 8,
+     "query": "pencil paper"
+    },
+    {
+     "pixabay_id": 77021,
+     "url": "https://cdn.pixabay.com/video/2021/06/09/77021-561020328_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/09/77021-561020328_small.jpg",
+     "page": "https://pixabay.com/videos/id-77021/",
+     "tags": "sketch, pencil, fashion design, drawing, fashion, design, artist, art, paper",
+     "duration": 9,
+     "query": "pencil paper"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Among women who thought their sunglasses were authentic, about thirty percent cheated.",
+   "candidates": [
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 130645,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_small.jpg",
+     "page": "https://pixabay.com/videos/id-130645/",
+     "tags": "woman, model, notebook, book, creator, desk, businesswoman, young, writing, working, paper, lifestyle, laptop, computer, adult, work, student, pen, business, typing, table, sitting, creative, casual",
+     "duration": 15,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 106379,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_small.jpg",
+     "page": "https://pixabay.com/videos/id-106379/",
+     "tags": "celebration, beautiful wallpaper, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, evening, birthday, coffee, tea, candle, writing, red, woman, women, romance",
+     "duration": 59,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 47158,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_small.jpg",
+     "page": "https://pixabay.com/videos/id-47158/",
+     "tags": "computer, laptop, keyboard, to write, research, screen, keys, study, project, internet, technology, cafe, house, office, work, glasses, table, woman, girl, hands, fingers",
+     "duration": 23,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 44424,
+     "url": "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_small.jpg",
+     "page": "https://pixabay.com/videos/id-44424/",
+     "tags": "woman, computer, technology, work, office, internet, to write, business, women, web, marketing, student, people, meeting, young, person, keyboard, startup, communication",
+     "duration": 14,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 34727,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34727-403432526_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34727-403432526_small.jpg",
+     "page": "https://pixabay.com/videos/id-34727/",
+     "tags": "computer, keys, internet, keyboard, office, technology, web, job, team, to write, desk, business, students, iphone, screen, student, modern, macbook, portable, electronics, display, woman, people, pc",
+     "duration": 32,
+     "query": "woman writing"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Among those who thought they were wearing fakes: seventy-one percent.",
+   "candidates": [
+    {
+     "pixabay_id": 215189,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215189_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215189_small.jpg",
+     "page": "https://pixabay.com/videos/id-215189/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 51,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 133339,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133339-756423967_small.jpg",
+     "page": "https://pixabay.com/videos/id-133339/",
+     "tags": "sunflower, blossoms, yellow, bloom, nature, sunglasses",
+     "duration": 18,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 215188,
+     "url": "https://cdn.pixabay.com/video/2024/06/03/215188_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/03/215188_small.jpg",
+     "page": "https://pixabay.com/videos/id-215188/",
+     "tags": "computer, programmer, developer, engineer, think, work, books, sunglasses",
+     "duration": 52,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 301635,
+     "url": "https://cdn.pixabay.com/video/2025/09/04/301635_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/04/301635_small.jpg",
+     "page": "https://pixabay.com/videos/id-301635/",
+     "tags": "couple, lovers, grandparents, together, men, woman, portrait, wedding, marriage",
+     "duration": 11,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 45132,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_small.jpg",
+     "page": "https://pixabay.com/videos/id-45132/",
+     "tags": "girl, young, woman, pose, face, model, female, person, beauty, portrait, smile",
+     "duration": 19,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 19258,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_small.jpg",
+     "page": "https://pixabay.com/videos/id-19258/",
+     "tags": "water, young, bottle, woman, person, drink, beautiful, portrait, sed",
+     "duration": 9,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 47098,
+     "url": "https://cdn.pixabay.com/video/2020/08/13/47098-452600642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/13/47098-452600642_small.jpg",
+     "page": "https://pixabay.com/videos/id-47098/",
+     "tags": "woman, walking, girl, roses, lady, face, portrait",
+     "duration": 10,
+     "query": "woman sunglasses portrait"
+    },
+    {
+     "pixabay_id": 44686,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44686-439940368_small.jpg",
+     "page": "https://pixabay.com/videos/id-44686/",
+     "tags": "girl, dance, headphones, woman, female, model, portrait, young, fantasy, retro, beauty",
+     "duration": 22,
+     "query": "woman sunglasses portrait"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "The same glasses. Only the label in their head had changed. And it wasn't a fluke: with a new group, randomly assigned, the gap was almost the same. Sixty-nine percent against twenty-six.",
+   "candidates": [
+    {
+     "pixabay_id": 119698,
+     "url": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_small.jpg",
+     "page": "https://pixabay.com/videos/id-119698/",
+     "tags": "boy, talk, conversation, people, mirror, reflection",
+     "duration": 12,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 134312,
+     "url": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_small.jpg",
+     "page": "https://pixabay.com/videos/id-134312/",
+     "tags": "car, mirror, reflection, forest, trees",
+     "duration": 10,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 4409,
+     "url": "https://cdn.pixabay.com/video/2016/08/13/4409-178741059_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/13/4409-178741059_small.jpg",
+     "page": "https://pixabay.com/videos/id-4409/",
+     "tags": "water, reflection, autumn, spring, reflection in water, nature, mirror reflection, leaves",
+     "duration": 14,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 64729,
+     "url": "https://cdn.pixabay.com/video/2021/02/09/64729-510542342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/09/64729-510542342_small.jpg",
+     "page": "https://pixabay.com/videos/id-64729/",
+     "tags": "man, clouds, mirror, lake, sky, lonely, peaceful, loop, abstract, water, reflection, wind, mind, mindfulness, meditation, spiritual, individual, dream",
+     "duration": 40,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 15269,
+     "url": "https://cdn.pixabay.com/video/2018/03/30/15269-262576447_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/30/15269-262576447_small.jpg",
+     "page": "https://pixabay.com/videos/id-15269/",
+     "tags": "lake, water, nature, landscape, water mirror, agua, reflection",
+     "duration": 9,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 15319,
+     "url": "https://cdn.pixabay.com/video/2018/04/01/15319-263616086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/01/15319-263616086_small.jpg",
+     "page": "https://pixabay.com/videos/id-15319/",
+     "tags": "lake, sun, reflection, nature, eventide, water mirror, dam, water",
+     "duration": 15,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 88191,
+     "url": "https://cdn.pixabay.com/video/2021/09/11/88191-602895398_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/11/88191-602895398_small.jpg",
+     "page": "https://pixabay.com/videos/id-88191/",
+     "tags": "mirror, tree, palm, leaves, wind, reflection, branch, invite, restaurant, plate, nature, food",
+     "duration": 51,
+     "query": "mirror reflection"
+    },
+    {
+     "pixabay_id": 4225,
+     "url": "https://cdn.pixabay.com/video/2016/08/05/4225-177819778_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/05/4225-177819778_small.jpg",
+     "page": "https://pixabay.com/videos/id-4225/",
+     "tags": "lake, clouds, summer, nature, sky, water, mirror reflection, pond, lake view, day, reflection in water, forest, blue sky, colorful sky",
+     "duration": 13,
+     "query": "mirror reflection"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "In follow-up studies, wearing the 'fakes' also made people more suspicious of others.",
+   "candidates": [
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "suspicious man"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "suspicious man"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "The researchers' explanation: when you wear something that sends a false signal, part of you feels like a fake.",
+   "candidates": [
+    {
+     "pixabay_id": 22908,
+     "url": "https://cdn.pixabay.com/video/2019/04/20/22908-331768732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/20/22908-331768732_small.jpg",
+     "page": "https://pixabay.com/videos/id-22908/",
+     "tags": "blue, stain, ink, mask, abstract, background, beautiful wallpaper, macro, dark, texture, paint, grunge, watercolor, splatter, motion, live wallpaper",
+     "duration": 11,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 63241,
+     "url": "https://cdn.pixabay.com/video/2021/01/28/63241-505964153_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/28/63241-505964153_small.jpg",
+     "page": "https://pixabay.com/videos/id-63241/",
+     "tags": "woman, mask, healthcare, young, epidemic, virus, pandemic, face, health, protection, medical, quarantine, coronavirus, concept, care, protective, person, sick, happiness, young adult, protect, covid-19",
+     "duration": 21,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 62821,
+     "url": "https://cdn.pixabay.com/video/2021/01/25/62821-505080329_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/25/62821-505080329_small.jpg",
+     "page": "https://pixabay.com/videos/id-62821/",
+     "tags": "woman, mask, portrait, hair, face, theatre, movie, game, wind, overview, people, design, inspiration, concept, horror, halloween, dream, fantastic",
+     "duration": 43,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 148044,
+     "url": "https://cdn.pixabay.com/video/2023/01/26/148044-793525168_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/26/148044-793525168_small.jpg",
+     "page": "https://pixabay.com/videos/id-148044/",
+     "tags": "woman, model, abaya, mask, arabic",
+     "duration": 11,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 62824,
+     "url": "https://cdn.pixabay.com/video/2021/01/25/62824-505080356_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/25/62824-505080356_small.jpg",
+     "page": "https://pixabay.com/videos/id-62824/",
+     "tags": "woman, mask, portrait, hair, face, theatre, movie, game, wind, overview, people, design, inspiration, opinions, concept, horror, halloween, night, dream",
+     "duration": 60,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 148045,
+     "url": "https://cdn.pixabay.com/video/2023/01/26/148045-793525172_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/26/148045-793525172_small.jpg",
+     "page": "https://pixabay.com/videos/id-148045/",
+     "tags": "woman, model, abaya, arabic, mask",
+     "duration": 5,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 74698,
+     "url": "https://cdn.pixabay.com/video/2021/05/21/74698-554220612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/21/74698-554220612_small.jpg",
+     "page": "https://pixabay.com/videos/id-74698/",
+     "tags": "no mask, no entry, mask, corona virus mask, corona virus videos, no mask no entry video",
+     "duration": 9,
+     "query": "mask"
+    },
+    {
+     "pixabay_id": 62822,
+     "url": "https://cdn.pixabay.com/video/2021/01/25/62822-505080350_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/25/62822-505080350_small.jpg",
+     "page": "https://pixabay.com/videos/id-62822/",
+     "tags": "woman, mask, portrait, hair, face, theatre, movie, game, wind, overview, people, design, inspiration, opinions, concept, horror, halloween, night, dream",
+     "duration": 52,
+     "query": "mask"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "And once you feel a bit fake, the next dishonest step feels smaller.",
+   "candidates": [
+    {
+     "pixabay_id": 3611,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3611-172488330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3611-172488330_small.jpg",
+     "page": "https://pixabay.com/videos/id-3611/",
+     "tags": "escalator, stairs, modern, staircase, transport, lift, stairway, elevator, motion",
+     "duration": 10,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 152203,
+     "url": "https://cdn.pixabay.com/video/2023/02/25/152203-802335648_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/25/152203-802335648_small.jpg",
+     "page": "https://pixabay.com/videos/id-152203/",
+     "tags": "man, stairs, walk, shiva, hike, travel, backpacker, nature, india",
+     "duration": 8,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 6398,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6398-191712356_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6398-191712356_small.jpg",
+     "page": "https://pixabay.com/videos/id-6398/",
+     "tags": "subway, stairs, people, crowd, public transport, staircase, city, urban, stairway, modern, station",
+     "duration": 14,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 254,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/254-135872979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/254-135872979_small.jpg",
+     "page": "https://pixabay.com/videos/id-254/",
+     "tags": "stairs, steps, feet, walking, people, legs, up, down, concrete, floor, walk, entry, busy, city",
+     "duration": 45,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 26558,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26558-358041202_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26558-358041202_small.jpg",
+     "page": "https://pixabay.com/videos/id-26558/",
+     "tags": "walking, stairs, church, city",
+     "duration": 10,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 189894,
+     "url": "https://cdn.pixabay.com/video/2023/11/20/189894-886618204_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/20/189894-886618204_small.jpg",
+     "page": "https://pixabay.com/videos/id-189894/",
+     "tags": "woman, stairs, hills, mountains, forest, autumn, nature, landscape",
+     "duration": 10,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 24503,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24503-344562771_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24503-344562771_small.jpg",
+     "page": "https://pixabay.com/videos/id-24503/",
+     "tags": "grey, cat, stairs, animal, mammal, domestic, pet",
+     "duration": 27,
+     "query": "stairs"
+    },
+    {
+     "pixabay_id": 49233,
+     "url": "https://cdn.pixabay.com/video/2020/09/06/49233-459223268_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/06/49233-459223268_small.jpg",
+     "page": "https://pixabay.com/videos/id-49233/",
+     "tags": "cascade, stairs, waterfall, river, water, nature, harmony, clear, clean, rest",
+     "duration": 58,
+     "query": "stairs"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "Pretending to be richer than you are doesn't just risk your wallet. It can quietly change how you see yourself.",
+   "candidates": [
+    {
+     "pixabay_id": 64729,
+     "url": "https://cdn.pixabay.com/video/2021/02/09/64729-510542342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/09/64729-510542342_small.jpg",
+     "page": "https://pixabay.com/videos/id-64729/",
+     "tags": "man, clouds, mirror, lake, sky, lonely, peaceful, loop, abstract, water, reflection, wind, mind, mindfulness, meditation, spiritual, individual, dream",
+     "duration": 40,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 119698,
+     "url": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_small.jpg",
+     "page": "https://pixabay.com/videos/id-119698/",
+     "tags": "boy, talk, conversation, people, mirror, reflection",
+     "duration": 12,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 146516,
+     "url": "https://cdn.pixabay.com/video/2023/01/14/146516-789534060_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/14/146516-789534060_small.jpg",
+     "page": "https://pixabay.com/videos/id-146516/",
+     "tags": "bridge, speed, quick, high, mirror",
+     "duration": 5,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 134312,
+     "url": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_small.jpg",
+     "page": "https://pixabay.com/videos/id-134312/",
+     "tags": "car, mirror, reflection, forest, trees",
+     "duration": 10,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 25028,
+     "url": "https://cdn.pixabay.com/video/2019/07/07/25028-347024110_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/07/25028-347024110_small.jpg",
+     "page": "https://pixabay.com/videos/id-25028/",
+     "tags": "girl, mirror, vanity, makeup, woman, lipstick, young, glamour",
+     "duration": 67,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man mirror"
+    },
+    {
+     "pixabay_id": 7922,
+     "url": "https://cdn.pixabay.com/video/2017/02/23/7922-205529267_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/23/7922-205529267_small.jpg",
+     "page": "https://pixabay.com/videos/id-7922/",
+     "tags": "reflecting on the water, mirror lights, light on water, night, river, running",
+     "duration": 13,
+     "query": "man mirror"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "Try this today: choose things that are honestly yours, even if they're simpler. Feeling genuine is worth more than looking expensive.",
+   "candidates": [
+    {
+     "pixabay_id": 251589,
+     "url": "https://cdn.pixabay.com/video/2025/01/09/251589_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/09/251589_small.jpg",
+     "page": "https://pixabay.com/videos/id-251589/",
+     "tags": "woman, model, fashion, beauty, pose, modeling, nature, smiling, happy",
+     "duration": 56,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 114840,
+     "url": "https://cdn.pixabay.com/video/2022/04/23/114840-702458234_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/23/114840-702458234_small.jpg",
+     "page": "https://pixabay.com/videos/id-114840/",
+     "tags": "girl, mountains, run, happiness, street, nature, woman, hills, summer, young, elegant, walk, smile, beauty",
+     "duration": 10,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 364779,
+     "url": "https://cdn.pixabay.com/video/2026/07/18/364779_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/18/364779_small.jpg",
+     "page": "https://pixabay.com/videos/id-364779/",
+     "tags": "beautiful woman, young woman, woman, female, portrait, female portrait, beauty, attractive, elegance, confidence, smiling, natural beauty, face, close up, headshot, people, adult",
+     "duration": 9,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 364777,
+     "url": "https://cdn.pixabay.com/video/2026/07/18/364777_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/18/364777_small.jpg",
+     "page": "https://pixabay.com/videos/id-364777/",
+     "tags": "beautiful woman, young woman, woman, female, portrait, female portrait, beauty, attractive, elegance, confidence, smiling, natural beauty, face, close up, headshot, people, adult, young adult",
+     "duration": 9,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 252022,
+     "url": "https://cdn.pixabay.com/video/2025/01/11/252022_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/11/252022_small.jpg",
+     "page": "https://pixabay.com/videos/id-252022/",
+     "tags": "woman, happy, smile, happiness, winter, snow, cold, snowy, nature",
+     "duration": 5,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman smiling natural"
+    },
+    {
+     "pixabay_id": 76888,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_small.jpg",
+     "page": "https://pixabay.com/videos/id-76888/",
+     "tags": "man, smiling, farmer, happy, young, culture, senior, woman, girl, happiness, lifestyle, people, portrait",
+     "duration": 13,
+     "query": "woman smiling natural"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "text": "And now, the question that shows how strange our relationship with money really is.",
+   "candidates": [
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172892,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_small.jpg",
+     "page": "https://pixabay.com/videos/id-172892/",
+     "tags": "money, cash, finance, currency, business, office",
+     "duration": 9,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money"
+    }
+   ]
+  }
+ ]
+}
