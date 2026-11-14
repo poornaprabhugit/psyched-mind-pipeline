@@ -1,5 +1,7 @@
 # Upload sheet – all 14 Shorts, week of 16–22 Nov 2026 (2 per day)
 
+_Updated 14 Nov 19:20: titles of B2, N3, N5 changed to the phrasing people search, after the doorway Short took off (see scoreboard)._
+
 **When to upload:** you can upload and schedule all 14 tonight. They all go live after long 02 is public (Sat 14 Nov 18:00). That means every one gets the "Full video" card, and you set Related video = "The Psychology of Looking Rich" on each.
 
 - **B1–B7** were delivered this morning (batch 2026-11-14). If you've already scheduled them, leave them as they are.
@@ -12,7 +14,7 @@
 |---|---|---|
 | Mon 16 Nov | **B1** Lottery winners · wealth | **N1** Walking ideas · health |
 | Tue 17 Nov | **N2** The word "because" · everyday | **B2** Worse holiday · wealth |
-| Wed 18 Nov | **B3** Choice blindness · everyday | **N3** $39 beats $34 · wealth |
+| Wed 18 Nov | **B3** Choice blindness · everyday | **N3** Prices ending in 9 · wealth |
 | Thu 19 Nov | **N4** Free chocolate · wealth | **B4** Free stamps · wealth |
 | Fri 20 Nov | **B5** Sleepless night · health | **N5** Invisible gorilla · everyday |
 | Sat 21 Nov | **N6** Coins vs bills · wealth | **B6** Hear your name · everyday |
@@ -66,7 +68,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 
 ## N3 · Wed 18 Nov 16:00 · angle: wealth · predicted: high
 **File:** `N3 – Wed 18 Nov 16-00 – 39 beats 34.mp4` · **Hook card:** $34 dress vs $39 dress? · **Ending:** loop
-**Title:** Why you'd pay $39 instead of $34 🏷️
+**Title:** Why prices end in 9 – and why it works on you 🏷️
 **Description:**
 ```
 Why would a higher price sell more? In field experiments with a mail-order clothing catalog, the same dress sold more at $39 than at $34 – and $44 didn't beat $39. A price ending in 9 signals "deal", and your brain anchors on the first digit.
@@ -96,7 +98,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 
 ## N5 · Fri 20 Nov 16:00 · angle: everyday · predicted: medium
 **File:** `N5 – Fri 20 Nov 16-00 – Invisible gorilla.mp4` · **Hook card:** Count the passes. Miss the gorilla. · **Ending:** loop
-**Title:** You'd miss a gorilla right in front of you 🦍
+**Title:** Half of people miss this gorilla. Would you? 🦍
 **Description:**
 ```
 Would you notice a gorilla? People counted basketball passes in a short video while someone in a gorilla suit walked through the middle, faced the camera and thumped their chest. Almost half never saw it. It's called inattentional blindness.
@@ -157,7 +159,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 
 ## B2 · Tue 17 Nov 16:00 · angle: wealth · predicted: high
 **File:** `B2 – Tue 17 Nov 16-00 – Worse holiday.mp4` · **Hook card:** $100 trip vs $50 trip? · **Ending:** loop
-**Title:** Why you'd choose the worse holiday 🎿
+**Title:** Why you can't let go of money you already spent 🎿
 **Description:**
 ```
 Why would you pick the holiday you'd enjoy less? In a classic study, more than half of people chose a $100 ski trip over a $50 one they expected to enjoy more – because it cost more. It's the sunk cost effect: the money is gone either way, but your brain hates 'wasting' it.
