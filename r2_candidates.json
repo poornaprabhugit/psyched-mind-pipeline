@@ -1,0 +1,629 @@
+{
+ "id": "r2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "After a conversation, they liked you more than you think.",
+   "candidates": [
+    {
+     "pixabay_id": 137036,
+     "url": "https://cdn.pixabay.com/video/2022/10/29/137036-765458136_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/29/137036-765458136_small.jpg",
+     "page": "https://pixabay.com/videos/id-137036/",
+     "tags": "people, friends, hut, cabin, communication, house, ocean, sea, vancouver, waterfront, city, boat, ship, talking, sunset, sun",
+     "duration": 23,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 131161,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_small.jpg",
+     "page": "https://pixabay.com/videos/id-131161/",
+     "tags": "mobile, cellular, technology, communications, iphone, talk, friends, message, conversation, smartphone",
+     "duration": 24,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 159245,
+     "url": "https://cdn.pixabay.com/video/2023/04/16/159245-818219773_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/16/159245-818219773_small.jpg",
+     "page": "https://pixabay.com/videos/id-159245/",
+     "tags": "friends, talk, conversations, sunset",
+     "duration": 24,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 159243,
+     "url": "https://cdn.pixabay.com/video/2023/04/16/159243-818219768_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/16/159243-818219768_small.jpg",
+     "page": "https://pixabay.com/videos/id-159243/",
+     "tags": "hug, friends, talk, nature, people, landscape",
+     "duration": 13,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 10030,
+     "url": "https://cdn.pixabay.com/video/2017/06/17/10030-222013928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/17/10030-222013928_small.jpg",
+     "page": "https://pixabay.com/videos/id-10030/",
+     "tags": "mall, people, friends, trade, people talking",
+     "duration": 8,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 1112,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_small.jpg",
+     "page": "https://pixabay.com/videos/id-1112/",
+     "tags": "talk, discussion, meeting, team, group, conference, discuss, people, chairs, sitting, chatting, talking, debating, argument, men",
+     "duration": 7,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "friends talking"
+    },
+    {
+     "pixabay_id": 202135,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_small.jpg",
+     "page": "https://pixabay.com/videos/id-202135/",
+     "tags": "boss, employee, talking, angry, argument",
+     "duration": 19,
+     "query": "friends talking"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers had strangers chat,",
+   "candidates": [
+    {
+     "pixabay_id": 6409,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_small.jpg",
+     "page": "https://pixabay.com/videos/id-6409/",
+     "tags": "restaurant, couple, bokeh, blur, background, talking, relaxed, cafe, bar, meeting, people, relaxation, beautiful wallpaper, lifestyle, cafeteria",
+     "duration": 20,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 1623,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_small.jpg",
+     "page": "https://pixabay.com/videos/id-1623/",
+     "tags": "cafe, restaurant, talking, talk, people, sitting, chatting, menu, coffee, dinner, table, bar, drink, interior, cafe interior, restaurant interior",
+     "duration": 19,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 119698,
+     "url": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_small.jpg",
+     "page": "https://pixabay.com/videos/id-119698/",
+     "tags": "boy, talk, conversation, people, mirror, reflection",
+     "duration": 12,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 10878,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_small.jpg",
+     "page": "https://pixabay.com/videos/id-10878/",
+     "tags": "discussion, restaurant, people, talk, communication, lunch, dinner, together",
+     "duration": 20,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 119787,
+     "url": "https://cdn.pixabay.com/video/2022/06/09/119787-718927503_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/09/119787-718927503_small.jpg",
+     "page": "https://pixabay.com/videos/id-119787/",
+     "tags": "path, summer, daylight, nature, landscape, grass, trees, field, water, plants, afternoon, sunset, peaceful, beautiful, cyclist, cycling, bicycle, transport, people talking, cute, couple, relaxing smooth, cycling girl, girl",
+     "duration": 7,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "people talking"
+    },
+    {
+     "pixabay_id": 28976,
+     "url": "https://cdn.pixabay.com/video/2019/11/12/28976-372617947_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/12/28976-372617947_small.jpg",
+     "page": "https://pixabay.com/videos/id-28976/",
+     "tags": "public, people, party, stage, microphone, sing, talk, human, speakers, music, audience, song",
+     "duration": 10,
+     "query": "people talking"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "then asked: how much do you like them,",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79392,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_small.jpg",
+     "page": "https://pixabay.com/videos/id-79392/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79386,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79386-569653278_small.jpg",
+     "page": "https://pixabay.com/videos/id-79386/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 60,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79395,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_small.jpg",
+     "page": "https://pixabay.com/videos/id-79395/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 51,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79393,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_small.jpg",
+     "page": "https://pixabay.com/videos/id-79393/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 12,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79387,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_small.jpg",
+     "page": "https://pixabay.com/videos/id-79387/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 59,
+     "query": "woman thinking"
+    },
+    {
+     "pixabay_id": 79390,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79390-569653292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79390-569653292_small.jpg",
+     "page": "https://pixabay.com/videos/id-79390/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 12,
+     "query": "woman thinking"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "and how much do they like you?",
+   "candidates": [
+    {
+     "pixabay_id": 7826,
+     "url": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_small.jpg",
+     "page": "https://pixabay.com/videos/id-7826/",
+     "tags": "woman, girl, shooting, photography, paint, color, creative, cinemagraphs",
+     "duration": 9,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 58142,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_small.jpg",
+     "page": "https://pixabay.com/videos/id-58142/",
+     "tags": "woman, flowers, plants, field, garden, nature, gardening, petals, floral, flora, blossom, blooming, fresh, spring, park, outdoors",
+     "duration": 13,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 275498,
+     "url": "https://cdn.pixabay.com/video/2025/04/29/275498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/29/275498_small.jpg",
+     "page": "https://pixabay.com/videos/id-275498/",
+     "tags": "woman, young, skater, skate, skateboard, sport, skateboarding, style, street, lifestyle, urban, extreme, skateboarder, board",
+     "duration": 13,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "woman doubt"
+    },
+    {
+     "pixabay_id": 169589,
+     "url": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_small.jpg",
+     "page": "https://pixabay.com/videos/id-169589/",
+     "tags": "woman, pregnant, pregnant woman, baby",
+     "duration": 20,
+     "query": "woman doubt"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Almost everyone underestimated how much they were liked.",
+   "candidates": [
+    {
+     "pixabay_id": 116937,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116937-716960396_small.jpg",
+     "page": "https://pixabay.com/videos/id-116937/",
+     "tags": "fun, people, young, party, friends, group, friendship, lifestyle, students, celebration, happy, having, birthday, alcohol, college, diverse, man, woman, home, together, beer, leisure, laughing, vietnam, khmer",
+     "duration": 19,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 363873,
+     "url": "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/13/363873_small.jpg",
+     "page": "https://pixabay.com/videos/id-363873/",
+     "tags": "motivation, motivational, inspiration, friends",
+     "duration": 6,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 202134,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_small.jpg",
+     "page": "https://pixabay.com/videos/id-202134/",
+     "tags": "people, laptop, team, friend, sitting, grass",
+     "duration": 17,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 32938,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_small.jpg",
+     "page": "https://pixabay.com/videos/id-32938/",
+     "tags": "dance, celebrate, fun, celebration, happy, dancing, girl, festive, colorful, laughing, young, people, person",
+     "duration": 34,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 218795,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218795_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218795_small.jpg",
+     "page": "https://pixabay.com/videos/id-218795/",
+     "tags": "kids running, fun, happy, nature, laughing, smiling, ecuador",
+     "duration": 23,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, pet, water, animal, friend, nature",
+     "duration": 10,
+     "query": "friends laughing"
+    },
+    {
+     "pixabay_id": 77626,
+     "url": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_small.jpg",
+     "page": "https://pixabay.com/videos/id-77626/",
+     "tags": "dog, puppy, pet, field, friend, playing, animal, freedom, playful, nature, outdoors",
+     "duration": 8,
+     "query": "friends laughing"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "While you replay your awkward pauses,",
+   "candidates": [
+    {
+     "pixabay_id": 233390,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233390_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233390_small.jpg",
+     "page": "https://pixabay.com/videos/id-233390/",
+     "tags": "woman, female, room, phone, candle, pose, modeling, bed, tired, relax, resting, night",
+     "duration": 13,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 10339,
+     "url": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/28/10339-865412856_small.jpg",
+     "page": "https://pixabay.com/videos/id-10339/",
+     "tags": "milky way, heaven, starry sky, night, stars, evening sky, space, night sky",
+     "duration": 13,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 7093,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7093-198553482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7093-198553482_small.jpg",
+     "page": "https://pixabay.com/videos/id-7093/",
+     "tags": "moon, moonlight, night, full moon, heaven, darkness, night shot, mystical, gespentisch, ghostly, clouds, gruesome, horror mood, grim, dark, cloud passage, cloud pre-accession train, night sky",
+     "duration": 30,
+     "query": "woman bed night"
+    },
+    {
+     "pixabay_id": 202877,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202877-919288692_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202877-919288692_small.jpg",
+     "page": "https://pixabay.com/videos/id-202877/",
+     "tags": "mount fuji, snow, clouds, night",
+     "duration": 12,
+     "query": "woman bed night"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "they're just enjoying the chat.",
+   "candidates": [
+    {
+     "pixabay_id": 377601,
+     "url": "https://cdn.pixabay.com/video/2026/09/19/377601_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/19/377601_small.jpg",
+     "page": "https://pixabay.com/videos/id-377601/",
+     "tags": "women, vietnam, feminism, friends, nature, computer, business, office, laptop, work, working, writing, man, study, technology, desk, typing, coffee, meeting",
+     "duration": 20,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 46989,
+     "url": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_small.jpg",
+     "page": "https://pixabay.com/videos/id-46989/",
+     "tags": "coffee, hot drink, coffee pot, enjoyment, drink, coffee enjoyment, caffeine, motivation, coffee break, espresso, machine, coffee machine",
+     "duration": 35,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 209424,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209424_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209424_small.jpg",
+     "page": "https://pixabay.com/videos/id-209424/",
+     "tags": "coffee, cappuccino, caffeine, coffee funnel, processing, brew",
+     "duration": 36,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 233024,
+     "url": "https://cdn.pixabay.com/video/2024/09/24/233024_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/24/233024_small.jpg",
+     "page": "https://pixabay.com/videos/id-233024/",
+     "tags": "pie, fruit pie, dessert, coffee, cup",
+     "duration": 12,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 180,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_small.jpg",
+     "page": "https://pixabay.com/videos/id-180/",
+     "tags": "conversation, talk, dialogue, coffee, colleagues, discussion, discuss",
+     "duration": 6,
+     "query": "coffee friends"
+    },
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "coffee friends"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "So stop replaying it, because",
+   "candidates": [
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 76888,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_small.jpg",
+     "page": "https://pixabay.com/videos/id-76888/",
+     "tags": "man, smiling, farmer, happy, young, culture, senior, woman, girl, happiness, lifestyle, people, portrait",
+     "duration": 13,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 76889,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_small.jpg",
+     "page": "https://pixabay.com/videos/id-76889/",
+     "tags": "family, smile, sweet, love, young, children, happiness, smiling, mom, woman, cheerful, lifestyle, parents, joy, father, people, happy, portrait, mothers day, mother's day, mum",
+     "duration": 28,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 6096,
+     "url": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_small.jpg",
+     "page": "https://pixabay.com/videos/id-6096/",
+     "tags": "park, old people, people, old, senior, elderly, happy, woman, retired, smiling, man, together, outdoors, grandmother, happy old people, looking, aged, lifestyle, pensioner, grandpa",
+     "duration": 29,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 41820,
+     "url": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_small.jpg",
+     "page": "https://pixabay.com/videos/id-41820/",
+     "tags": "diversity, meeting, communication, people, against racism, black, connection, ethnicities, friends, fun, group, happy, human, mixed race, multiracial, person, race racism, sharing, smiling, together, woman, young, summer",
+     "duration": 17,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 83859,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_small.jpg",
+     "page": "https://pixabay.com/videos/id-83859/",
+     "tags": "woman, smile, joyful, happy, model, park, tourist, lifestyle",
+     "duration": 10,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 40289,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40289-425429031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40289-425429031_small.jpg",
+     "page": "https://pixabay.com/videos/id-40289/",
+     "tags": "pool, infinity pool, relax, woman, turquoise, vacations, happy, smiling, luxury holiday, swim, the pool area, asia, thailand, fun, fun activity, joy, summer time, dream life, beautiful view",
+     "duration": 39,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "woman smiling"
+    }
+   ]
+  }
+ ]
+}

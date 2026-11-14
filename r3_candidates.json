@@ -1,0 +1,629 @@
+{
+ "id": "r3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Fewer than a quarter of people noticed your embarrassing moment.",
+   "candidates": [
+    {
+     "pixabay_id": 163640,
+     "url": "https://cdn.pixabay.com/video/2023/05/18/163640-828210290_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/18/163640-828210290_small.jpg",
+     "page": "https://pixabay.com/videos/id-163640/",
+     "tags": "paving stones, lay stones, work, craft, embarrassed, installation work, seat, stones",
+     "duration": 25,
+     "query": "embarrassed"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man embarrassed"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man embarrassed"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "You'd guess half.",
+   "candidates": [
+    {
+     "pixabay_id": 1630,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1630-148614385_small.jpg",
+     "page": "https://pixabay.com/videos/id-1630/",
+     "tags": "concert, light effects, cheering, audience, light beams, people, crowd, happy, party, festival, music, dance, performance, stage, band, group, cheering crowd, event, entertainment, young, happiness, cheerful, fun, festival crowd, crowd of people, rock, concert crowd, live, excitement, rock concert, celebration, applauding, popular, light, concert stage, music festival, sound",
+     "duration": 15,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 36510,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_small.jpg",
+     "page": "https://pixabay.com/videos/id-36510/",
+     "tags": "airport, people, crowd, busy, live wallpaper, welcome, hello",
+     "duration": 11,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 53902,
+     "url": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_small.jpg",
+     "page": "https://pixabay.com/videos/id-53902/",
+     "tags": "traffic, city traffic, drone, transportation, crowd, driving, megalopolis, city, street, urban, car, sun, evening, sunset, schaffhausen, switzerland, live wallpaper",
+     "duration": 5,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 1643,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_small.jpg",
+     "page": "https://pixabay.com/videos/id-1643/",
+     "tags": "india, people, asia, street, asian, person, shiva, culture, city, town, road, busy, crowd, alley, urban, men, women, market",
+     "duration": 14,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 3630,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_small.jpg",
+     "page": "https://pixabay.com/videos/id-3630/",
+     "tags": "crosswalk, crowd, people, many, crowded, city, street, pedestrians, urban, busy, walking, rush hour",
+     "duration": 15,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 41315,
+     "url": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_small.jpg",
+     "page": "https://pixabay.com/videos/id-41315/",
+     "tags": "singapore, people, street, crowd, city, night",
+     "duration": 11,
+     "query": "crowd"
+    },
+    {
+     "pixabay_id": 127690,
+     "url": "https://cdn.pixabay.com/video/2022/08/12/127690-739144743_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/12/127690-739144743_small.jpg",
+     "page": "https://pixabay.com/videos/id-127690/",
+     "tags": "road, street, crowd, people, urban, city",
+     "duration": 18,
+     "query": "crowd"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Researchers had students walk into a room in an embarrassing T-shirt.",
+   "candidates": [
+    {
+     "pixabay_id": 215475,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215475_small.jpg",
+     "page": "https://pixabay.com/videos/id-215475/",
+     "tags": "students, class, classroom, education, school, study, knowledge, learn",
+     "duration": 10,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 215471,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215471_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215471_small.jpg",
+     "page": "https://pixabay.com/videos/id-215471/",
+     "tags": "students, classroom, education, school, learning, children, books",
+     "duration": 9,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 215470,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215470_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215470_small.jpg",
+     "page": "https://pixabay.com/videos/id-215470/",
+     "tags": "teacher, students, classroom, teach, school, study, education, knowledge",
+     "duration": 11,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 36888,
+     "url": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_small.jpg",
+     "page": "https://pixabay.com/videos/id-36888/",
+     "tags": "hand writing, school, training, write, hand, education, knowledge, classroom, learn, student, teaching, study, handwriting, mediation, pen",
+     "duration": 13,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 33632,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_small.jpg",
+     "page": "https://pixabay.com/videos/id-33632/",
+     "tags": "class room, class, classroom, seminar, training, room, learning, school, meeting, education, teacher, coaching, introduction, teaching, students",
+     "duration": 15,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 114945,
+     "url": "https://cdn.pixabay.com/video/2022/04/24/114945-702640230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/24/114945-702640230_small.jpg",
+     "page": "https://pixabay.com/videos/id-114945/",
+     "tags": "male, person, friends, people, girl, group, together, school, boy, students, happy, young, student, education, class, sitting, fun, student group, outdoors, students in classroom, outdoor, cheerful, asian, studying",
+     "duration": 11,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 106705,
+     "url": "https://cdn.pixabay.com/video/2022/02/04/106705-673786412_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/04/106705-673786412_small.jpg",
+     "page": "https://pixabay.com/videos/id-106705/",
+     "tags": "school, kids, the teacher, lesson, class, desks, textbooks, students, girls, boys, woman, education, elementary school, children, teacher, classroom, pupils",
+     "duration": 21,
+     "query": "students classroom"
+    },
+    {
+     "pixabay_id": 132048,
+     "url": "https://cdn.pixabay.com/video/2022/09/21/132048-752333809_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/21/132048-752333809_small.jpg",
+     "page": "https://pixabay.com/videos/id-132048/",
+     "tags": "lesson, class, education, classroom, kindergarten, learning, listening, color, colour, attentive, sitting, elementary, teacher, group, smiling, childhood, boy, paying, adult, student, library, occupation, child, happy, cheerful",
+     "duration": 15,
+     "query": "students classroom"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "They guessed half the room noticed.",
+   "candidates": [
+    {
+     "pixabay_id": 46501,
+     "url": "https://cdn.pixabay.com/video/2020/08/05/46501-447448282_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/05/46501-447448282_small.jpg",
+     "page": "https://pixabay.com/videos/id-46501/",
+     "tags": "vietnam, education, child, school, learning, student, high, asia, young, happy, university, girl, female, chinese, smile, school building, architecture, knowledge, hand, elementary, classroom, teen, teenager, person",
+     "duration": 20,
+     "query": "classroom"
+    },
+    {
+     "pixabay_id": 230084,
+     "url": "https://cdn.pixabay.com/video/2024/09/06/230084_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/06/230084_small.jpg",
+     "page": "https://pixabay.com/videos/id-230084/",
+     "tags": "classroom, students, education",
+     "duration": 12,
+     "query": "classroom"
+    },
+    {
+     "pixabay_id": 355580,
+     "url": "https://cdn.pixabay.com/video/2026/05/30/355580_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/05/30/355580_small.jpg",
+     "page": "https://pixabay.com/videos/id-355580/",
+     "tags": "rohingya, student, girl, exam, refugee, camp, studying, test, classroom, concentration, learning, education, bangladesh, cox's bazar, future",
+     "duration": 8,
+     "query": "classroom"
+    },
+    {
+     "pixabay_id": 15149,
+     "url": "https://cdn.pixabay.com/video/2018/03/22/15149-261402920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/22/15149-261402920_small.jpg",
+     "page": "https://pixabay.com/videos/id-15149/",
+     "tags": "easter holidays, vacation, easter, board, chalk, training, school, classroom",
+     "duration": 10,
+     "query": "classroom"
+    },
+    {
+     "pixabay_id": 296169,
+     "url": "https://cdn.pixabay.com/video/2025/08/08/296169_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/08/296169_small.jpg",
+     "page": "https://pixabay.com/videos/id-296169/",
+     "tags": "student, education, school",
+     "duration": 7,
+     "query": "students"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "students"
+    },
+    {
+     "pixabay_id": 140807,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_small.jpg",
+     "page": "https://pixabay.com/videos/id-140807/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 11,
+     "query": "students"
+    },
+    {
+     "pixabay_id": 131990,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_small.jpg",
+     "page": "https://pixabay.com/videos/id-131990/",
+     "tags": "student, to write, to study, work, task, issue, question, study",
+     "duration": 24,
+     "query": "students"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "In reality, fewer than a quarter did.",
+   "candidates": [
+    {
+     "pixabay_id": 73531,
+     "url": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_small.jpg",
+     "page": "https://pixabay.com/videos/id-73531/",
+     "tags": "man, corridor, coffee, phone, break, business, work, team, people, office, employees, marketing, environment, conversation, mobile, communication",
+     "duration": 60,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 7269,
+     "url": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_small.jpg",
+     "page": "https://pixabay.com/videos/id-7269/",
+     "tags": "office, secretary, business, work, woman, businesswoman, people, job, professional, person, worker, desk, corporate, young, workplace, computer, female, manager, employee, girl, phone, technology, modern, busy, success, adult, occupation, reception, caucasian, boss, assistant, sitting",
+     "duration": 16,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 26774,
+     "url": "https://cdn.pixabay.com/video/2019/09/11/26774-361091997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/11/26774-361091997_small.jpg",
+     "page": "https://pixabay.com/videos/id-26774/",
+     "tags": "livestreaming, instagram, facebook, twitter, communication, internet, smartphone, media, blog, social, web, information, live stream, iphone, broadcast, broadcasting, youtube, people, network, www, dice",
+     "duration": 18,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 3135,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3135-166335908_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3135-166335908_small.jpg",
+     "page": "https://pixabay.com/videos/id-3135/",
+     "tags": "smartphone, businessman, mobile, people, phone, technology, person, communication, business, internet, man, app, business phone, person on phone, cell, man on phone, texting, message, using, professional, on the phone, telephone, mobile phone, mobile app",
+     "duration": 24,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 128906,
+     "url": "https://cdn.pixabay.com/video/2022/08/23/128906-742901851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/23/128906-742901851_small.jpg",
+     "page": "https://pixabay.com/videos/id-128906/",
+     "tags": "woman, model, water fountain, phone, texting, people, to sit, summer",
+     "duration": 11,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 57315,
+     "url": "https://cdn.pixabay.com/video/2020/11/25/57315-484331186_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/25/57315-484331186_small.jpg",
+     "page": "https://pixabay.com/videos/id-57315/",
+     "tags": "woman, phone, talk, walk, contact, travel, music, landscape, marine, beach, ocean, wave, sunset, solar, sunny, dialogue, discussion, people, network, message, link, social, share, conversation",
+     "duration": 22,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 26022,
+     "url": "https://cdn.pixabay.com/video/2019/08/13/26022-353764215_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/13/26022-353764215_small.jpg",
+     "page": "https://pixabay.com/videos/id-26022/",
+     "tags": "kid, night, girl, terrace, green, shopping center, tower, busy, phone, people, city, communication, hulki okan tabak",
+     "duration": 9,
+     "query": "people phones"
+    },
+    {
+     "pixabay_id": 159459,
+     "url": "https://cdn.pixabay.com/video/2023/04/17/159459-818908453_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/17/159459-818908453_small.jpg",
+     "page": "https://pixabay.com/videos/id-159459/",
+     "tags": "society, city, people, smartphone, technology, digital, addiction, communication, street, urban",
+     "duration": 11,
+     "query": "people phones"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "You're the main character in your head,",
+   "candidates": [
+    {
+     "pixabay_id": 1275,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1275-145116912_small.jpg",
+     "page": "https://pixabay.com/videos/id-1275/",
+     "tags": "rotting christ, rock, concert, band, heavy metal, rock concert, music, entertainment, performance, stage, people, crowd, audience, club, light, stage lights, sound, live, party, event, fun, night, nightlife, 130680504",
+     "duration": 18,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 147800,
+     "url": "https://cdn.pixabay.com/video/2023/01/24/147800-792421768_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/24/147800-792421768_small.jpg",
+     "page": "https://pixabay.com/videos/id-147800/",
+     "tags": "trumphet, music, band, concert, performance, stage",
+     "duration": 12,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 136710,
+     "url": "https://cdn.pixabay.com/video/2022/10/27/136710-764955431_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/27/136710-764955431_small.jpg",
+     "page": "https://pixabay.com/videos/id-136710/",
+     "tags": "drums, drummer, music, performance, concert, stage, band, instrument",
+     "duration": 12,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 11720,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11720-231759062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11720-231759062_small.jpg",
+     "page": "https://pixabay.com/videos/id-11720/",
+     "tags": "pop, music, concert, stage, band, life, sound, light effects, jazz",
+     "duration": 11,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 26726,
+     "url": "https://cdn.pixabay.com/video/2019/09/09/26726-359604118_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/09/26726-359604118_small.jpg",
+     "page": "https://pixabay.com/videos/id-26726/",
+     "tags": "party, music, dance, club, celebrate, lights, lighting, spotlight, sound, celebration, woman, musician, old woman, elderly, elderly woman, live music, instrument, adult",
+     "duration": 30,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 136708,
+     "url": "https://cdn.pixabay.com/video/2022/10/27/136708-764955416_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/27/136708-764955416_small.jpg",
+     "page": "https://pixabay.com/videos/id-136708/",
+     "tags": "guitar, guitarist, music, instrument, concert, stage, acoustic, performance, party",
+     "duration": 12,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 136709,
+     "url": "https://cdn.pixabay.com/video/2022/10/27/136709-764955424_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/27/136709-764955424_small.jpg",
+     "page": "https://pixabay.com/videos/id-136709/",
+     "tags": "guitar, guitarist, music, acoustic, instrument, concert, party, stage, performance",
+     "duration": 10,
+     "query": "spotlight stage"
+    },
+    {
+     "pixabay_id": 381951,
+     "url": "https://cdn.pixabay.com/video/2026/10/10/381951_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/10/381951_small.jpg",
+     "page": "https://pixabay.com/videos/id-381951/",
+     "tags": "coast, stage, architecture, stand, platform, vintage, beach, victorian, exotic, pagoda, beautiful, meditation",
+     "duration": 48,
+     "query": "spotlight stage"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "not in theirs.",
+   "candidates": [
+    {
+     "pixabay_id": 3614,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3614-172488336_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3614-172488336_small.jpg",
+     "page": "https://pixabay.com/videos/id-3614/",
+     "tags": "crowd, people, many, city, town, downtown, walking, pedestrians, consumers",
+     "duration": 15,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 999,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/999-142621149_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/999-142621149_small.jpg",
+     "page": "https://pixabay.com/videos/id-999/",
+     "tags": "city, people, walking, shopping, urban, business, person, walking people, lifestyle, women, blurred, town, motion, crowd, men, building, modern, blur, bokeh",
+     "duration": 14,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 42696,
+     "url": "https://cdn.pixabay.com/video/2020/06/20/42696-432087106_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/20/42696-432087106_small.jpg",
+     "page": "https://pixabay.com/videos/id-42696/",
+     "tags": "alley, people, the park, human, walking, tourists, turning, nature, city, trees, crowd, urban, faces",
+     "duration": 9,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 1694,
+     "url": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_small.jpg",
+     "page": "https://pixabay.com/videos/id-1694/",
+     "tags": "street, walking, crowd, people, urban, city, blurred, walking people, women, motion, life, travel, traffic, downtown, pedestrian, unrecognizable, urban city, bokeh, business, group, busy, blur, urban street, men, crowded, town, person, day, city street, rush, road, walk, scene, sidewalk, outdoors, lifestyle",
+     "duration": 20,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 6407,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6407-191716687_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6407-191716687_small.jpg",
+     "page": "https://pixabay.com/videos/id-6407/",
+     "tags": "people, bokeh, blur, background, walking, mall, beautiful wallpaper, shopping center, crowd, many, men, women",
+     "duration": 14,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 1023,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_small.jpg",
+     "page": "https://pixabay.com/videos/id-1023/",
+     "tags": "pedestrians, road, city, cars, traffic, crowd, town, urban, street, people, walking, sidewalk, lifestyle",
+     "duration": 16,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 33569,
+     "url": "https://cdn.pixabay.com/video/2020/03/12/33569-397143928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/12/33569-397143928_small.jpg",
+     "page": "https://pixabay.com/videos/id-33569/",
+     "tags": "street, people, city, urban, walking, sidewalk, crowd, fashion, portrait, youth, man, buildings, busy",
+     "duration": 36,
+     "query": "crowd walking"
+    },
+    {
+     "pixabay_id": 201,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/201-135847376_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/201-135847376_small.jpg",
+     "page": "https://pixabay.com/videos/id-201/",
+     "tags": "people, crow, blur, bokeh, out of focus, men, women, walking, station, crowd, pedestrians, public transport, city, busy, many",
+     "duration": 38,
+     "query": "crowd walking"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "So next time you cringe, remember:",
+   "candidates": [
+    {
+     "pixabay_id": 445,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_small.jpg",
+     "page": "https://pixabay.com/videos/id-445/",
+     "tags": "yoga, health, exercise, woman, mountain, stretching, outdoor, girl, fitness, sport, female, lifestyle, healthy, body, person, concentration",
+     "duration": 14,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 38909,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_small.jpg",
+     "page": "https://pixabay.com/videos/id-38909/",
+     "tags": "woman, sunset, nature, sunrise, wind, hair",
+     "duration": 29,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 91,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_small.jpg",
+     "page": "https://pixabay.com/videos/id-91/",
+     "tags": "photographer, beach, photography, camera, woman, girl, people, coast, sea, ocean, vacation, holidays, tourism, tourist, view, photo, picture, viewpoint, female",
+     "duration": 15,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 134537,
+     "url": "https://cdn.pixabay.com/video/2022/10/12/134537-759714607_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/12/134537-759714607_small.jpg",
+     "page": "https://pixabay.com/videos/id-134537/",
+     "tags": "woman, bikini, beach",
+     "duration": 14,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 240659,
+     "url": "https://cdn.pixabay.com/video/2024/11/10/240659_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/10/240659_small.jpg",
+     "page": "https://pixabay.com/videos/id-240659/",
+     "tags": "woman, exploration, nature, outdoors",
+     "duration": 14,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 272619,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272619_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272619_small.jpg",
+     "page": "https://pixabay.com/videos/id-272619/",
+     "tags": "woman, sad, depression, sadness, loneliness",
+     "duration": 14,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 73404,
+     "url": "https://cdn.pixabay.com/video/2021/05/07/73404-548671139_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/07/73404-548671139_small.jpg",
+     "page": "https://pixabay.com/videos/id-73404/",
+     "tags": "woman, tree, flowers, petals, sunrays, sunset",
+     "duration": 33,
+     "query": "woman cringe"
+    },
+    {
+     "pixabay_id": 270065,
+     "url": "https://cdn.pixabay.com/video/2025/04/06/270065_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/06/270065_small.jpg",
+     "page": "https://pixabay.com/videos/id-270065/",
+     "tags": "makeup, cosmetics, woman",
+     "duration": 14,
+     "query": "woman cringe"
+    }
+   ]
+  }
+ ]
+}
