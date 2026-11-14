@@ -46,10 +46,11 @@ Studio: ~81% swiped away; avg 11 s of 27 s; the study + punchline landed at 13�
 | wealth & success | card-users (13 Nov 16:00) | 49 |
 | everyday | IKEA 51 · mere exposure 34 · favor 15 · pratfall 11 · peak-end 1 · fresh start 4 | median ~13 |
 | health & mind | can't-sleep (14 Nov) | pending |
+Batch 2026-11-14-c adds: wealth ×4 (n03 price endings, n04 zero price, n06 denomination, n07 income-happiness), health ×1 (n01 walking), everyday ×2 (n02 because, n05 gorilla).
 Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progress, s07 buying time), health ×1 (s05 sleep), everyday ×2 (s03 choice blindness, s06 cocktail party).
 
-## Slot tracker (12:00 vs 16:00 Amsterdam, from 16 Nov)
-12:00: s01 Mon, s03 Wed, s05 Fri, s07 Sun · 16:00: s02 Tue, s04 Thu, s06 Sat. Compare day-1 views once ≥4 per slot are live (wealth split 2/2 across slots so angle and slot aren't confounded).
+## Slot tracker (12:00 vs 16:00 Amsterdam, from 16 Nov) – 2/day from 16 Nov (user, 14 Nov 15:00)
+12:00: s01 Mon, n02 Tue, s03 Wed, n04 Thu, s05 Fri, n06 Sat, s07 Sun · 16:00: n01 Mon, s02 Tue, n03 Wed, s04 Thu, n05 Fri, s06 Sat, n07 Sun. Wealth 4 per slot. Compare day-1 views once ≥4 per slot are live (wealth split 2/2 across slots so angle and slot aren't confounded).
 
 ## Decided 14 Nov (user): long 02 released first
 - Long 01's final file was lost (built in an earlier session, not in the repo). Long 02 goes live **Sat 14 Nov 18:00** instead; it is the Related video for the remakes and B1–B7.
