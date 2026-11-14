@@ -24,3 +24,6 @@
 - 2026-11-14: drawtext treats `%` as an expansion char – hook cards need `expansion=none` (fixed). Pixabay clips can start with a single black frame or a near-black second (r1) – check frames at 0.0/0.6 s and run blackdetect with d=0.01.
 - 2026-11-14: Cutting long-video pauses to 0.45 s removed 76 s (11:00 → 9:43, below the 10-min target); 0.65 s removed 47 s (→ 10:12). Write long scripts at ~1,800 words if pauses get cut.
 - 2026-11-14: Long video 01's final file is not in the repo (its v2 render was cancelled; the uploaded file was joined in an earlier session) – keep final long videos' segment lists in the repo so they can be re-edited.
+- 2026-11-14: Long 02's outro named "why your brain is bad with money" (long 01), which was then not released → user trims the last ~8 s in Studio (cut from 10:04.5). Outros may only name videos that are already public; otherwise point to "the next video on screen" and use an end screen ("1 video, 1 subscribe", Best for viewer).
+- 2026-11-14: Test & compare shows "Ineligible – not public" while a video is scheduled; it can only start once the video is public.
+- 2026-11-14: Description hashtags: 3–5, strongest first (first 3 show above the title; >15 = all ignored). Tags field: ~10–15 plain relevant phrases, no "#".
