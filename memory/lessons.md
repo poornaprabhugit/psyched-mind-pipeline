@@ -20,3 +20,7 @@
 - 2026-11-14: Pixabay's API is weak on specific objects (handbag, lottery ticket, earrings → wheat 'ears', stamps, MRI, red sneakers). Write queries for what can be filmed generically (money, shop, hands, faces) and plan lines around visuals that exist; run one targeted gap search per batch.
 - 2026-11-14: Studio advice on a 27 s Short: 81% swiped, avg 11 s, payoff at 13–22 s → put the result in the first 4–5 s.
 - 2026-11-14: Long-video pipeline is now in the render workflow: `"long": {"id", "segments"}` in render.json → collect job joins segments (scripts/join_long.py, −14 LUFS, chapters file); title cards are burned per segment (`title_card`); contact sheets are 16:9 for `"aspect": "16:9"` videos.
+- 2026-11-14: The `tighten` step (render.py) did not visibly run on the runner for v2 (pauses still ~0.8 s); it was applied in the session instead. Check the render step log next batch before relying on it.
+- 2026-11-14: drawtext treats `%` as an expansion char – hook cards need `expansion=none` (fixed). Pixabay clips can start with a single black frame or a near-black second (r1) – check frames at 0.0/0.6 s and run blackdetect with d=0.01.
+- 2026-11-14: Cutting long-video pauses to 0.45 s removed 76 s (11:00 → 9:43, below the 10-min target); 0.65 s removed 47 s (→ 10:12). Write long scripts at ~1,800 words if pauses get cut.
+- 2026-11-14: Long video 01's final file is not in the repo (its v2 render was cancelled; the uploaded file was joined in an earlier session) – keep final long videos' segment lists in the repo so they can be re-edited.

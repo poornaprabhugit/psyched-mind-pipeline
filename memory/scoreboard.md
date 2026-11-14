@@ -12,7 +12,7 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 
 ## Testing (open experiments)
 - **Hook card vs none** — since 2026-11-12. No public Short has a hook card yet (week 1 rendered locally without it; fresh-start test had no hook_text). Baseline = week-1 Shorts; first hook-card Shorts = week 2 (from 14 Nov). Compare "stayed to watch" %. 2026-11-13: first hook-card Short is live (peak-end, 6z_Euar4Wrg, loop ending, 22:00 slot) → 1 view in ~11 h vs favor trick (no card) 15 views in first 7 h. Far too early; also confounded by slot (22:00 vs 12:00) and day-1 feed test may not have started. 2026-11-14: card-users Short (hook card, 16:00) 49 views in 16.5 h ≈ best no-card day-1s (IKEA ~51, mere exposure 34); pratfall (card, 22:00) 11 in 10.5 h; peak-end (card, 22:00) still 1 view after 34 h → anomaly, not a card effect (user asked to check Studio restrictions). Card is not hurting; no evidence yet it helps.
-- **Ending: comment question vs loop line vs "use it" line** — since 2026-11-10. Question: mere exposure (34 views, 1 like), IKEA (63 views, 0 likes). "Use it": fresh start (4 views, 0 likes). Loop line: peak-end (live 12 Nov 22:00, 1 view), card Short (13 Nov 16:00). Note peak-end also has hook card → ending and card are confounded on it.
+- ~~Ending: comment question vs loop line vs "use it" line~~ — closed 14 Nov: loops are default (see decision above). History: Question: mere exposure (34 views, 1 like), IKEA (63 views, 0 likes). "Use it": fresh start (4 views, 0 likes). Loop line: peak-end (live 12 Nov 22:00, 1 view), card Short (13 Nov 16:00). Note peak-end also has hook card → ending and card are confounded on it.
 - **Shorts test-audience stall** — since 2026-11-12. Pattern so far: a Short gets its test burst on day 1 (34–51 views) then nearly stops (+0 and +12 the next day). Per playbook §2 that means the test audience swiped too often for wider push → hook is the lever. Confirm with Studio "stayed to watch" (not available via API).
 - **Search-friendly titles + SEO descriptions** — since 13 Nov 2026 (user idea). Plain phrases people type ("Can't sleep?", "why you forget why you walked into a room") vs week-1 clever titles. Measure YouTube search share in traffic sources per Short. Note: this updates playbook §5 "not the study name" — effect name now goes in description line 2.
 - **Short vs long video** — first long video (money, 7:17) planned Sun 15 Nov 18:00, Test & compare with 3 thumbnails. Track subs by content type.
@@ -32,6 +32,13 @@ Studio: ~81% swiped away; avg 11 s of 27 s; the study + punchline landed at 13�
 2. **Contrast hook cards** where the study has numbers ("$100 trip vs $50 trip?", "8 stamps vs 10 with 2 free", "$40 on stuff vs $40 on time").
 3. **No wind-down:** cut trailing silence so loop endings roll straight into line 1.
 4. Visual CTA card in the last 2.5 s ("Full video: tap the link below") for the Related-video bridge (playbook §5); voice ending stays on the high point.
+
+## Decided 14 Nov, later (user, after Studio channel review)
+- **Full loop endings are the default** for every Short (question / "use it" endings dropped: 0 comments on 185 views, and Studio says questions signal "video over"). Ending A/B test closed.
+- **First clip must literally match the hook line** (user: no "striking but off-topic" openers). If Pixabay has no video: simpler filmable query → matching Pixabay photo with slow zoom (to build) → rewrite the hook around a filmable scene.
+- **Before/after test:** doorway, liking gap and spotlight were remade in the new style (result first, no names/years, loop, pauses cut) and replace the old scheduled files; can't-sleep (public 14 Nov 11:00) is the "before" reference. Compare stayed-to-watch and avg % viewed.
+- "Full video" card only on Shorts that go live after a long video is public.
+- Pauses between sentences cut to ~0.35 s (Shorts) / ~0.65 s (long) after render.
 
 ## Angle tracker (day-1 views; compare once ≥3 per angle are ≥24 h old)
 | Angle | Shorts | Day-1 views |

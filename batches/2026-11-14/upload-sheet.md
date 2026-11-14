@@ -2,12 +2,28 @@
 
 7 Shorts, one per day, **alternating 12:00 and 16:00 Amsterdam** (slot test) + long video 02 on **Sun 22 Nov 18:00**.
 
-## First: replace 3 already-scheduled Shorts (user decision 14 Nov, Studio advice)
-Same titles, descriptions, slots and settings as in `batches/2026-11-13-extra/upload-sheet.md`; only the video file changes (delete the scheduled upload, upload the new file with the same details).
-- **Doorway** (today 16:00): `r1 – Doorway remake (14 Nov).mp4` · hook card "Doorways erase your plans"
-- **Liking gap** (15 Nov): `r2 – Liking gap remake (15 Nov).mp4` · hook card "They liked you more than you think"
-- **Spotlight** (15 Nov): `r3 – Spotlight remake (15 Nov).mp4` · hook card "Half noticed? Try a quarter."
-Changes vs the old files: result in the first 3 s, no researcher names/years, full loop ending, pauses cut. Can't-sleep (already public 11:00) stays as the 'before' version.
+## Files (in upload order)
+- **A1–A3** = remakes that REPLACE 3 already-scheduled Shorts (delete the scheduled upload, upload the new file with the same title/description/settings). No 'Full video' card on these, because long video 01 isn't public yet when they go live.
+- **B1–B7** = this week's Shorts, one per day. Set Related video = "Why Your Brain Is Bad With Money" (long 01) on each – the card in their last 2 s points to that link.
+- **C1** = long video 02 + **C2–C4** = its 3 thumbnails for Test & compare.
+
+## A · Remakes (replace the scheduled uploads)
+Changes vs the old files: result in the first 3 s, no researcher names/years, full loop ending, pauses cut. Can't-sleep (public since 11:00 today) stays as the 'before' version to compare against.
+
+**A1 · Doorway · Sat 14 Nov 16:00** · hook card "Doorways erase your plans"
+Title: Why you forget why you walked into a room 🚪 · Description: as already scheduled (Radvansky, Krawietz & Tamplin 2011). Pinned comment: What did you last forget after walking into a room?
+
+**A2 · Liking gap · Sun 15 Nov (your scheduled slot)** · hook card "They liked you more than you think"
+Title: People like you more than you think 🧠 · Description: as already scheduled (Boothby et al. 2018). Pinned comment: Who do you need to stop overthinking about?
+
+**A3 · Spotlight · Sun 15 Nov (your scheduled slot)** · hook card "Half noticed? Try a quarter."
+Title: Everyone noticed your mistake? Science says no 😳 · Description: as already scheduled (Gilovich, Medvec & Savitsky 2000). Pinned comment: What moment do you still cringe about? One word.
+
+Tip: if A2 and A3 are both on Sun 15 Nov, put one at 12:00 and one at 16:00 (slot test), not 22:00.
+
+---
+
+## B · This week's Shorts
 
 **Same settings for every Short:** Playlist "Psychology that moves you" · Category Education · Not made for kids · Altered/synthetic content: **No** (real stock footage + standard AI narrator, no realistic AI people) · Remixing on · Thumbnail frame ~0:01 (hook card visible).
 **Related video (all 7):** "Why Your Brain Is Bad With Money" (long 01, live Sun 15 Nov). The last 2.5 s of every Short shows "Full video: tap the link below".
@@ -16,7 +32,7 @@ Changes vs the old files: result in the first 3 s, no researcher names/years, fu
 ---
 
 ## s01 · Mon 16 Nov 12:00 · angle: wealth · predicted: medium
-**File:** `s01.mp4` · **Hook card:** Won millions. Not happier. · **Ending:** loop
+**File:** `B1 – Mon 16 Nov 12-00 – Lottery winners.mp4` · **Hook card:** Won millions. Not happier. · **Ending:** loop
 **Title:** Why winning millions wouldn't make you happier 💰
 **Description:**
 ```
@@ -30,7 +46,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s02 · Tue 17 Nov 16:00 · angle: wealth · predicted: high
-**File:** `s02.mp4` · **Hook card:** $100 trip vs $50 trip? · **Ending:** loop
+**File:** `B2 – Tue 17 Nov 16-00 – Worse holiday.mp4` · **Hook card:** $100 trip vs $50 trip? · **Ending:** loop
 **Title:** Why you'd choose the worse holiday 🎿
 **Description:**
 ```
@@ -44,7 +60,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s03 · Wed 18 Nov 12:00 · angle: everyday · predicted: medium
-**File:** `s03.mp4` · **Hook card:** You picked A. They gave you B. · **Ending:** loop
+**File:** `B3 – Wed 18 Nov 12-00 – Choice blindness.mp4` · **Hook card:** You picked A. They gave you B. · **Ending:** loop
 **Title:** You'd defend a choice you never made 🤯
 **Description:**
 ```
@@ -58,7 +74,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 ---
 
 ## s04 · Thu 19 Nov 16:00 · angle: wealth · predicted: medium
-**File:** `s04.mp4` · **Hook card:** 8 stamps vs 10 with 2 free · **Ending:** loop
+**File:** `B4 – Thu 19 Nov 16-00 – Free stamps.mp4` · **Hook card:** 8 stamps vs 10 with 2 free · **Ending:** loop
 **Title:** Why your coffee card comes with free stamps ☕
 **Description:**
 ```
@@ -72,7 +88,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s05 · Fri 20 Nov 12:00 · angle: health · predicted: medium
-**File:** `s05.mp4` · **Hook card:** No sleep = 60% more reactive · **Ending:** loop
+**File:** `B5 – Fri 20 Nov 12-00 – Sleepless night.mp4` · **Hook card:** No sleep = 60% more reactive · **Ending:** loop
 **Title:** Why you snap after a bad night's sleep 😴
 **Description:**
 ```
@@ -86,7 +102,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 ---
 
 ## s06 · Sat 21 Nov 16:00 · angle: everyday · predicted: medium
-**File:** `s06.mp4` · **Hook card:** You're listening without knowing it · **Ending:** loop
+**File:** `B6 – Sat 21 Nov 16-00 – Hear your name.mp4` · **Hook card:** You're listening without knowing it · **Ending:** loop
 **Title:** Why you hear your name in a noisy room 👂
 **Description:**
 ```
@@ -100,7 +116,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 ---
 
 ## s07 · Sun 22 Nov 12:00 · angle: wealth · predicted: high
-**File:** `s07.mp4` · **Hook card:** $40 on stuff vs $40 on time · **Ending:** loop
+**File:** `B7 – Sun 22 Nov 12-00 – Spend 40 dollars.mp4` · **Hook card:** $40 on stuff vs $40 on time · **Ending:** loop
 **Title:** The happiest way to spend $40 isn't on stuff 💸
 **Description:**
 ```
@@ -113,23 +129,30 @@ Science-backed psychology · Sources in description · Not financial advice.
 
 ---
 
-# Long video 02 – The Psychology of Looking Rich (7 Real Studies)
+## C · Long video 02 – The Psychology of Looking Rich (7 Real Studies)
 
-**File:** `long02.mp4` (1920×1080, −14 LUFS) · **Upload from desktop Studio** (needed for Test & compare) · **Schedule: Sun 22 Nov 18:00 Amsterdam** · **Predicted:** medium (trend-aligned 'quiet luxury / looking rich' topic; channel still tiny).
+**File:** `C1 – Sun 22 Nov 18-00 – LONG – The Psychology of Looking Rich.mp4` (10:12, 1920×1080, −14 LUFS) · **Upload from desktop Studio** (needed for Test & compare) · **Schedule: Sun 22 Nov 18:00 Amsterdam** · **Predicted:** medium (trend-aligned 'quiet luxury / looking rich' topic; channel still tiny).
 
 **Title:** The Psychology of Looking Rich (7 Real Studies)
 Title alternatives (for a later re-package): "Why Rich People Hide Their Logos (7 Studies)" · "Why Expensive Things Feel Better (7 Studies)"
 
 **Thumbnails – Test & compare (upload all 3):**
-- A `thumb_A_quiet_rich.jpg` – "QUIET = RICH"
-- B `thumb_B_wine.jpg` – "$5 OR $45?"
-- C `thumb_C_fake.jpg` – "FAKE = CHEAT?"
+- C2 – "QUIET = RICH" (watch close-up)
+- C3 – "$5 OR $45?" (man tasting wine)
+- C4 – "FAKE = CHEAT?" (fashion group in sunglasses)
 
 **Description:**
 ```
 The psychology of looking rich: why the most expensive bags have the smallest logos, why a price tag changes how wine tastes in your brain, and why half of people would take less money just to be richer than everyone around them. 7 real studies on status, luxury and money psychology – and one thing to try from each today.
 
-CHAPTERS_PLACEHOLDER
+00:00 Why looking rich follows hidden rules
+00:40 1 · The price tag you can taste
+02:04 2 · Why rare feels rich
+03:19 3 · The logo effect
+04:30 4 · Why old money whispers
+05:51 5 · The red sneakers effect
+07:16 6 · The counterfeit self
+08:40 7 · Would you take less money to be richer?
 
 Studies:
 1. Plassmann, O'Doherty, Shiv & Rangel (2008), PNAS – https://doi.org/10.1073/pnas.0706929105
