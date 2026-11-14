@@ -5,42 +5,42 @@ Ideas → titles → scripts (playbook §4–6). Shorts follow the 14 Nov hook-f
 ## s01 · wealth · Mon 16 Nov 12:00 · predicted medium
 **Title:** Why winning millions wouldn't make you happier 💰  
 **Hook card:** Won millions. Not happier.  
-**Ending:** use-it  
+**Ending:** loop  
 **Source:** Brickman, Coates & Janoff-Bulman (1978), Journal of Personality and Social Psychology – https://doi.org/10.1037/0022-3514.36.8.917
 
-Lottery winners weren't happier than people who won nothing. Scientists interviewed them. Worse: everyday pleasures, a chat with a friend, a good breakfast, felt smaller to them. Your brain gets used to anything, even millions. So the small joys you already have? They're worth more than you think.
+Lottery winners weren't happier than people who won nothing. Scientists interviewed them. Worse: everyday pleasures, a chat with a friend, a good breakfast, felt smaller to them. Your brain gets used to anything, even millions. So next time you dream of millions, remember:
 
 ## s02 · wealth · Tue 17 Nov 16:00 · predicted high
 **Title:** Why you'd choose the worse holiday 🎿  
 **Hook card:** $100 trip vs $50 trip?  
-**Ending:** use-it question  
+**Ending:** loop  
 **Source:** Arkes & Blumer (1985), Organizational Behavior and Human Decision Processes – https://doi.org/10.1016/0749-5978(85)90049-4
 
-More than half of people picked the worse holiday, because it cost more. Two ski trips, same weekend: a hundred dollars, or fifty. The fifty-dollar one is more fun. They still chose the expensive one. The money's gone either way, but your brain hates wasting it. So ask: if both were free, which would I pick?
+More than half of people picked the worse holiday, because it cost more. Two ski trips, same weekend: a hundred dollars, or fifty. The fifty-dollar one is more fun. They still chose the expensive one. The money's gone either way, but your brain hates wasting it. That's why
 
 ## s03 · everyday · Wed 18 Nov 12:00 · predicted medium
 **Title:** You'd defend a choice you never made 🤯  
 **Hook card:** You picked A. They gave you B.  
-**Ending:** question  
+**Ending:** loop  
 **Source:** Johansson, Hall, Sikström & Olsson (2005), Science – https://doi.org/10.1126/science.1111709
 
-You'd defend a choice you never made. Scientists secretly swapped the face people had picked as more attractive. Most didn't notice. They even explained why they chose it. One man praised her earrings. The face he'd actually chosen had none. Your brain invents reasons after you decide. So how sure are you about your last choice?
+You'd defend a choice you never made. Scientists secretly swapped the face people had picked as more attractive. Most didn't notice. They even explained why they chose it. One man praised her earrings. The face he'd actually chosen had none. Your brain invents reasons after you decide. Which means, right now,
 
 ## s04 · wealth · Thu 19 Nov 16:00 · predicted medium
 **Title:** Why your coffee card comes with free stamps ☕  
 **Hook card:** 8 stamps vs 10 with 2 free  
-**Ending:** use-it  
+**Ending:** loop  
 **Source:** Nunes & Drèze (2006), Journal of Consumer Research – https://doi.org/10.1086/500480
 
-Two free stamps almost doubled how many people finished their loyalty card. Researchers tested it at a car wash. One card: eight stamps needed. The other: ten, with two already stamped. Same eight washes. Your brain hates leaving things half-done. Businesses use it. You can too: give your next goal a head start.
+Two free stamps almost doubled how many people finished their loyalty card. Researchers tested it at a car wash. One card: eight stamps needed. The other: ten, with two already stamped. Same eight washes. Your brain hates leaving things half-done. Businesses know it. That's why
 
 ## s05 · health · Fri 20 Nov 12:00 · predicted medium
 **Title:** Why you snap after a bad night's sleep 😴  
 **Hook card:** No sleep = 60% more reactive  
-**Ending:** use-it  
+**Ending:** loop  
 **Source:** Yoo, Gujar, Hu, Jolesz & Walker (2007), Current Biology – https://doi.org/10.1016/j.cub.2007.08.007
 
-One sleepless night, and your brain's alarm centre reacts sixty percent more. Scientists kept people awake a night and a day, then showed them upsetting pictures in a brain scanner. Compared with people who'd slept, the part that calms it down was less connected. So that argument after a bad night? Sleep on it first.
+One sleepless night, and your brain's alarm centre reacts sixty percent more. Scientists kept people awake a night and a day, then showed them upsetting pictures in a brain scanner. Compared with people who'd slept, the part that calms it down was less connected. So before that argument after a bad night, remember:
 
 ## s06 · everyday · Sat 21 Nov 16:00 · predicted medium
 **Title:** Why you hear your name in a noisy room 👂  
@@ -53,10 +53,10 @@ You hear your name even in conversations you're ignoring. Scientists played a di
 ## s07 · wealth · Sun 22 Nov 12:00 · predicted high
 **Title:** The happiest way to spend $40 isn't on stuff 💸  
 **Hook card:** $40 on stuff vs $40 on time  
-**Ending:** high-point line  
+**Ending:** loop  
 **Source:** Whillans, Dunn, Smeets, Bekkers & Norton (2017), PNAS – https://doi.org/10.1073/pnas.1706541114
 
-Spending forty dollars on time made people happier than spending it on stuff. Researchers gave working adults forty dollars, twice. Once for something material. Once to buy time: a cleaner, a delivery, a ride. Yet hardly anyone spends extra money that way. Rich isn't more stuff. It's more time.
+Spending forty dollars on time made people happier than spending it on stuff. Researchers gave working adults forty dollars, twice. Once for something material. Once to buy time: a cleaner, a delivery, a ride. Yet hardly anyone spends extra money that way. Rich isn't more stuff. It's more time. That's why
 
 # Long video 02 – The Psychology of Looking Rich (7 Real Studies)
 

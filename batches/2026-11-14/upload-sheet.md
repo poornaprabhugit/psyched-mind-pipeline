@@ -2,6 +2,13 @@
 
 7 Shorts, one per day, **alternating 12:00 and 16:00 Amsterdam** (slot test) + long video 02 on **Sun 22 Nov 18:00**.
 
+## First: replace 3 already-scheduled Shorts (user decision 14 Nov, Studio advice)
+Same titles, descriptions, slots and settings as in `batches/2026-11-13-extra/upload-sheet.md`; only the video file changes (delete the scheduled upload, upload the new file with the same details).
+- **Doorway** (today 16:00): `r1 – Doorway remake (14 Nov).mp4` · hook card "Doorways erase your plans"
+- **Liking gap** (15 Nov): `r2 – Liking gap remake (15 Nov).mp4` · hook card "They liked you more than you think"
+- **Spotlight** (15 Nov): `r3 – Spotlight remake (15 Nov).mp4` · hook card "Half noticed? Try a quarter."
+Changes vs the old files: result in the first 3 s, no researcher names/years, full loop ending, pauses cut. Can't-sleep (already public 11:00) stays as the 'before' version.
+
 **Same settings for every Short:** Playlist "Psychology that moves you" · Category Education · Not made for kids · Altered/synthetic content: **No** (real stock footage + standard AI narrator, no realistic AI people) · Remixing on · Thumbnail frame ~0:01 (hook card visible).
 **Related video (all 7):** "Why Your Brain Is Bad With Money" (long 01, live Sun 15 Nov). The last 2.5 s of every Short shows "Full video: tap the link below".
 **Experiment this week:** add a **Poll sticker** to s03 ("Would you notice the swap? Yes / No") – the only Short with a sticker (playbook §5).
@@ -9,7 +16,7 @@
 ---
 
 ## s01 · Mon 16 Nov 12:00 · angle: wealth · predicted: medium
-**File:** `s01.mp4` · **Hook card:** Won millions. Not happier. · **Ending:** use-it
+**File:** `s01.mp4` · **Hook card:** Won millions. Not happier. · **Ending:** loop
 **Title:** Why winning millions wouldn't make you happier 💰
 **Description:**
 ```
@@ -23,7 +30,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s02 · Tue 17 Nov 16:00 · angle: wealth · predicted: high
-**File:** `s02.mp4` · **Hook card:** $100 trip vs $50 trip? · **Ending:** use-it question
+**File:** `s02.mp4` · **Hook card:** $100 trip vs $50 trip? · **Ending:** loop
 **Title:** Why you'd choose the worse holiday 🎿
 **Description:**
 ```
@@ -37,7 +44,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s03 · Wed 18 Nov 12:00 · angle: everyday · predicted: medium
-**File:** `s03.mp4` · **Hook card:** You picked A. They gave you B. · **Ending:** question
+**File:** `s03.mp4` · **Hook card:** You picked A. They gave you B. · **Ending:** loop
 **Title:** You'd defend a choice you never made 🤯
 **Description:**
 ```
@@ -51,7 +58,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 ---
 
 ## s04 · Thu 19 Nov 16:00 · angle: wealth · predicted: medium
-**File:** `s04.mp4` · **Hook card:** 8 stamps vs 10 with 2 free · **Ending:** use-it
+**File:** `s04.mp4` · **Hook card:** 8 stamps vs 10 with 2 free · **Ending:** loop
 **Title:** Why your coffee card comes with free stamps ☕
 **Description:**
 ```
@@ -65,7 +72,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 ---
 
 ## s05 · Fri 20 Nov 12:00 · angle: health · predicted: medium
-**File:** `s05.mp4` · **Hook card:** No sleep = 60% more reactive · **Ending:** use-it
+**File:** `s05.mp4` · **Hook card:** No sleep = 60% more reactive · **Ending:** loop
 **Title:** Why you snap after a bad night's sleep 😴
 **Description:**
 ```
@@ -93,7 +100,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 ---
 
 ## s07 · Sun 22 Nov 12:00 · angle: wealth · predicted: high
-**File:** `s07.mp4` · **Hook card:** $40 on stuff vs $40 on time · **Ending:** high-point line
+**File:** `s07.mp4` · **Hook card:** $40 on stuff vs $40 on time · **Ending:** loop
 **Title:** The happiest way to spend $40 isn't on stuff 💸
 **Description:**
 ```

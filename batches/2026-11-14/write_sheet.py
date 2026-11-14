@@ -13,6 +13,12 @@ D = {
 FILES = {k: f"{k} – {v['title'].split(' ')[0]}" for k, v in SHORTS.items()}
 o = ["# Upload sheet – week of 16–22 Nov 2026 (batch 2026-11-14)", "",
 "7 Shorts, one per day, **alternating 12:00 and 16:00 Amsterdam** (slot test) + long video 02 on **Sun 22 Nov 18:00**.", "",
+"## First: replace 3 already-scheduled Shorts (user decision 14 Nov, Studio advice)",
+"Same titles, descriptions, slots and settings as in `batches/2026-11-13-extra/upload-sheet.md`; only the video file changes (delete the scheduled upload, upload the new file with the same details).",
+"- **Doorway** (today 16:00): `r1 – Doorway remake (14 Nov).mp4` · hook card \"Doorways erase your plans\"",
+"- **Liking gap** (15 Nov): `r2 – Liking gap remake (15 Nov).mp4` · hook card \"They liked you more than you think\"",
+"- **Spotlight** (15 Nov): `r3 – Spotlight remake (15 Nov).mp4` · hook card \"Half noticed? Try a quarter.\"",
+"Changes vs the old files: result in the first 3 s, no researcher names/years, full loop ending, pauses cut. Can't-sleep (already public 11:00) stays as the 'before' version.", "",
 "**Same settings for every Short:** Playlist \"Psychology that moves you\" · Category Education · Not made for kids · Altered/synthetic content: **No** (real stock footage + standard AI narrator, no realistic AI people) · Remixing on · Thumbnail frame ~0:01 (hook card visible).",
 "**Related video (all 7):** \"Why Your Brain Is Bad With Money\" (long 01, live Sun 15 Nov). The last 2.5 s of every Short shows \"Full video: tap the link below\".",
 "**Experiment this week:** add a **Poll sticker** to s03 (\"Would you notice the swap? Yes / No\") – the only Short with a sticker (playbook §5).", "", "---", ""]
