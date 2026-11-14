@@ -1,0 +1,239 @@
+{
+ "id": "s03b",
+ "lines": [
+  {
+   "n": 1,
+   "text": "photos",
+   "candidates": [
+    {
+     "pixabay_id": 23334,
+     "url": "https://cdn.pixabay.com/video/2019/05/05/23334-334689196_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/05/23334-334689196_small.jpg",
+     "page": "https://pixabay.com/videos/id-23334/",
+     "tags": "drone, nature, landscape, air, photo, water, sea, ocean, live wallpaper, aerial, beach",
+     "duration": 15,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 91,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_small.jpg",
+     "page": "https://pixabay.com/videos/id-91/",
+     "tags": "photographer, beach, photography, camera, woman, girl, people, coast, sea, ocean, vacation, holidays, tourism, tourist, view, photo, picture, viewpoint, female",
+     "duration": 15,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 27197,
+     "url": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/24/27197-362173819_small.jpg",
+     "page": "https://pixabay.com/videos/id-27197/",
+     "tags": "clouds, drone, aerial, landscape, photo, sunrise, sunset, nature, summer, field, farm, water, morning, evening, golden, crops, car, road, storm, stormy, calm, cloudy, mountains, hills",
+     "duration": 6,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 146944,
+     "url": "https://cdn.pixabay.com/video/2023/01/17/146944-790648611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/17/146944-790648611_small.jpg",
+     "page": "https://pixabay.com/videos/id-146944/",
+     "tags": "city, movie, photo",
+     "duration": 34,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 251587,
+     "url": "https://cdn.pixabay.com/video/2025/01/09/251587_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/09/251587_small.jpg",
+     "page": "https://pixabay.com/videos/id-251587/",
+     "tags": "woman, camera, photographer, photography, lens, photo, technology, professional, digital",
+     "duration": 8,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 245,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_small.jpg",
+     "page": "https://pixabay.com/videos/id-245/",
+     "tags": "photography, camera, outdoors, vintage, photographer, photos, photo shooting, pictures, taking photos, taking pictures, images",
+     "duration": 179,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 3451,
+     "url": "https://cdn.pixabay.com/video/2016/06/11/3451-170348491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/11/3451-170348491_small.jpg",
+     "page": "https://pixabay.com/videos/id-3451/",
+     "tags": "camera, retro, old, taking photos, flea market, photo camera",
+     "duration": 74,
+     "query": "polaroid photos"
+    },
+    {
+     "pixabay_id": 19163,
+     "url": "https://cdn.pixabay.com/video/2018/11/06/19163-299997217_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/06/19163-299997217_small.jpg",
+     "page": "https://pixabay.com/videos/id-19163/",
+     "tags": "drone, drones, camera, photo, quadrocopter, beach, sea",
+     "duration": 35,
+     "query": "polaroid photos"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "earrings",
+   "candidates": [
+    {
+     "pixabay_id": 3723,
+     "url": "https://cdn.pixabay.com/video/2016/07/06/3723-173719869_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/06/3723-173719869_small.jpg",
+     "page": "https://pixabay.com/videos/id-3723/",
+     "tags": "reindeer, christmas, moose, fun, to dance, wiggle, ears, figure, plush, cute, funny, christmas time, stuffed animal",
+     "duration": 45,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 102918,
+     "url": "https://cdn.pixabay.com/video/2021/12/30/102918-661305070_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/30/102918-661305070_small.jpg",
+     "page": "https://pixabay.com/videos/id-102918/",
+     "tags": "lynx, predator, ears, brush ears, dangerous, carnivores, hunter, wildlife, zoo, zoo hague",
+     "duration": 18,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 132776,
+     "url": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/27/132776-754859374_small.jpg",
+     "page": "https://pixabay.com/videos/id-132776/",
+     "tags": "barley, grain, ear, cereal ear, barley ear",
+     "duration": 40,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 2700,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2700-161671343_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2700-161671343_small.jpg",
+     "page": "https://pixabay.com/videos/id-2700/",
+     "tags": "corn, summer, field, ears of corn, ear, bohemia, cornfield, gold, countryside, nature",
+     "duration": 13,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 2717,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_small.jpg",
+     "page": "https://pixabay.com/videos/id-2717/",
+     "tags": "squirrel, head, grey squirrel, eating, feeding, bird feeder, wildlife, fur, nature, wild, brown, gray, grey, paws, rodent, ears, eyes, legs, mouth, seeds, sunflower, tree, cute, outdoors",
+     "duration": 25,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 169020,
+     "url": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/27/169020-840229949_small.jpg",
+     "page": "https://pixabay.com/videos/id-169020/",
+     "tags": "rye, grain, ear, sunset, food, agriculture, cultivation, nature",
+     "duration": 18,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 81204,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81204-575216196_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81204-575216196_small.jpg",
+     "page": "https://pixabay.com/videos/id-81204/",
+     "tags": "hare, rabbit, bunny, ears, animal, cute, fur, grass",
+     "duration": 19,
+     "query": "earring"
+    },
+    {
+     "pixabay_id": 170871,
+     "url": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/10/170871-844432931_small.jpg",
+     "page": "https://pixabay.com/videos/id-170871/",
+     "tags": "rye, grain, ear, food, agriculture, cultivation, nature",
+     "duration": 20,
+     "query": "earring"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "swap",
+   "candidates": [
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 960,
+     "url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_small.jpg",
+     "page": "https://pixabay.com/videos/id-960/",
+     "tags": "painting, drawing, colors, design, brush, artist painting, artistic, decoration, watercolor, creative, summer, hand drawing, picture, hearts, love, romantic, 104695749",
+     "duration": 21,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 38079,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_small.jpg",
+     "page": "https://pixabay.com/videos/id-38079/",
+     "tags": "hands, hand cream, cream, health, skin, care",
+     "duration": 10,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 51807,
+     "url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_small.jpg",
+     "page": "https://pixabay.com/videos/id-51807/",
+     "tags": "hand washing, washing, hand, hygiene, soap, bathroom",
+     "duration": 51,
+     "query": "hands swap"
+    },
+    {
+     "pixabay_id": 19600,
+     "url": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_small.jpg",
+     "page": "https://pixabay.com/videos/id-19600/",
+     "tags": "chess, chess board, strategy, play, board game, chess pieces, think, challenge, game board, chess game, king, springer, tower, runners, leadership, decisions, people, hands",
+     "duration": 6,
+     "query": "hands swap"
+    }
+   ]
+  }
+ ]
+}

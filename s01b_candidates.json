@@ -1,0 +1,317 @@
+{
+ "id": "s01b",
+ "lines": [
+  {
+   "n": 1,
+   "text": "lottery",
+   "candidates": [
+    {
+     "pixabay_id": 200081,
+     "url": "https://cdn.pixabay.com/video/2024/02/10/200081-911902219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/10/200081-911902219_small.jpg",
+     "page": "https://pixabay.com/videos/id-200081/",
+     "tags": "deer, wild, scratch, antlers, fur, forest",
+     "duration": 11,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 285881,
+     "url": "https://cdn.pixabay.com/video/2025/06/14/285881_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/14/285881_small.jpg",
+     "page": "https://pixabay.com/videos/id-285881/",
+     "tags": "itch, scratch, tree, nature, animal, forest, grass, bushes, scrub",
+     "duration": 7,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 135086,
+     "url": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_small.jpg",
+     "page": "https://pixabay.com/videos/id-135086/",
+     "tags": "rodent, box, nibble, wood, scratch, wild, zoo",
+     "duration": 14,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 204415,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204415-924209348_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204415-924209348_small.jpg",
+     "page": "https://pixabay.com/videos/id-204415/",
+     "tags": "wisent, fur, itch, scratch, horns, eyes, forest, nature",
+     "duration": 9,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 111283,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111283-690770686_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111283-690770686_small.jpg",
+     "page": "https://pixabay.com/videos/id-111283/",
+     "tags": "chick, young, chicken, family, easter, rearing, enclosure, brood, scratch",
+     "duration": 13,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 7382,
+     "url": "https://cdn.pixabay.com/video/2017/01/16/7382-200092347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/16/7382-200092347_small.jpg",
+     "page": "https://pixabay.com/videos/id-7382/",
+     "tags": "dj, scratch, scratching, hang up, turntable, mixer, analog, music, rap, mix, plate, vinyl, sound studio, sound, technology, disco, recording, dj music",
+     "duration": 20,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 127503,
+     "url": "https://cdn.pixabay.com/video/2022/08/11/127503-738829481_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/11/127503-738829481_small.jpg",
+     "page": "https://pixabay.com/videos/id-127503/",
+     "tags": "thistle, scratch thistle, plant, field plant, wild plant, blossom, bloom, umbrella flyer, seeds, summer, nature, slow motion",
+     "duration": 30,
+     "query": "scratch card"
+    },
+    {
+     "pixabay_id": 6594,
+     "url": "https://cdn.pixabay.com/video/2016/11/29/6594-193729503_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/29/6594-193729503_small.jpg",
+     "page": "https://pixabay.com/videos/id-6594/",
+     "tags": "car washer, ice cream, scratch, disk scraper, cold, winter, frost, glove",
+     "duration": 19,
+     "query": "scratch card"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "winning money",
+   "candidates": [
+    {
+     "pixabay_id": 78,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/78-135733055_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/78-135733055_small.jpg",
+     "page": "https://pixabay.com/videos/id-78/",
+     "tags": "rain, thunder, water, lightning, thunderstorm, wet, falling, water drops, dropping, splashing, weather, bad weather, heavy rain, rainfall, fall of rain, dripping, autumn, night, darkness, dark, gloomy",
+     "duration": 36,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 42420,
+     "url": "https://cdn.pixabay.com/video/2020/06/17/42420-431511648_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/17/42420-431511648_small.jpg",
+     "page": "https://pixabay.com/videos/id-42420/",
+     "tags": "nature, rain, plant, water, garden, live wallpaper",
+     "duration": 26,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 11722,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_small.jpg",
+     "page": "https://pixabay.com/videos/id-11722/",
+     "tags": "rain, water, window, wet, drops, dripping, rainy, night, light, sad",
+     "duration": 33,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 28236,
+     "url": "https://cdn.pixabay.com/video/2019/10/24/28236-368501609_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/24/28236-368501609_small.jpg",
+     "page": "https://pixabay.com/videos/id-28236/",
+     "tags": "rain, beautiful wallpaper, raindrop, wet, water, window, drop, weather, droplets, blue, rainy, dark, raining, background, live wallpaper",
+     "duration": 15,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 17013,
+     "url": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/07/02/17013-278400948_small.jpg",
+     "page": "https://pixabay.com/videos/id-17013/",
+     "tags": "rain, water, wet, drops, drip, raindrop, raindrops, droplets, puddle, reflections, live wallpaper",
+     "duration": 37,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 26369,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26369-357512454_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26369-357512454_small.jpg",
+     "page": "https://pixabay.com/videos/id-26369/",
+     "tags": "rain, heavy rain, country rain, downpour, cloudburst, raindrop, rainy season, rain shower",
+     "duration": 10,
+     "query": "money rain"
+    },
+    {
+     "pixabay_id": 181916,
+     "url": "https://cdn.pixabay.com/video/2023/09/23/181916-867576005_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/23/181916-867576005_small.jpg",
+     "page": "https://pixabay.com/videos/id-181916/",
+     "tags": "raindrop, rain, water, lake, rainy weather, drops, wet, raindrops jump, slow motion, nature",
+     "duration": 45,
+     "query": "money rain"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "bored rich",
+   "candidates": [
+    {
+     "pixabay_id": 44637,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_small.jpg",
+     "page": "https://pixabay.com/videos/id-44637/",
+     "tags": "stress, woman, face, depression, trouble, sadness, will be bored, quarantine, hair, portrait, coronavirus, sad, expression, young, adult, anxiety, people, worried, concern, migraine, girl, despair, person, emotion, loneliness",
+     "duration": 29,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 129543,
+     "url": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_small.jpg",
+     "page": "https://pixabay.com/videos/id-129543/",
+     "tags": "cat, pet, house, home, sofa, cute, adorable, animal",
+     "duration": 15,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 47139,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_small.jpg",
+     "page": "https://pixabay.com/videos/id-47139/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress",
+     "duration": 18,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 44638,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_small.jpg",
+     "page": "https://pixabay.com/videos/id-44638/",
+     "tags": "coronavirus, quarantine, mask, woman, girl, portrait, will be bored, depression, health, virus, infection, epidemic, flu, beautiful, isolation, disease, hospital, nurse, help, clinical, protection, stress",
+     "duration": 11,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 44641,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_small.jpg",
+     "page": "https://pixabay.com/videos/id-44641/",
+     "tags": "woman, coronavirus, mask, quarantine, will be bored, depression, stress, home, virus, health, epidemic, infection, protection, covid, flu, disease, portrait, beautiful, isolation, girl, covid-19, hygiene, model, pose",
+     "duration": 16,
+     "query": "man bored sofa"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man bored sofa"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "interview",
+   "candidates": [
+    {
+     "pixabay_id": 27465,
+     "url": "https://cdn.pixabay.com/video/2019/10/02/27465-363961181_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/02/27465-363961181_small.jpg",
+     "page": "https://pixabay.com/videos/id-27465/",
+     "tags": "radio, microphone, audio, registration, studio, equipment, sound, his, meter",
+     "duration": 11,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 122737,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122737-726192556_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122737-726192556_small.jpg",
+     "page": "https://pixabay.com/videos/id-122737/",
+     "tags": "sound recording, microphone, studio recording, mastering, sound recording studio",
+     "duration": 6,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 28976,
+     "url": "https://cdn.pixabay.com/video/2019/11/12/28976-372617947_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/12/28976-372617947_small.jpg",
+     "page": "https://pixabay.com/videos/id-28976/",
+     "tags": "public, people, party, stage, microphone, sing, talk, human, speakers, music, audience, song",
+     "duration": 10,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 121113,
+     "url": "https://cdn.pixabay.com/video/2022/06/20/121113-724685797_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/20/121113-724685797_small.jpg",
+     "page": "https://pixabay.com/videos/id-121113/",
+     "tags": "sound recording, microphone, studio recording, music studio, audio mixing",
+     "duration": 9,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 121114,
+     "url": "https://cdn.pixabay.com/video/2022/06/20/121114-724685801_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/20/121114-724685801_small.jpg",
+     "page": "https://pixabay.com/videos/id-121114/",
+     "tags": "sound recording, microphone, studio recording, music studio, audio mixing",
+     "duration": 5,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 122748,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122748-726192594_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122748-726192594_small.jpg",
+     "page": "https://pixabay.com/videos/id-122748/",
+     "tags": "sound recording, microphone, studio recording, mastering, djing, sound recording studio",
+     "duration": 6,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 84583,
+     "url": "https://cdn.pixabay.com/video/2021/08/10/84583-590762060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/10/84583-590762060_small.jpg",
+     "page": "https://pixabay.com/videos/id-84583/",
+     "tags": "headphones, music, swing, listening, wind, technology, sound, fun, equipment, electronic, microphone, mobile",
+     "duration": 39,
+     "query": "reporter microphone"
+    },
+    {
+     "pixabay_id": 122740,
+     "url": "https://cdn.pixabay.com/video/2022/07/01/122740-726192563_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/01/122740-726192563_small.jpg",
+     "page": "https://pixabay.com/videos/id-122740/",
+     "tags": "sound recording, microphone, studio recording, mastering, sound recording studio",
+     "duration": 15,
+     "query": "reporter microphone"
+    }
+   ]
+  }
+ ]
+}

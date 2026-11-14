@@ -1,0 +1,239 @@
+{
+ "id": "s06b",
+ "lines": [
+  {
+   "n": 1,
+   "text": "cafe noise",
+   "candidates": [
+    {
+     "pixabay_id": 32246,
+     "url": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_small.jpg",
+     "page": "https://pixabay.com/videos/id-32246/",
+     "tags": "coffee, coffee shop, cafe, drink, espresso, mug, tea, cup, people, shop, beverage, barista, meeting, communication, restaurant, starbucks, business, store",
+     "duration": 19,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 33703,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33703-398256887_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33703-398256887_small.jpg",
+     "page": "https://pixabay.com/videos/id-33703/",
+     "tags": "cafe, shop, coffee, restaurant, cup, barista, tea, hello, espresso, cappuccino, mug, drink, beverage, business, communication, welcome, latte, people",
+     "duration": 59,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 166187,
+     "url": "https://cdn.pixabay.com/video/2023/06/07/166187-834228219_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/07/166187-834228219_small.jpg",
+     "page": "https://pixabay.com/videos/id-166187/",
+     "tags": "cafe, coffee, restaurant, table, business, contemporary, espresso, cafeteria, space, store",
+     "duration": 14,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 364199,
+     "url": "https://cdn.pixabay.com/video/2026/07/15/364199_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/15/364199_small.jpg",
+     "page": "https://pixabay.com/videos/id-364199/",
+     "tags": "restaurant, sign, group of people, company, urban area, architecture, stroll, local business, outdoor cafe, street scene, friends, outdoor seating, lunch, meeting place, urban environment, gathering, rural gathering, social interaction, daylight",
+     "duration": 10,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 36510,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_small.jpg",
+     "page": "https://pixabay.com/videos/id-36510/",
+     "tags": "airport, people, crowd, busy, live wallpaper, welcome, hello",
+     "duration": 11,
+     "query": "busy cafe"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "busy cafe"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "ear",
+   "candidates": [
+    {
+     "pixabay_id": 317469,
+     "url": "https://cdn.pixabay.com/video/2025/11/22/317469_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/22/317469_small.jpg",
+     "page": "https://pixabay.com/videos/id-317469/",
+     "tags": "lynx, animal, fur, nature, ears, big cat, portrait, close up",
+     "duration": 9,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 6281,
+     "url": "https://cdn.pixabay.com/video/2016/11/06/6281-190550987_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/06/6281-190550987_small.jpg",
+     "page": "https://pixabay.com/videos/id-6281/",
+     "tags": "rat, rodent, meal, feed, food, cute, clever, small, baby rat, husky rat, nose, cub, fur, close up, googly eyes, gray-white, button eyes, animal, attentive, ears, rats",
+     "duration": 26,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 122707,
+     "url": "https://cdn.pixabay.com/video/2022/06/30/122707-726192448_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/30/122707-726192448_small.jpg",
+     "page": "https://pixabay.com/videos/id-122707/",
+     "tags": "wheat fields, wheat, ears of wheat, close up, agriculture, nature, summer, cereal, france, landscape",
+     "duration": 22,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 26493,
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.jpg",
+     "page": "https://pixabay.com/videos/id-26493/",
+     "tags": "colours, pattern, texture, abstract, macro, close-up",
+     "duration": 74,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 240531,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240531_small.jpg",
+     "page": "https://pixabay.com/videos/id-240531/",
+     "tags": "bacon, pan, hot, belly bacon, meal, food, close up",
+     "duration": 7,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 30470,
+     "url": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_small.jpg",
+     "page": "https://pixabay.com/videos/id-30470/",
+     "tags": "bee, honey bee, insect, pollen, close up, live wallpaper",
+     "duration": 6,
+     "query": "ear close up"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "ear close up"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "turn head",
+   "candidates": [
+    {
+     "pixabay_id": 3742,
+     "url": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_small.jpg",
+     "page": "https://pixabay.com/videos/id-3742/",
+     "tags": "fire, calls, wood fire, hot, lena, burning, burn down, light, turn on, red, combustion",
+     "duration": 58,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 18244,
+     "url": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_small.jpg",
+     "page": "https://pixabay.com/videos/id-18244/",
+     "tags": "owl, animal, bird, nature, feather, head, eagle owl, raptor, sitting, eyes, bill, animal world",
+     "duration": 20,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 61893,
+     "url": "https://cdn.pixabay.com/video/2021/01/13/61893-501113779_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/13/61893-501113779_small.jpg",
+     "page": "https://pixabay.com/videos/id-61893/",
+     "tags": "woman, female, model, young, beauty, femininity, face, feminine, fantasy, hair, portrait, pose, person, head",
+     "duration": 20,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 73711,
+     "url": "https://cdn.pixabay.com/video/2021/05/10/73711-549547411_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/10/73711-549547411_small.jpg",
+     "page": "https://pixabay.com/videos/id-73711/",
+     "tags": "woman, model, look, face, eyes, head, adult, pose, portrait, make-up, human, girl, person, shadow",
+     "duration": 25,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 73712,
+     "url": "https://cdn.pixabay.com/video/2021/05/10/73712-549547413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/10/73712-549547413_small.jpg",
+     "page": "https://pixabay.com/videos/id-73712/",
+     "tags": "woman, model, look, face, eyes, head, adult, pose, portrait, make-up, human, girl, person, shadow",
+     "duration": 51,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 78731,
+     "url": "https://cdn.pixabay.com/video/2021/06/24/78731-567321503_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/24/78731-567321503_small.jpg",
+     "page": "https://pixabay.com/videos/id-78731/",
+     "tags": "woman, face, young, look, adult, beauty, person, head, eyes, pose, model, hair, human, emotions, fashion, style, portrait",
+     "duration": 60,
+     "query": "woman turns head"
+    },
+    {
+     "pixabay_id": 78735,
+     "url": "https://cdn.pixabay.com/video/2021/06/24/78735-567321527_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/24/78735-567321527_small.jpg",
+     "page": "https://pixabay.com/videos/id-78735/",
+     "tags": "woman, coffee, beverage, cup, tea, cafe, model, girl, pose, drink, young, hair, wind, emotion, face, head, portrait",
+     "duration": 37,
+     "query": "woman turns head"
+    }
+   ]
+  }
+ ]
+}
