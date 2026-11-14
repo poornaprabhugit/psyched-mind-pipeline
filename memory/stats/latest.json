@@ -1,16 +1,46 @@
 {
- "collected_at": "2026-11-13T14:41:12.423120+00:00",
+ "collected_at": "2026-11-14T07:34:22.672056+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "119",
+   "viewCount": "174",
    "subscriberCount": "3",
    "hiddenSubscriberCount": false,
-   "videoCount": "5"
+   "videoCount": "7"
   }
  },
  "videos": [
+  {
+   "id": "IYrmhlu2pa0",
+   "title": "Why making mistakes makes people like you more \u2615",
+   "published": "2026-11-13T21:00:26Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT35S",
+   "statistics": {
+    "viewCount": "11",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "WdR33wEaImo",
+   "title": "Why you spend more with a card than cash \ud83d\udcb3",
+   "published": "2026-11-13T15:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT27S",
+   "statistics": {
+    "viewCount": "49",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "6z_Euar4Wrg",
    "title": "Why your brain remembers the ending most \ud83e\udde0",
@@ -87,36 +117,6 @@
    }
   },
   {
-   "id": "IYrmhlu2pa0",
-   "title": "Why making mistakes makes people like you more \u2615",
-   "published": "2026-11-12T20:08:42Z",
-   "privacy": "private",
-   "publish_at": "2026-11-13T21:00:00Z",
-   "duration": "PT35S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "WdR33wEaImo",
-   "title": "Why you spend more with a card than cash \ud83d\udcb3",
-   "published": "2026-11-12T20:08:37Z",
-   "privacy": "private",
-   "publish_at": "2026-11-13T15:00:00Z",
-   "duration": "PT27S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "AWwEyFrD7d8",
    "title": "The favor trick that makes people like you \ud83d\udcd6",
    "published": "2026-11-12T11:00:31Z",
@@ -169,7 +169,7 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "37",
+    "viewCount": "36",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -179,13 +179,37 @@
  ],
  "per_video": [
   {
+   "video": "1SiTheh1gbA",
+   "views": 62,
+   "engagedViews": 13,
+   "estimatedMinutesWatched": 4,
+   "averageViewDuration": 16,
+   "averageViewPercentage": 55.50999999999999,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "1YpGk3PgSTc",
-   "views": 34,
+   "views": 35,
    "engagedViews": 8,
    "estimatedMinutesWatched": 4,
    "averageViewDuration": 27,
    "averageViewPercentage": 90.17,
    "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "jGEnqapHOhA",
+   "views": 3,
+   "engagedViews": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
+   "likes": 0,
    "comments": 0,
    "shares": 0,
    "subscribersGained": 0
@@ -197,28 +221,34 @@
    "views": 34,
    "subscribersGained": 3,
    "estimatedMinutesWatched": 4
+  },
+  {
+   "day": "2026-11-11",
+   "views": 66,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 4
   }
  ],
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 20,
-   "averageViewDuration": 7
+   "views": 79,
+   "averageViewDuration": 13
   },
   {
    "insightTrafficSourceType": "YT_CHANNEL",
-   "views": 12,
-   "averageViewDuration": 31
-  },
-  {
-   "insightTrafficSourceType": "YT_OTHER_PAGE",
-   "views": 1,
-   "averageViewDuration": 0
+   "views": 14,
+   "averageViewDuration": 33
   },
   {
    "insightTrafficSourceType": "YT_SEARCH",
-   "views": 1,
+   "views": 4,
    "averageViewDuration": 17
+  },
+  {
+   "insightTrafficSourceType": "YT_OTHER_PAGE",
+   "views": 3,
+   "averageViewDuration": 0
   },
   {
    "insightTrafficSourceType": "NO_LINK_OTHER",
