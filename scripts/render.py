@@ -69,7 +69,7 @@ def add_overlays(src, dst, mpt_dir, hook=None, cta=None, title=None, hook_second
         tf = os.path.join(os.path.dirname(os.path.abspath(dst)), f"card_{len(tmp)}.txt")
         open(tf, "w", encoding="utf-8").write(text)
         tmp.append(tf)
-        filters.append(f"drawtext=fontfile='{font}':textfile='{tf}':fontsize={size}:fontcolor=black:"
+        filters.append(f"drawtext=fontfile='{font}':textfile='{tf}':expansion=none:fontsize={size}:fontcolor=black:"
                        f"box=1:boxcolor=0xFFE600:boxborderw={border}:x={x}:y={y}:enable='{enable}'")
 
     if hook:
@@ -91,6 +91,36 @@ def add_overlays(src, dst, mpt_dir, hook=None, cta=None, title=None, hook_second
 
 def add_hook(src, dst, text, mpt_dir, seconds=2.5):
     add_overlays(src, dst, mpt_dir, hook=text, hook_seconds=seconds)
+
+
+def tighten(src, dst, max_gap=0.35, noise="-38dB", min_detect=0.45, tail=0.25):
+    """Shorten pauses between sentences to `max_gap` s and cut dead air at the end (keep `tail` s).
+    Cuts video and audio together, so captions stay in sync."""
+    import re, subprocess
+    out = subprocess.run(["ffmpeg", "-hide_banner", "-i", src, "-af", f"silencedetect=n={noise}:d={min_detect}",
+                          "-f", "null", "-"], capture_output=True, text=True).stderr
+    dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", src],
+                               capture_output=True, text=True).stdout)
+    starts = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", out)]
+    ends = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", out)]
+    cuts = []
+    for i, st in enumerate(starts):
+        en = ends[i] if i < len(ends) else dur
+        if st < 0.3:
+            continue  # never touch the opening
+        if en >= dur - 0.05:  # trailing silence
+            cuts.append((st + tail, dur)); continue
+        keep_a, keep_b = st + max_gap / 2, en - max_gap / 2
+        if keep_b - keep_a > 0.05:
+            cuts.append((keep_a, keep_b))
+    if not cuts:
+        shutil.copy(src, dst); return 0.0
+    expr = "+".join(f"between(t,{a:.3f},{b:.3f})" for a, b in cuts)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src,
+                    "-vf", f"select='not({expr})',setpts=N/FRAME_RATE/TB",
+                    "-af", f"aselect='not({expr})',asetpts=N/SR/TB",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k", dst], check=True)
+    return sum(b - a for a, b in cuts)
 
 
 def trim_clip(path, seconds):
@@ -141,8 +171,15 @@ def main(job_path, vid, mpt_dir, outdir):
         if d.get("state") == 1:
             src = os.path.join(mpt_dir, "storage", "tasks", task_id, "final-1.mp4")
             dst = os.path.join(outdir, f"{vid}.mp4")
+            if video.get("tighten", job.get("tighten", False)):
+                tight = os.path.join(outdir, f"{vid}_tight.mp4")
+                cut = tighten(src, tight)
+                print(f"tightened: removed {cut:.2f} s of pauses", flush=True)
+                src = tight
             add_overlays(src, dst, mpt_dir, hook=video.get("hook_text"),
                          cta=video.get("cta_text", job.get("cta_text")), title=video.get("title_card"))
+            if os.path.exists(os.path.join(outdir, f"{vid}_tight.mp4")):
+                os.remove(os.path.join(outdir, f"{vid}_tight.mp4"))
             json.dump({"id": vid, "task_id": task_id, "seconds": int(time.time() - start)},
                       open(os.path.join(outdir, f"{vid}.json"), "w"))
             return

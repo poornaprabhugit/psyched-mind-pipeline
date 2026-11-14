@@ -254,3 +254,15 @@ LONG_SOURCES = [
  ("The counterfeit self", "Gino, Norton & Ariely (2010), Psychological Science – https://doi.org/10.1177/0956797610366545"),
  ("Would you take less money to be richer?", "Solnick & Hemenway (1998), Journal of Economic Behavior & Organization – https://doi.org/10.1016/S0167-2681(98)00089-4"),
 ]
+
+# --- 14 Nov (user decision after Studio advice): every Short ends in a full loop back into line 1 ---
+def _end(k, n_drop, last):
+    SHORTS[k]["lines"] = SHORTS[k]["lines"][:len(SHORTS[k]["lines"]) - n_drop] + [last]
+    SHORTS[k]["ending"] = "loop"
+_end("s01", 2, ("So next time you dream of millions, remember:", ["family laughing"]))
+_end("s02", 1, ("That's why", ["woman thinking smile"]))
+_end("s03", 1, ("Which means, right now,", ["man thinking"]))
+_end("s04", 2, ("Businesses know it. That's why", ["shop owner"]))
+_end("s05", 2, ("So before that argument after a bad night, remember:", ["couple arguing"]))
+_end("s06", 0, SHORTS["s06"]["lines"].pop())
+_end("s07", 1, ("It's more time. That's why", ["family park"]))
