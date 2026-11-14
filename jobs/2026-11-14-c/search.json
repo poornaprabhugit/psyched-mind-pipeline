@@ -1,0 +1,480 @@
+{
+ "videos": [
+  {
+   "id": "n01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You get about sixty percent more ideas just by walking.",
+     "queries": [
+      "man walking street",
+      "woman walking city",
+      "walking feet"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers had people brainstorm sitting down, then on a treadmill.",
+     "queries": [
+      "treadmill walking",
+      "man sitting desk thinking",
+      "treadmill"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Same room. Same blank wall.",
+     "queries": [
+      "white wall",
+      "empty room",
+      "office wall"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Walking, their ideas jumped.",
+     "queries": [
+      "woman idea writing",
+      "light bulb",
+      "man writing notebook"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "And it lasted after they sat back down.",
+     "queries": [
+      "woman sitting desk writing",
+      "man laptop working",
+      "writing notes"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "So when you're stuck, don't stare at the problem.",
+     "queries": [
+      "man frustrated laptop",
+      "woman stressed computer",
+      "staring screen"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Get up and walk. Because",
+     "queries": [
+      "man standing up office",
+      "walking park",
+      "walking path"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Say because, and people agree, even to a pointless reason.",
+     "queries": [
+      "people queue",
+      "people waiting line",
+      "woman nodding"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers asked to cut the line at a copy machine.",
+     "queries": [
+      "photocopier",
+      "printer office",
+      "office printer paper"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "No reason: sixty percent said yes.",
+     "queries": [
+      "people waiting",
+      "office queue",
+      "man shrugging"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Because I have to make copies: ninety-three.",
+     "queries": [
+      "copying documents",
+      "paper printer",
+      "office papers"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Everyone there had to make copies.",
+     "queries": [
+      "office workers",
+      "people office",
+      "colleagues office"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain hears because and stops checking.",
+     "queries": [
+      "brain",
+      "man nodding",
+      "woman agreeing"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So for small favours, just",
+     "queries": [
+      "handshake",
+      "woman smiling office",
+      "people smiling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "The same dress sold more at thirty-nine dollars than at thirty-four.",
+     "queries": [
+      "dress shop",
+      "dresses hanger",
+      "clothing store"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "A clothing catalog printed different prices for different customers.",
+     "queries": [
+      "magazine pages",
+      "catalog",
+      "woman reading magazine"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Thirty-four. Thirty-nine. Forty-four.",
+     "queries": [
+      "price tag",
+      "price tags clothes",
+      "sale tag"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "The middle price won.",
+     "queries": [
+      "woman shopping clothes",
+      "shopping bags",
+      "woman buying"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "A price ending in nine reads like a deal, even when it costs more.",
+     "queries": [
+      "sale sign",
+      "discount sign",
+      "price label"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain grabs the first digit and stops there.",
+     "queries": [
+      "woman looking shop window",
+      "brain",
+      "eyes close up"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why, in that catalog,",
+     "queries": [
+      "magazine",
+      "catalog pages",
+      "reading magazine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n04",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Make the cheap chocolate free, and people stop buying the fancy one.",
+     "queries": [
+      "chocolate truffles",
+      "chocolates box",
+      "chocolate candy"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers sold a fancy truffle for fifteen cents, a cheap chocolate for one.",
+     "queries": [
+      "chocolate truffle",
+      "praline",
+      "chocolate shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Most bought the truffle.",
+     "queries": [
+      "woman eating chocolate",
+      "eating praline",
+      "chocolate bite"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Then both got one cent cheaper.",
+     "queries": [
+      "coins",
+      "coin hand",
+      "cents"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Fourteen cents, or free.",
+     "queries": [
+      "free sign",
+      "candy bowl",
+      "sweets"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Most grabbed the free one.",
+     "queries": [
+      "hand taking candy",
+      "candy bowl hand",
+      "grabbing sweets"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Free feels better than any discount. That's why, if you",
+     "queries": [
+      "woman smiling",
+      "happy woman shopping",
+      "man smiling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Almost half the people watching missed a gorilla walking right through the video.",
+     "queries": [
+      "gorilla",
+      "gorilla walking",
+      "gorilla face"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Their task: count the passes in a basketball video.",
+     "queries": [
+      "basketball passing",
+      "basketball players",
+      "basketball"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Halfway through, a gorilla walks in,",
+     "queries": [
+      "gorilla walking",
+      "gorilla",
+      "gorilla zoo"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "thumps its chest, and walks off.",
+     "queries": [
+      "gorilla chest",
+      "gorilla",
+      "silverback"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Afterwards they asked: what gorilla?",
+     "queries": [
+      "man confused",
+      "woman confused",
+      "people surprised"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "When your brain focuses, it hides everything else.",
+     "queries": [
+      "man focused phone",
+      "woman focused",
+      "concentration"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So next time you're sure nothing happened, remember:",
+     "queries": [
+      "man thinking",
+      "woman thinking",
+      "street people"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n06",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You spend more when your money comes in small change.",
+     "queries": [
+      "coins hand",
+      "coins",
+      "change money"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Students got one dollar, to keep or spend on candy.",
+     "queries": [
+      "dollar bill",
+      "candy",
+      "sweets shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Four quarters? Sixty-three percent spent it.",
+     "queries": [
+      "coins table",
+      "quarters coins",
+      "coins falling"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "One bill? Only twenty-six percent.",
+     "queries": [
+      "dollar bill hand",
+      "banknote",
+      "money bill"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Same dollar.",
+     "queries": [
+      "money",
+      "dollar",
+      "cash"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain guards a big note, and lets small change go.",
+     "queries": [
+      "wallet",
+      "coin jar",
+      "piggy bank"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So to save more, carry bigger notes. Because",
+     "queries": [
+      "banknotes wallet",
+      "money wallet",
+      "saving money"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "More money keeps making most people happier, way past seventy-five thousand.",
+     "queries": [
+      "money happy",
+      "happy woman money",
+      "dollar bills"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Even the scientist behind that famous limit helped test it.",
+     "queries": [
+      "scientist",
+      "researcher computer",
+      "laboratory"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Thirty-three thousand workers rated their mood on their phones.",
+     "queries": [
+      "phone notification",
+      "woman phone",
+      "people phones"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Happiness kept rising, up to half a million a year.",
+     "queries": [
+      "luxury house",
+      "happy family",
+      "money"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Only the unhappiest fifth levelled off, around a hundred thousand.",
+     "queries": [
+      "sad man window",
+      "sad woman",
+      "lonely man"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Money fixes money problems, not heartbreak.",
+     "queries": [
+      "heartbreak",
+      "sad couple",
+      "woman crying"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "But for everyone else,",
+     "queries": [
+      "woman smiling",
+      "man smiling",
+      "family park"
+     ]
+    }
+   ]
+  }
+ ]
+}
