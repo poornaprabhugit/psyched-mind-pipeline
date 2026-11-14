@@ -3,7 +3,7 @@
 Usage: python scripts/search.py jobs/<batch>/search.json <outdir>
 
 search.json:
-{"videos": [{"id": "v01", "lines": [{"n": 1, "text": "...", "queries": ["shy", "awkward man"]}, ...]}]}
+{"videos": [{"id": "v01", "aspect": "9:16" (default) or "16:9", "lines": [{"n": 1, "text": "...", "queries": ["shy", "awkward man"]}, ...]}]}
 
 Writes <outdir>/<video>_candidates.json and <outdir>/<video>_sheet_<k>.jpg
 (each sheet shows up to 5 lines x 8 candidates, labelled L<line>-<candidate>,
@@ -66,8 +66,14 @@ def thumb(v):
     return None
 
 
-def crop916(img):
+def crop916(img, landscape=False):
     w, h = img.size
+    if landscape:  # 16:9 cell for long videos
+        th = int(w * 9 / 16)
+        if th < h:
+            y = (h - th) // 2
+            img = img.crop((0, y, w, y + th))
+        return img.resize((TH, TW))
     tw = int(h * 9 / 16)
     if tw < w:
         x = (w - tw) // 2
@@ -106,22 +112,24 @@ def main(job_path, outdir):
         json.dump(result, open(f"{outdir}/{vid}_candidates.json", "w"), indent=1)
         # contact sheets, 5 lines per sheet
         lines = result["lines"]
+        land = video.get("aspect") == "16:9"
+        cw, ch = (TH, TW) if land else (TW, TH)
         for s in range(0, len(lines), 5):
             chunk = lines[s:s + 5]
-            sheet = Image.new("RGB", (PER_LINE * (TW + 6) + 6, len(chunk) * (TH + 36) + 6), (17, 17, 20))
+            sheet = Image.new("RGB", (PER_LINE * (cw + 6) + 6, len(chunk) * (ch + 36) + 6), (17, 17, 20))
             d = ImageDraw.Draw(sheet)
             for r, line in enumerate(chunk):
-                y = 6 + r * (TH + 36)
+                y = 6 + r * (ch + 36)
                 d.text((8, y), f"L{line['n']}: {line['text'][:110]}", fill=(255, 230, 0), font=font)
                 for c, cand in enumerate(line["candidates"]):
                     data = get(cand["thumb"], binary=True)
                     if not data:
                         continue
                     try:
-                        img = crop916(Image.open(io.BytesIO(data)).convert("RGB"))
+                        img = crop916(Image.open(io.BytesIO(data)).convert("RGB"), land)
                     except Exception:
                         continue
-                    x = 6 + c * (TW + 6)
+                    x = 6 + c * (cw + 6)
                     sheet.paste(img, (x, y + 30))
                     d.rectangle((x, y + 30, x + 64, y + 58), fill=(0, 0, 0))
                     d.text((x + 4, y + 32), f"{line['n']}-{c}", fill=(255, 255, 255), font=font)

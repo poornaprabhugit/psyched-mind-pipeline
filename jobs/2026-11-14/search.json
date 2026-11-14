@@ -1,0 +1,1478 @@
+{
+ "videos": [
+  {
+   "id": "s01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You think winning the lottery would fix your life.",
+     "queries": [
+      "lottery ticket",
+      "money falling",
+      "man celebrating money"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Scientists interviewed lottery winners.",
+     "queries": [
+      "lottery balls",
+      "interview",
+      "woman counting money"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "They weren't happier than people who'd won nothing.",
+     "queries": [
+      "bored man",
+      "man sitting alone",
+      "sad rich man"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "And everyday pleasures,",
+     "queries": [
+      "coffee morning",
+      "breakfast table"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "a chat with a friend, a good breakfast,",
+     "queries": [
+      "friends talking cafe",
+      "breakfast eggs",
+      "friends laughing"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "felt smaller to them.",
+     "queries": [
+      "woman bored",
+      "man staring window"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Your brain gets used to anything, even millions.",
+     "queries": [
+      "luxury villa",
+      "sports car",
+      "yacht"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "So the small joys you already have?",
+     "queries": [
+      "family laughing",
+      "dog playing",
+      "sunset walk"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "They're worth more than you think.",
+     "queries": [
+      "woman smiling sunlight",
+      "happy man",
+      "friends hugging"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You'd pick the worse holiday, just because it cost more.",
+     "queries": [
+      "skiing",
+      "ski slope",
+      "snowboard"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Scientists told people: you've booked two ski trips,",
+     "queries": [
+      "ski resort",
+      "ski lift",
+      "booking laptop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "one for a hundred dollars, one for fifty.",
+     "queries": [
+      "dollar bills",
+      "money hand",
+      "cash"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "The cheaper one sounds more fun.",
+     "queries": [
+      "skiing fun",
+      "friends snow",
+      "skier powder"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Oops, same weekend.",
+     "queries": [
+      "calendar",
+      "man facepalm",
+      "woman surprised"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "More than half picked the expensive trip.",
+     "queries": [
+      "mountain snow",
+      "ski lift chair"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "The money's gone either way,",
+     "queries": [
+      "empty wallet",
+      "money burning"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "but your brain hates wasting it.",
+     "queries": [
+      "man frustrated",
+      "woman thinking"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "So ask: if both were free, which would I pick?",
+     "queries": [
+      "woman thinking smile",
+      "man smiling",
+      "skier jump"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You'd defend a choice you never made.",
+     "queries": [
+      "man arguing",
+      "woman shrugging",
+      "man confident"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Scientists showed people two faces: who's more attractive?",
+     "queries": [
+      "portrait woman",
+      "two photos",
+      "photographs"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Then, with a magician's trick,",
+     "queries": [
+      "magician cards",
+      "card trick",
+      "magic hands"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "they handed over the face they'd rejected.",
+     "queries": [
+      "hand giving paper",
+      "photo hand"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Most didn't notice.",
+     "queries": [
+      "man nodding",
+      "woman nodding"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "They even explained their choice.",
+     "queries": [
+      "man talking",
+      "woman explaining"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "One man said he liked her earrings. The face he'd actually chosen had none.",
+     "queries": [
+      "earrings",
+      "woman earrings"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Your brain invents reasons after you decide.",
+     "queries": [
+      "brain",
+      "neurons"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "So how sure are you about your last choice?",
+     "queries": [
+      "man thinking",
+      "woman doubt",
+      "thinking face"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Those free stamps on your loyalty card aren't a gift.",
+     "queries": [
+      "coffee shop",
+      "barista",
+      "coffee cup counter"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers gave car-wash customers one of two cards:",
+     "queries": [
+      "car wash",
+      "car washing foam"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "eight stamps needed,",
+     "queries": [
+      "stamp",
+      "card"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "or ten, with two already stamped.",
+     "queries": [
+      "stamping paper",
+      "rubber stamp"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Same eight washes.",
+     "queries": [
+      "car wash",
+      "washing car"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "The head-start card got almost twice as many finishers.",
+     "queries": [
+      "clean car",
+      "shiny car",
+      "car driving"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Your brain hates leaving things half-done.",
+     "queries": [
+      "puzzle",
+      "unfinished",
+      "loading bar"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Use it: give your next goal a head start.",
+     "queries": [
+      "runner start",
+      "running track",
+      "woman running"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "After one sleepless night, your brain overreacts.",
+     "queries": [
+      "insomnia",
+      "man awake night",
+      "tired woman"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Scientists kept people awake a night and a day,",
+     "queries": [
+      "night clock",
+      "alarm clock",
+      "city night"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "then showed them upsetting pictures in a brain scanner.",
+     "queries": [
+      "mri scanner",
+      "hospital",
+      "brain scan"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Their brain's alarm centre reacted about sixty percent more",
+     "queries": [
+      "alarm",
+      "siren",
+      "angry man"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "than in people who'd slept.",
+     "queries": [
+      "woman sleeping",
+      "man sleeping"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "And the part that calms it down was less connected.",
+     "queries": [
+      "brain",
+      "neurons",
+      "network"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So that argument after a bad night?",
+     "queries": [
+      "couple arguing",
+      "argument",
+      "angry woman"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Sleep on it first.",
+     "queries": [
+      "woman sleeping peaceful",
+      "bed morning",
+      "sunrise bedroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Your brain is listening to conversations you're ignoring.",
+     "queries": [
+      "party crowd",
+      "people talking bar",
+      "crowded restaurant"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Scientists played a different voice into each ear",
+     "queries": [
+      "headphones",
+      "man headphones"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "and asked people to repeat only one.",
+     "queries": [
+      "woman headphones",
+      "listening"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Hidden in the other ear: their own name.",
+     "queries": [
+      "ear",
+      "whisper ear"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "About a third heard it.",
+     "queries": [
+      "woman surprised",
+      "man turns head"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Part of your brain keeps scanning the noise for what matters to you.",
+     "queries": [
+      "brain",
+      "radar",
+      "crowd noise"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why, in a loud room, you still hear your name.",
+     "queries": [
+      "party",
+      "woman turning around",
+      "busy street"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "The happiest way to spend forty dollars isn't on stuff.",
+     "queries": [
+      "shopping bags",
+      "dollar bills",
+      "online shopping"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers gave working adults forty dollars, twice.",
+     "queries": [
+      "money hand",
+      "office workers",
+      "busy office"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Once to buy something material.",
+     "queries": [
+      "shopping",
+      "shopping mall"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Once to buy time:",
+     "queries": [
+      "clock",
+      "hourglass"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "a cleaner, a delivery, a ride.",
+     "queries": [
+      "cleaning house",
+      "delivery man",
+      "taxi"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Buying time made them happier that day.",
+     "queries": [
+      "woman relaxing",
+      "man relaxing sofa",
+      "happy woman"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Yet hardly anyone spends extra money that way.",
+     "queries": [
+      "shopping cart",
+      "people shopping"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Rich isn't more stuff.",
+     "queries": [
+      "luxury",
+      "watch",
+      "jewelry"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "It's more time.",
+     "queries": [
+      "family park",
+      "hammock",
+      "beach relax"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L0",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "The most expensive handbag in the shop is often the one with the smallest logo.",
+     "queries": [
+      "luxury handbag",
+      "designer bag store",
+      "luxury boutique"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "And the people most eager to look rich tend to buy the loudest one.",
+     "queries": [
+      "logo handbag",
+      "woman shopping bags",
+      "shopping street luxury"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "That's not a fashion rule. It's psychology, and researchers have measured it.",
+     "queries": [
+      "scientist laboratory",
+      "researcher notes"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "In this video you'll see seven real studies about looking rich.",
+     "queries": [
+      "luxury car",
+      "rich man",
+      "luxury watch"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "How a price tag changes what you taste,",
+     "queries": [
+      "wine tasting",
+      "red wine glass"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "why people treat you differently in a logo shirt,",
+     "queries": [
+      "polo shirt",
+      "job interview"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "why a fake designer item can change how honest you are,",
+     "queries": [
+      "sunglasses",
+      "woman sunglasses"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "and the one question that shows most of us would accept less money, just to feel richer.",
+     "queries": [
+      "money stack",
+      "dollar bills",
+      "coins"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "Stick around for number six. It's the one people argue about most.",
+     "queries": [
+      "woman surprised",
+      "people arguing"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "First, an experiment that put wine drinkers inside a brain scanner.",
+     "queries": [
+      "mri scanner",
+      "wine pouring"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L1",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number one: the price tag you can taste.",
+     "queries": [
+      "wine bottle price",
+      "wine pouring glass"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers at Caltech gave volunteers sips of wine while they lay inside a brain scanner.",
+     "queries": [
+      "mri scanner",
+      "hospital scanner",
+      "brain scan"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "They were told they would taste five different Cabernet Sauvignons, and they saw the price of each one.",
+     "queries": [
+      "wine bottles",
+      "red wine",
+      "wine cellar"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "But there were really only three wines.",
+     "queries": [
+      "three glasses wine",
+      "wine glasses table"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Two of them came back twice: once with a cheap price, once with an expensive one.",
+     "queries": [
+      "price tag",
+      "wine shop shelf"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "A wine labelled forty-five dollars was the same wine they had also tasted labelled five dollars.",
+     "queries": [
+      "wine tasting",
+      "woman tasting wine"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "You can guess the ratings. People said the expensive version tasted better.",
+     "queries": [
+      "man tasting wine",
+      "sommelier"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "But here's what surprised the researchers: it wasn't just talk.",
+     "queries": [
+      "woman surprised",
+      "scientist computer"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "When people believed the wine was expensive, a brain area linked to pleasure became more active.",
+     "queries": [
+      "brain",
+      "neurons",
+      "brain activity"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Same liquid, same tongue, a different experience in the brain. And the basic taste areas of the brain didn't change. The difference was in how much they enjoyed it.",
+     "queries": [
+      "wine glass swirl",
+      "red wine close up"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Your brain doesn't just measure what's in the glass. It predicts how good something will be, and price is one of its strongest clues.",
+     "queries": [
+      "man thinking",
+      "woman thinking"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Then it partly delivers the experience it predicted.",
+     "queries": [
+      "woman enjoying",
+      "man smiling dinner"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "That's why the expensive version of almost anything can feel better, even when it isn't.",
+     "queries": [
+      "luxury restaurant",
+      "fine dining"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "Try this today: next time you compare two versions of something, cover the price first. Decide which you prefer, then look.",
+     "queries": [
+      "supermarket shelf",
+      "woman shopping supermarket",
+      "price label"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "But price isn't the only thing that makes something feel valuable. Sometimes all it takes is having less of it.",
+     "queries": [
+      "cookie jar",
+      "empty shelf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L2",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number two: why rare feels rich.",
+     "queries": [
+      "diamond",
+      "gold bars"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "In a classic experiment, people were asked to taste a cookie and rate it.",
+     "queries": [
+      "cookies",
+      "eating cookie",
+      "cookie jar"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Some took their cookie from a jar holding ten cookies. Others from a jar holding just two.",
+     "queries": [
+      "jar of cookies",
+      "glass jar",
+      "cookies plate"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Same cookies, same recipe.",
+     "queries": [
+      "baking cookies",
+      "cookie dough"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "The cookies from the nearly empty jar were rated as more desirable and more valuable.",
+     "queries": [
+      "woman eating cookie",
+      "man eating"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "And it got stronger when the jar went from full to almost empty in front of people, as if others had grabbed them first.",
+     "queries": [
+      "hands grabbing",
+      "people grabbing food",
+      "empty plate"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Those cookies were rated highest of all.",
+     "queries": [
+      "smiling woman eating",
+      "chocolate cookie"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Your brain treats scarcity as information. If only a few are left, something must be good about them, and someone else wants them too.",
+     "queries": [
+      "crowd shopping",
+      "queue people",
+      "black friday"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "For most of human history, that was a smart shortcut.",
+     "queries": [
+      "forest berries",
+      "hunter gatherer",
+      "nature"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Luxury brands understand this better than anyone: waiting lists, limited editions, only three left in stock.",
+     "queries": [
+      "luxury store",
+      "watch store",
+      "sneakers shop"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Think about the last time a booking site told you only two rooms were left. Did the room suddenly look nicer? The thing itself hasn't changed. The jar just looks emptier.",
+     "queries": [
+      "empty jar",
+      "empty shelves"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Try this today: when you feel the pull of 'only a few left', ask yourself whether you'd still want it if the shelf were full.",
+     "queries": [
+      "online shopping laptop",
+      "woman phone shopping"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "Scarcity changes how you see things. The next study shows how other people see you, depending on what you wear.",
+     "queries": [
+      "people walking street",
+      "fashion street"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L3",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number three: the logo effect. And keep watching, because number six turns this one upside down.",
+     "queries": [
+      "polo shirt",
+      "logo shirt",
+      "clothing store"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers in the Netherlands ran a set of experiments with one simple change: the same shirt, with or without a luxury brand logo.",
+     "queries": [
+      "netherlands street",
+      "amsterdam",
+      "shirts rack"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "In one, people watched a video of a man in a job interview.",
+     "queries": [
+      "job interview",
+      "interview office"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Same man, same answers, same voice. The only difference was the small logo on his shirt. Not his skills, not his experience. And the viewers would probably have said the logo meant nothing to them.",
+     "queries": [
+      "man interview",
+      "businessman talking"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "With the luxury logo, viewers rated him as more suitable for the job, and suggested a salary about nine percent higher.",
+     "queries": [
+      "handshake",
+      "salary money",
+      "office handshake"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "In another, a person wearing a logo sweater collected money for charity.",
+     "queries": [
+      "charity donation",
+      "donation box",
+      "street collection"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "With the logo, more people gave.",
+     "queries": [
+      "giving money",
+      "coins donation"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Why? A luxury label is an expensive signal.",
+     "queries": [
+      "luxury brand",
+      "designer clothes"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "It's costly to fake, so the brain reads it as a hint of wealth and status.",
+     "queries": [
+      "rich man",
+      "luxury car",
+      "businessman"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "And people with status are people we want on our side.",
+     "queries": [
+      "team meeting",
+      "people shaking hands"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Try this today: notice the next time you judge someone by a brand. You're reacting to a signal, not the person.",
+     "queries": [
+      "people walking",
+      "woman looking",
+      "crowd street"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "And that brings us to the strange part: the quietest signals are often the richest.",
+     "queries": [
+      "luxury handbag",
+      "boutique"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L4",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number four: why old money whispers.",
+     "queries": [
+      "luxury mansion",
+      "old mansion",
+      "country estate"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Marketing researchers looked at luxury handbags from brands like Louis Vuitton and Gucci, and sorted them by how loudly they show the logo.",
+     "queries": [
+      "handbags",
+      "luxury handbag",
+      "designer bag"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Some have the brand printed all over. Others have a tiny logo, or none you'd spot.",
+     "queries": [
+      "leather bag",
+      "handbag close up"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "The quiet ones were, on average, the more expensive bags.",
+     "queries": [
+      "price tag",
+      "expensive"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Then they looked at who buys what.",
+     "queries": [
+      "shoppers",
+      "shopping street"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "People with lots of money and no need to prove it preferred the quiet versions.",
+     "queries": [
+      "elegant woman",
+      "rich woman",
+      "businesswoman elegant"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "They signal to a small group of insiders who recognise the design without a logo.",
+     "queries": [
+      "people talking cocktail",
+      "elegant party"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "People with money who want to be seen as rich preferred the loud versions.",
+     "queries": [
+      "woman shopping bags",
+      "flashy car"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "And people who want status but can't afford it were the most likely to buy counterfeits, almost always of the loud kind.",
+     "queries": [
+      "street market",
+      "market stall bags"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "The researchers called the quiet group patricians. Old money.",
+     "queries": [
+      "old money",
+      "classic car",
+      "mansion garden"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Your brain reads a giant logo as 'look at me', and the people at the very top know it.",
+     "queries": [
+      "man looking",
+      "woman glance"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "So looking rich has a strange rule: the more you have, the less you need to show. That's why a watch with no visible logo can say more, to the right people, than one covered in diamonds.",
+     "queries": [
+      "luxury watch",
+      "minimal interior"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "Try this today: think of the last thing you bought partly so others would notice. Would a quieter version have done the job?",
+     "queries": [
+      "woman thinking",
+      "man thinking window"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "But if loud signals aren't the top of the ladder, what is? The next study found something stranger: breaking the rules.",
+     "queries": [
+      "sneakers",
+      "red shoes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L5",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number five: the red sneakers effect. And stay for number seven: it's a single question, and most people's answer surprises them.",
+     "queries": [
+      "red sneakers",
+      "sneakers walking"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers went to luxury boutiques in Milan, the kind of shops with a doorman.",
+     "queries": [
+      "milan",
+      "milan street",
+      "luxury boutique"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "They described two shoppers to the shop assistants.",
+     "queries": [
+      "shop assistant",
+      "saleswoman"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "One walked in wearing a dress and a fur coat. The other walked in wearing gym clothes.",
+     "queries": [
+      "elegant woman coat",
+      "woman gym clothes",
+      "woman sportswear"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Which one did the assistants think was the more important customer, more likely to buy?",
+     "queries": [
+      "boutique",
+      "store clerk"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "The one in gym clothes.",
+     "queries": [
+      "woman sportswear walking",
+      "jogger"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "In another study, students rated a professor at a top university.",
+     "queries": [
+      "university",
+      "students lecture",
+      "professor"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Described wearing red sneakers instead of formal shoes, he was judged as higher status and more competent.",
+     "queries": [
+      "red sneakers",
+      "sneakers"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "When someone breaks a dress code on purpose, your brain makes a quick calculation: they must have enough status to not care. Think of the founder in a hoodie at a board meeting. Your brain doesn't read sloppy. It reads: this person doesn't need to impress anyone.",
+     "queries": [
+      "man confident",
+      "businessman casual"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "But there's a limit. It only worked when the rule-breaking looked deliberate, in a setting where people expected the rules.",
+     "queries": [
+      "formal event",
+      "office suit"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "A professor in red sneakers at a top university: status. A random mismatched outfit: just a mistake.",
+     "queries": [
+      "man walking",
+      "street fashion"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Try this today: you don't have to dress like money to be taken seriously. A confident, deliberate choice sends a stronger signal than a label.",
+     "queries": [
+      "confident woman",
+      "woman walking city"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "Which leads to the study that changed how researchers think about fake luxury.",
+     "queries": [
+      "sunglasses",
+      "sunglasses table"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L6",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number six: the counterfeit self.",
+     "queries": [
+      "sunglasses",
+      "woman sunglasses"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers gave women real designer sunglasses, a brand that sells for hundreds of dollars.",
+     "queries": [
+      "designer sunglasses",
+      "sunglasses shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "But some were told their pair came from a box labelled counterfeit. Others, from a box labelled authentic.",
+     "queries": [
+      "box",
+      "cardboard box",
+      "label"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "In reality, every pair was genuine.",
+     "queries": [
+      "sunglasses close up",
+      "sunglasses"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Then the women wore the sunglasses while they solved maths puzzles,",
+     "queries": [
+      "math puzzle",
+      "woman studying",
+      "test exam"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "and graded their own work, with a chance to cheat for more money.",
+     "queries": [
+      "pencil paper",
+      "money"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Among women who thought their sunglasses were authentic, about thirty percent cheated.",
+     "queries": [
+      "woman writing",
+      "exam"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Among those who thought they were wearing fakes: seventy-one percent.",
+     "queries": [
+      "woman sunglasses portrait",
+      "woman suspicious"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "The same glasses. Only the label in their head had changed. And it wasn't a fluke: with a new group, randomly assigned, the gap was almost the same. Sixty-nine percent against twenty-six.",
+     "queries": [
+      "mirror reflection",
+      "woman mirror"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "In follow-up studies, wearing the 'fakes' also made people more suspicious of others.",
+     "queries": [
+      "suspicious man",
+      "people distrust"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "The researchers' explanation: when you wear something that sends a false signal, part of you feels like a fake.",
+     "queries": [
+      "mask",
+      "woman mask"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "And once you feel a bit fake, the next dishonest step feels smaller.",
+     "queries": [
+      "stairs",
+      "shadow"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "Pretending to be richer than you are doesn't just risk your wallet. It can quietly change how you see yourself.",
+     "queries": [
+      "man mirror",
+      "reflection water"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "Try this today: choose things that are honestly yours, even if they're simpler. Feeling genuine is worth more than looking expensive.",
+     "queries": [
+      "woman smiling natural",
+      "man smiling"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "And now, the question that shows how strange our relationship with money really is.",
+     "queries": [
+      "money",
+      "question mark"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L7",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Number seven: would you take less money to be richer?",
+     "queries": [
+      "money",
+      "dollar bills",
+      "coins"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers at Harvard asked students and staff to imagine two worlds, where prices are the same.",
+     "queries": [
+      "harvard",
+      "university campus",
+      "students"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "In world A, you earn fifty thousand dollars a year, and everyone else earns twenty-five thousand.",
+     "queries": [
+      "small house",
+      "suburb"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "In world B, you earn one hundred thousand a year, and everyone else earns two hundred thousand.",
+     "queries": [
+      "big house",
+      "neighborhood luxury"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Which world do you choose? Take a second.",
+     "queries": [
+      "woman thinking",
+      "clock"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "In world B you'd have twice the money, and it buys exactly the same things.",
+     "queries": [
+      "shopping",
+      "money counting"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "And yet about half the people chose world A. Half the money, as long as they were richer than everyone around them. And these were people at a school of public health: educated, thoughtful, answering a calm survey with no one watching.",
+     "queries": [
+      "crowd",
+      "people walking"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "That's the engine behind everything in this video. Your brain doesn't measure wealth in dollars. It measures it in comparison.",
+     "queries": [
+      "scales",
+      "balance",
+      "brain"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "The wine, the cookies, the logo, the quiet bag, the red sneakers, even the fake sunglasses: they're all about where you stand next to other people.",
+     "queries": [
+      "wine glass",
+      "cookie jar",
+      "handbag"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "And the same survey found something telling: for holidays, most people chose more time off for themselves, even if others got more.",
+     "queries": [
+      "beach vacation",
+      "holiday"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Comparison hits hardest on the things other people can see.",
+     "queries": [
+      "luxury car",
+      "people looking"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Try this today: the next time you feel poor, check who you're comparing yourself to.",
+     "queries": [
+      "phone scrolling",
+      "social media"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "Compare with your own life a year ago instead. That's the one comparison that tells you if you're actually getting richer.",
+     "queries": [
+      "sunrise",
+      "woman walking sunrise",
+      "man hiking summit"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "If you want to see how the same brain loses money in everyday spending, watch this next: why your brain is bad with money.",
+     "queries": [
+      "wallet",
+      "credit card"
+     ]
+    }
+   ]
+  }
+ ]
+}
