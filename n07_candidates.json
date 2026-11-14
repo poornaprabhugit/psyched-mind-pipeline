@@ -1,0 +1,551 @@
+{
+ "id": "n07",
+ "lines": [
+  {
+   "n": 1,
+   "text": "More money keeps making most people happier, way past seventy-five thousand.",
+   "candidates": [
+    {
+     "pixabay_id": 91678,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_small.jpg",
+     "page": "https://pixabay.com/videos/id-91678/",
+     "tags": "cards, coins, gambling, game, money, currency, finance, casino, happiness, poker, gambling addiction, game bank, win, slow motion",
+     "duration": 29,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 141481,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141481-777708178_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141481-777708178_small.jpg",
+     "page": "https://pixabay.com/videos/id-141481/",
+     "tags": "home, work, business, money, finance, cash",
+     "duration": 11,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 4853,
+     "url": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/31/4853-180863249_small.jpg",
+     "page": "https://pixabay.com/videos/id-4853/",
+     "tags": "money, euro, finance, salary, cash, economy, income, bank, profit, business, check",
+     "duration": 10,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 59139,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_small.jpg",
+     "page": "https://pixabay.com/videos/id-59139/",
+     "tags": "money, budget, count, cash, counting, calculator, finance, mortgage, economy, payment, business",
+     "duration": 20,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 349388,
+     "url": "https://cdn.pixabay.com/video/2026/04/28/349388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/28/349388_small.jpg",
+     "page": "https://pixabay.com/videos/id-349388/",
+     "tags": "oilseed rape, field of rapeseeds, bird, nature, money, hidden, sunshine, landscape, sunlight",
+     "duration": 8,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 111538,
+     "url": "https://cdn.pixabay.com/video/2022/03/21/111538-691223046_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/21/111538-691223046_small.jpg",
+     "page": "https://pixabay.com/videos/id-111538/",
+     "tags": "covid-19, money, vaccination, profit, corona, vaccine",
+     "duration": 45,
+     "query": "money happy"
+    },
+    {
+     "pixabay_id": 174007,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_small.jpg",
+     "page": "https://pixabay.com/videos/id-174007/",
+     "tags": "woman, cash, money, paper, business, beautiful wallpaper, worker, calculator, background, investment, wealth",
+     "duration": 7,
+     "query": "money happy"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Even the scientist behind that famous limit helped test it.",
+   "candidates": [
+    {
+     "pixabay_id": 192281,
+     "url": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_small.jpg",
+     "page": "https://pixabay.com/videos/id-192281/",
+     "tags": "scientist, laboratory, research, space, science, technology, discussion",
+     "duration": 15,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 262464,
+     "url": "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/04/262464_small.jpg",
+     "page": "https://pixabay.com/videos/id-262464/",
+     "tags": "scientist, laboratory, lab, blue-collar",
+     "duration": 21,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 245065,
+     "url": "https://cdn.pixabay.com/video/2024/12/05/245065_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/05/245065_small.jpg",
+     "page": "https://pixabay.com/videos/id-245065/",
+     "tags": "alone, river home, nature, challenge, local, scientist, love, maldives",
+     "duration": 30,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 262188,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262188_small.jpg",
+     "page": "https://pixabay.com/videos/id-262188/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 14,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 127432,
+     "url": "https://cdn.pixabay.com/video/2022/08/10/127432-738466672_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/10/127432-738466672_small.jpg",
+     "page": "https://pixabay.com/videos/id-127432/",
+     "tags": "scientist, mars, planet, space, galaxy, universe, cosmos, astronomer, astronomy, telescope, science, alien, nasa, astronautics, research, spacex, globe",
+     "duration": 20,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 81241,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_small.jpg",
+     "page": "https://pixabay.com/videos/id-81241/",
+     "tags": "quality, test, control, industry, plant, lab, production, technician, technology, worker, factory, laboratory, analysis, equipment, research, agriculture, gmo, person, medical, scientist",
+     "duration": 9,
+     "query": "scientist"
+    },
+    {
+     "pixabay_id": 262187,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262187_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262187_small.jpg",
+     "page": "https://pixabay.com/videos/id-262187/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 12,
+     "query": "scientist"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Thirty-three thousand workers rated their mood on their phones.",
+   "candidates": [
+    {
+     "pixabay_id": 47743,
+     "url": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_small.jpg",
+     "page": "https://pixabay.com/videos/id-47743/",
+     "tags": "phone, hands, screen touch, smart phone, message",
+     "duration": 7,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 6590,
+     "url": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_small.jpg",
+     "page": "https://pixabay.com/videos/id-6590/",
+     "tags": "guy, phone, city, street, mobile phone, wait, italy",
+     "duration": 9,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 88686,
+     "url": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_small.jpg",
+     "page": "https://pixabay.com/videos/id-88686/",
+     "tags": "phone, scrolling phone, woman, picnic, hands, girl, summer, nature",
+     "duration": 5,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 148493,
+     "url": "https://cdn.pixabay.com/video/2023/01/29/148493-794343997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/29/148493-794343997_small.jpg",
+     "page": "https://pixabay.com/videos/id-148493/",
+     "tags": "cell phone, internet, technology",
+     "duration": 9,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 168485,
+     "url": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_small.jpg",
+     "page": "https://pixabay.com/videos/id-168485/",
+     "tags": "phone, artificial intelligence, chat gpt, technology, bot",
+     "duration": 19,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 214736,
+     "url": "https://cdn.pixabay.com/video/2024/05/31/214736_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/31/214736_small.jpg",
+     "page": "https://pixabay.com/videos/id-214736/",
+     "tags": "phone, mobile security, authentication, encryption, wireless, technology",
+     "duration": 11,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 168343,
+     "url": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_small.jpg",
+     "page": "https://pixabay.com/videos/id-168343/",
+     "tags": "message, smartphone, mobile, lifestyle, technology, phone, communication, connection, gadget",
+     "duration": 11,
+     "query": "phone notification"
+    },
+    {
+     "pixabay_id": 208770,
+     "url": "https://cdn.pixabay.com/video/2024/04/20/208770_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/20/208770_small.jpg",
+     "page": "https://pixabay.com/videos/id-208770/",
+     "tags": "woman, curly hair, phone, text, mobile, internet, technology",
+     "duration": 9,
+     "query": "phone notification"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Happiness kept rising, up to half a million a year.",
+   "candidates": [
+    {
+     "pixabay_id": 143861,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143861-784164182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143861-784164182_small.jpg",
+     "page": "https://pixabay.com/videos/id-143861/",
+     "tags": "house, villa, architecture, luxury home, modern, building, garden, mansion, sunny, window",
+     "duration": 5,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 211152,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211152_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211152_small.jpg",
+     "page": "https://pixabay.com/videos/id-211152/",
+     "tags": "swimming pool, house, hotel, villa, outdoor, pool, water, nature, resort, vacation, leisure, architecture, interior, apartment, luxury, landscape",
+     "duration": 10,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 67201,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67201-521635037_small.jpg",
+     "page": "https://pixabay.com/videos/id-67201/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 11,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 67200,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67200-521635033_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67200-521635033_small.jpg",
+     "page": "https://pixabay.com/videos/id-67200/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 12,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 67198,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67198-521635023_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67198-521635023_small.jpg",
+     "page": "https://pixabay.com/videos/id-67198/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 18,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 67199,
+     "url": "https://cdn.pixabay.com/video/2021/03/07/67199-521635029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/07/67199-521635029_small.jpg",
+     "page": "https://pixabay.com/videos/id-67199/",
+     "tags": "lake, houses, hill, mountain, boat, aerial, alps, architecture, cloudy, coast, coastline, colorful, europe, european, garden, holiday, italian, italy, landscape, lombardy, luxury, milan, nature, panorama",
+     "duration": 6,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 221920,
+     "url": "https://cdn.pixabay.com/video/2024/07/18/221920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/18/221920_small.jpg",
+     "page": "https://pixabay.com/videos/id-221920/",
+     "tags": "italian coast, harbor, coastal architecture, portofino, liguria, italy, seaside, aerial view, mediterranean town, coastal buildings, sea, summer tourism, luxury villas, waterfront city, colorful houses, scenic coastline, iconic landmark, lush greenery, turquoise waters, drone",
+     "duration": 11,
+     "query": "luxury house"
+    },
+    {
+     "pixabay_id": 221342,
+     "url": "https://cdn.pixabay.com/video/2024/07/15/221342_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/15/221342_small.jpg",
+     "page": "https://pixabay.com/videos/id-221342/",
+     "tags": "portofino, liguria, italy, seaside, aerial view, drone footage, mediterranean town, coastal buildings, sea, clear water, summer tourism, harbor, luxury villas, waterfront city, italian coast, colorful houses, scenic coastline, iconic landmark, castello brown, villa olivetta, hillside town",
+     "duration": 15,
+     "query": "luxury house"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Only the unhappiest fifth levelled off, around a hundred thousand.",
+   "candidates": [
+    {
+     "pixabay_id": 54162,
+     "url": "https://cdn.pixabay.com/video/2020/11/03/54162-476539778_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/03/54162-476539778_small.jpg",
+     "page": "https://pixabay.com/videos/id-54162/",
+     "tags": "man, boy, sad, depression, fitness, health, mood",
+     "duration": 23,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85428,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85428-588675541_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85428-588675541_small.jpg",
+     "page": "https://pixabay.com/videos/id-85428/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 14,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 32630,
+     "url": "https://cdn.pixabay.com/video/2020/02/20/32630-393990051_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/20/32630-393990051_small.jpg",
+     "page": "https://pixabay.com/videos/id-32630/",
+     "tags": "rain, window, rainy, sad, glass, drops, raining, crying, raindrop, nature, storm, tired, weather, wet, raindrops",
+     "duration": 22,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85429,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85429-588675545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85429-588675545_small.jpg",
+     "page": "https://pixabay.com/videos/id-85429/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 7,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85433,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85433-588675531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85433-588675531_small.jpg",
+     "page": "https://pixabay.com/videos/id-85433/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 11,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85427,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85427-588675539_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85427-588675539_small.jpg",
+     "page": "https://pixabay.com/videos/id-85427/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 6,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85432,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85432-588675535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85432-588675535_small.jpg",
+     "page": "https://pixabay.com/videos/id-85432/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 6,
+     "query": "sad man window"
+    },
+    {
+     "pixabay_id": 85430,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85430-588675550_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85430-588675550_small.jpg",
+     "page": "https://pixabay.com/videos/id-85430/",
+     "tags": "man, parking lot, building, basement, sad, new york city, manhattan, night, architecture, modern",
+     "duration": 8,
+     "query": "sad man window"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Money fixes money problems, not heartbreak.",
+   "candidates": [
+    {
+     "pixabay_id": 50312,
+     "url": "https://cdn.pixabay.com/video/2020/09/19/50312-460401327_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/19/50312-460401327_small.jpg",
+     "page": "https://pixabay.com/videos/id-50312/",
+     "tags": "couple, arguing, fight, fighting, crying, conflict, problem, anger, argument, argue, disagreement, people, disagree, dispute, cheating, caught, relationship, breaking up, sad, divorce, break up, aggression, domestic violence",
+     "duration": 20,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 50019,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50019-459915451_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50019-459915451_small.jpg",
+     "page": "https://pixabay.com/videos/id-50019/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 20,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 50022,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50022-459915458_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50022-459915458_small.jpg",
+     "page": "https://pixabay.com/videos/id-50022/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park, unhappy, uninterested",
+     "duration": 27,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 50020,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50020-459915455_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50020-459915455_small.jpg",
+     "page": "https://pixabay.com/videos/id-50020/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 22,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 50021,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50021-459915456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50021-459915456_small.jpg",
+     "page": "https://pixabay.com/videos/id-50021/",
+     "tags": "couple, young, phones, lack of support, support, sad, disappointed, sensitive, mobile, success, job interview, motivation, park",
+     "duration": 20,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 50317,
+     "url": "https://cdn.pixabay.com/video/2020/09/19/50317-460401341_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/19/50317-460401341_small.jpg",
+     "page": "https://pixabay.com/videos/id-50317/",
+     "tags": "couple, addiction, pills, medication, overdose, relationships, unhealthy, dependency, illegal, struggles, problems, suicidal, stopping, helping, sad",
+     "duration": 9,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 245932,
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/09/245932_small.jpg",
+     "page": "https://pixabay.com/videos/id-245932/",
+     "tags": "couple, love, lovers, together, relationship, romance, romantic",
+     "duration": 7,
+     "query": "sad couple"
+    },
+    {
+     "pixabay_id": 203196,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_small.jpg",
+     "page": "https://pixabay.com/videos/id-203196/",
+     "tags": "sunset, seagulls, birds, gulls, silhouette, sky, sun, wildlife, seabirds, couple, nature, eearhday",
+     "duration": 49,
+     "query": "sad couple"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "But for everyone else,",
+   "candidates": [
+    {
+     "pixabay_id": 174008,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174008-850361316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174008-850361316_small.jpg",
+     "page": "https://pixabay.com/videos/id-174008/",
+     "tags": "woman, smile, communication, gesture, expression, asian, close up, young, university",
+     "duration": 12,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 130211,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130211-748134196_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130211-748134196_small.jpg",
+     "page": "https://pixabay.com/videos/id-130211/",
+     "tags": "woman, young, walking, happy, lifestyle, smile, female, adult, girl, person",
+     "duration": 11,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 22597,
+     "url": "https://cdn.pixabay.com/video/2019/04/05/22597-328624850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/05/22597-328624850_small.jpg",
+     "page": "https://pixabay.com/videos/id-22597/",
+     "tags": "woman, asian, person, asia, smile, attractive, people, adult, japanese",
+     "duration": 24,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 174009,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_small.jpg",
+     "page": "https://pixabay.com/videos/id-174009/",
+     "tags": "woman, phone, smile, social networking, communication, online, internet, network, asian",
+     "duration": 12,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 85212,
+     "url": "https://cdn.pixabay.com/video/2021/08/15/85212-590779450_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/15/85212-590779450_small.jpg",
+     "page": "https://pixabay.com/videos/id-85212/",
+     "tags": "woman, model, pier, walk, ocean, sea, summer, beach, happy, young, vacation, female, smile, person",
+     "duration": 10,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 85213,
+     "url": "https://cdn.pixabay.com/video/2021/08/15/85213-590779453_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/15/85213-590779453_small.jpg",
+     "page": "https://pixabay.com/videos/id-85213/",
+     "tags": "woman, model, pier, walk, ocean, sea, summer, beach, happy, young, vacation, female, smile, person",
+     "duration": 17,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 22601,
+     "url": "https://cdn.pixabay.com/video/2019/04/05/22601-328624863_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/05/22601-328624863_small.jpg",
+     "page": "https://pixabay.com/videos/id-22601/",
+     "tags": "woman, model, photo-session, work, asian, person, asia, smile, attractive, people, adult, japanese, fashion",
+     "duration": 12,
+     "query": "woman smiling"
+    }
+   ]
+  }
+ ]
+}

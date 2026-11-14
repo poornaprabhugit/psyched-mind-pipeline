@@ -1,0 +1,551 @@
+{
+ "id": "n01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You get about sixty percent more ideas just by walking.",
+   "candidates": [
+    {
+     "pixabay_id": 45254,
+     "url": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_small.jpg",
+     "page": "https://pixabay.com/videos/id-45254/",
+     "tags": "man, walking, street, headphones, city, architecture, building, cathedral, perspective",
+     "duration": 19,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 33569,
+     "url": "https://cdn.pixabay.com/video/2020/03/12/33569-397143928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/12/33569-397143928_small.jpg",
+     "page": "https://pixabay.com/videos/id-33569/",
+     "tags": "street, people, city, urban, walking, sidewalk, crowd, fashion, portrait, youth, man, buildings, busy",
+     "duration": 36,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 24333,
+     "url": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_small.jpg",
+     "page": "https://pixabay.com/videos/id-24333/",
+     "tags": "walking, street, city, people, urban, road, walk, person, wall, town, lonely, shoes, style, woman, man, architecture, lifestyle",
+     "duration": 18,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 39837,
+     "url": "https://cdn.pixabay.com/video/2020/05/22/39837-424360872_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/22/39837-424360872_small.jpg",
+     "page": "https://pixabay.com/videos/id-39837/",
+     "tags": "alley, people, walk, street, ukraine, city, stroll, man, crowd, cover",
+     "duration": 34,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 159908,
+     "url": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_small.jpg",
+     "page": "https://pixabay.com/videos/id-159908/",
+     "tags": "couple, people, woman, man, park, young, adult, outdoors, walk, old, lifestyle, love, happy, healthy, outside, together, street, nature",
+     "duration": 14,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 129241,
+     "url": "https://cdn.pixabay.com/video/2022/08/27/129241-743827319_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/27/129241-743827319_small.jpg",
+     "page": "https://pixabay.com/videos/id-129241/",
+     "tags": "mountain, nature, road, cars, man, walk, running, trees, landscape, street lamp",
+     "duration": 11,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 5025,
+     "url": "https://cdn.pixabay.com/video/2016/09/09/5025-182666664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/09/5025-182666664_small.jpg",
+     "page": "https://pixabay.com/videos/id-5025/",
+     "tags": "street, walk, urban, city, walking, person, young, female, people walking, girl, outdoor, women, woman, urban street, woman walking, fashion, life, barcelona, spain, mediterranean, bike, catalunya, european, europe, travel, catalonia, tourism, spanish, summer, bicycle, man, shop",
+     "duration": 11,
+     "query": "man walking street"
+    },
+    {
+     "pixabay_id": 159169,
+     "url": "https://cdn.pixabay.com/video/2023/04/16/159169-818219676_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/16/159169-818219676_small.jpg",
+     "page": "https://pixabay.com/videos/id-159169/",
+     "tags": "dogs, neighbours, street, to walk, city, old man, old woman, loneliness, newspaper, walking stick, old age, people, barcelona",
+     "duration": 8,
+     "query": "man walking street"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers had people brainstorm sitting down, then on a treadmill.",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 7795,
+     "url": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_small.jpg",
+     "page": "https://pixabay.com/videos/id-7795/",
+     "tags": "spider, arachnid, insect, octapod, animal, walking spider, wood trunk",
+     "duration": 11,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "treadmill walking"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Same room. Same blank wall.",
+   "candidates": [
+    {
+     "pixabay_id": 109674,
+     "url": "https://cdn.pixabay.com/video/2022/03/04/109674-685086225_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/04/109674-685086225_small.jpg",
+     "page": "https://pixabay.com/videos/id-109674/",
+     "tags": "city, urban, street, walkway, road, parked, cars, pov, walking, moving, forward, stone, wall, monochrome, black and white",
+     "duration": 14,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 123082,
+     "url": "https://cdn.pixabay.com/video/2022/07/04/123082-726838237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/04/123082-726838237_small.jpg",
+     "page": "https://pixabay.com/videos/id-123082/",
+     "tags": "castle, mountain, dji, gopro, spain, pine, nature, beauty, history, antiquity, ruins, drone, mediterranean, wall, fortification, christian, epic, cinema, 4k, alicante, white shore",
+     "duration": 30,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 3245,
+     "url": "https://cdn.pixabay.com/video/2016/05/20/3245-167599895_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/20/3245-167599895_small.jpg",
+     "page": "https://pixabay.com/videos/id-3245/",
+     "tags": "cat, gata, feline, wall, animal, kitten, attentive, look feline, still feline, animals, sly, gat\u00e3o, brazil, cat's eyes, feline affection, eyes, domestic animal, pet, cat face, zoology, house cat, cute, look, nature, furry, domestic, black and white, tabby, vertebrate, different eyes, beautiful, adorable",
+     "duration": 9,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 123080,
+     "url": "https://cdn.pixabay.com/video/2022/07/04/123080-726838231_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/04/123080-726838231_small.jpg",
+     "page": "https://pixabay.com/videos/id-123080/",
+     "tags": "castle, mountain, dji, gopro, spain, pine, nature, beauty, history, antiquity, ruins, drone, mediterranean, wall, fortification, christian, epic, cinema, 4k, alicante, white shore, fly, mavic, sunset",
+     "duration": 30,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 123081,
+     "url": "https://cdn.pixabay.com/video/2022/07/04/123081-726838232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/04/123081-726838232_small.jpg",
+     "page": "https://pixabay.com/videos/id-123081/",
+     "tags": "castle, mountain, dji, gopro, spain, pine, nature, beauty, history, antiquity, ruins, drone, mediterranean, wall, fortification, christian, epic, cinema, 4k, alicante, white shore",
+     "duration": 27,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 123805,
+     "url": "https://cdn.pixabay.com/video/2022/07/11/123805-729035769_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/11/123805-729035769_small.jpg",
+     "page": "https://pixabay.com/videos/id-123805/",
+     "tags": "blue sky, building, house, white clouds, day, spring, old courtyard, courtyard-well, architecture, yellow walls, windows, metropolis, city, huge city, old town, urban romance, cityscape, historical center, tourist center, cultural center",
+     "duration": 37,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 268569,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268569_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268569_small.jpg",
+     "page": "https://pixabay.com/videos/id-268569/",
+     "tags": "wall, texture, building, green, nature, red, white, architecture, antibes, stone, orca, room, painting, mountains, house, interior, empty, pattern, concrete, sea, masonry, door, bench, brick",
+     "duration": 67,
+     "query": "white wall"
+    },
+    {
+     "pixabay_id": 110092,
+     "url": "https://cdn.pixabay.com/video/2022/03/08/110092-686962666_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/08/110092-686962666_small.jpg",
+     "page": "https://pixabay.com/videos/id-110092/",
+     "tags": "city, urban, day, street, buildings, walls, graffiti, road, wide, pov, walking, monochrome, black, white",
+     "duration": 12,
+     "query": "white wall"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Walking, their ideas jumped.",
+   "candidates": [
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 185092,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_small.jpg",
+     "page": "https://pixabay.com/videos/id-185092/",
+     "tags": "book, wind, literature, education, writing, reading, poetry, novel, author",
+     "duration": 19,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "woman idea writing"
+    },
+    {
+     "pixabay_id": 133604,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133604-757274773_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133604-757274773_small.jpg",
+     "page": "https://pixabay.com/videos/id-133604/",
+     "tags": "sign, ocean, path, direction, trip, aim, success, writing, plaque, logo, concept, idea, design, symbol, sea, waves, coast, beach",
+     "duration": 59,
+     "query": "woman idea writing"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "And it lasted after they sat back down.",
+   "candidates": [
+    {
+     "pixabay_id": 130645,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_small.jpg",
+     "page": "https://pixabay.com/videos/id-130645/",
+     "tags": "woman, model, notebook, book, creator, desk, businesswoman, young, writing, working, paper, lifestyle, laptop, computer, adult, work, student, pen, business, typing, table, sitting, creative, casual",
+     "duration": 15,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 80314,
+     "url": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_small.jpg",
+     "page": "https://pixabay.com/videos/id-80314/",
+     "tags": "office, desk, team work, insurance, writing, facts, thinking",
+     "duration": 10,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 191159,
+     "url": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_small.jpg",
+     "page": "https://pixabay.com/videos/id-191159/",
+     "tags": "gull, bird, snow, plumage, sitting, winter, wildlife",
+     "duration": 10,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 216696,
+     "url": "https://cdn.pixabay.com/video/2024/06/14/216696_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/14/216696_small.jpg",
+     "page": "https://pixabay.com/videos/id-216696/",
+     "tags": "baboons, apes, cub, family, tree trunk, sitting, wildlife",
+     "duration": 16,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 7269,
+     "url": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/12/7269-199224765_small.jpg",
+     "page": "https://pixabay.com/videos/id-7269/",
+     "tags": "office, secretary, business, work, woman, businesswoman, people, job, professional, person, worker, desk, corporate, young, workplace, computer, female, manager, employee, girl, phone, technology, modern, busy, success, adult, occupation, reception, caucasian, boss, assistant, sitting",
+     "duration": 16,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 203260,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_small.jpg",
+     "page": "https://pixabay.com/videos/id-203260/",
+     "tags": "woman, computer, laptop, typing, work, desk, business, marketing, communication, texting, cup, espresso, coffee, professional",
+     "duration": 5,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 3160,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_small.jpg",
+     "page": "https://pixabay.com/videos/id-3160/",
+     "tags": "laptop, keyboard, typing, writing, notebook, computer, work, business, technology, office, communication, working, education, desk, programmer, computer keyboard, programming, hands, fingers",
+     "duration": 13,
+     "query": "woman sitting desk writing"
+    },
+    {
+     "pixabay_id": 158961,
+     "url": "https://cdn.pixabay.com/video/2023/04/14/158961-818020185_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/14/158961-818020185_small.jpg",
+     "page": "https://pixabay.com/videos/id-158961/",
+     "tags": "woman, computer, job, desk, sick, face mask, concentration",
+     "duration": 36,
+     "query": "woman sitting desk writing"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "So when you're stuck, don't stare at the problem.",
+   "candidates": [
+    {
+     "pixabay_id": 86866,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_small.jpg",
+     "page": "https://pixabay.com/videos/id-86866/",
+     "tags": "man, home office, laptop, call, phone, comfortable, relax, home",
+     "duration": 10,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 3576,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_small.jpg",
+     "page": "https://pixabay.com/videos/id-3576/",
+     "tags": "macbook, notebook, laptop, typing, office, write, keyboard, mobile, modern, startup, apple, device, electronics, technology, hands, man, working, communication, person, internet, gadget",
+     "duration": 37,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 268230,
+     "url": "https://cdn.pixabay.com/video/2025/03/28/268230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/28/268230_small.jpg",
+     "page": "https://pixabay.com/videos/id-268230/",
+     "tags": "business, office, computer, man, laptop, company, corporate, meeting, work, marketing, team, technology, people, internet, planning, professional, working, project, web, startup, building, young, students, plan",
+     "duration": 12,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 26533,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_small.jpg",
+     "page": "https://pixabay.com/videos/id-26533/",
+     "tags": "video production, camera, macbook, computer, laptop, technology, apple, screen, event, equipments, professional, focus, photo, lens, image, man, transmission, live, recording",
+     "duration": 9,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 125431,
+     "url": "https://cdn.pixabay.com/video/2022/07/25/125431-733383722_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/25/125431-733383722_small.jpg",
+     "page": "https://pixabay.com/videos/id-125431/",
+     "tags": "man, adult, beard, bench, business, businessman, casual, communication, computer, connection, face, beautiful wallpaper, hipster, keyboard, laptop, lifestyle, male, old, outdoors, background",
+     "duration": 17,
+     "query": "man frustrated laptop"
+    },
+    {
+     "pixabay_id": 197,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/197-135846412_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/197-135846412_small.jpg",
+     "page": "https://pixabay.com/videos/id-197/",
+     "tags": "notebook, ultrabook, typing, writing, laptop, home office, office, electronic device, letters, program, mobile, hands, man, work, business, luxury, apple macbook, smartphone, iphone 6, display, screen, monitor",
+     "duration": 36,
+     "query": "man frustrated laptop"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Get up and walk. Because",
+   "candidates": [
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 26771,
+     "url": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_small.jpg",
+     "page": "https://pixabay.com/videos/id-26771/",
+     "tags": "letter, writting, pen, book, office, poem, message, hand, man",
+     "duration": 41,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 4723,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_small.jpg",
+     "page": "https://pixabay.com/videos/id-4723/",
+     "tags": "busy, office, people, indoors, business, work, office people, occupation, working people, corporate, modern, start-up",
+     "duration": 14,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 215751,
+     "url": "https://cdn.pixabay.com/video/2024/06/07/215751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/07/215751_small.jpg",
+     "page": "https://pixabay.com/videos/id-215751/",
+     "tags": "man, office work, business, payroll, payroll management, working late night, computer, digital, tired",
+     "duration": 18,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 710,
+     "url": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_small.jpg",
+     "page": "https://pixabay.com/videos/id-710/",
+     "tags": "board, write, man, memo, memory, chalk, meeting, meet, office, business, team",
+     "duration": 23,
+     "query": "man standing up office"
+    },
+    {
+     "pixabay_id": 73531,
+     "url": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_small.jpg",
+     "page": "https://pixabay.com/videos/id-73531/",
+     "tags": "man, corridor, coffee, phone, break, business, work, team, people, office, employees, marketing, environment, conversation, mobile, communication",
+     "duration": 60,
+     "query": "man standing up office"
+    }
+   ]
+  }
+ ]
+}

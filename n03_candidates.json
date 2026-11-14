@@ -1,0 +1,551 @@
+{
+ "id": "n03",
+ "lines": [
+  {
+   "n": 1,
+   "text": "The same dress sold more at thirty-nine dollars than at thirty-four.",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 206029,
+     "url": "https://cdn.pixabay.com/video/2024/03/29/206029_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg",
+     "page": "https://pixabay.com/videos/id-206029/",
+     "tags": "tailor, clothing, fashion designer, tailor shop",
+     "duration": 46,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 110492,
+     "url": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_small.jpg",
+     "page": "https://pixabay.com/videos/id-110492/",
+     "tags": "bride, curtains, wedding, woman, dress",
+     "duration": 8,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 192667,
+     "url": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_small.jpg",
+     "page": "https://pixabay.com/videos/id-192667/",
+     "tags": "woman, model, sunset, dress, sky, dawn, female, fashion",
+     "duration": 8,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 146130,
+     "url": "https://cdn.pixabay.com/video/2023/01/11/146130-788410151_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/11/146130-788410151_small.jpg",
+     "page": "https://pixabay.com/videos/id-146130/",
+     "tags": "woman, park, shoes, dress, style, fashion",
+     "duration": 12,
+     "query": "dress shop"
+    },
+    {
+     "pixabay_id": 1331,
+     "url": "https://cdn.pixabay.com/video/2015/11/11/1331-147084832_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg",
+     "page": "https://pixabay.com/videos/id-1331/",
+     "tags": "clothing, fashion, suit, male, collection, elegance, shopping, lifestyle, shop",
+     "duration": 26,
+     "query": "dress shop"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "A clothing catalog printed different prices for different customers.",
+   "candidates": [
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 22592,
+     "url": "https://cdn.pixabay.com/video/2019/04/05/22592-328624838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/05/22592-328624838_small.jpg",
+     "page": "https://pixabay.com/videos/id-22592/",
+     "tags": "woman, asian, person, photosession, posing, magazine, smile, attractive, people, adult, japanese",
+     "duration": 10,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 141519,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_small.jpg",
+     "page": "https://pixabay.com/videos/id-141519/",
+     "tags": "book, reading, page, literature, education, read, nature, viewpoint, sea, seaside, wind, cloudy",
+     "duration": 15,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 185096,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_small.jpg",
+     "page": "https://pixabay.com/videos/id-185096/",
+     "tags": "book, pages, literature, beach, ocean, education, reading, study, school, learning, poet, writer",
+     "duration": 13,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "magazine pages"
+    },
+    {
+     "pixabay_id": 135877,
+     "url": "https://cdn.pixabay.com/video/2022/10/21/135877-764362178_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/21/135877-764362178_small.jpg",
+     "page": "https://pixabay.com/videos/id-135877/",
+     "tags": "book, pages, wind, viewpoint, sunset, literature, poet, literat",
+     "duration": 12,
+     "query": "magazine pages"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Thirty-four. Thirty-nine. Forty-four.",
+   "candidates": [
+    {
+     "pixabay_id": 993,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_small.jpg",
+     "page": "https://pixabay.com/videos/id-993/",
+     "tags": "sale, price, city, new york, billboard, sign, offer, discount, label, special, market, sale tag, retail, best price, shopping, marketing",
+     "duration": 14,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 107858,
+     "url": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_small.jpg",
+     "page": "https://pixabay.com/videos/id-107858/",
+     "tags": "common heron, cormorants, duck, birds, group form, price, creek, animal",
+     "duration": 31,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 116943,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_small.jpg",
+     "page": "https://pixabay.com/videos/id-116943/",
+     "tags": "sheep, animal, farm animal, farm, flock, horns, white, whole, pack, cute, lamb, grazing, walking, daylight, livestock, tagged, herd",
+     "duration": 21,
+     "query": "price tag"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "The middle price won.",
+   "candidates": [
+    {
+     "pixabay_id": 209896,
+     "url": "https://cdn.pixabay.com/video/2024/04/29/209896_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/29/209896_small.jpg",
+     "page": "https://pixabay.com/videos/id-209896/",
+     "tags": "woman, clothes, shop, retail store, casual, fashion, shopping",
+     "duration": 19,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 209895,
+     "url": "https://cdn.pixabay.com/video/2024/04/29/209895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/29/209895_small.jpg",
+     "page": "https://pixabay.com/videos/id-209895/",
+     "tags": "woman, clothes, store, retail store, style, fashion, shopping",
+     "duration": 19,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, crowd, many, bokeh, blur, beautiful wallpaper, background, shopping mall, shopping center",
+     "duration": 14,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "woman shopping clothes"
+    },
+    {
+     "pixabay_id": 57770,
+     "url": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/29/57770-486809739_small.jpg",
+     "page": "https://pixabay.com/videos/id-57770/",
+     "tags": "chinatown, street market, chinese, shopping street, traditional, colorful streets, shopping",
+     "duration": 13,
+     "query": "woman shopping clothes"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "A price ending in nine reads like a deal, even when it costs more.",
+   "candidates": [
+    {
+     "pixabay_id": 210783,
+     "url": "https://cdn.pixabay.com/video/2024/05/05/210783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/05/210783_small.jpg",
+     "page": "https://pixabay.com/videos/id-210783/",
+     "tags": "market, fair, sale, garage sale, people, together, community, old, business",
+     "duration": 24,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 198888,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_small.jpg",
+     "page": "https://pixabay.com/videos/id-198888/",
+     "tags": "business, real estate, home, department, attorney, legal, balance, sale, market",
+     "duration": 10,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 32021,
+     "url": "https://cdn.pixabay.com/video/2020/02/06/32021-390497693_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/06/32021-390497693_small.jpg",
+     "page": "https://pixabay.com/videos/id-32021/",
+     "tags": "love, love you, valentine, february, heart, wedding, romance, feeling, crush, valentine's day, loop, looping, neon, neon sign, relationship, emotions",
+     "duration": 10,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 198898,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198898-909564555_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198898-909564555_small.jpg",
+     "page": "https://pixabay.com/videos/id-198898/",
+     "tags": "attorney, law, justice, legal, face, judgment, right, apartment, money, property, home, bank, sale, department, real estate, planning, divorce",
+     "duration": 28,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 44598,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44598-439940213_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44598-439940213_small.jpg",
+     "page": "https://pixabay.com/videos/id-44598/",
+     "tags": "floating market, vietnam, river, farmer, business, boat, agriculture product, sale, buy, Vietnam, Can Tho",
+     "duration": 10,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 198901,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198901-909564558_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198901-909564558_small.jpg",
+     "page": "https://pixabay.com/videos/id-198901/",
+     "tags": "attorney, law, judge, legal, entrepreneur, sign, warning, contract, agreement, firm, business",
+     "duration": 14,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 219637,
+     "url": "https://cdn.pixabay.com/video/2024/07/05/219637_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/05/219637_small.jpg",
+     "page": "https://pixabay.com/videos/id-219637/",
+     "tags": "sunset, evening, dusk, mountain, hollywood sign, twilight, nature",
+     "duration": 28,
+     "query": "sale sign"
+    },
+    {
+     "pixabay_id": 29886,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_small.jpg",
+     "page": "https://pixabay.com/videos/id-29886/",
+     "tags": "web, internet, real estate, laptop, digital, media, connected, tech, computer, information, communication, network, property, selling, home, house sale, searching, buying",
+     "duration": 24,
+     "query": "sale sign"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Your brain grabs the first digit and stops there.",
+   "candidates": [
+    {
+     "pixabay_id": 46230,
+     "url": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_small.jpg",
+     "page": "https://pixabay.com/videos/id-46230/",
+     "tags": "cat, pet, window, waiting, looking, animal, white cat",
+     "duration": 7,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 14869,
+     "url": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_small.jpg",
+     "page": "https://pixabay.com/videos/id-14869/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, outdoors, brown, looking, look, posing",
+     "duration": 19,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 15305,
+     "url": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_small.jpg",
+     "page": "https://pixabay.com/videos/id-15305/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, brown, looking, look, posing, adorable, portrait, tense, calm",
+     "duration": 15,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 148501,
+     "url": "https://cdn.pixabay.com/video/2023/01/29/148501-794344007_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/29/148501-794344007_small.jpg",
+     "page": "https://pixabay.com/videos/id-148501/",
+     "tags": "market, walking, shopping people, looking, verona, italy",
+     "duration": 14,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 397,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_small.jpg",
+     "page": "https://pixabay.com/videos/id-397/",
+     "tags": "woodhouse's toad, animal, frog, amphibian, toad, water, slimy, eyes, looking, nostrils",
+     "duration": 7,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 11722,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_small.jpg",
+     "page": "https://pixabay.com/videos/id-11722/",
+     "tags": "rain, water, window, wet, drops, dripping, rainy, night, light, sad",
+     "duration": 33,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 83866,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83866-584870618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83866-584870618_small.jpg",
+     "page": "https://pixabay.com/videos/id-83866/",
+     "tags": "woman, communication, smartphone, phone, office, business, computer, female, hand, home, job, looking, mobile, sitting, lifestyle",
+     "duration": 20,
+     "query": "woman looking shop window"
+    },
+    {
+     "pixabay_id": 115792,
+     "url": "https://cdn.pixabay.com/video/2022/05/02/115792-705553545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/02/115792-705553545_small.jpg",
+     "page": "https://pixabay.com/videos/id-115792/",
+     "tags": "fabric, sewing machine, seamstress, workshop, cutting table, tool, work, woman, human, employee, shop",
+     "duration": 14,
+     "query": "woman looking shop window"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why, in that catalog,",
+   "candidates": [
+    {
+     "pixabay_id": 152728,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152728-803732848_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152728-803732848_small.jpg",
+     "page": "https://pixabay.com/videos/id-152728/",
+     "tags": "offset, pressure, paper, environment, printing press, printer, printing machine, newspaper, print, magazine, flyer, brochure, press machine, machine, industry, heidelberg, craft, cmyk",
+     "duration": 11,
+     "query": "magazine"
+    },
+    {
+     "pixabay_id": 237501,
+     "url": "https://cdn.pixabay.com/video/2024/10/21/237501_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/21/237501_small.jpg",
+     "page": "https://pixabay.com/videos/id-237501/",
+     "tags": "coffee, cup, caffeine, drink, smell, breakfast, hot, colombia, cappuccino, clock, magazine, roast, beans, process",
+     "duration": 11,
+     "query": "magazine"
+    },
+    {
+     "pixabay_id": 1310,
+     "url": "https://cdn.pixabay.com/video/2015/11/11/1310-145386665_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/11/1310-145386665_small.jpg",
+     "page": "https://pixabay.com/videos/id-1310/",
+     "tags": "library, books, shelves, literature, parquet, reading, development, the culture, fund, education, public, to read, rack, classic, archive, schoolboy, catalog, best-seller, architecture, design, society, writer",
+     "duration": 17,
+     "query": "catalog pages"
+    },
+    {
+     "pixabay_id": 207982,
+     "url": "https://cdn.pixabay.com/video/2024/04/14/207982_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/14/207982_small.jpg",
+     "page": "https://pixabay.com/videos/id-207982/",
+     "tags": "book, paper, old, pages, antique, vintage, wood, retro, bible, literature, leather, object, civilization",
+     "duration": 7,
+     "query": "catalog pages"
+    },
+    {
+     "pixabay_id": 4878,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_small.jpg",
+     "page": "https://pixabay.com/videos/id-4878/",
+     "tags": "book, reading, leaf through, pages, hands, literature, education, to read",
+     "duration": 11,
+     "query": "catalog pages"
+    },
+    {
+     "pixabay_id": 4941,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_small.jpg",
+     "page": "https://pixabay.com/videos/id-4941/",
+     "tags": "search, web, website, address, arrow, background, bar, box, browser, browsing, business, click, closeup, commerce, computer, concept, cursor, data, domain, beautiful wallpaper, find, graphic, http, hyperlink, information, internet, link, mouse, name, net, network, online, page, pointer, pointing, screen, shopping, site, surfing, url, webpage, white, wide, window, world, www",
+     "duration": 16,
+     "query": "catalog pages"
+    },
+    {
+     "pixabay_id": 84005,
+     "url": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_small.jpg",
+     "page": "https://pixabay.com/videos/id-84005/",
+     "tags": "book, read, novel, literature, learning, pages, knowledge, information, bible, culture, stories, history, reading, vintage",
+     "duration": 18,
+     "query": "catalog pages"
+    },
+    {
+     "pixabay_id": 21941,
+     "url": "https://cdn.pixabay.com/video/2019/03/11/21941-323198485_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/11/21941-323198485_small.jpg",
+     "page": "https://pixabay.com/videos/id-21941/",
+     "tags": "dictionary, wind, pages, words, book, learning, knowledge, information, studying, text",
+     "duration": 26,
+     "query": "catalog pages"
+    }
+   ]
+  }
+ ]
+}

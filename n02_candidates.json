@@ -1,0 +1,551 @@
+{
+ "id": "n02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Say because, and people agree, even to a pointless reason.",
+   "candidates": [
+    {
+     "pixabay_id": 36510,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_small.jpg",
+     "page": "https://pixabay.com/videos/id-36510/",
+     "tags": "airport, people, crowd, busy, live wallpaper, welcome, hello",
+     "duration": 11,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 21115,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_small.jpg",
+     "page": "https://pixabay.com/videos/id-21115/",
+     "tags": "seoul, street, traffic, cars, speed, motorcycle, people, movement",
+     "duration": 6,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 21116,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_small.jpg",
+     "page": "https://pixabay.com/videos/id-21116/",
+     "tags": "seoul, street, night, neon, traffic, lights, road, cars, vehicles, people, movement, live wallpaper",
+     "duration": 7,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 44702,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44702-439940419_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44702-439940419_small.jpg",
+     "page": "https://pixabay.com/videos/id-44702/",
+     "tags": "path, people, helicopter, mountains, hike, summer, alpine, transport, meiringen, time lapse, timelapse",
+     "duration": 45,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 188778,
+     "url": "https://cdn.pixabay.com/video/2023/11/12/188778-883818276_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/12/188778-883818276_small.jpg",
+     "page": "https://pixabay.com/videos/id-188778/",
+     "tags": "winter, snow, people, walk, to stroll, landscape, winter landscape, covered in snow, trees, nature",
+     "duration": 23,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 84973,
+     "url": "https://cdn.pixabay.com/video/2021/08/13/84973-587646755_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/13/84973-587646755_small.jpg",
+     "page": "https://pixabay.com/videos/id-84973/",
+     "tags": "people, sunset, stroll, moscow, glare, sky, culture park, evening, walk, park of culture, live wallpaper",
+     "duration": 10,
+     "query": "people queue"
+    },
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "people queue"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers asked to cut the line at a copy machine.",
+   "candidates": [
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "photocopier"
+    },
+    {
+     "pixabay_id": 15763,
+     "url": "https://cdn.pixabay.com/video/2018/04/23/15763-266806335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/23/15763-266806335_small.jpg",
+     "page": "https://pixabay.com/videos/id-15763/",
+     "tags": "printer, press, paper, color, colors, typography, printing house, laboratory, automation, ink, copy, photocopy, office, computer",
+     "duration": 15,
+     "query": "photocopier"
+    },
+    {
+     "pixabay_id": 180731,
+     "url": "https://cdn.pixabay.com/video/2023/09/15/180731-864967852_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/15/180731-864967852_small.jpg",
+     "page": "https://pixabay.com/videos/id-180731/",
+     "tags": "paper, printer, ink jet, ink, photocopier, office, technology, business, desk, chart, graph, finance",
+     "duration": 22,
+     "query": "photocopier"
+    },
+    {
+     "pixabay_id": 144734,
+     "url": "https://cdn.pixabay.com/video/2022/12/30/144734-785282806_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/30/144734-785282806_small.jpg",
+     "page": "https://pixabay.com/videos/id-144734/",
+     "tags": "printer, photocopier, cmyk",
+     "duration": 23,
+     "query": "photocopier"
+    },
+    {
+     "pixabay_id": 144732,
+     "url": "https://cdn.pixabay.com/video/2022/12/30/144732-785282797_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/30/144732-785282797_small.jpg",
+     "page": "https://pixabay.com/videos/id-144732/",
+     "tags": "printer, photocopier, cmyk",
+     "duration": 11,
+     "query": "photocopier"
+    },
+    {
+     "pixabay_id": 3496,
+     "url": "https://cdn.pixabay.com/video/2016/06/17/3496-171220901_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/17/3496-171220901_small.jpg",
+     "page": "https://pixabay.com/videos/id-3496/",
+     "tags": "printer, print, computer, paper, usb, office, copy machine, pra\u00e7a, ink, modern, technology, electric, machine, typed, job, white, black, plastic",
+     "duration": 13,
+     "query": "printer office"
+    },
+    {
+     "pixabay_id": 197210,
+     "url": "https://cdn.pixabay.com/video/2024/01/18/197210-904265127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/18/197210-904265127_small.jpg",
+     "page": "https://pixabay.com/videos/id-197210/",
+     "tags": "print, printer, office, job, technology, computer, desk",
+     "duration": 21,
+     "query": "printer office"
+    },
+    {
+     "pixabay_id": 34594,
+     "url": "https://cdn.pixabay.com/video/2020/03/30/34594-402634196_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/30/34594-402634196_small.jpg",
+     "page": "https://pixabay.com/videos/id-34594/",
+     "tags": "printing device, printer, printing, machine, ink, cmyk, oppression, print, printing process",
+     "duration": 20,
+     "query": "printer office"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "No reason: sixty percent said yes.",
+   "candidates": [
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 1057,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_small.jpg",
+     "page": "https://pixabay.com/videos/id-1057/",
+     "tags": "working, office, open, beautiful wallpaper, people, waiting, blur, bokeh, background, chairs, room",
+     "duration": 15,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 10874,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10874-226635348_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10874-226635348_small.jpg",
+     "page": "https://pixabay.com/videos/id-10874/",
+     "tags": "airport, waiting, terminal, passengers, travelers, departure, business, flight, plane, trip, tourists, people, gate, airline",
+     "duration": 45,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 248698,
+     "url": "https://cdn.pixabay.com/video/2024/12/25/248698_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/25/248698_small.jpg",
+     "page": "https://pixabay.com/videos/id-248698/",
+     "tags": "cathedral, notre dame of paris, paris, france, renovation, renovated, church, faith, religion, pious, priest, mass, people, waiting, fraternity, equality, momentum, hope, spirit, divine, holiness, meditate, love",
+     "duration": 15,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 37629,
+     "url": "https://cdn.pixabay.com/video/2020/04/30/37629-414754491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/30/37629-414754491_small.jpg",
+     "page": "https://pixabay.com/videos/id-37629/",
+     "tags": "thoughtful, thoughts, serious, mood, man, alone, calm, young, waiting, journey, sand, foot, footprints, beach, travel, vacation, nature, relax, outdoor, water, holiday, coast, landscape, people",
+     "duration": 31,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 37628,
+     "url": "https://cdn.pixabay.com/video/2020/04/30/37628-414754498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/30/37628-414754498_small.jpg",
+     "page": "https://pixabay.com/videos/id-37628/",
+     "tags": "thoughtful, thoughts, serious, mood, man, alone, calm, young, waiting, journey, sand, foot, footprints, beach, travel, vacation, nature, relax, footprint, outdoor, water, holiday, coast, landscape, people",
+     "duration": 21,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 97828,
+     "url": "https://cdn.pixabay.com/video/2021/11/14/97828-649761035_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/14/97828-649761035_small.jpg",
+     "page": "https://pixabay.com/videos/id-97828/",
+     "tags": "coast, dock, v, ship, sea, wave, that, goal, transport, to wait, people, view, nature, beautiful, sunny, background, trip, men, human, women, concrete, ground",
+     "duration": 57,
+     "query": "people waiting"
+    },
+    {
+     "pixabay_id": 371504,
+     "url": "https://cdn.pixabay.com/video/2026/08/20/371504_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/20/371504_small.jpg",
+     "page": "https://pixabay.com/videos/id-371504/",
+     "tags": "water, boat, ferry, travel, transport, transportation, dock, pier, people, waiting, motion, footage, clip, river, nautical",
+     "duration": 30,
+     "query": "people waiting"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Because I have to make copies: ninety-three.",
+   "candidates": [
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 349087,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349087_small.jpg",
+     "page": "https://pixabay.com/videos/id-349087/",
+     "tags": "file, folder, document, cabinet, archive, spreadsheet, paper, law, libra, justice, weigh, judge, paragraph, balance",
+     "duration": 17,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 87146,
+     "url": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_small.jpg",
+     "page": "https://pixabay.com/videos/id-87146/",
+     "tags": "file, documents, office, paperwork",
+     "duration": 6,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 87050,
+     "url": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_small.jpg",
+     "page": "https://pixabay.com/videos/id-87050/",
+     "tags": "ink, writing, pen, paper, letter, calligraphy, nostalgic, author, antique, contact, style, document, education, signature, inkwell, hand writing",
+     "duration": 18,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 45399,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45399-443057201_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45399-443057201_small.jpg",
+     "page": "https://pixabay.com/videos/id-45399/",
+     "tags": "peach blossom, spring, nature, beautiful, bright, pink, blossom, april, copy tree",
+     "duration": 63,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 41146,
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_small.jpg",
+     "page": "https://pixabay.com/videos/id-41146/",
+     "tags": "text, writing, document, page, writer, letter, ink, vintage, pen, retro, old, lyrics, calligraphy, author, daily",
+     "duration": 17,
+     "query": "copying documents"
+    },
+    {
+     "pixabay_id": 9037,
+     "url": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_small.jpg",
+     "page": "https://pixabay.com/videos/id-9037/",
+     "tags": "book, page, publication, knowledge, study, creativity, document, daily, notebook, open, opened, hand, browse",
+     "duration": 20,
+     "query": "copying documents"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Everyone there had to make copies.",
+   "candidates": [
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 107425,
+     "url": "https://cdn.pixabay.com/video/2022/02/11/107425-678258632_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/11/107425-678258632_small.jpg",
+     "page": "https://pixabay.com/videos/id-107425/",
+     "tags": "business, office, laptop, communication, beautiful wallpaper, woman, computer, work, businesswoman, female, technology, young, worker, sitting, internet, caucasian, girl, working, workplace, typing, online, women, table, lady, background, wood",
+     "duration": 16,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 6389,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_small.jpg",
+     "page": "https://pixabay.com/videos/id-6389/",
+     "tags": "office, desk, beautiful wallpaper, work, bokeh, blur, background, people, workers, business, computer, table, room, technology, work space, start-up, corporate",
+     "duration": 13,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 63,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/63-135732123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/63-135732123_small.jpg",
+     "page": "https://pixabay.com/videos/id-63/",
+     "tags": "laptop, typing, notebook, computer, work, office, hands, male, man, office worker, mobile, programming, writing, letters",
+     "duration": 8,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 273582,
+     "url": "https://cdn.pixabay.com/video/2025/04/22/273582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/22/273582_small.jpg",
+     "page": "https://pixabay.com/videos/id-273582/",
+     "tags": "people, business, office, job, person, workers, building",
+     "duration": 5,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 141672,
+     "url": "https://cdn.pixabay.com/video/2022/12/05/141672-778334998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/05/141672-778334998_small.jpg",
+     "page": "https://pixabay.com/videos/id-141672/",
+     "tags": "call center, consultant, customer service, business people, helpline, manager, microphone, operator, support, telecommunication, telemarketing, worker, corporate, office, copyspace, male, professional, person, listening, sound, workplace",
+     "duration": 13,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 44081,
+     "url": "https://cdn.pixabay.com/video/2020/07/07/44081-438195519_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/07/44081-438195519_small.jpg",
+     "page": "https://pixabay.com/videos/id-44081/",
+     "tags": "work, home, computer, laptop, sitting, table, worker, room, person, internet, job, man, office, typing, technology, telephone",
+     "duration": 22,
+     "query": "office workers"
+    },
+    {
+     "pixabay_id": 225948,
+     "url": "https://cdn.pixabay.com/video/2024/08/11/225948_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/11/225948_small.jpg",
+     "page": "https://pixabay.com/videos/id-225948/",
+     "tags": "co workers, office, colleagues, business, workplace, meeting, co working, desk, entrepreneurship, startup, corporate, staff, professional, teamwork, brainstorming, collaboration, architect, blueprint, engineer, lawyer, attorney, designer, accountant, report, work",
+     "duration": 13,
+     "query": "office workers"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Your brain hears because and stops checking.",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "So for small favours, just",
+   "candidates": [
+    {
+     "pixabay_id": 62216,
+     "url": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_small.jpg",
+     "page": "https://pixabay.com/videos/id-62216/",
+     "tags": "handshake, greeting, deal, thanks, trust, hello, welcome",
+     "duration": 6,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 211204,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211204_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211204_small.jpg",
+     "page": "https://pixabay.com/videos/id-211204/",
+     "tags": "meeting, hello, business, office, people, handshake, partnership",
+     "duration": 11,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 318026,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318026_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318026_small.jpg",
+     "page": "https://pixabay.com/videos/id-318026/",
+     "tags": "handshake, business, meeting, corporate, hello, finance, city, rooftop, building",
+     "duration": 10,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 318027,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318027_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318027_small.jpg",
+     "page": "https://pixabay.com/videos/id-318027/",
+     "tags": "handshake, business, meeting, corporate, finance, city, rooftop, hello, building",
+     "duration": 16,
+     "query": "handshake"
+    },
+    {
+     "pixabay_id": 293083,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293083_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293083_small.jpg",
+     "page": "https://pixabay.com/videos/id-293083/",
+     "tags": "asian woman, coffee break, working from home, remote work, happy moment, cozy living room, home office, woman with mug, work and relax, peaceful break, smiling woman, casual work, laptop at home, coffee time, digital lifestyle, modern home, relaxed worker, productivity break, online work, casual style, personal workspace, indoor lifestyle, happy freelancer, comfortable home, morning routine",
+     "duration": 20,
+     "query": "woman smiling office"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling office"
+    },
+    {
+     "pixabay_id": 27092,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_small.jpg",
+     "page": "https://pixabay.com/videos/id-27092/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 21,
+     "query": "woman smiling office"
+    },
+    {
+     "pixabay_id": 27091,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_small.jpg",
+     "page": "https://pixabay.com/videos/id-27091/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 12,
+     "query": "woman smiling office"
+    }
+   ]
+  }
+ ]
+}

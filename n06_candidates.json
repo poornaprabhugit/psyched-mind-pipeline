@@ -1,0 +1,551 @@
+{
+ "id": "n06",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You spend more when your money comes in small change.",
+   "candidates": [
+    {
+     "pixabay_id": 127341,
+     "url": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/09/127341-738456834_small.jpg",
+     "page": "https://pixabay.com/videos/id-127341/",
+     "tags": "coins, bitcoin, blockchain, money, magnifying glass, golden, cryptocurrency, hand, silver, finances",
+     "duration": 15,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 960,
+     "url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_small.jpg",
+     "page": "https://pixabay.com/videos/id-960/",
+     "tags": "painting, drawing, colors, design, brush, artist painting, artistic, decoration, watercolor, creative, summer, hand drawing, picture, hearts, love, romantic, 104695749",
+     "duration": 21,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 38079,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38079-416330694_small.jpg",
+     "page": "https://pixabay.com/videos/id-38079/",
+     "tags": "hands, hand cream, cream, health, skin, care",
+     "duration": 10,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 51807,
+     "url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_small.jpg",
+     "page": "https://pixabay.com/videos/id-51807/",
+     "tags": "hand washing, washing, hand, hygiene, soap, bathroom",
+     "duration": 51,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 19600,
+     "url": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_small.jpg",
+     "page": "https://pixabay.com/videos/id-19600/",
+     "tags": "chess, chess board, strategy, play, board game, chess pieces, think, challenge, game board, chess game, king, springer, tower, runners, leadership, decisions, people, hands",
+     "duration": 6,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 35005,
+     "url": "https://cdn.pixabay.com/video/2020/04/04/35005-405620753_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/04/35005-405620753_small.jpg",
+     "page": "https://pixabay.com/videos/id-35005/",
+     "tags": "hand sanitizer, sanitizer, hygiene, washing, hand",
+     "duration": 23,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 131615,
+     "url": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_small.jpg",
+     "page": "https://pixabay.com/videos/id-131615/",
+     "tags": "hand, field, grass, running through crops, relax, green, beautiful, nature",
+     "duration": 20,
+     "query": "coins hand"
+    },
+    {
+     "pixabay_id": 11606,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_small.jpg",
+     "page": "https://pixabay.com/videos/id-11606/",
+     "tags": "chopping, cutting, ingredients, mortar, garlic, prepare, grind, add, food, kitchen, cooking, adding, cook, making, fresh, table, healthy, preparing, homemade, chef, preparation, hand, organic, vegetarian, vegan",
+     "duration": 38,
+     "query": "coins hand"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Students got one dollar, to keep or spend on candy.",
+   "candidates": [
+    {
+     "pixabay_id": 153458,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_small.jpg",
+     "page": "https://pixabay.com/videos/id-153458/",
+     "tags": "money, cash, bank, banknote, bill, currency, dollar, finance, macro, paper, wealth, background, business, financial, investment, 100, usd, beautiful wallpaper, close-up, dollar bill, one hundred, close up",
+     "duration": 17,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 46922,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_small.jpg",
+     "page": "https://pixabay.com/videos/id-46922/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 15,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 46924,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_small.jpg",
+     "page": "https://pixabay.com/videos/id-46924/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 153460,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_small.jpg",
+     "page": "https://pixabay.com/videos/id-153460/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 86911,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86911-594991432_small.jpg",
+     "page": "https://pixabay.com/videos/id-86911/",
+     "tags": "money, dollar, euro, finance, cash, currency, us-dollar, banknotes, dollar bill, bank, business",
+     "duration": 64,
+     "query": "dollar bill"
+    },
+    {
+     "pixabay_id": 153455,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153455-805688473_small.jpg",
+     "page": "https://pixabay.com/videos/id-153455/",
+     "tags": "european, euro, american, bank, banknote, bill, cash, close up, currency, dollar, finance, macro, money, paper, wealth, business, financial, investment, rotate, 100, usd, close-up, dollar bill, background",
+     "duration": 19,
+     "query": "dollar bill"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Four quarters? Sixty-three percent spent it.",
+   "candidates": [
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 172686,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_small.jpg",
+     "page": "https://pixabay.com/videos/id-172686/",
+     "tags": "dining table, table, eat, dinner, family, family dinner",
+     "duration": 12,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 28376,
+     "url": "https://cdn.pixabay.com/video/2019/10/28/28376-369325503_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/28/28376-369325503_small.jpg",
+     "page": "https://pixabay.com/videos/id-28376/",
+     "tags": "foosball table, football, game, sport, action, table football",
+     "duration": 29,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 172667,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172667-849651709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172667-849651709_small.jpg",
+     "page": "https://pixabay.com/videos/id-172667/",
+     "tags": "breakfast, family, happiness, joy, mother, father, kids, garden, table",
+     "duration": 23,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 149935,
+     "url": "https://cdn.pixabay.com/video/2023/02/09/149935-797511795_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/09/149935-797511795_small.jpg",
+     "page": "https://pixabay.com/videos/id-149935/",
+     "tags": "table, meal, dishes, food, cuisine",
+     "duration": 5,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 25922,
+     "url": "https://cdn.pixabay.com/video/2019/08/10/25922-353764102_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/10/25922-353764102_small.jpg",
+     "page": "https://pixabay.com/videos/id-25922/",
+     "tags": "cigarette, smoke, book, coffee, table",
+     "duration": 13,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 227137,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227137_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227137_small.jpg",
+     "page": "https://pixabay.com/videos/id-227137/",
+     "tags": "seafood, food, meal, table, dinner",
+     "duration": 66,
+     "query": "coins table"
+    },
+    {
+     "pixabay_id": 184736,
+     "url": "https://cdn.pixabay.com/video/2023/10/12/184736-873923037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/12/184736-873923037_small.jpg",
+     "page": "https://pixabay.com/videos/id-184736/",
+     "tags": "coffee cup, donut, doughnut, table, sunlight",
+     "duration": 7,
+     "query": "coins table"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "One bill? Only twenty-six percent.",
+   "candidates": [
+    {
+     "pixabay_id": 18244,
+     "url": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_small.jpg",
+     "page": "https://pixabay.com/videos/id-18244/",
+     "tags": "owl, animal, bird, nature, feather, head, eagle owl, raptor, sitting, eyes, bill, animal world",
+     "duration": 20,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 172891,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_small.jpg",
+     "page": "https://pixabay.com/videos/id-172891/",
+     "tags": "money, currency, dollar, cash, finance",
+     "duration": 9,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 80024,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80024-572853488_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80024-572853488_small.jpg",
+     "page": "https://pixabay.com/videos/id-80024/",
+     "tags": "bird, flamingo, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 8,
+     "query": "dollar bill hand"
+    },
+    {
+     "pixabay_id": 80027,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80027-572853496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80027-572853496_small.jpg",
+     "page": "https://pixabay.com/videos/id-80027/",
+     "tags": "bird, vulture, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 9,
+     "query": "dollar bill hand"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Same dollar.",
+   "candidates": [
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172892,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172892-848187888_small.jpg",
+     "page": "https://pixabay.com/videos/id-172892/",
+     "tags": "money, cash, finance, currency, business, office",
+     "duration": 9,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 148596,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_small.jpg",
+     "page": "https://pixabay.com/videos/id-148596/",
+     "tags": "investment, money, wealth, writing, chart, profit, grow",
+     "duration": 21,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "money"
+    },
+    {
+     "pixabay_id": 172893,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172893-848187892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172893-848187892_small.jpg",
+     "page": "https://pixabay.com/videos/id-172893/",
+     "tags": "money, finance, business, dollars, cash, currency",
+     "duration": 10,
+     "query": "money"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Your brain guards a big note, and lets small change go.",
+   "candidates": [
+    {
+     "pixabay_id": 36705,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_small.jpg",
+     "page": "https://pixabay.com/videos/id-36705/",
+     "tags": "phone, wallet, money",
+     "duration": 19,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50623,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_small.jpg",
+     "page": "https://pixabay.com/videos/id-50623/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 27,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50629,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_small.jpg",
+     "page": "https://pixabay.com/videos/id-50629/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 9,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50625,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_small.jpg",
+     "page": "https://pixabay.com/videos/id-50625/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 12,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 50627,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_small.jpg",
+     "page": "https://pixabay.com/videos/id-50627/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 7,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 95818,
+     "url": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/13/95818-649760880_small.jpg",
+     "page": "https://pixabay.com/videos/id-95818/",
+     "tags": "dollar, money, economics, america, usa, usd, savings, bank, piggy bank, rich, inflation, finance, expensiveness, paper, cash, trade, earnings, success, investment, close, macro, background, wallet, account, accounting",
+     "duration": 59,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 9908,
+     "url": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_small.jpg",
+     "page": "https://pixabay.com/videos/id-9908/",
+     "tags": "count, money, taxes, to save, currency, savings, polish zlotys, pay, business, sum, polish banknotes, means of payment, dollars, usa, dime, payment, banknotes, golden, shopping, bills, finances, wallet, polish, one hundred zlotys, coins, cash register, gold, finance, fifty zlotys, earnings, pln, one, antique, two, english pounds, bake",
+     "duration": 16,
+     "query": "wallet"
+    },
+    {
+     "pixabay_id": 31361,
+     "url": "https://cdn.pixabay.com/video/2020/01/17/31361-385863239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/17/31361-385863239_small.jpg",
+     "page": "https://pixabay.com/videos/id-31361/",
+     "tags": "italy, genoa, city, travel, tourism, explore, architecture, sea, water, beach, colorful, scenic, sun, holidays, summer, trip, color, town, restaurant, vacation, wallet, tourist, table, holiday, business",
+     "duration": 15,
+     "query": "wallet"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "So to save more, carry bigger notes. Because",
+   "candidates": [
+    {
+     "pixabay_id": 3816,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_small.jpg",
+     "page": "https://pixabay.com/videos/id-3816/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 51721,
+     "url": "https://cdn.pixabay.com/video/2020/10/07/51721-466015183_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/07/51721-466015183_small.jpg",
+     "page": "https://pixabay.com/videos/id-51721/",
+     "tags": "money, paper money, banknotes, banknote, currency, euro",
+     "duration": 12,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 246184,
+     "url": "https://cdn.pixabay.com/video/2024/12/11/246184_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/11/246184_small.jpg",
+     "page": "https://pixabay.com/videos/id-246184/",
+     "tags": "dollar, money, finance, currency, business, cash, usa, funds, us-dollar, banknotes, wealth, economy, robbery, gangster, robber",
+     "duration": 9,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 46401,
+     "url": "https://cdn.pixabay.com/video/2020/08/04/46401-447431577_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/04/46401-447431577_small.jpg",
+     "page": "https://pixabay.com/videos/id-46401/",
+     "tags": "eur, currency, finance, money, banknotes, cash, business, economy, income, taxes, wealth, piggy bank, fiscal, accounting, investments, savings",
+     "duration": 32,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 153461,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153461-805688498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153461-805688498_small.jpg",
+     "page": "https://pixabay.com/videos/id-153461/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 137301,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137301-766326257_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137301-766326257_small.jpg",
+     "page": "https://pixabay.com/videos/id-137301/",
+     "tags": "energy, save energy, windmill, electricity, lightbulb, save up, lamp, cable, electric, wind power, toy, banknotes, money, euro",
+     "duration": 13,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 268220,
+     "url": "https://cdn.pixabay.com/video/2025/03/28/268220_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/28/268220_small.jpg",
+     "page": "https://pixabay.com/videos/id-268220/",
+     "tags": "money, finance, euro, currency, cash, dollar, investment, banknotes, rupees, savings, pay, business, count",
+     "duration": 18,
+     "query": "banknotes wallet"
+    },
+    {
+     "pixabay_id": 144453,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144453-784605675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144453-784605675_small.jpg",
+     "page": "https://pixabay.com/videos/id-144453/",
+     "tags": "money, rich, girl, millionaire, dollars, currency",
+     "duration": 31,
+     "query": "money wallet"
+    }
+   ]
+  }
+ ]
+}

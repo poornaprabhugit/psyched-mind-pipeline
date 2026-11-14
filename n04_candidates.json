@@ -1,0 +1,551 @@
+{
+ "id": "n04",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Make the cheap chocolate free, and people stop buying the fancy one.",
+   "candidates": [
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 71743,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_small.jpg",
+     "page": "https://pixabay.com/videos/id-71743/",
+     "tags": "strawberry, chocolate, pouring, sauce, candy, cocoa, dessert, fruit, liquid, pour, prepare, calories, dairy, melted",
+     "duration": 9,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 32387,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_small.jpg",
+     "page": "https://pixabay.com/videos/id-32387/",
+     "tags": "woman, young, beautiful, expression, style, modeling, experience, exclusive, the best, interesting, exotic, people, queen, top, options, black, blue, skin, chocolate",
+     "duration": 44,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 33711,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_small.jpg",
+     "page": "https://pixabay.com/videos/id-33711/",
+     "tags": "martabak, manis, indonesia, food, makanan, coklat, chocolate, cheese, sweet, jajanan, pasar, traditional, cheap",
+     "duration": 9,
+     "query": "chocolate truffles"
+    },
+    {
+     "pixabay_id": 153806,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_small.jpg",
+     "page": "https://pixabay.com/videos/id-153806/",
+     "tags": "flower, pastry shop, tasty, breakfast, kitchen, sweet, cream, to eat, floret, chocolate",
+     "duration": 11,
+     "query": "chocolate truffles"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers sold a fancy truffle for fifteen cents, a cheap chocolate for one.",
+   "candidates": [
+    {
+     "pixabay_id": 12669,
+     "url": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_small.jpg",
+     "page": "https://pixabay.com/videos/id-12669/",
+     "tags": "chocolate, candy, belgium, food, dessert, sweet, brown, delicious, dark, white, sugar, snack, milk, cocoa, tasty, gourmet, eat, cacao, cooking, baking, treat, bonbon",
+     "duration": 8,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 288053,
+     "url": "https://cdn.pixabay.com/video/2025/06/26/288053_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/26/288053_small.jpg",
+     "page": "https://pixabay.com/videos/id-288053/",
+     "tags": "chocolate hills, bohol, rice fields, landscape, drone view, philippines, farmland, tropical, agriculture, hills, nature, rural, southeast asia, green mountains, countryside, aerial photo, rice paddies, eco-tourism, farming, coconut trees, cultivation, lush terrain, vegetation, exotic, rice farm",
+     "duration": 16,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 33435,
+     "url": "https://cdn.pixabay.com/video/2020/03/09/33435-397128388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/09/33435-397128388_small.jpg",
+     "page": "https://pixabay.com/videos/id-33435/",
+     "tags": "latte, art, chocolate",
+     "duration": 51,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 71747,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_small.jpg",
+     "page": "https://pixabay.com/videos/id-71747/",
+     "tags": "chocolate, sweet, snack, candy, milk, swiss, cocoa, nut, dessert, food, gourmet",
+     "duration": 7,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 36703,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36703-412858358_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36703-412858358_small.jpg",
+     "page": "https://pixabay.com/videos/id-36703/",
+     "tags": "coffee, pouring, serving, breakfast, food and drink, chocolate",
+     "duration": 7,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 81261,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_small.jpg",
+     "page": "https://pixabay.com/videos/id-81261/",
+     "tags": "chocolate, candy, sugar, chocolates, sweets, dessert",
+     "duration": 24,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 113707,
+     "url": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_small.jpg",
+     "page": "https://pixabay.com/videos/id-113707/",
+     "tags": "egg, easter, sweets, chocolate, food",
+     "duration": 17,
+     "query": "chocolate truffle"
+    },
+    {
+     "pixabay_id": 247148,
+     "url": "https://cdn.pixabay.com/video/2024/12/17/247148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/17/247148_small.jpg",
+     "page": "https://pixabay.com/videos/id-247148/",
+     "tags": "donut, sugar, chocolate, pastries, meal, cute, calories, sweets, food",
+     "duration": 12,
+     "query": "chocolate truffle"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Most bought the truffle.",
+   "candidates": [
+    {
+     "pixabay_id": 25033,
+     "url": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_small.jpg",
+     "page": "https://pixabay.com/videos/id-25033/",
+     "tags": "girl, eating, stuffing, food, woman, gluttony, meal",
+     "duration": 79,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 120739,
+     "url": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_small.jpg",
+     "page": "https://pixabay.com/videos/id-120739/",
+     "tags": "lamb, farm animal, sheep, wool, animals, eating, nature, landscape, livestock, countryside",
+     "duration": 19,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 2104,
+     "url": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_small.jpg",
+     "page": "https://pixabay.com/videos/id-2104/",
+     "tags": "caterpillar, insect, danaus, gilippus, butterfly, calotropis, gigantea, pest, leaf, eating, animal, lilac",
+     "duration": 22,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 29044,
+     "url": "https://cdn.pixabay.com/video/2019/11/13/29044-373138314_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/13/29044-373138314_small.jpg",
+     "page": "https://pixabay.com/videos/id-29044/",
+     "tags": "zoo, animals, lion, meat, eating",
+     "duration": 63,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 28785,
+     "url": "https://cdn.pixabay.com/video/2019/11/06/28785-372045664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/06/28785-372045664_small.jpg",
+     "page": "https://pixabay.com/videos/id-28785/",
+     "tags": "nature, birds, rain, eating",
+     "duration": 15,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 47437,
+     "url": "https://cdn.pixabay.com/video/2020/08/17/47437-451297225_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/17/47437-451297225_small.jpg",
+     "page": "https://pixabay.com/videos/id-47437/",
+     "tags": "monkey, eating, lemur, nature, animal, eat, cute, primate, mammal",
+     "duration": 19,
+     "query": "woman eating chocolate"
+    },
+    {
+     "pixabay_id": 304418,
+     "url": "https://cdn.pixabay.com/video/2025/09/16/304418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/16/304418_small.jpg",
+     "page": "https://pixabay.com/videos/id-304418/",
+     "tags": "koala eating, koala, marsupial, cute, australian, koala eucalyptus, koala eating eucalyptus, koala gardens, kuranda",
+     "duration": 15,
+     "query": "woman eating chocolate"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Then both got one cent cheaper.",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, pet, monetary, luck, waving, animal, mascot, wealth, prosperity, feng shui, finance, profit, coins",
+     "duration": 9,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74778,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_small.jpg",
+     "page": "https://pixabay.com/videos/id-74778/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 8,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "coins"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Fourteen cents, or free.",
+   "candidates": [
+    {
+     "pixabay_id": 168344,
+     "url": "https://cdn.pixabay.com/video/2023/06/22/168344-838892840_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/22/168344-838892840_small.jpg",
+     "page": "https://pixabay.com/videos/id-168344/",
+     "tags": "hands, good, accept, vote, ok, gesture, sign, symbol, positive, success",
+     "duration": 9,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 8386,
+     "url": "https://cdn.pixabay.com/video/2017/03/14/8386-208562358_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/14/8386-208562358_small.jpg",
+     "page": "https://pixabay.com/videos/id-8386/",
+     "tags": "rooster, crowing, chicken, free range, bird, animal, farm, goat, farmyard, free-range, outdoor, poultry, organic, hen, grass, domestic",
+     "duration": 8,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 245585,
+     "url": "https://cdn.pixabay.com/video/2024/12/08/245585_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/08/245585_small.jpg",
+     "page": "https://pixabay.com/videos/id-245585/",
+     "tags": "kefalonia, greece, island, road, asphalt, drone, trees, sign",
+     "duration": 54,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 346395,
+     "url": "https://cdn.pixabay.com/video/2026/04/14/346395_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/14/346395_small.jpg",
+     "page": "https://pixabay.com/videos/id-346395/",
+     "tags": "trees, overhead, view, spin, towering, leaves, wind, breeze, summer, spring, woods, forest, green, aspen, birch, pine, sky, up, free 4k nature video, beautiful, nature, camera, 4k, movement, branches",
+     "duration": 11,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 212554,
+     "url": "https://cdn.pixabay.com/video/2024/05/19/212554_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/19/212554_small.jpg",
+     "page": "https://pixabay.com/videos/id-212554/",
+     "tags": "sign, coast, japan sea, storm, rogue wave, spray, low pressure, sado island, japan",
+     "duration": 11,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 29754,
+     "url": "https://cdn.pixabay.com/video/2019/12/02/29754-377510681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/02/29754-377510681_small.jpg",
+     "page": "https://pixabay.com/videos/id-29754/",
+     "tags": "forbidden, sign, prohibited, warning, symbol, mountain, snow",
+     "duration": 15,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 205875,
+     "url": "https://cdn.pixabay.com/video/2024/03/28/205875_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/28/205875_small.jpg",
+     "page": "https://pixabay.com/videos/id-205875/",
+     "tags": "welcome sign, las vegas, welcome to fabulous las vegas, sign, neon, lights, night, strip, las vegas strip, las vegas boulevard, boulevard, flashing, famous, nevada, clark county, tourism, symbol, usa, iconic, sin city, fabulous",
+     "duration": 22,
+     "query": "free sign"
+    },
+    {
+     "pixabay_id": 278195,
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278195_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/11/278195_small.jpg",
+     "page": "https://pixabay.com/videos/id-278195/",
+     "tags": "luxury beachfront villas, beach, royalty free, free use, aerial, coast, travel, resort, marina, ocean, summer, architecture, mountains",
+     "duration": 11,
+     "query": "free sign"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Most grabbed the free one.",
+   "candidates": [
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 245,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/245-135869050_small.jpg",
+     "page": "https://pixabay.com/videos/id-245/",
+     "tags": "photography, camera, outdoors, vintage, photographer, photos, photo shooting, pictures, taking photos, taking pictures, images",
+     "duration": 179,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 2859,
+     "url": "https://cdn.pixabay.com/video/2016/04/20/2859-163617349_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/20/2859-163617349_small.jpg",
+     "page": "https://pixabay.com/videos/id-2859/",
+     "tags": "road, travel, driving, cars, speed, street, race, taking over",
+     "duration": 7,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 3451,
+     "url": "https://cdn.pixabay.com/video/2016/06/11/3451-170348491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/11/3451-170348491_small.jpg",
+     "page": "https://pixabay.com/videos/id-3451/",
+     "tags": "camera, retro, old, taking photos, flea market, photo camera",
+     "duration": 74,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 110462,
+     "url": "https://cdn.pixabay.com/video/2022/03/12/110462-689510229_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/12/110462-689510229_small.jpg",
+     "page": "https://pixabay.com/videos/id-110462/",
+     "tags": "hummingbird, bird, feeder, landing, taking off, flying, hummer, bird feeder, hummingbird feeder, nature, animal, closeup",
+     "duration": 17,
+     "query": "hand taking candy"
+    },
+    {
+     "pixabay_id": 19706,
+     "url": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_small.jpg",
+     "page": "https://pixabay.com/videos/id-19706/",
+     "tags": "pair, trust, conversation, talk, discussion, few, people, taking photos, friendship, man, woman, romantic, happy, romance, lovers, photographer, look at pictures, tourists",
+     "duration": 10,
+     "query": "hand taking candy"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Free feels better than any discount. That's why, if you",
+   "candidates": [
+    {
+     "pixabay_id": 76888,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_small.jpg",
+     "page": "https://pixabay.com/videos/id-76888/",
+     "tags": "man, smiling, farmer, happy, young, culture, senior, woman, girl, happiness, lifestyle, people, portrait",
+     "duration": 13,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 76889,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_small.jpg",
+     "page": "https://pixabay.com/videos/id-76889/",
+     "tags": "family, smile, sweet, love, young, children, happiness, smiling, mom, woman, cheerful, lifestyle, parents, joy, father, people, happy, portrait, mothers day, mother's day, mum",
+     "duration": 28,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 6096,
+     "url": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_small.jpg",
+     "page": "https://pixabay.com/videos/id-6096/",
+     "tags": "park, old people, people, old, senior, elderly, happy, woman, retired, smiling, man, together, outdoors, grandmother, happy old people, looking, aged, lifestyle, pensioner, grandpa",
+     "duration": 29,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 41820,
+     "url": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_small.jpg",
+     "page": "https://pixabay.com/videos/id-41820/",
+     "tags": "diversity, meeting, communication, people, against racism, black, connection, ethnicities, friends, fun, group, happy, human, mixed race, multiracial, person, race racism, sharing, smiling, together, woman, young, summer",
+     "duration": 17,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 83859,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_small.jpg",
+     "page": "https://pixabay.com/videos/id-83859/",
+     "tags": "woman, smile, joyful, happy, model, park, tourist, lifestyle",
+     "duration": 10,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 40289,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40289-425429031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40289-425429031_small.jpg",
+     "page": "https://pixabay.com/videos/id-40289/",
+     "tags": "pool, infinity pool, relax, woman, turquoise, vacations, happy, smiling, luxury holiday, swim, the pool area, asia, thailand, fun, fun activity, joy, summer time, dream life, beautiful view",
+     "duration": 39,
+     "query": "woman smiling"
+    },
+    {
+     "pixabay_id": 45132,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_small.jpg",
+     "page": "https://pixabay.com/videos/id-45132/",
+     "tags": "girl, young, woman, pose, face, model, female, person, beauty, portrait, smile",
+     "duration": 19,
+     "query": "woman smiling"
+    }
+   ]
+  }
+ ]
+}
