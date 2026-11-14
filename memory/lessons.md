@@ -37,3 +37,4 @@
 - 2026-11-14: 7 private uploads carried the description footer ("Science-backed psychology · Sources in description · Not medical advice.") as their title and had no publish time – the daily summary should keep flagging private videos with that title.
 - 2026-11-14: MPT renders often have a video track 0.3–2.7 s shorter than the audio (s04 clean: 16.4 vs 17.9 s) – the player then freezes the last frame while the voice finishes. Pad with `tpad=stop_mode=clone:stop_duration=<gap>` after tightening; check `ffprobe stream=duration` per stream in review.
 - 2026-11-14: Clean (no CTA card) versions for Instagram/Facebook = same render.json with `cta_text` removed (job 2026-11-14-clean); flat-frame fixes must be re-applied after each re-render.
+- 2026-11-14: Meta Business Suite only schedules Reels at least ~20 min ahead – schedule the week in one go, never last-minute.
