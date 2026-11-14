@@ -1,0 +1,183 @@
+{
+ "videos": [
+  {
+   "id": "g01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "treadmill",
+     "queries": [
+      "treadmill",
+      "treadmill walking",
+      "gym treadmill"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "blank wall",
+     "queries": [
+      "white room",
+      "empty white room",
+      "white wall"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "queue",
+     "queries": [
+      "queue",
+      "people waiting in line",
+      "line of people"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "agree",
+     "queries": [
+      "woman nodding",
+      "man nodding yes",
+      "thumbs up"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "dress",
+     "queries": [
+      "dress",
+      "woman dress shop",
+      "dress rack"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "price tag",
+     "queries": [
+      "price tag",
+      "clothes tag",
+      "label clothes"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "magazine",
+     "queries": [
+      "fashion magazine",
+      "magazine reading",
+      "flipping magazine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g04",
+   "lines": [
+    {
+     "n": 1,
+     "text": "pralines",
+     "queries": [
+      "pralines",
+      "chocolate",
+      "chocolate box"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "grab",
+     "queries": [
+      "candy",
+      "hand candy",
+      "taking sweets"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "free",
+     "queries": [
+      "free",
+      "gift",
+      "sample"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "basketball",
+     "queries": [
+      "basketball game",
+      "basketball players",
+      "playing basketball"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "gorilla",
+     "queries": [
+      "gorilla walking",
+      "gorilla zoo",
+      "ape walking"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g06",
+   "lines": [
+    {
+     "n": 1,
+     "text": "coins",
+     "queries": [
+      "coins hand",
+      "counting coins",
+      "coins falling"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "candy shop",
+     "queries": [
+      "candy shop",
+      "lollipop",
+      "candy store"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "happy money",
+     "queries": [
+      "woman counting money",
+      "man money smile",
+      "cash happy"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "sad",
+     "queries": [
+      "sad man",
+      "lonely woman",
+      "man depressed"
+     ]
+    }
+   ]
+  }
+ ]
+}
