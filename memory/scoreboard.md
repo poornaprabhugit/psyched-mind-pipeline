@@ -23,6 +23,7 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 - Slot test: Shorts alternate 12:00 Amsterdam (UK/EU/Asia) and 16:00 (US). 22:00 slot dropped (peak-end 1, pratfall 11 day-1 views).
 - Angle mix: 4/7 Shorts wealth & success (money, assets, business, luxury/status), 1 health & mind, 2 everyday as control. Long videos lean wealth/success; every 3rd week a contrast angle.
 - Weekly batch moved to Saturday 07:52 Amsterdam.
+- Long videos: 1/week until 2 are live. Go to 2/week only if CTR ≥ ~4% and avg % viewed ≥ 35–40%; otherwise fix packaging/opening first. Shorts: wait and learn daily; next lever after hook-first = distinctive voice/visual identity, test at ≥1,000 views/Short.
 
 ## [Pro] rules our data contradicts
 - _None yet (no video ≥1,000 views)._
