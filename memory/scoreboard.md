@@ -51,11 +51,15 @@ Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progr
 ## Slot tracker (12:00 vs 16:00 Amsterdam, from 16 Nov)
 12:00: s01 Mon, s03 Wed, s05 Fri, s07 Sun · 16:00: s02 Tue, s04 Thu, s06 Sat. Compare day-1 views once ≥4 per slot are live (wealth split 2/2 across slots so angle and slot aren't confounded).
 
+## Decided 14 Nov (user): long 02 released first
+- Long 01's final file was lost (built in an earlier session, not in the repo). Long 02 goes live **Sat 14 Nov 18:00** instead; it is the Related video for the remakes and B1–B7.
+- Long 01 is **rethought (title + angle) and rebuilt in the 21 Nov batch**, using long 02's first-week data (CTR per thumbnail, retention dips, first-30-s drop). Ships Sun 22 Nov 18:00, ~10 min. Week 3 (28 Nov) = contrast angle.
+
 ## Long videos by angle
 | # | Title | Angle | Live | CTR | AVD | Subs |
 |---|---|---|---|---|---|---|
-| 01 | Why Your Brain Is Bad With Money | wealth (money) | Sun 15 Nov 18:00 | – | – | – |
-| 02 | The Psychology of Looking Rich | wealth (luxury/status) | Sun 22 Nov 18:00 | – | – | – |
+| 02 | The Psychology of Looking Rich | wealth (luxury/status) | **Sat 14 Nov 18:00** (first long video live) | – | – | – |
+| 01 | (to rethink) money psychology – old file lost | wealth (money) | Sun 22 Nov 18:00 | – | – | – |
 Week 3 (batch 28 Nov) = contrast angle (health & mind or everyday), per user rule.
 
 ## [Pro] rules our data contradicts

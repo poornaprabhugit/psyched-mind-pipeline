@@ -15,7 +15,7 @@ FILES = {k: f"{k} – {v['title'].split(' ')[0]}" for k, v in SHORTS.items()}
 o = ["# Upload sheet – week of 16–22 Nov 2026 (batch 2026-11-14)", "",
 "7 Shorts, one per day, **alternating 12:00 and 16:00 Amsterdam** (slot test) + long video 02 on **Sun 22 Nov 18:00**.", "",
 "## Files (in upload order)",
-"- **A1–A3** = remakes that REPLACE 3 already-scheduled Shorts (delete the scheduled upload, upload the new file with the same title/description/settings). No 'Full video' card on these, because long video 01 isn't public yet when they go live.",
+"- **A1–A3** = remakes that REPLACE 3 already-scheduled Shorts (delete the scheduled upload, upload the new file with the same title/description/settings). No 'Full video' card on these; set their Related video to long 02 once it is live.",
 "- **B1–B7** = this week's Shorts, one per day. Set Related video = \"Why Your Brain Is Bad With Money\" (long 01) on each – the card in their last 2 s points to that link.",
 "- **C1** = long video 02 + **C2–C4** = its 3 thumbnails for Test & compare.", "",
 "## A · Remakes (replace the scheduled uploads)",
@@ -30,7 +30,7 @@ o = ["# Upload sheet – week of 16–22 Nov 2026 (batch 2026-11-14)", "",
 "## B · This week's Shorts", "",
 
 "**Same settings for every Short:** Playlist \"Psychology that moves you\" · Category Education · Not made for kids · Altered/synthetic content: **No** (real stock footage + standard AI narrator, no realistic AI people) · Remixing on · Thumbnail frame ~0:01 (hook card visible).",
-"**Related video (all 7):** \"Why Your Brain Is Bad With Money\" (long 01, live Sun 15 Nov). The last 2.5 s of every Short shows \"Full video: tap the link below\".",
+"**Related video (all 7 + the 3 remakes):** \"The Psychology of Looking Rich\" (long 02, live Sat 14 Nov 18:00). The last 2.5 s of every B Short shows \"Full video: tap the link below\".",
 "**Experiment this week:** add a **Poll sticker** to s03 (\"Would you notice the swap? Yes / No\") – the only Short with a sticker (playbook §5).", "", "---", ""]
 for k, v in SHORTS.items():
     desc, tags, pin, card = D[k]
@@ -41,7 +41,7 @@ for k, v in SHORTS.items():
           "Science-backed psychology · Sources in description · " + ("Not financial advice." if v['angle']=='wealth' else "Not medical advice."),
           tags, "```", f"**Pinned comment:** {pin}", "", "---", ""]
 o += [f"## C · Long video 02 – {LONG_TITLE}", "",
-"**File:** `C1 – Sun 22 Nov 18-00 – LONG – The Psychology of Looking Rich.mp4` (10:12, 1920×1080, −14 LUFS) · **Upload from desktop Studio** (needed for Test & compare) · **Schedule: Sun 22 Nov 18:00 Amsterdam** · **Predicted:** medium (trend-aligned 'quiet luxury / looking rich' topic; channel still tiny).", "",
+"**File:** `C1 – Sun 22 Nov 18-00 – LONG – The Psychology of Looking Rich.mp4` (10:12, 1920×1080, −14 LUFS) · **Upload from desktop Studio** (needed for Test & compare) · **Schedule: Sat 14 Nov 18:00 Amsterdam (moved up – long 01's file was lost; long 01 is rebuilt for 22 Nov)** · **Predicted:** medium (trend-aligned 'quiet luxury / looking rich' topic; channel still tiny).", "",
 "**Title:** The Psychology of Looking Rich (7 Real Studies)", "Title alternatives (for a later re-package): \"Why Rich People Hide Their Logos (7 Studies)\" · \"Why Expensive Things Feel Better (7 Studies)\"", "",
 "**Thumbnails – Test & compare (upload all 3):**", "- C2 – \"QUIET = RICH\" (watch close-up)", "- C3 – \"$5 OR $45?\" (man tasting wine)", "- C4 – \"FAKE = CHEAT?\" (fashion group in sunglasses)", "",
 "**Description:**", "```",
@@ -51,12 +51,12 @@ o += [f"## C · Long video 02 – {LONG_TITLE}", "",
 "Science-backed psychology · New Shorts every day.", "#psychology #moneypsychology #oldmoney", "```", "",
 "**Settings:** Category Education · Not made for kids · Altered/synthetic: No · Playlist \"The Psyched Mind – Weekly Psychology\" · Chapters on (from description) · Automatic concepts on, check it.",
 "**Tags:** psychology of looking rich, old money vs new money, quiet luxury psychology, status symbols psychology, luxury brands psychology, red sneakers effect, counterfeit self, scarcity effect, price placebo, money psychology",
-"**End screen (last ~10 s):** video element → \"Why Your Brain Is Bad With Money\" + Subscribe.",
+"**End screen (last ~10 s):** video element \"Best for viewer\" + Subscribe (no other long video yet).",
 "**Cards:** at the logo item → Short s04 (\"Why your coffee card comes with free stamps\") once live.",
 "**Pinned comment:** \"Old money or new money – which one are you? 👀\"", "",
 "## After publishing (user)",
 "1. Start Test & compare with the 3 thumbnails (desktop Studio). Don't change title/thumbnail during the test.",
-"2. Set the Related video of the 23 Nov+ Shorts to this video (next batch will say so).",
+"2. Set this video as Related video on the 3 remakes and B1–B7.",
 "3. Once a month: re-package the worst-CTR long video – first check is 13 Dec (only 2 long videos so far).", ""]
 open(os.path.join(os.path.dirname(__file__), "upload-sheet.md"), "w").write("\n".join(o))
 print("ok")
