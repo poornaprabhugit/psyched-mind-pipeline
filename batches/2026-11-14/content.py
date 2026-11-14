@@ -64,9 +64,9 @@ SHORTS = {
   ('You can too: give your next goal a head start.', ['runner start']),
   ]),
 "s05": dict(angle="health", slot="Fri 20 Nov 12:00", predicted="medium",
-  subject="Why you snap after a sleepless night",
+  subject="Why you get angry after a sleepless night",
   hook_text="No sleep = 60% more reactive",
-  title="Why you snap after a bad night's sleep 😴",
+  title="Why you get angry after a bad night's sleep 😴",
   ending="use-it",
   lines=[
   ("One sleepless night, and your brain's alarm centre reacts sixty percent more.", ['insomnia']),

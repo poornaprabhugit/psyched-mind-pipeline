@@ -201,10 +201,10 @@ Science-backed psychology · Sources in description · Not financial advice.
 
 ## B5 · Fri 20 Nov 12:00 · angle: health · predicted: medium
 **File:** `B5 – Fri 20 Nov 12-00 – Sleepless night.mp4` · **Hook card:** No sleep = 60% more reactive · **Ending:** loop
-**Title:** Why you snap after a bad night's sleep 😴
+**Title:** Why you get angry after a bad night's sleep 😴
 **Description:**
 ```
-Why do you snap at people after a bad night? After a night and a day without sleep, the brain's alarm centre (the amygdala) reacted about 60% more to upsetting images, and was less connected to the area that normally calms it down.
+Why do you get angry at people after a bad night? After a night and a day without sleep, the brain's alarm centre (the amygdala) reacted about 60% more to upsetting images, and was less connected to the area that normally calms it down.
 Source: Yoo, Gujar, Hu, Jolesz & Walker (2007), Current Biology – https://doi.org/10.1016/j.cub.2007.08.007
 Science-backed psychology · Sources in description · Not medical advice.
 #psychology #sleep #brain #stress #shorts
