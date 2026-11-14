@@ -1,4 +1,8 @@
-date_published,video,topic,hook_style,length_s,views,likes,comments,avg_view_pct,viewed_vs_swiped
-2026-11-10,1YpGk3PgSTc,mere exposure effect,statement belief-flip; no hook card; question ending,30,34,1,0,,
-2026-11-11,1SiTheh1gbA,IKEA effect,question belief-flip; no hook card; question ending,29,63,0,0,,
-2026-11-11,jGEnqapHOhA,fresh start effect,question; no hook card; use-it ending,33,4,0,0,,
+date_published,video,topic,hook_style,length_s,views,likes,comments,avg_view_pct,viewed_vs_swiped,angle,slot,stats_date
+2026-11-13,IYrmhlu2pa0,pratfall effect,hook card,35,11,0,0,,,everyday,22:00,2026-11-14
+2026-11-13,WdR33wEaImo,pain of paying,hook card; loop ending,27,49,0,0,40.7,19% stayed (Studio; avg 11 s),wealth,16:00,2026-11-14
+2026-11-12,6z_Euar4Wrg,peak-end rule,hook card,29,1,0,0,,,everyday,22:00,2026-11-14
+2026-11-12,AWwEyFrD7d8,Ben Franklin effect,no hook card,28,17,0,0,,,everyday,12:00,2026-11-14
+2026-11-11,jGEnqapHOhA,fresh start effect,question; no hook card; use-it ending,33,4,0,0,0,0/3 engaged,everyday,18:00,2026-11-14
+2026-11-11,1SiTheh1gbA,IKEA effect,question belief-flip; no hook card; question ending,29,67,0,0,55.5,13/62 engaged,everyday,12:00,2026-11-14
+2026-11-10,1YpGk3PgSTc,mere exposure effect,statement belief-flip; no hook card; question ending,30,36,1,0,90.2,8/35 engaged,everyday,20:00,2026-11-14

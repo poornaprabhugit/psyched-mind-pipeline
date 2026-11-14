@@ -26,6 +26,31 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 - 2026-11-14 09:40 check: 2 already-scheduled Shorts still sit in the dropped 22:00 slot (walked-into-room E1bnd50DpGs 14 Nov, spotlight F7pbRjlOYoI 15 Nov) → asked user to move them to 12:00. Long video 01 not yet visible in the channel (planned Sun 15 Nov 18:00).
 - Long videos: 1/week until 2 are live. Go to 2/week only if CTR ≥ ~4% and avg % viewed ≥ 35–40%; otherwise fix packaging/opening first. Shorts: wait and learn daily; next lever after hook-first = distinctive voice/visual identity, test at ≥1,000 views/Short.
 
+## Decided 14 Nov (Studio advice on card-users Short, relayed by user)
+Studio: ~81% swiped away; avg 11 s of 27 s; the study + punchline landed at 13–22 s, after most viewers had left. Applied from batch 2026-11-14:
+1. **Payoff in the first 4–5 s.** Line 1 states the study's result ("More than half of people picked the worse holiday…"); setup is compressed into one line after it.
+2. **Contrast hook cards** where the study has numbers ("$100 trip vs $50 trip?", "8 stamps vs 10 with 2 free", "$40 on stuff vs $40 on time").
+3. **No wind-down:** cut trailing silence so loop endings roll straight into line 1.
+4. Visual CTA card in the last 2.5 s ("Full video: tap the link below") for the Related-video bridge (playbook §5); voice ending stays on the high point.
+
+## Angle tracker (day-1 views; compare once ≥3 per angle are ≥24 h old)
+| Angle | Shorts | Day-1 views |
+|---|---|---|
+| wealth & success | card-users (13 Nov 16:00) | 49 |
+| everyday | IKEA 51 · mere exposure 34 · favor 15 · pratfall 11 · peak-end 1 · fresh start 4 | median ~13 |
+| health & mind | can't-sleep (14 Nov) | pending |
+Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progress, s07 buying time), health ×1 (s05 sleep), everyday ×2 (s03 choice blindness, s06 cocktail party).
+
+## Slot tracker (12:00 vs 16:00 Amsterdam, from 16 Nov)
+12:00: s01 Mon, s03 Wed, s05 Fri, s07 Sun · 16:00: s02 Tue, s04 Thu, s06 Sat. Compare day-1 views once ≥4 per slot are live (wealth split 2/2 across slots so angle and slot aren't confounded).
+
+## Long videos by angle
+| # | Title | Angle | Live | CTR | AVD | Subs |
+|---|---|---|---|---|---|---|
+| 01 | Why Your Brain Is Bad With Money | wealth (money) | Sun 15 Nov 18:00 | – | – | – |
+| 02 | The Psychology of Looking Rich | wealth (luxury/status) | Sun 22 Nov 18:00 | – | – | – |
+Week 3 (batch 28 Nov) = contrast angle (health & mind or everyday), per user rule.
+
 ## [Pro] rules our data contradicts
 - _None yet (no video ≥1,000 views)._
 
