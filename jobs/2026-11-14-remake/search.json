@@ -1,0 +1,226 @@
+{
+ "videos": [
+  {
+   "id": "r1",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Walking through a doorway makes you forget.",
+     "queries": [
+      "walking through door",
+      "opening door",
+      "man enters room"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers tested it:",
+     "queries": [
+      "scientist",
+      "laboratory"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "people forgot more after stepping through a door",
+     "queries": [
+      "door",
+      "man walking door",
+      "woman door"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "than after walking the same distance in one room.",
+     "queries": [
+      "walking hallway",
+      "room walking",
+      "living room"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Your brain treats a doorway like a scene change in a movie.",
+     "queries": [
+      "film reel",
+      "cinema",
+      "clapperboard"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "It closes the old scene,",
+     "queries": [
+      "closing door",
+      "door closing"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "and files your reason for walking in with it.",
+     "queries": [
+      "filing cabinet",
+      "folders",
+      "confused man"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "That's why",
+     "queries": [
+      "confused woman",
+      "woman forgetting",
+      "scratching head"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "After a conversation, they liked you more than you think.",
+     "queries": [
+      "friends talking",
+      "two women talking cafe",
+      "conversation"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers had strangers chat,",
+     "queries": [
+      "people talking",
+      "strangers meeting",
+      "handshake"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "then asked: how much do you like them,",
+     "queries": [
+      "woman thinking",
+      "man smiling"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "and how much do they like you?",
+     "queries": [
+      "woman doubt",
+      "man thinking"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Almost everyone underestimated how much they were liked.",
+     "queries": [
+      "friends laughing",
+      "smiling people",
+      "happy friends"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "While you replay your awkward pauses,",
+     "queries": [
+      "woman bed night",
+      "overthinking",
+      "insomnia"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "they're just enjoying the chat.",
+     "queries": [
+      "coffee friends",
+      "laughing cafe"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "So stop replaying it, because",
+     "queries": [
+      "woman smiling",
+      "sunrise"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "r3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Fewer than a quarter of people noticed your embarrassing moment.",
+     "queries": [
+      "embarrassed",
+      "man embarrassed",
+      "facepalm"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "You'd guess half.",
+     "queries": [
+      "crowd",
+      "people looking"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Researchers had students walk into a room in an embarrassing T-shirt.",
+     "queries": [
+      "students classroom",
+      "t-shirt",
+      "man walking room"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "They guessed half the room noticed.",
+     "queries": [
+      "classroom",
+      "students"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "In reality, fewer than a quarter did.",
+     "queries": [
+      "people phones",
+      "busy people",
+      "students working"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "You're the main character in your head,",
+     "queries": [
+      "spotlight stage",
+      "stage light",
+      "mirror"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "not in theirs.",
+     "queries": [
+      "crowd walking",
+      "people walking street"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "So next time you cringe, remember:",
+     "queries": [
+      "woman cringe",
+      "man laughing",
+      "confident man"
+     ]
+    }
+   ]
+  }
+ ]
+}
