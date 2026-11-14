@@ -100,6 +100,7 @@ def main(job_path, outdir):
                         continue
                     url, th = pick_url(hit["videos"]), thumb(hit["videos"])
                     if url and th:
+                        used.add(hit["id"])  # never offer the same clip twice in one job
                         cands.append({"pixabay_id": hit["id"], "url": url, "thumb": th,
                                       "page": hit.get("pageURL"), "tags": hit.get("tags"),
                                       "duration": hit.get("duration"), "query": q})

@@ -22,17 +22,20 @@ P = {
 pl = json.load(open(R + "picks_long.json"))
 vids, seen = [], set()
 for k, v in SHORTS.items():
-    clips = [url(r) for r in P[k].split()]
-    dup = [c for c in clips if c in seen]; assert not dup, (k, dup)
-    seen.update(clips)
+    clips = []
+    for r in P[k].split():
+        if url(r) not in seen:
+            clips.append(url(r)); seen.add(url(r))
     vids.append({"id": k, "subject": v["subject"], "script": " ".join(t for t, _ in v["lines"]),
                  "hook_text": v["hook_text"], "cta_text": "Full video: tap the link below",
                  "fast_open": {"clips": 3, "seconds": 1.5}, "clips": clips})
 LS = {"video_aspect": "16:9", "video_clip_duration": 4, "subtitle_position": "bottom", "font_size": 64,
       "bgm_type": "", "bgm_volume": 0.0, "voice_rate": 1.0}
 for k, (title, lines) in LONG.items():
-    clips = [c["url"] for c in pl[k]]
-    seen.update(clips)
+    clips = []
+    for c in pl[k]:
+        if c["url"] not in seen:
+            clips.append(c["url"]); seen.add(c["url"])
     v = {"id": k, "subject": title or "The psychology of looking rich", "script": " ".join(t for t, _ in lines),
          "clips": clips, "settings": LS}
     if title: v["title_card"] = title
