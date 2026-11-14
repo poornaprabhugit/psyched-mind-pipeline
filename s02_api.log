@@ -1,0 +1,213 @@
+[32m2026-11-14 09:07:03.640[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36mload_config[0m:[36m571[0m - [1mload config from file: /home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/mpt/config.toml[0m
+[32m2026-11-14 09:07:03.648[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36m<module>[0m:[36m729[0m - [1mMoneyPrinterTurbo v1.3.10[0m
+[32m2026-11-14 09:07:03[0m | [1mINFO[0m | "./main.py:7":[34m <module>[0m - [1mstart server, docs: http://127.0.0.1:8080/docs[0m
+[32m2026-11-14 09:07:06[0m | [1mINFO[0m | "./app/asgi.py:183":[34m configure_cors[0m - [1mbrowser cross-origin API access is disabled; set CORS_ALLOWED_ORIGINS to enable trusted origins[0m
+[32m2026-11-14 09:07:06[0m | [1mINFO[0m | "./app/asgi.py:26":[34m application_lifespan[0m - [1mstartup event[0m
+[32m2026-11-14 09:07:06[0m | [33m[1mWARNING[0m | "./app/asgi.py:30":[34m application_lifespan[0m - [33m[1mAPI key authentication is disabled; keep the API on a trusted network[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/controllers/manager/base_manager.py:57":[34m add_task[0m - [1madd task: start, current_tasks: 0[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/task.py:1562":[34m _run_pipeline[0m - [1mstart task: 9c595541-c1ed-4f57-9879-b8262c430554, stop_at: video[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=preparing, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:31[0m | [32m[1mSUCCESS[0m | "./app/controllers/v1/video.py:277":[34m create_task[0m - [32m[1mTask created: {
+    "task_id": "9c595541-c1ed-4f57-9879-b8262c430554",
+    "request_id": "dce11da9-633b-481b-b12f-458fbd6bdf49",
+    "params": {
+        "video_subject": "Why you'd pick the worse holiday",
+        "video_script": "More than half of people picked the worse holiday, because it cost more. Two ski trips, same weekend: a hundred dollars, or fifty. The fifty-dollar one is more fun. They still chose the expensive one. The money's gone either way, but your brain hates wasting it. So ask: if both were free, which would I pick?",
+        "video_terms": [
+            "psychology"
+        ],
+        "video_aspect": "9:16",
+        "video_fit_mode": "cover",
+        "image_motion": "zoom",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": null,
+        "video_clip_duration": 3,
+        "video_clip_speed": 1.0,
+        "match_materials_to_script": false,
+        "video_count": 1,
+        "video_source": "local",
+        "video_materials": [
+            {
+                "provider": "local",
+                "url": "s02_01.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_02.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_03.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_04.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_05.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_06.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_07.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_08.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_09.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_10.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_11.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_12.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "s02_13.mp4",
+                "duration": 0,
+                "source_info": null
+            }
+        ],
+        "custom_audio_file": null,
+        "video_language": "",
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "voice_volume": 1.4,
+        "voice_rate": 1.1,
+        "bgm_type": "random",
+        "bgm_file": "",
+        "bgm_volume": 0.2,
+        "video_music_prompt": "",
+        "sonilo_bgm_prompt": "",
+        "subtitle_enabled": true,
+        "subtitle_position": "center",
+        "subtitle_display_mode": "word_by_word",
+        "subtitle_animation": "pop_spring",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFE600",
+        "text_background_color": false,
+        "rounded_subtitle_background": false,
+        "font_size": 80,
+        "stroke_color": "#000000",
+        "stroke_width": 4.0,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "video_script_prompt": "",
+        "custom_system_prompt": ""
+    }
+}[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/utils/utils.py:243":[34m check_ffmpeg_ready[0m - [1mffmpeg check passed, using: /usr/bin/ffmpeg[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=script, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/task.py:365":[34m generate_script[0m - [1m
+
+## generating video script[0m
+[32m2026-11-14 09:07:31[0m | [34m[1mDEBUG[0m | "./app/services/task.py:376":[34m generate_script[0m - [34m[1mvideo script: 
+More than half of people picked the worse holiday, because it cost more. Two ski trips, same weekend: a hundred dollars, or fifty. The fifty-dollar one is more fun. They still chose the expensive one. The money's gone either way, but your brain hates wasting it. So ask: if both were free, which would I pick?[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=terms, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=audio, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/task.py:578":[34m generate_audio[0m - [1m
+
+## generating audio[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/task.py:606":[34m generate_audio[0m - [1mno custom audio file provided, using TTS to generate audio.[0m
+[32m2026-11-14 09:07:31[0m | [1mINFO[0m | "./app/services/voice.py:1599":[34m azure_tts_v1[0m - [1mstart, voice name: en-US-ChristopherNeural, try: 1[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/voice.py:1643":[34m azure_tts_v1[0m - [1mcompleted, output file: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/audio.mp3[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=subtitle, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/task.py:663":[34m generate_subtitle[0m - [1m
+
+## generating subtitle[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/task.py:669":[34m generate_subtitle[0m - [1m
+
+## generating subtitle, provider: edge[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/voice.py:3577":[34m _write_subtitle_items[0m - [1mcompleted, subtitle file created: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/.subtitle-e95ei8bf.srt, duration: 20.818[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=materials, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:34[0m | [1mINFO[0m | "./app/services/task.py:739":[34m get_video_materials[0m - [1m
+
+## preprocess local materials[0m
+[32m2026-11-14 09:07:39[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=rendering, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:07:39[0m | [1mINFO[0m | "./app/services/task.py:1058":[34m generate_final_videos[0m - [1m
+
+## combining video: 1 => ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/combined-1.mp4[0m
+[32m2026-11-14 09:07:39[0m | [1mINFO[0m | "./app/services/video.py:1007":[34m combine_videos[0m - [1maudio duration: 21.62 seconds[0m
+[32m2026-11-14 09:07:39[0m | [1mINFO[0m | "./app/services/video.py:1008":[34m combine_videos[0m - [1mmaximum clip duration: 3 seconds[0m
+[32m2026-11-14 09:07:39[0m | [1mINFO[0m | "./app/services/video.py:1010":[34m combine_videos[0m - [1mrequired video duration: 21.72 seconds (audio duration + 0.10s safety margin)[0m
+[32m2026-11-14 09:07:43[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1108":[34m combine_videos[0m - [34m[1mtotal subclipped items: 60[0m
+[32m2026-11-14 09:07:43[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 1: 1920x1080, source: s02_01.mp4[0m
+[32m2026-11-14 09:07:43[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:07:52[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 2: 1920x1080, source: s02_02.mp4[0m
+[32m2026-11-14 09:07:52[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 1: 1.5 of 21.7s covered[0m
+[32m2026-11-14 09:07:52[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:08:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 3: 1920x1080, source: s02_03.mp4[0m
+[32m2026-11-14 09:08:00[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 2: 3.0 of 21.7s covered[0m
+[32m2026-11-14 09:08:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:08:07[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 4: 2560x1440, source: s02_04.mp4[0m
+[32m2026-11-14 09:08:07[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 3: 4.5 of 21.7s covered[0m
+[32m2026-11-14 09:08:07[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:08:24[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 5: 1920x1080, source: s02_05.mp4[0m
+[32m2026-11-14 09:08:24[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 4: 7.5 of 21.7s covered[0m
+[32m2026-11-14 09:08:24[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:08:38[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 6: 2730x1440, source: s02_06.mp4[0m
+[32m2026-11-14 09:08:38[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 5: 10.5 of 21.7s covered[0m
+[32m2026-11-14 09:08:39[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2730x1440, ratio: 1.90, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:08:57[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 7: 1920x1080, source: s02_07.mp4[0m
+[32m2026-11-14 09:08:57[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 6: 13.5 of 21.7s covered[0m
+[32m2026-11-14 09:08:57[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:09:12[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 8: 3840x2160, source: s02_08.mp4[0m
+[32m2026-11-14 09:09:12[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 7: 16.5 of 21.7s covered[0m
+[32m2026-11-14 09:09:12[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:09:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 9: 1920x1080, source: s02_09.mp4[0m
+[32m2026-11-14 09:09:35[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 8: 19.5 of 21.7s covered[0m
+[32m2026-11-14 09:09:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 1920x1080, ratio: 1.78, target: 1080x1920, ratio: 0.56, fit_mode: cover[0m
+[32m2026-11-14 09:09:50[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 9: 22.5 of 21.7s covered[0m
+[32m2026-11-14 09:09:50[0m | [1mINFO[0m | "./app/services/video.py:1295":[34m combine_videos[0m - [1mstarting clip merging process[0m
+[32m2026-11-14 09:09:50[0m | [1mINFO[0m | "./app/services/video.py:1303":[34m combine_videos[0m - [1mconcatenating 9 clips with ffmpeg[0m
+[32m2026-11-14 09:10:20[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=30s, output size: 8.50 MB[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1325":[34m combine_videos[0m - [1mvideo combining completed[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/task.py:1143":[34m generate_final_videos[0m - [1m
+
+## generating video: 1 => ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/final-1.mp4[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1653":[34m generate_video[0m - [1mgenerating video: 1080 x 1920[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1654":[34m generate_video[0m - [1m  ① video: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/combined-1.mp4[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1655":[34m generate_video[0m - [1m  ② audio: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/audio.mp3[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1656":[34m generate_video[0m - [1m  ③ subtitle: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/subtitle.srt[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1657":[34m generate_video[0m - [1m  ④ output: ./storage/tasks/9c595541-c1ed-4f57-9879-b8262c430554/final-1.mp4[0m
+[32m2026-11-14 09:10:22[0m | [1mINFO[0m | "./app/services/video.py:1677":[34m generate_video[0m - [1m  ⑤ font: ./resource/fonts/MicrosoftYaHeiBold.ttc[0m
+[32m2026-11-14 09:10:53[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=30s[0m
+[32m2026-11-14 09:11:11[0m | [32m[1mSUCCESS[0m | "./app/services/task.py:1920":[34m _run_pipeline[0m - [32m[1mtask 9c595541-c1ed-4f57-9879-b8262c430554 finished, generated 1 videos.[0m

@@ -1,0 +1,279 @@
+[32m2026-11-14 09:24:53.193[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36mload_config[0m:[36m571[0m - [1mload config from file: /home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/mpt/config.toml[0m
+[32m2026-11-14 09:24:53.199[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36m<module>[0m:[36m729[0m - [1mMoneyPrinterTurbo v1.3.10[0m
+[32m2026-11-14 09:24:53[0m | [1mINFO[0m | "./main.py:7":[34m <module>[0m - [1mstart server, docs: http://127.0.0.1:8080/docs[0m
+[32m2026-11-14 09:24:55[0m | [1mINFO[0m | "./app/asgi.py:183":[34m configure_cors[0m - [1mbrowser cross-origin API access is disabled; set CORS_ALLOWED_ORIGINS to enable trusted origins[0m
+[32m2026-11-14 09:24:55[0m | [1mINFO[0m | "./app/asgi.py:26":[34m application_lifespan[0m - [1mstartup event[0m
+[32m2026-11-14 09:24:55[0m | [33m[1mWARNING[0m | "./app/asgi.py:30":[34m application_lifespan[0m - [33m[1mAPI key authentication is disabled; keep the API on a trusted network[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/controllers/manager/base_manager.py:57":[34m add_task[0m - [1madd task: start, current_tasks: 0[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/task.py:1562":[34m _run_pipeline[0m - [1mstart task: 213f5ea9-8825-4007-818c-12572a400c78, stop_at: video[0m
+[32m2026-11-14 09:25:18[0m | [32m[1mSUCCESS[0m | "./app/controllers/v1/video.py:277":[34m create_task[0m - [32m[1mTask created: {
+    "task_id": "213f5ea9-8825-4007-818c-12572a400c78",
+    "request_id": "01e6eaaa-0743-4059-8b36-e745b75e7bfe",
+    "params": {
+        "video_subject": "6 · The counterfeit self",
+        "video_script": "Number six: the counterfeit self. Researchers gave women real designer sunglasses, a brand that sells for hundreds of dollars. But some were told their pair came from a box labelled counterfeit. Others, from a box labelled authentic. In reality, every pair was genuine. Then the women wore the sunglasses while they solved maths puzzles, and graded their own work, with a chance to cheat for more money. Among women who thought their sunglasses were authentic, about thirty percent cheated. Among those who thought they were wearing fakes: seventy-one percent. The same glasses. Only the label in their head had changed. And it wasn't a fluke: with a new group, randomly assigned, the gap was almost the same. Sixty-nine percent against twenty-six. In follow-up studies, wearing the 'fakes' also made people more suspicious of others. The researchers' explanation: when you wear something that sends a false signal, part of you feels like a fake. And once you feel a bit fake, the next dishonest step feels smaller. Pretending to be richer than you are doesn't just risk your wallet. It can quietly change how you see yourself. Try this today: choose things that are honestly yours, even if they're simpler. Feeling genuine is worth more than looking expensive. And now, the question that shows how strange our relationship with money really is.",
+        "video_terms": [
+            "psychology"
+        ],
+        "video_aspect": "16:9",
+        "video_fit_mode": "cover",
+        "image_motion": "zoom",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": null,
+        "video_clip_duration": 4,
+        "video_clip_speed": 1.0,
+        "match_materials_to_script": false,
+        "video_count": 1,
+        "video_source": "local",
+        "video_materials": [
+            {
+                "provider": "local",
+                "url": "L6_01.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_02.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_03.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_04.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_05.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_06.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_07.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_08.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_09.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_10.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_11.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_12.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_13.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_14.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_15.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_16.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_17.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L6_18.mp4",
+                "duration": 0,
+                "source_info": null
+            }
+        ],
+        "custom_audio_file": null,
+        "video_language": "",
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "voice_volume": 1.4,
+        "voice_rate": 1.0,
+        "bgm_type": "",
+        "bgm_file": "",
+        "bgm_volume": 0.0,
+        "video_music_prompt": "",
+        "sonilo_bgm_prompt": "",
+        "subtitle_enabled": true,
+        "subtitle_position": "bottom",
+        "subtitle_display_mode": "word_by_word",
+        "subtitle_animation": "pop_spring",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFE600",
+        "text_background_color": false,
+        "rounded_subtitle_background": false,
+        "font_size": 64,
+        "stroke_color": "#000000",
+        "stroke_width": 4.0,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "video_script_prompt": "",
+        "custom_system_prompt": ""
+    }
+}[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=preparing, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/utils/utils.py:243":[34m check_ffmpeg_ready[0m - [1mffmpeg check passed, using: /usr/bin/ffmpeg[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=script, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/task.py:365":[34m generate_script[0m - [1m
+
+## generating video script[0m
+[32m2026-11-14 09:25:18[0m | [34m[1mDEBUG[0m | "./app/services/task.py:376":[34m generate_script[0m - [34m[1mvideo script: 
+Number six: the counterfeit self. Researchers gave women real designer sunglasses, a brand that sells for hundreds of dollars. But some were told their pair came from a box labelled counterfeit. Others, from a box labelled authentic. In reality, every pair was genuine. Then the women wore the sunglasses while they solved maths puzzles, and graded their own work, with a chance to cheat for more money. Among women who thought their sunglasses were authentic, about thirty percent cheated. Among those who thought they were wearing fakes: seventy-one percent. The same glasses. Only the label in their head had changed. And it wasn't a fluke: with a new group, randomly assigned, the gap was almost the same. Sixty-nine percent against twenty-six. In follow-up studies, wearing the 'fakes' also made people more suspicious of others. The researchers' explanation: when you wear something that sends a false signal, part of you feels like a fake. And once you feel a bit fake, the next dishonest step feels smaller. Pretending to be richer than you are doesn't just risk your wallet. It can quietly change how you see yourself. Try this today: choose things that are honestly yours, even if they're simpler. Feeling genuine is worth more than looking expensive. And now, the question that shows how strange our relationship with money really is.[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=terms, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=audio, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/task.py:578":[34m generate_audio[0m - [1m
+
+## generating audio[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/task.py:606":[34m generate_audio[0m - [1mno custom audio file provided, using TTS to generate audio.[0m
+[32m2026-11-14 09:25:18[0m | [1mINFO[0m | "./app/services/voice.py:1599":[34m azure_tts_v1[0m - [1mstart, voice name: en-US-ChristopherNeural, try: 1[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/voice.py:1643":[34m azure_tts_v1[0m - [1mcompleted, output file: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/audio.mp3[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=subtitle, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/task.py:663":[34m generate_subtitle[0m - [1m
+
+## generating subtitle[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/task.py:669":[34m generate_subtitle[0m - [1m
+
+## generating subtitle, provider: edge[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/voice.py:3577":[34m _write_subtitle_items[0m - [1mcompleted, subtitle file created: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/.subtitle-zx9u3kom.srt, duration: 89.838[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=materials, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/task.py:739":[34m get_video_materials[0m - [1m
+
+## preprocess local materials[0m
+[32m2026-11-14 09:25:49[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=rendering, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:25:49[0m | [1mINFO[0m | "./app/services/task.py:1058":[34m generate_final_videos[0m - [1m
+
+## combining video: 1 => ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/combined-1.mp4[0m
+[32m2026-11-14 09:25:49[0m | [1mINFO[0m | "./app/services/video.py:1007":[34m combine_videos[0m - [1maudio duration: 90.72 seconds[0m
+[32m2026-11-14 09:25:49[0m | [1mINFO[0m | "./app/services/video.py:1008":[34m combine_videos[0m - [1mmaximum clip duration: 4 seconds[0m
+[32m2026-11-14 09:25:49[0m | [1mINFO[0m | "./app/services/video.py:1010":[34m combine_videos[0m - [1mrequired video duration: 90.82 seconds (audio duration + 0.10s safety margin)[0m
+[32m2026-11-14 09:25:56[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1108":[34m combine_videos[0m - [34m[1mtotal subclipped items: 79[0m
+[32m2026-11-14 09:25:56[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 1: 1920x1080, source: L6_01.mp4[0m
+[32m2026-11-14 09:26:04[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 2: 3840x2160, source: L6_02.mp4[0m
+[32m2026-11-14 09:26:04[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 1: 4.0 of 90.8s covered[0m
+[32m2026-11-14 09:26:05[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:27[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 3: 1920x1080, source: L6_03.mp4[0m
+[32m2026-11-14 09:26:27[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 2: 8.0 of 90.8s covered[0m
+[32m2026-11-14 09:26:33[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 4: 3840x2160, source: L6_04.mp4[0m
+[32m2026-11-14 09:26:33[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 3: 12.0 of 90.8s covered[0m
+[32m2026-11-14 09:26:34[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:54[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 5: 1920x1080, source: L6_05.mp4[0m
+[32m2026-11-14 09:26:54[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 4: 16.0 of 90.8s covered[0m
+[32m2026-11-14 09:27:01[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 6: 3840x2160, source: L6_06.mp4[0m
+[32m2026-11-14 09:27:01[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 5: 20.0 of 90.8s covered[0m
+[32m2026-11-14 09:27:02[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:27:22[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 7: 1920x1080, source: L6_07.mp4[0m
+[32m2026-11-14 09:27:22[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 6: 24.0 of 90.8s covered[0m
+[32m2026-11-14 09:27:29[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 8: 3840x2160, source: L6_08.mp4[0m
+[32m2026-11-14 09:27:29[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 7: 28.0 of 90.8s covered[0m
+[32m2026-11-14 09:27:29[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:27:49[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 9: 1920x1080, source: L6_09.mp4[0m
+[32m2026-11-14 09:27:49[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 8: 32.0 of 90.8s covered[0m
+[32m2026-11-14 09:27:56[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 10: 1920x1080, source: L6_10.mp4[0m
+[32m2026-11-14 09:27:56[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 9: 36.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:04[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 11: 1920x1080, source: L6_11.mp4[0m
+[32m2026-11-14 09:28:04[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 10: 40.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:11[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 12: 1920x1080, source: L6_12.mp4[0m
+[32m2026-11-14 09:28:11[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 11: 44.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:20[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 13: 2560x1440, source: L6_13.mp4[0m
+[32m2026-11-14 09:28:20[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 12: 48.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:20[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:28:34[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 14: 1920x1080, source: L6_14.mp4[0m
+[32m2026-11-14 09:28:34[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 13: 52.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:41[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 15: 1920x1080, source: L6_15.mp4[0m
+[32m2026-11-14 09:28:41[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 14: 56.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:50[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 16: 3840x2160, source: L6_16.mp4[0m
+[32m2026-11-14 09:28:50[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 15: 60.0 of 90.8s covered[0m
+[32m2026-11-14 09:28:50[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:29:14[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 17: 2160x3840, source: L6_17.mp4[0m
+[32m2026-11-14 09:29:14[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 16: 64.0 of 90.8s covered[0m
+[32m2026-11-14 09:29:15[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2160x3840, ratio: 0.56, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:29:44[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 18: 1920x1080, source: L6_18.mp4[0m
+[32m2026-11-14 09:29:44[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 17: 68.0 of 90.8s covered[0m
+[32m2026-11-14 09:29:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 19: 1920x1080, source: L6_01.mp4[0m
+[32m2026-11-14 09:29:51[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 18: 72.0 of 90.8s covered[0m
+[32m2026-11-14 09:30:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 20: 3840x2160, source: L6_02.mp4[0m
+[32m2026-11-14 09:30:00[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 19: 76.0 of 90.8s covered[0m
+[32m2026-11-14 09:30:03[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:30:21[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 21: 1920x1080, source: L6_03.mp4[0m
+[32m2026-11-14 09:30:21[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 20: 79.7 of 90.8s covered[0m
+[32m2026-11-14 09:30:29[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 22: 3840x2160, source: L6_04.mp4[0m
+[32m2026-11-14 09:30:29[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 21: 83.7 of 90.8s covered[0m
+[32m2026-11-14 09:30:31[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:30:52[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 23: 1920x1080, source: L6_05.mp4[0m
+[32m2026-11-14 09:30:52[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 22: 87.7 of 90.8s covered[0m
+[32m2026-11-14 09:31:01[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 23: 91.7 of 90.8s covered[0m
+[32m2026-11-14 09:31:01[0m | [1mINFO[0m | "./app/services/video.py:1295":[34m combine_videos[0m - [1mstarting clip merging process[0m
+[32m2026-11-14 09:31:01[0m | [1mINFO[0m | "./app/services/video.py:1303":[34m combine_videos[0m - [1mconcatenating 23 clips with ffmpeg[0m
+[32m2026-11-14 09:31:31[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=30s, output size: 6.00 MB[0m
+[32m2026-11-14 09:32:01[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=60s, output size: 11.75 MB[0m
+[32m2026-11-14 09:32:31[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=90s, output size: 21.25 MB[0m
+[32m2026-11-14 09:33:01[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=120s, output size: 27.75 MB[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1325":[34m combine_videos[0m - [1mvideo combining completed[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/task.py:1143":[34m generate_final_videos[0m - [1m
+
+## generating video: 1 => ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/final-1.mp4[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1653":[34m generate_video[0m - [1mgenerating video: 1920 x 1080[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1654":[34m generate_video[0m - [1m  ① video: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/combined-1.mp4[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1655":[34m generate_video[0m - [1m  ② audio: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/audio.mp3[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1656":[34m generate_video[0m - [1m  ③ subtitle: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/subtitle.srt[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1657":[34m generate_video[0m - [1m  ④ output: ./storage/tasks/213f5ea9-8825-4007-818c-12572a400c78/final-1.mp4[0m
+[32m2026-11-14 09:33:14[0m | [1mINFO[0m | "./app/services/video.py:1677":[34m generate_video[0m - [1m  ⑤ font: ./resource/fonts/MicrosoftYaHeiBold.ttc[0m
+[32m2026-11-14 09:33:45[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=30s[0m
+[32m2026-11-14 09:34:15[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=60s[0m
+[32m2026-11-14 09:34:45[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=90s[0m
+[32m2026-11-14 09:35:15[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=120s[0m
+[32m2026-11-14 09:35:45[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=150s[0m
+[32m2026-11-14 09:36:15[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=180s[0m
+[32m2026-11-14 09:36:41[0m | [32m[1mSUCCESS[0m | "./app/services/task.py:1920":[34m _run_pipeline[0m - [32m[1mtask 213f5ea9-8825-4007-818c-12572a400c78 finished, generated 1 videos.[0m

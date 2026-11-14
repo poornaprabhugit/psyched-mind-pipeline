@@ -1,0 +1,295 @@
+[32m2026-11-14 09:22:23.312[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36mload_config[0m:[36m571[0m - [1mload config from file: /home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/mpt/config.toml[0m
+[32m2026-11-14 09:22:23.317[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36m<module>[0m:[36m729[0m - [1mMoneyPrinterTurbo v1.3.10[0m
+[32m2026-11-14 09:22:23[0m | [1mINFO[0m | "./main.py:7":[34m <module>[0m - [1mstart server, docs: http://127.0.0.1:8080/docs[0m
+[32m2026-11-14 09:22:25[0m | [1mINFO[0m | "./app/asgi.py:183":[34m configure_cors[0m - [1mbrowser cross-origin API access is disabled; set CORS_ALLOWED_ORIGINS to enable trusted origins[0m
+[32m2026-11-14 09:22:25[0m | [1mINFO[0m | "./app/asgi.py:26":[34m application_lifespan[0m - [1mstartup event[0m
+[32m2026-11-14 09:22:25[0m | [33m[1mWARNING[0m | "./app/asgi.py:30":[34m application_lifespan[0m - [33m[1mAPI key authentication is disabled; keep the API on a trusted network[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/controllers/manager/base_manager.py:57":[34m add_task[0m - [1madd task: start, current_tasks: 0[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/task.py:1562":[34m _run_pipeline[0m - [1mstart task: b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad, stop_at: video[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=preparing, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:22:46[0m | [32m[1mSUCCESS[0m | "./app/controllers/v1/video.py:277":[34m create_task[0m - [32m[1mTask created: {
+    "task_id": "b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad",
+    "request_id": "518b6215-e535-40e3-99d9-93f8d345817e",
+    "params": {
+        "video_subject": "5 · The red sneakers effect",
+        "video_script": "Number five: the red sneakers effect. And stay for number seven: it's a single question, and most people's answer surprises them. Researchers went to luxury boutiques in Milan, the kind of shops with a doorman. They described two shoppers to the shop assistants. One walked in wearing a dress and a fur coat. The other walked in wearing gym clothes. Which one did the assistants think was the more important customer, more likely to buy? The one in gym clothes. In another study, students rated a professor at a top university. Described wearing red sneakers instead of formal shoes, he was judged as higher status and more competent. When someone breaks a dress code on purpose, your brain makes a quick calculation: they must have enough status to not care. Think of the founder in a hoodie at a board meeting. Your brain doesn't read sloppy. It reads: this person doesn't need to impress anyone. But there's a limit. It only worked when the rule-breaking looked deliberate, in a setting where people expected the rules. A professor in red sneakers at a top university: status. A random mismatched outfit: just a mistake. Try this today: you don't have to dress like money to be taken seriously. A confident, deliberate choice sends a stronger signal than a label. Which leads to the study that changed how researchers think about fake luxury.",
+        "video_terms": [
+            "psychology"
+        ],
+        "video_aspect": "16:9",
+        "video_fit_mode": "cover",
+        "image_motion": "zoom",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": null,
+        "video_clip_duration": 4,
+        "video_clip_speed": 1.0,
+        "match_materials_to_script": false,
+        "video_count": 1,
+        "video_source": "local",
+        "video_materials": [
+            {
+                "provider": "local",
+                "url": "L5_01.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_02.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_03.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_04.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_05.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_06.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_07.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_08.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_09.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_10.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_11.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_12.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_13.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_14.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_15.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_16.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_17.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_18.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_19.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_20.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L5_21.mp4",
+                "duration": 0,
+                "source_info": null
+            }
+        ],
+        "custom_audio_file": null,
+        "video_language": "",
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "voice_volume": 1.4,
+        "voice_rate": 1.0,
+        "bgm_type": "",
+        "bgm_file": "",
+        "bgm_volume": 0.0,
+        "video_music_prompt": "",
+        "sonilo_bgm_prompt": "",
+        "subtitle_enabled": true,
+        "subtitle_position": "bottom",
+        "subtitle_display_mode": "word_by_word",
+        "subtitle_animation": "pop_spring",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFE600",
+        "text_background_color": false,
+        "rounded_subtitle_background": false,
+        "font_size": 64,
+        "stroke_color": "#000000",
+        "stroke_width": 4.0,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "video_script_prompt": "",
+        "custom_system_prompt": ""
+    }
+}[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/utils/utils.py:243":[34m check_ffmpeg_ready[0m - [1mffmpeg check passed, using: /usr/bin/ffmpeg[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=script, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/task.py:365":[34m generate_script[0m - [1m
+
+## generating video script[0m
+[32m2026-11-14 09:22:46[0m | [34m[1mDEBUG[0m | "./app/services/task.py:376":[34m generate_script[0m - [34m[1mvideo script: 
+Number five: the red sneakers effect. And stay for number seven: it's a single question, and most people's answer surprises them. Researchers went to luxury boutiques in Milan, the kind of shops with a doorman. They described two shoppers to the shop assistants. One walked in wearing a dress and a fur coat. The other walked in wearing gym clothes. Which one did the assistants think was the more important customer, more likely to buy? The one in gym clothes. In another study, students rated a professor at a top university. Described wearing red sneakers instead of formal shoes, he was judged as higher status and more competent. When someone breaks a dress code on purpose, your brain makes a quick calculation: they must have enough status to not care. Think of the founder in a hoodie at a board meeting. Your brain doesn't read sloppy. It reads: this person doesn't need to impress anyone. But there's a limit. It only worked when the rule-breaking looked deliberate, in a setting where people expected the rules. A professor in red sneakers at a top university: status. A random mismatched outfit: just a mistake. Try this today: you don't have to dress like money to be taken seriously. A confident, deliberate choice sends a stronger signal than a label. Which leads to the study that changed how researchers think about fake luxury.[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=terms, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=audio, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/task.py:578":[34m generate_audio[0m - [1m
+
+## generating audio[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/task.py:606":[34m generate_audio[0m - [1mno custom audio file provided, using TTS to generate audio.[0m
+[32m2026-11-14 09:22:46[0m | [1mINFO[0m | "./app/services/voice.py:1599":[34m azure_tts_v1[0m - [1mstart, voice name: en-US-ChristopherNeural, try: 1[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/voice.py:1643":[34m azure_tts_v1[0m - [1mcompleted, output file: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/audio.mp3[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=subtitle, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/task.py:663":[34m generate_subtitle[0m - [1m
+
+## generating subtitle[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/task.py:669":[34m generate_subtitle[0m - [1m
+
+## generating subtitle, provider: edge[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/voice.py:3577":[34m _write_subtitle_items[0m - [1mcompleted, subtitle file created: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/.subtitle-55gy95j9.srt, duration: 90.812[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=materials, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:23:00[0m | [1mINFO[0m | "./app/services/task.py:739":[34m get_video_materials[0m - [1m
+
+## preprocess local materials[0m
+[32m2026-11-14 09:23:07[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=rendering, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-14 09:23:07[0m | [1mINFO[0m | "./app/services/task.py:1058":[34m generate_final_videos[0m - [1m
+
+## combining video: 1 => ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/combined-1.mp4[0m
+[32m2026-11-14 09:23:07[0m | [1mINFO[0m | "./app/services/video.py:1007":[34m combine_videos[0m - [1maudio duration: 91.68 seconds[0m
+[32m2026-11-14 09:23:07[0m | [1mINFO[0m | "./app/services/video.py:1008":[34m combine_videos[0m - [1mmaximum clip duration: 4 seconds[0m
+[32m2026-11-14 09:23:07[0m | [1mINFO[0m | "./app/services/video.py:1010":[34m combine_videos[0m - [1mrequired video duration: 91.78 seconds (audio duration + 0.10s safety margin)[0m
+[32m2026-11-14 09:23:14[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1108":[34m combine_videos[0m - [34m[1mtotal subclipped items: 121[0m
+[32m2026-11-14 09:23:14[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 1: 1920x1080, source: L5_01.mp4[0m
+[32m2026-11-14 09:23:24[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 2: 3840x2160, source: L5_02.mp4[0m
+[32m2026-11-14 09:23:24[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 1: 4.0 of 91.8s covered[0m
+[32m2026-11-14 09:23:24[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:23:41[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 3: 1920x1080, source: L5_03.mp4[0m
+[32m2026-11-14 09:23:41[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 2: 8.0 of 91.8s covered[0m
+[32m2026-11-14 09:23:46[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 4: 2560x1440, source: L5_04.mp4[0m
+[32m2026-11-14 09:23:46[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 3: 12.0 of 91.8s covered[0m
+[32m2026-11-14 09:23:47[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:23:56[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 5: 1920x1080, source: L5_05.mp4[0m
+[32m2026-11-14 09:23:56[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 4: 16.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:02[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 6: 3840x2160, source: L5_06.mp4[0m
+[32m2026-11-14 09:24:02[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 5: 20.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:02[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:24:19[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 7: 1920x1080, source: L5_07.mp4[0m
+[32m2026-11-14 09:24:19[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 6: 24.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:25[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 8: 1920x1080, source: L5_08.mp4[0m
+[32m2026-11-14 09:24:25[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 7: 28.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:31[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 9: 1920x1080, source: L5_09.mp4[0m
+[32m2026-11-14 09:24:31[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 8: 32.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:37[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 10: 3840x2160, source: L5_10.mp4[0m
+[32m2026-11-14 09:24:37[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 9: 36.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:37[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:24:55[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 11: 1920x1080, source: L5_11.mp4[0m
+[32m2026-11-14 09:24:55[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 10: 40.0 of 91.8s covered[0m
+[32m2026-11-14 09:24:59[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 12: 1920x1080, source: L5_12.mp4[0m
+[32m2026-11-14 09:24:59[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 11: 44.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:05[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 13: 1920x1080, source: L5_13.mp4[0m
+[32m2026-11-14 09:25:05[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 12: 48.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:09[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 14: 1920x1080, source: L5_14.mp4[0m
+[32m2026-11-14 09:25:09[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 13: 52.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:13[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 15: 1920x1080, source: L5_15.mp4[0m
+[32m2026-11-14 09:25:13[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 14: 56.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:19[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 16: 2560x1440, source: L5_16.mp4[0m
+[32m2026-11-14 09:25:19[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 15: 60.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:19[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:25:30[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 17: 1920x1080, source: L5_17.mp4[0m
+[32m2026-11-14 09:25:30[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 16: 64.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:37[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 18: 1920x1080, source: L5_18.mp4[0m
+[32m2026-11-14 09:25:37[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 17: 68.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:43[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 19: 3840x2160, source: L5_19.mp4[0m
+[32m2026-11-14 09:25:43[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 18: 72.0 of 91.8s covered[0m
+[32m2026-11-14 09:25:43[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 20: 3840x2160, source: L5_20.mp4[0m
+[32m2026-11-14 09:26:00[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 19: 76.0 of 91.8s covered[0m
+[32m2026-11-14 09:26:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:16[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 21: 2560x1440, source: L5_21.mp4[0m
+[32m2026-11-14 09:26:16[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 20: 80.0 of 91.8s covered[0m
+[32m2026-11-14 09:26:16[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:28[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 22: 1920x1080, source: L5_01.mp4[0m
+[32m2026-11-14 09:26:28[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 21: 84.0 of 91.8s covered[0m
+[32m2026-11-14 09:26:37[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 23: 3840x2160, source: L5_02.mp4[0m
+[32m2026-11-14 09:26:37[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 22: 88.0 of 91.8s covered[0m
+[32m2026-11-14 09:26:39[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-14 09:26:56[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 23: 92.0 of 91.8s covered[0m
+[32m2026-11-14 09:26:56[0m | [1mINFO[0m | "./app/services/video.py:1295":[34m combine_videos[0m - [1mstarting clip merging process[0m
+[32m2026-11-14 09:26:56[0m | [1mINFO[0m | "./app/services/video.py:1303":[34m combine_videos[0m - [1mconcatenating 23 clips with ffmpeg[0m
+[32m2026-11-14 09:27:26[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=30s, output size: 16.25 MB[0m
+[32m2026-11-14 09:27:56[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=60s, output size: 28.25 MB[0m
+[32m2026-11-14 09:28:26[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=90s, output size: 39.00 MB[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1325":[34m combine_videos[0m - [1mvideo combining completed[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/task.py:1143":[34m generate_final_videos[0m - [1m
+
+## generating video: 1 => ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/final-1.mp4[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1653":[34m generate_video[0m - [1mgenerating video: 1920 x 1080[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1654":[34m generate_video[0m - [1m  ① video: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/combined-1.mp4[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1655":[34m generate_video[0m - [1m  ② audio: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/audio.mp3[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1656":[34m generate_video[0m - [1m  ③ subtitle: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/subtitle.srt[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1657":[34m generate_video[0m - [1m  ④ output: ./storage/tasks/b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad/final-1.mp4[0m
+[32m2026-11-14 09:28:35[0m | [1mINFO[0m | "./app/services/video.py:1677":[34m generate_video[0m - [1m  ⑤ font: ./resource/fonts/MicrosoftYaHeiBold.ttc[0m
+[32m2026-11-14 09:29:06[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=30s[0m
+[32m2026-11-14 09:29:36[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=60s[0m
+[32m2026-11-14 09:30:06[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=90s[0m
+[32m2026-11-14 09:30:36[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=120s[0m
+[32m2026-11-14 09:31:06[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=150s[0m
+[32m2026-11-14 09:31:06[0m | [32m[1mSUCCESS[0m | "./app/services/task.py:1920":[34m _run_pipeline[0m - [32m[1mtask b1ea0b0f-bf23-4521-a76d-a250f6b5a9ad finished, generated 1 videos.[0m
