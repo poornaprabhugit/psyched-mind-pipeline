@@ -1,0 +1,161 @@
+{
+ "id": "g05",
+ "lines": [
+  {
+   "n": 1,
+   "text": "basketball",
+   "candidates": [
+    {
+     "pixabay_id": 139533,
+     "url": "https://cdn.pixabay.com/video/2022/11/18/139533-772542665_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/18/139533-772542665_small.jpg",
+     "page": "https://pixabay.com/videos/id-139533/",
+     "tags": "basketball, game, fitness, health, lifestyle",
+     "duration": 5,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 8880,
+     "url": "https://cdn.pixabay.com/video/2017/04/28/8880-215589264_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/28/8880-215589264_small.jpg",
+     "page": "https://pixabay.com/videos/id-8880/",
+     "tags": "basketball, shots, ball, game, hoop, motion, score, sport",
+     "duration": 20,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 202104,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202104-916932559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202104-916932559_small.jpg",
+     "page": "https://pixabay.com/videos/id-202104/",
+     "tags": "stadium, net, sport, play ball, cloudy landscape, hobby, playing, basketball, game, athletic, ball",
+     "duration": 14,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 115663,
+     "url": "https://cdn.pixabay.com/video/2022/05/01/115663-705567652_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/01/115663-705567652_small.jpg",
+     "page": "https://pixabay.com/videos/id-115663/",
+     "tags": "basketball, the game, sport, competition, game room, arcade, kids, fun, happiness, ball, circle",
+     "duration": 15,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 26352,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26352-357839096_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26352-357839096_small.jpg",
+     "page": "https://pixabay.com/videos/id-26352/",
+     "tags": "drone, park, summer, forest, flying, landscape, city, games, basketball court, flight, mexico, aerial",
+     "duration": 7,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 259095,
+     "url": "https://cdn.pixabay.com/video/2025/02/18/259095_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/18/259095_small.jpg",
+     "page": "https://pixabay.com/videos/id-259095/",
+     "tags": "basketball, basket, pot, sport, game, nba, ball, network, round, play, competition, championship, bounce, victory, success, sky",
+     "duration": 59,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 230749,
+     "url": "https://cdn.pixabay.com/video/2024/09/10/230749_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/10/230749_small.jpg",
+     "page": "https://pixabay.com/videos/id-230749/",
+     "tags": "basketball, sport, game, rest, court, distance",
+     "duration": 7,
+     "query": "basketball game"
+    },
+    {
+     "pixabay_id": 323232,
+     "url": "https://cdn.pixabay.com/video/2025/12/20/323232_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/20/323232_small.jpg",
+     "page": "https://pixabay.com/videos/id-323232/",
+     "tags": "basketball, sport, the game, basket, play, set, nature, competition, hobby, sky, blue, view, clouds, cloudy, movement, background, atmosphere, weather, meteorology, healthy, net, high, bounce, fun",
+     "duration": 59,
+     "query": "basketball game"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "gorilla",
+   "candidates": [
+    {
+     "pixabay_id": 87157,
+     "url": "https://cdn.pixabay.com/video/2021/09/01/87157-601077042_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/01/87157-601077042_small.jpg",
+     "page": "https://pixabay.com/videos/id-87157/",
+     "tags": "gorilla, ape, silverback, animal, zoo, wildlife",
+     "duration": 16,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 164517,
+     "url": "https://cdn.pixabay.com/video/2023/05/25/164517-830865498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/25/164517-830865498_small.jpg",
+     "page": "https://pixabay.com/videos/id-164517/",
+     "tags": "gorilla, ape, primate, monkey, animal, wild animals",
+     "duration": 19,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 128698,
+     "url": "https://cdn.pixabay.com/video/2022/08/22/128698-742053479_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/22/128698-742053479_small.jpg",
+     "page": "https://pixabay.com/videos/id-128698/",
+     "tags": "gorilla, ape, silverback, mammal, strong, powerful, wildlife",
+     "duration": 14,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 49785,
+     "url": "https://cdn.pixabay.com/video/2020/09/12/49785-459795222_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/12/49785-459795222_small.jpg",
+     "page": "https://pixabay.com/videos/id-49785/",
+     "tags": "gorilla, ape, silverback, animal, meal, fur, powerful, silver gray, strong",
+     "duration": 20,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 112427,
+     "url": "https://cdn.pixabay.com/video/2022/03/31/112427-694704482_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/31/112427-694704482_small.jpg",
+     "page": "https://pixabay.com/videos/id-112427/",
+     "tags": "gorilla, silverback, ape, wildlife, slow motion",
+     "duration": 35,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 85379,
+     "url": "https://cdn.pixabay.com/video/2021/08/17/85379-588675425_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/17/85379-588675425_small.jpg",
+     "page": "https://pixabay.com/videos/id-85379/",
+     "tags": "gorilla, ape, silverback, furry, powerful, zoo, animal, thoughtful",
+     "duration": 23,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 3722,
+     "url": "https://cdn.pixabay.com/video/2016/07/06/3722-173719865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/06/3722-173719865_small.jpg",
+     "page": "https://pixabay.com/videos/id-3722/",
+     "tags": "ape, gorilla, plush, fun, cute, running, batteries, funny",
+     "duration": 17,
+     "query": "gorilla walking"
+    },
+    {
+     "pixabay_id": 82885,
+     "url": "https://cdn.pixabay.com/video/2021/07/27/82885-580050952_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/27/82885-580050952_small.jpg",
+     "page": "https://pixabay.com/videos/id-82885/",
+     "tags": "gorilla, ape, silverback, zoo schmiding, animal, herbivores, catch a fly",
+     "duration": 20,
+     "query": "gorilla walking"
+    }
+   ]
+  }
+ ]
+}

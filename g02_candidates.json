@@ -1,0 +1,161 @@
+{
+ "id": "g02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "queue",
+   "candidates": [
+    {
+     "pixabay_id": 139537,
+     "url": "https://cdn.pixabay.com/video/2022/11/18/139537-772542690_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/18/139537-772542690_small.jpg",
+     "page": "https://pixabay.com/videos/id-139537/",
+     "tags": "express train, station, passengers, travelers, russia, moscow, winter, queue, line, train, train station",
+     "duration": 9,
+     "query": "queue"
+    },
+    {
+     "pixabay_id": 139536,
+     "url": "https://cdn.pixabay.com/video/2022/11/18/139536-772542681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/18/139536-772542681_small.jpg",
+     "page": "https://pixabay.com/videos/id-139536/",
+     "tags": "train station, station, passengers, travelers, nature, moscow, winter, queue, line, express train, train",
+     "duration": 9,
+     "query": "queue"
+    },
+    {
+     "pixabay_id": 121766,
+     "url": "https://cdn.pixabay.com/video/2022/06/22/121766-724719680_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/22/121766-724719680_small.jpg",
+     "page": "https://pixabay.com/videos/id-121766/",
+     "tags": "train, locomotive, rails, platform, station, stop, tracks, the queue, electric train, railway station",
+     "duration": 11,
+     "query": "queue"
+    },
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "people waiting in line"
+    },
+    {
+     "pixabay_id": 188778,
+     "url": "https://cdn.pixabay.com/video/2023/11/12/188778-883818276_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/12/188778-883818276_small.jpg",
+     "page": "https://pixabay.com/videos/id-188778/",
+     "tags": "winter, snow, people, walk, to stroll, landscape, winter landscape, covered in snow, trees, nature",
+     "duration": 23,
+     "query": "people waiting in line"
+    },
+    {
+     "pixabay_id": 1057,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_small.jpg",
+     "page": "https://pixabay.com/videos/id-1057/",
+     "tags": "working, office, open, beautiful wallpaper, people, waiting, blur, bokeh, background, chairs, room",
+     "duration": 15,
+     "query": "people waiting in line"
+    },
+    {
+     "pixabay_id": 10874,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10874-226635348_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10874-226635348_small.jpg",
+     "page": "https://pixabay.com/videos/id-10874/",
+     "tags": "airport, waiting, terminal, passengers, travelers, departure, business, flight, plane, trip, tourists, people, gate, airline",
+     "duration": 45,
+     "query": "people waiting in line"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "people waiting in line"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "agree",
+   "candidates": [
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 7826,
+     "url": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_small.jpg",
+     "page": "https://pixabay.com/videos/id-7826/",
+     "tags": "woman, girl, shooting, photography, paint, color, creative, cinemagraphs",
+     "duration": 9,
+     "query": "woman nodding"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "woman nodding"
+    }
+   ]
+  }
+ ]
+}

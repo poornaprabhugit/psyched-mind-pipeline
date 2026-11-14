@@ -1,0 +1,239 @@
+{
+ "id": "g04",
+ "lines": [
+  {
+   "n": 1,
+   "text": "pralines",
+   "candidates": [
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 71743,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_small.jpg",
+     "page": "https://pixabay.com/videos/id-71743/",
+     "tags": "strawberry, chocolate, pouring, sauce, candy, cocoa, dessert, fruit, liquid, pour, prepare, calories, dairy, melted",
+     "duration": 9,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 32387,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_small.jpg",
+     "page": "https://pixabay.com/videos/id-32387/",
+     "tags": "woman, young, beautiful, expression, style, modeling, experience, exclusive, the best, interesting, exotic, people, queen, top, options, black, blue, skin, chocolate",
+     "duration": 44,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 33711,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_small.jpg",
+     "page": "https://pixabay.com/videos/id-33711/",
+     "tags": "martabak, manis, indonesia, food, makanan, coklat, chocolate, cheese, sweet, jajanan, pasar, traditional, cheap",
+     "duration": 9,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 12669,
+     "url": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_small.jpg",
+     "page": "https://pixabay.com/videos/id-12669/",
+     "tags": "chocolate, candy, belgium, food, dessert, sweet, brown, delicious, dark, white, sugar, snack, milk, cocoa, tasty, gourmet, eat, cacao, cooking, baking, treat, bonbon",
+     "duration": 8,
+     "query": "chocolate"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "grab",
+   "candidates": [
+    {
+     "pixabay_id": 168213,
+     "url": "https://cdn.pixabay.com/video/2023/06/21/168213-838884062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/21/168213-838884062_small.jpg",
+     "page": "https://pixabay.com/videos/id-168213/",
+     "tags": "friends, couple, fun, cotton candy, fair",
+     "duration": 33,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 71747,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_small.jpg",
+     "page": "https://pixabay.com/videos/id-71747/",
+     "tags": "chocolate, sweet, snack, candy, milk, swiss, cocoa, nut, dessert, food, gourmet",
+     "duration": 7,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 81261,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_small.jpg",
+     "page": "https://pixabay.com/videos/id-81261/",
+     "tags": "chocolate, candy, sugar, chocolates, sweets, dessert",
+     "duration": 24,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 12863,
+     "url": "https://cdn.pixabay.com/video/2017/11/09/12863-242215697_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/09/12863-242215697_small.jpg",
+     "page": "https://pixabay.com/videos/id-12863/",
+     "tags": "candy, cake, food, dessert, tasty, eat, confectionery, dainty, gastronomy",
+     "duration": 15,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 2772,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2772-162345684_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2772-162345684_small.jpg",
+     "page": "https://pixabay.com/videos/id-2772/",
+     "tags": "tall grass, herbs, outside, nature, candy, landscape",
+     "duration": 20,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 71522,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71522-538962701_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71522-538962701_small.jpg",
+     "page": "https://pixabay.com/videos/id-71522/",
+     "tags": "indian food, india, shiva, jalebi, sweets, delicious, cooking, fresh",
+     "duration": 36,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 113707,
+     "url": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_small.jpg",
+     "page": "https://pixabay.com/videos/id-113707/",
+     "tags": "egg, easter, sweets, chocolate, food",
+     "duration": 17,
+     "query": "candy"
+    },
+    {
+     "pixabay_id": 247148,
+     "url": "https://cdn.pixabay.com/video/2024/12/17/247148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/17/247148_small.jpg",
+     "page": "https://pixabay.com/videos/id-247148/",
+     "tags": "donut, sugar, chocolate, pastries, meal, cute, calories, sweets, food",
+     "duration": 12,
+     "query": "candy"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "free",
+   "candidates": [
+    {
+     "pixabay_id": 8386,
+     "url": "https://cdn.pixabay.com/video/2017/03/14/8386-208562358_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/14/8386-208562358_small.jpg",
+     "page": "https://pixabay.com/videos/id-8386/",
+     "tags": "rooster, crowing, chicken, free range, bird, animal, farm, goat, farmyard, free-range, outdoor, poultry, organic, hen, grass, domestic",
+     "duration": 8,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 346395,
+     "url": "https://cdn.pixabay.com/video/2026/04/14/346395_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/14/346395_small.jpg",
+     "page": "https://pixabay.com/videos/id-346395/",
+     "tags": "trees, overhead, view, spin, towering, leaves, wind, breeze, summer, spring, woods, forest, green, aspen, birch, pine, sky, up, free 4k nature video, beautiful, nature, camera, 4k, movement, branches",
+     "duration": 11,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 278195,
+     "url": "https://cdn.pixabay.com/video/2025/05/11/278195_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/11/278195_small.jpg",
+     "page": "https://pixabay.com/videos/id-278195/",
+     "tags": "luxury beachfront villas, beach, royalty free, free use, aerial, coast, travel, resort, marina, ocean, summer, architecture, mountains",
+     "duration": 11,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 319664,
+     "url": "https://cdn.pixabay.com/video/2025/12/03/319664_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/03/319664_small.jpg",
+     "page": "https://pixabay.com/videos/id-319664/",
+     "tags": "mammal, gamswild, wild animal, nature, free living, chamois",
+     "duration": 45,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 326697,
+     "url": "https://cdn.pixabay.com/video/2026/01/08/326697_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/08/326697_small.jpg",
+     "page": "https://pixabay.com/videos/id-326697/",
+     "tags": "chamois, animal, mammal, nature, wild animal, wild animals, free living",
+     "duration": 45,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 13023,
+     "url": "https://cdn.pixabay.com/video/2017/11/20/13023-243739880_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/20/13023-243739880_small.jpg",
+     "page": "https://pixabay.com/videos/id-13023/",
+     "tags": "deer, antler, branch, forest, wild, red deer, wild animal, free deer, silhouette",
+     "duration": 19,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 347078,
+     "url": "https://cdn.pixabay.com/video/2026/04/17/347078_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/17/347078_small.jpg",
+     "page": "https://pixabay.com/videos/id-347078/",
+     "tags": "chamois, wild animal, animal, nature, mammal, gamswild, game viewing, free living, wildlife, wildart",
+     "duration": 49,
+     "query": "free"
+    },
+    {
+     "pixabay_id": 33871,
+     "url": "https://cdn.pixabay.com/video/2020/03/18/33871-398473585_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/18/33871-398473585_small.jpg",
+     "page": "https://pixabay.com/videos/id-33871/",
+     "tags": "free footage, drone video, video beach, beach, sea, surf, australia, ocean, waves, island, vacation, holiday, sky, drone, drone footage, sunny",
+     "duration": 21,
+     "query": "free"
+    }
+   ]
+  }
+ ]
+}

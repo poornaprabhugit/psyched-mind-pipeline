@@ -1,0 +1,161 @@
+{
+ "id": "g01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "treadmill",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 7795,
+     "url": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_small.jpg",
+     "page": "https://pixabay.com/videos/id-7795/",
+     "tags": "spider, arachnid, insect, octapod, animal, walking spider, wood trunk",
+     "duration": 11,
+     "query": "treadmill walking"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "treadmill walking"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "blank wall",
+   "candidates": [
+    {
+     "pixabay_id": 1629,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1629-148614383_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1629-148614383_small.jpg",
+     "page": "https://pixabay.com/videos/id-1629/",
+     "tags": "chandelier, crystals, lights, interior, luxury, glass, design, lamp, elegant, decoration, decor, vintage, style, shiny, classic, retro, antique, glow, bright, bulb, expensive, stylish, home, white, modern, ceiling, room, shine, decorative, victorian",
+     "duration": 13,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 7649,
+     "url": "https://cdn.pixabay.com/video/2017/02/03/7649-202459208_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/03/7649-202459208_small.jpg",
+     "page": "https://pixabay.com/videos/id-7649/",
+     "tags": "coffee, hot, cup, evening, steaming, drink, book, christmas tree lights, light, revival, relaxation, porcelain, ceramics, white, sofa, room, cup of coffee, saucer, caffeine, aroma",
+     "duration": 120,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 268569,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268569_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268569_small.jpg",
+     "page": "https://pixabay.com/videos/id-268569/",
+     "tags": "wall, texture, building, green, nature, red, white, architecture, antibes, stone, orca, room, painting, mountains, house, interior, empty, pattern, concrete, sea, masonry, door, bench, brick",
+     "duration": 67,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 846,
+     "url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_small.jpg",
+     "page": "https://pixabay.com/videos/id-846/",
+     "tags": "library, books, the corridor, window, rack, the culture, reading, classic, new items, reading room, society, shelves, education, studies, school",
+     "duration": 13,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 111179,
+     "url": "https://cdn.pixabay.com/video/2022/03/18/111179-689949805_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/18/111179-689949805_small.jpg",
+     "page": "https://pixabay.com/videos/id-111179/",
+     "tags": "clouds, sky, blue, white, nature, landscape",
+     "duration": 8,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 16011,
+     "url": "https://cdn.pixabay.com/video/2018/05/05/16011-268207201_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/05/16011-268207201_small.jpg",
+     "page": "https://pixabay.com/videos/id-16011/",
+     "tags": "clouds, moutains, fog, colombia, black and white",
+     "duration": 18,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 21285,
+     "url": "https://cdn.pixabay.com/video/2019/02/11/21285-316701418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/11/21285-316701418_small.jpg",
+     "page": "https://pixabay.com/videos/id-21285/",
+     "tags": "landscape, clouds, darling, black and white, armenia",
+     "duration": 15,
+     "query": "white room"
+    },
+    {
+     "pixabay_id": 204803,
+     "url": "https://cdn.pixabay.com/video/2024/03/20/204803-925552205_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/20/204803-925552205_small.jpg",
+     "page": "https://pixabay.com/videos/id-204803/",
+     "tags": "flowers, bouquet, bridal bouquet, white, wedding, floral",
+     "duration": 14,
+     "query": "white room"
+    }
+   ]
+  }
+ ]
+}

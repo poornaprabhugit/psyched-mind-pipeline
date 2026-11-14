@@ -1,0 +1,239 @@
+{
+ "id": "g03",
+ "lines": [
+  {
+   "n": 1,
+   "text": "dress",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 110492,
+     "url": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_small.jpg",
+     "page": "https://pixabay.com/videos/id-110492/",
+     "tags": "bride, curtains, wedding, woman, dress",
+     "duration": 8,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 192667,
+     "url": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_small.jpg",
+     "page": "https://pixabay.com/videos/id-192667/",
+     "tags": "woman, model, sunset, dress, sky, dawn, female, fashion",
+     "duration": 8,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 146130,
+     "url": "https://cdn.pixabay.com/video/2023/01/11/146130-788410151_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/11/146130-788410151_small.jpg",
+     "page": "https://pixabay.com/videos/id-146130/",
+     "tags": "woman, park, shoes, dress, style, fashion",
+     "duration": 12,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 266436,
+     "url": "https://cdn.pixabay.com/video/2025/03/21/266436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/21/266436_small.jpg",
+     "page": "https://pixabay.com/videos/id-266436/",
+     "tags": "woman, dress, style, modeling, model, fashion model, fashion",
+     "duration": 14,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 146135,
+     "url": "https://cdn.pixabay.com/video/2023/01/11/146135-788410176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/11/146135-788410176_small.jpg",
+     "page": "https://pixabay.com/videos/id-146135/",
+     "tags": "woman, model, dress, walk, path, park, colorful, young, nature",
+     "duration": 18,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 266435,
+     "url": "https://cdn.pixabay.com/video/2025/03/21/266435_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/21/266435_small.jpg",
+     "page": "https://pixabay.com/videos/id-266435/",
+     "tags": "woman, dress, style, modeling, model, fashion model, fashion",
+     "duration": 7,
+     "query": "dress"
+    },
+    {
+     "pixabay_id": 266434,
+     "url": "https://cdn.pixabay.com/video/2025/03/21/266434_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/21/266434_small.jpg",
+     "page": "https://pixabay.com/videos/id-266434/",
+     "tags": "woman, dress, style, modeling, model, fashion model, fashion",
+     "duration": 7,
+     "query": "dress"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "price tag",
+   "candidates": [
+    {
+     "pixabay_id": 993,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_small.jpg",
+     "page": "https://pixabay.com/videos/id-993/",
+     "tags": "sale, price, city, new york, billboard, sign, offer, discount, label, special, market, sale tag, retail, best price, shopping, marketing",
+     "duration": 14,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 107858,
+     "url": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_small.jpg",
+     "page": "https://pixabay.com/videos/id-107858/",
+     "tags": "common heron, cormorants, duck, birds, group form, price, creek, animal",
+     "duration": 31,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 3758,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3758-174173862_small.jpg",
+     "page": "https://pixabay.com/videos/id-3758/",
+     "tags": "banknotes, money, currency, cash, finance, australian money, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, savings, australian, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 12,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "price tag"
+    },
+    {
+     "pixabay_id": 116943,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_small.jpg",
+     "page": "https://pixabay.com/videos/id-116943/",
+     "tags": "sheep, animal, farm animal, farm, flock, horns, white, whole, pack, cute, lamb, grazing, walking, daylight, livestock, tagged, herd",
+     "duration": 21,
+     "query": "price tag"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "magazine",
+   "candidates": [
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 22592,
+     "url": "https://cdn.pixabay.com/video/2019/04/05/22592-328624838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/05/22592-328624838_small.jpg",
+     "page": "https://pixabay.com/videos/id-22592/",
+     "tags": "woman, asian, person, photosession, posing, magazine, smile, attractive, people, adult, japanese",
+     "duration": 10,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 267242,
+     "url": "https://cdn.pixabay.com/video/2025/03/25/267242_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/25/267242_small.jpg",
+     "page": "https://pixabay.com/videos/id-267242/",
+     "tags": "modeling, model, fashion model, fashion",
+     "duration": 6,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 267241,
+     "url": "https://cdn.pixabay.com/video/2025/03/25/267241_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/25/267241_small.jpg",
+     "page": "https://pixabay.com/videos/id-267241/",
+     "tags": "modeling, model, fashion model, fashion",
+     "duration": 5,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 21147,
+     "url": "https://cdn.pixabay.com/video/2019/02/02/21147-315137137_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/02/21147-315137137_small.jpg",
+     "page": "https://pixabay.com/videos/id-21147/",
+     "tags": "model, beauty, beauty salon, care, client, fashion, women, hair, hairstyle, lady, makeup, salon, style, stylist, beautiful, woman, eyelash, eyelashes, haircut",
+     "duration": 16,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 202277,
+     "url": "https://cdn.pixabay.com/video/2024/02/28/202277-917730453_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/28/202277-917730453_small.jpg",
+     "page": "https://pixabay.com/videos/id-202277/",
+     "tags": "woman, ipad, tablet, work, style, thailand, fashion",
+     "duration": 11,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 140828,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140828-776043783_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140828-776043783_small.jpg",
+     "page": "https://pixabay.com/videos/id-140828/",
+     "tags": "man, model, walking, happy, fashion, style",
+     "duration": 23,
+     "query": "fashion magazine"
+    },
+    {
+     "pixabay_id": 206029,
+     "url": "https://cdn.pixabay.com/video/2024/03/29/206029_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg",
+     "page": "https://pixabay.com/videos/id-206029/",
+     "tags": "tailor, clothing, fashion designer, tailor shop",
+     "duration": 46,
+     "query": "fashion magazine"
+    }
+   ]
+  }
+ ]
+}
