@@ -1,22 +1,22 @@
 {
- "collected_at": "2026-11-14T13:38:46.871728+00:00",
+ "collected_at": "2026-11-14T18:06:21.648404+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
    "viewCount": "174",
-   "subscriberCount": "3",
+   "subscriberCount": "6",
    "hiddenSubscriberCount": false,
-   "videoCount": "8"
+   "videoCount": "10"
   }
  },
  "videos": [
   {
    "id": "WQcp4iHg1Ts",
    "title": "The Psychology of Looking Rich (7 Real Studies)",
-   "published": "2026-11-14T11:41:42Z",
-   "privacy": "private",
-   "publish_at": "2026-11-14T17:00:00Z",
+   "published": "2026-11-14T17:00:28Z",
+   "privacy": "public",
+   "publish_at": null,
    "duration": "PT10M5S",
    "statistics": {
     "viewCount": "0",
@@ -24,6 +24,21 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
+   }
+  },
+  {
+   "id": "ZMRtsDFoB-Y",
+   "title": "Why you forget why you walked into a room \ud83d\udeaa",
+   "published": "2026-11-14T15:00:12Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "395",
+    "likeCount": "9",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
    }
   },
   {
@@ -162,21 +177,6 @@
    }
   },
   {
-   "id": "ZMRtsDFoB-Y",
-   "title": "Why you forget why you walked into a room \ud83d\udeaa",
-   "published": "2026-11-14T11:15:13Z",
-   "privacy": "private",
-   "publish_at": "2026-11-14T15:00:00Z",
-   "duration": "PT19S",
-   "statistics": {
-    "viewCount": "1",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "xHNCEPqi2DQ",
    "title": "Can't sleep? Write this down before bed \ud83c\udf19",
    "published": "2026-11-14T10:00:31Z",
@@ -184,7 +184,7 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "95",
+    "viewCount": "112",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
