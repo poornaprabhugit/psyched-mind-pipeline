@@ -19,6 +19,11 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 - **16:00 vs 22:00 Amsterdam slot** — since 12 Nov (2/day this week). Compare day-1 views per slot once ≥4 Shorts per slot are live. 2026-11-14: 22:00 → peak-end 1, pratfall 11; 16:00 → card 49. n=3, too early.
 - **Money angle vs everyday angle** — since 13 Nov. Card-users (money) 49 views day 1 = top day-1 of the 4 Shorts with hook cards. One video; too early. Long video 01 (money) will add evidence.
 
+## Decided 14 Nov (user)
+- Slot test: Shorts alternate 12:00 Amsterdam (UK/EU/Asia) and 16:00 (US). 22:00 slot dropped (peak-end 1, pratfall 11 day-1 views).
+- Angle mix: 4/7 Shorts wealth & success (money, assets, business, luxury/status), 1 health & mind, 2 everyday as control. Long videos lean wealth/success; every 3rd week a contrast angle.
+- Weekly batch moved to Saturday 07:52 Amsterdam.
+
 ## [Pro] rules our data contradicts
 - _None yet (no video ≥1,000 views)._
 
