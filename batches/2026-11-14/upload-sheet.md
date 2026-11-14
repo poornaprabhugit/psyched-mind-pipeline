@@ -4,7 +4,7 @@
 
 ## Files (in upload order)
 - **A1–A3** = remakes that REPLACE 3 already-scheduled Shorts (delete the scheduled upload, upload the new file with the same title/description/settings). No 'Full video' card on these; set their Related video to long 02 once it is live.
-- **B1–B7** = this week's Shorts, one per day. Set Related video = "Why Your Brain Is Bad With Money" (long 01) on each – the card in their last 2 s points to that link.
+- **B1–B7** = this week's Shorts, one per day. Set Related video = "The Psychology of Looking Rich" (long 02) on each – the card in their last 2 s points to that link.
 - **C1** = long video 02 + **C2–C4** = its 3 thumbnails for Test & compare.
 
 ## A · Remakes (replace the scheduled uploads)
