@@ -1,0 +1,164 @@
+{
+ "videos": [
+  {
+   "id": "s01b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "lottery",
+     "queries": [
+      "lotto",
+      "scratch card",
+      "lottery"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "winning money",
+     "queries": [
+      "money rain",
+      "winner celebrating",
+      "jackpot"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "bored rich",
+     "queries": [
+      "man bored sofa",
+      "woman bored luxury",
+      "rich man alone"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "interview",
+     "queries": [
+      "reporter microphone",
+      "interview couch",
+      "journalist"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s03b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "photos",
+     "queries": [
+      "polaroid photos",
+      "holding photo",
+      "portrait photograph"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "earrings",
+     "queries": [
+      "earring",
+      "woman earring",
+      "jewelry ear"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "swap",
+     "queries": [
+      "hands swap",
+      "sleight of hand",
+      "shuffle cards"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s04b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "stamp card",
+     "queries": [
+      "stamp",
+      "stamping",
+      "loyalty card"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "coffee shop paying",
+     "queries": [
+      "barista customer",
+      "coffee shop paying",
+      "cafe counter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s06b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "cafe noise",
+     "queries": [
+      "busy cafe",
+      "people talking restaurant",
+      "crowded bar"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "ear",
+     "queries": [
+      "ear close up",
+      "whisper",
+      "listening ear"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "turn head",
+     "queries": [
+      "woman turns head",
+      "man turns around",
+      "looking over shoulder"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s07b",
+   "lines": [
+    {
+     "n": 1,
+     "text": "cleaner",
+     "queries": [
+      "vacuum cleaner",
+      "cleaning lady",
+      "housekeeping"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "delivery",
+     "queries": [
+      "delivery package door",
+      "courier",
+      "food delivery"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "ride",
+     "queries": [
+      "taxi",
+      "car passenger",
+      "ride share"
+     ]
+    }
+   ]
+  }
+ ]
+}
