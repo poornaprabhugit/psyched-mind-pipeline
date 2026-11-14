@@ -1,0 +1,136 @@
+{
+ "videos": [
+  {
+   "id": "LX",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "handbag",
+     "queries": [
+      "handbag",
+      "woman handbag",
+      "leather handbag"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "handbag shop",
+     "queries": [
+      "handbag store",
+      "purse",
+      "bag shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "cookie jar",
+     "queries": [
+      "cookie jar",
+      "jar cookies",
+      "glass jar cookies"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "red sneakers",
+     "queries": [
+      "red sneakers",
+      "red shoes walking",
+      "red shoes"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "sneakers on feet",
+     "queries": [
+      "sneakers feet walking",
+      "sneakers",
+      "trainers"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "job interview",
+     "queries": [
+      "job interview",
+      "interview candidate",
+      "hiring interview"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "mri scanner",
+     "queries": [
+      "mri",
+      "mri machine",
+      "ct scan patient"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "sunglasses on table",
+     "queries": [
+      "sunglasses",
+      "sunglasses table",
+      "trying sunglasses"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "solving test on paper",
+     "queries": [
+      "exam students writing",
+      "math test",
+      "student writing test"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "fur coat woman",
+     "queries": [
+      "fur coat",
+      "woman coat elegant",
+      "elegant woman street"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "hoodie meeting",
+     "queries": [
+      "man hoodie laptop",
+      "hoodie",
+      "startup meeting"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "charity donation",
+     "queries": [
+      "donation",
+      "charity collection",
+      "giving coins"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "neighbors comparison",
+     "queries": [
+      "neighbors",
+      "suburban houses",
+      "fence neighbors"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "wine tasting brain",
+     "queries": [
+      "wine tasting",
+      "sommelier tasting",
+      "wine glass sip"
+     ]
+    }
+   ]
+  }
+ ]
+}
