@@ -1,5 +1,5 @@
 batch,id,topic,youtube_id,angle,slot,predicted,predicted_reason,day1_views,day7_views,stayed_pct,actual_band,hit,notes
-2026-11-14,r1,doorway effect,ZMRtsDFoB-Y,everyday,Sat 14 Nov 16:00,,not logged,607 (6h),,19.2,,,first breakout signal; prediction was not recorded
+2026-11-14,r1,doorway effect,ZMRtsDFoB-Y,everyday,Sat 14 Nov 16:00,,not logged,720 (16.5h),,19.2,high,,"first breakout signal; prediction was not recorded so no hit score; 395@3h, 607@6h, 720@16.5h"
 2026-11-14,s01,Lottery winners,,wealth,Mon 16 Nov 12:00,medium,,,,,,,
 2026-11-14,s02,Worse holiday,,wealth,Tue 17 Nov 16:00,high,,,,,,,
 2026-11-14,s03,Choice blindness,,everyday,Wed 18 Nov 12:00,medium,,,,,,,

@@ -11,6 +11,7 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 - Watch item (not proven): Shorts feed holds viewers ~7 s avg vs 31 s from the channel page (mere exposure, Analytics for 10 Nov, 2026-11-13) → feed viewers leave early; first 3 s is the lever. 2026-11-14 (Analytics to ~11 Nov): Shorts feed avg 13 s (79 views) vs channel page 33 s; engaged/views 21% (IKEA, 13/62) and 23% (mere exposure, 8/35) → ~4 in 5 feed viewers swipe early.
 
 ## Breakout watch
+- 2026-11-15 07:35 UTC (stats run): doorway **720 views, 11 likes, 1 comment** at ~16.5 h (+325 overnight). Curve 395 @3 h → 607 @6 h → 720 @16.5 h: the burst is cooling (~20 views/h overnight vs ~130/h in hour 1–3). Old-style can't-sleep (30 s, published 14 Nov) stalled at **112 (+0)**. Doorway ≈ 70% of all channel views. Still <1,000 → not proven. Analytics (stayed %, traffic, countries) not in yet for 14 Nov videos.
 - 2026-11-14 19:06: **doorway remake (ZMRtsDFoB-Y, Sat 16:00, everyday angle, 19 s, result-first, loop, hook card "Doorways erase your plans")** – 395 views, 9 likes, 1 comment in ~3 h. Previous best day-1 was 51 (IKEA). Same day, can't-sleep (old 30 s style, 11:00) had 112 in ~8 h, so Saturday may lift everything – but doorway gets ~10× the views per hour. Still under 1,000 views → not proven. Likely drivers: (1) a moment almost every viewer has lived ("why did I come in here?"), (2) the title is the exact question people search, (3) payoff in the first 3 s + literal doorway first clip, (4) short (19 s) with a loop. Note it is **everyday**, not wealth. Studio 19:25 (user): **stayed to watch 19.2%** (same band as all other Shorts, 7–24%) · watch time 0.6 h (~5 s/view) · +3 subs · traffic **96.8% Shorts feed**, 1.8% search, 1.3% other. → Not the hook and not search: the feed simply showed it to far more people. Best guess: the post-view reaction (9 likes, 1 comment, 3 subs vs 0–1 likes on every earlier Short) and a universally relatable moment earned wider feed tests. Hook (80% swipe) is still the bottleneck on every Short.
 - Next test (batch 21 Nov, one variable): **situation-first line 1** ("Walked into a room and forgot why?" – the moment, ≤7 words, then the result) on half the Shorts vs result-first on the other half; compare stayed-to-watch.
 
@@ -65,7 +66,7 @@ Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progr
 ## Long videos by angle
 | # | Title | Angle | Live | CTR | AVD | Subs |
 |---|---|---|---|---|---|---|
-| 02 | The Psychology of Looking Rich | wealth (luxury/status) | **Sat 14 Nov 18:00** (first long video live) | – | – | – |
+| 02 | The Psychology of Looking Rich | wealth (luxury/status) | **Sat 14 Nov 18:00** (first long video live) | – | – | – | 2026-11-15 07:35 UTC: **0 views after ~14.5 h** (public, 10:05). No feed pull yet; Related links from the Shorts are its only bridge. Asked user to check Studio. |
 | 01 | (to rethink) money psychology – old file lost | wealth (money) | Sun 22 Nov 18:00 | – | – | – |
 Week 3 (batch 28 Nov) = contrast angle (health & mind or everyday), per user rule.
 
