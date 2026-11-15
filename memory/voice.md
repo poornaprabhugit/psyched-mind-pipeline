@@ -32,3 +32,9 @@ _Created 2026-11-15 (user asked for #6). Read before writing any title, script, 
 
 ## Captions (Instagram/Facebook)
 - Line 1 = the hook (shows before "more"). Then 2–3 plain sentences with the study's result. "Source: Authors (year)". "Follow for one real psychology study a day 🧠". 3–5 hashtags.
+
+## Money amounts (user decision, 15 Nov 2026)
+- Always use **US dollars** in scripts, cards and titles. No rupees or pounds.
+- Make it clear the idea works in any currency, but **not in the 15–22 s voiceover every time** (it costs ~2 s). Put it in the caption or description ("Works the same in rupees, pounds or euros"), or in the pinned comment.
+- Only say it works in any currency when the finding is about **relative** amounts: prices ending in 9, sunk cost, spending on time vs things, coins vs bills, small vs big price contrasts.
+- If a finding depends on **absolute US income or prices** (e.g. the $75K happiness study, US salaries), say "in the US" and never claim it works the same everywhere.
