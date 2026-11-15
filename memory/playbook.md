@@ -11,6 +11,10 @@ When our data contradicts a [Pro] rule, our data wins and the change is logged i
 
 ---
 
+## 00. How we decide (standing user rule, 15 Nov 2026)
+
+**Fact-based, no assumptions.** Before any idea becomes a decision (slots, formats, topics, platforms, tools), research it: what the platforms themselves say, large published studies, and the measured behavior of top channels in our niche (pulled from the YouTube API where possible). State which facts support it and link them. Where facts are missing, say so plainly and propose a small test instead of guessing. The user's thoughts are inputs to research, not decisions. Re-check facts that change (policies, thresholds, best practices) during the monthly refresh.
+
 ## 0. Target audience (user rule, 15 Nov 2026 – applies to every batch, summary and platform)
 
 Priority order: **1. United States · 2. India · 3. United Kingdom** (focus on these three as much as possible) · 4. Canada · 5. EU.
@@ -146,3 +150,4 @@ Strategists:
 ## Change log
 - 2026-11-11: first version.
 - 2026-11-15: added §0 Target audience (user rule): US > India > UK > Canada > EU; American spelling, plain English, slots for US + India.
+- 2026-11-15: added §00 How we decide (user rule): fact-based, research before decisions, no assumptions; user thoughts are inputs, not decisions.
