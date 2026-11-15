@@ -1,0 +1,16 @@
+batch,id,topic,youtube_id,angle,slot,predicted,predicted_reason,day1_views,day7_views,stayed_pct,actual_band,hit,notes
+2026-11-14,r1,doorway effect,ZMRtsDFoB-Y,everyday,Sat 14 Nov 16:00,,not logged,607 (6h),,19.2,,,first breakout signal; prediction was not recorded
+2026-11-14,s01,Lottery winners,,wealth,Mon 16 Nov 12:00,medium,,,,,,,
+2026-11-14,s02,Worse holiday,,wealth,Tue 17 Nov 16:00,high,,,,,,,
+2026-11-14,s03,Choice blindness,,everyday,Wed 18 Nov 12:00,medium,,,,,,,
+2026-11-14,s04,Free stamps,,wealth,Thu 19 Nov 16:00,medium,,,,,,,
+2026-11-14,s05,Sleepless night,,health,Fri 20 Nov 12:00,medium,,,,,,,
+2026-11-14,s06,Hear your name,,everyday,Sat 21 Nov 16:00,medium,,,,,,,
+2026-11-14,s07,Spend 40 dollars,,wealth,Sun 22 Nov 12:00,high,,,,,,,
+2026-11-14-c,n01,Walking ideas,,health,Mon 16 Nov 16:00,medium,,,,,,,
+2026-11-14-c,n02,The word because,,everyday,Tue 17 Nov 12:00,medium,,,,,,,
+2026-11-14-c,n03,Prices ending in 9,,wealth,Wed 18 Nov 16:00,high,,,,,,,
+2026-11-14-c,n04,Free chocolate,,wealth,Thu 19 Nov 12:00,high,,,,,,,
+2026-11-14-c,n05,Invisible gorilla,,everyday,Fri 20 Nov 16:00,medium,,,,,,,
+2026-11-14-c,n06,Coins vs bills,,wealth,Sat 21 Nov 12:00,medium,,,,,,,
+2026-11-14-c,n07,75K happiness myth,,wealth,Sun 22 Nov 16:00,high,,,,,,,
