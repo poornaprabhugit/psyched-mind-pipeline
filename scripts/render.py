@@ -93,7 +93,7 @@ def add_hook(src, dst, text, mpt_dir, seconds=2.5):
     add_overlays(src, dst, mpt_dir, hook=text, hook_seconds=seconds)
 
 
-def tighten(src, dst, max_gap=0.35, noise="-38dB", min_detect=0.45, tail=0.25):
+def tighten(src, dst, max_gap=0.35, noise="-33dB", min_detect=0.4, tail=0.25):
     """Shorten pauses between sentences to `max_gap` s and cut dead air at the end (keep `tail` s).
     Cuts video and audio together, so captions stay in sync."""
     import re, subprocess
@@ -131,6 +131,26 @@ def trim_clip(path, seconds):
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", path, "-t", str(seconds), "-an",
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", tmp], check=True)
     os.replace(tmp, path)
+
+
+def pad_to_audio(path):
+    """MPT often ends the video track up to ~2.7 s before the audio; hold the last frame so both end together."""
+    import subprocess
+    def d(kind):
+        o = subprocess.run(["ffprobe", "-v", "error", "-select_streams", kind, "-show_entries", "stream=duration",
+                            "-of", "csv=p=0", path], capture_output=True, text=True).stdout.strip()
+        try:
+            return float(o.split()[0])
+        except (ValueError, IndexError):
+            return None
+    v, a = d("v:0"), d("a:0")
+    if v is None or a is None or a - v <= 0.05:
+        return 0.0
+    tmp = path + ".pad.mp4"
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", path, "-vf", f"tpad=stop_mode=clone:stop_duration={a - v:.3f}",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "copy", tmp], check=True)
+    os.replace(tmp, path)
+    return a - v
 
 
 def main(job_path, vid, mpt_dir, outdir):
@@ -176,8 +196,14 @@ def main(job_path, vid, mpt_dir, outdir):
                 cut = tighten(src, tight)
                 print(f"tightened: removed {cut:.2f} s of pauses", flush=True)
                 src = tight
-            add_overlays(src, dst, mpt_dir, hook=video.get("hook_text"),
-                         cta=video.get("cta_text", job.get("cta_text")), title=video.get("title_card"))
+            cta = video.get("cta_text", job.get("cta_text"))
+            add_overlays(src, dst, mpt_dir, hook=video.get("hook_text"), cta=cta, title=video.get("title_card"))
+            print(f"padded video by {pad_to_audio(dst):.2f} s", flush=True)
+            if cta and job.get("clean_variant"):
+                # Instagram/Facebook version from the same render: no "Full video" card (saves a second render job)
+                clean = os.path.join(outdir, f"{vid}_clean.mp4")
+                add_overlays(src, clean, mpt_dir, hook=video.get("hook_text"), cta=None, title=video.get("title_card"))
+                pad_to_audio(clean)
             if os.path.exists(os.path.join(outdir, f"{vid}_tight.mp4")):
                 os.remove(os.path.join(outdir, f"{vid}_tight.mp4"))
             json.dump({"id": vid, "task_id": task_id, "seconds": int(time.time() - start)},
