@@ -23,13 +23,27 @@ def dur(s):
 def main(job, out):
     cfg = json.load(open(job))
     tok = access_token()
-    ids, log = {}, []
+    ids, log, hits = {}, [], {}
     for q in cfg.get("queries", []):
         r = get(API + "search", tok, {"part": "snippet", "q": q, "type": "channel", "order": "relevance",
                                          "maxResults": cfg.get("per_query", 10), "relevanceLanguage": "en"})
         log.append({"query": q, "error": r.get("error")})
         for it in r.get("items", []):
             ids.setdefault(it["snippet"]["channelId"], f"search:{q}")
+    for vq in cfg.get("video_queries", []):
+        for reg in cfg.get("regions", [None]):
+            p = {"part": "snippet", "q": vq, "type": "video", "videoDuration": cfg.get("video_duration", "short"),
+                 "order": "viewCount", "maxResults": 50, "relevanceLanguage": "en"}
+            if cfg.get("published_after"):
+                p["publishedAfter"] = cfg["published_after"]
+            if reg:
+                p["regionCode"] = reg
+            r = get(API + "search", tok, p)
+            log.append({"video_query": vq, "region": reg, "n": len(r.get("items", [])), "error": r.get("error")})
+            for it in r.get("items", []):
+                cid = it["snippet"]["channelId"]
+                ids.setdefault(cid, f"topshort:{vq}:{reg}")
+                hits.setdefault(cid, []).append({"q": vq, "region": reg, "video": it["id"].get("videoId")})
     for h in cfg.get("handles", []):
         r = get(API + "channels", tok, {"part": "id", "forHandle": h})
         for it in r.get("items", []):
@@ -46,10 +60,11 @@ def main(job, out):
                           "handle": it["snippet"].get("customUrl"), "country": it["snippet"].get("country"),
                           "subs": int(st.get("subscriberCount", 0) or 0), "views": int(st.get("viewCount", 0) or 0),
                           "videos": int(st.get("videoCount", 0) or 0),
-                          "uploads_pl": it["contentDetails"]["relatedPlaylists"]["uploads"]})
+                          "uploads_pl": it["contentDetails"]["relatedPlaylists"]["uploads"],
+                          "top_short_hits": len(hits.get(it["id"], []))})
     min_subs = cfg.get("min_subs", 100000)
     chans = [c for c in chans if c["subs"] >= min_subs or c["found_by"].startswith("handle:")]
-    chans.sort(key=lambda c: -c["subs"])
+    chans.sort(key=lambda c: (-c.get("top_short_hits", 0), -c["subs"]))
     chans = chans[:cfg.get("max_channels", 40)]
     for c in chans:
         vids, page = [], None
