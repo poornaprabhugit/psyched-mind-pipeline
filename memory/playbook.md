@@ -11,6 +11,9 @@ When our data contradicts a [Pro] rule, our data wins and the change is logged i
 
 ---
 
+## 000. Mission (user, 15 Nov 2026 – the reason behind every rule below)
+Treat this as Claude's own channel: keep finding better ways to add value and reach more people. **Help people connect psychology to their daily life** – every video should leave the viewer seeing a moment from their own day differently ("that happens to me"). Monetization is the result of that, not the goal of each video. When choosing between two options, pick the one that is more useful and relatable to a viewer in the US, India or the UK – still decided on facts (§00).
+
 ## 00. How we decide (standing user rule, 15 Nov 2026)
 
 **Fact-based, no assumptions.** Before any idea becomes a decision (slots, formats, topics, platforms, tools), research it: what the platforms themselves say, large published studies, and the measured behavior of top channels in our niche (pulled from the YouTube API where possible). State which facts support it and link them. Where facts are missing, say so plainly and propose a small test instead of guessing. The user's thoughts are inputs to research, not decisions. Re-check facts that change (policies, thresholds, best practices) during the monthly refresh.
