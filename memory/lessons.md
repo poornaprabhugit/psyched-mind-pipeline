@@ -46,3 +46,7 @@
 - Token status: WAITING – user must replace YT_REFRESH_TOKEN with one that has youtube.upload + youtube.force-ssl (plus the two readonly scopes). Until the user confirms, upload manually.
 - First run: upload ONE Short without publish_at; user checks it in Studio before the rest.
 - Still manual in Studio: Related video, pinning the comment, Test & compare.
+
+## 15 Nov 2026 – Meta auto-posting plan (user agreed)
+- Order: 1) YouTube auto-upload test in the 21 Nov batch; 2) once that works, send the user a Meta setup guide (Meta developer app, IG account must likely be Business not Creator, Page token, secrets); 3) Facebook Reels first (API supports scheduled publish 10 min–29 days ahead, 30 API reels/Page/24 h); 4) then Instagram (no scheduling in the API → our own GitHub cron posts at each slot + a backup run 10 min later, ~120 Actions min/month).
+- Add Meta Platform Terms / Developer Policies + IG/FB publishing docs to the weekly compliance check when Meta posting goes live. Any conflict → manual via Meta Business Suite.
