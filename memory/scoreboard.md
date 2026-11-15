@@ -66,7 +66,7 @@ Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progr
 ## Long videos by angle
 | # | Title | Angle | Live | CTR | AVD | Subs |
 |---|---|---|---|---|---|---|
-| 02 | The Psychology of Looking Rich | wealth (luxury/status) | **Sat 14 Nov 18:00** (first long video live) | – | – | – | 2026-11-15 07:35 UTC: **0 views after ~14.5 h** (public, 10:05). No feed pull yet; Related links from the Shorts are its only bridge. Asked user to check Studio. |
+| 02 | The Psychology of Looking Rich | wealth (luxury/status) | **Sat 14 Nov 18:00** (first long video live) | – | – | – | 2026-11-15 07:35 UTC: **0 views after ~14.5 h** (public, 10:05). No feed pull yet; Related links from the Shorts are its only bridge. Asked user to check Studio. Studio (user, 15 Nov): Public, no notices, A/B test running with 3 title+thumbnail variants (Looking Rich / Why Expensive Things Feel Better / Your Brain on Luxury), 0 views → not blocked, just no impressions yet. |
 | 01 | (to rethink) money psychology – old file lost | wealth (money) | Sun 22 Nov 18:00 | – | – | – |
 Week 3 (batch 28 Nov) = contrast angle (health & mind or everyday), per user rule.
 
