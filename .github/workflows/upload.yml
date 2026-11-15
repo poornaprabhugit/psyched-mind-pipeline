@@ -1,0 +1,40 @@
+name: upload-videos
+on:
+  push:
+    branches: [main]
+    paths: ["jobs/*/upload.json"]
+permissions:
+  contents: write
+concurrency:
+  group: upload
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Upload as private / scheduled
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          for f in $(git diff --name-only HEAD~1 HEAD -- 'jobs/*/upload.json'); do
+            batch=$(basename "$(dirname "$f")")
+            br=$(python -c "import json,sys;print(json.load(open('$f'))['render_branch'])")
+            rm -rf vids && mkdir vids
+            git fetch -q --depth 1 origin "$br"
+            git archive FETCH_HEAD | tar -x -C vids
+            for p in vids/*.part-aa; do [ -e "$p" ] || continue; b=${p%.part-aa}; cat "$b".part-* > "$b"; done
+            python scripts/upload.py "$f" vids "uploads/$batch.json" 2>&1 | tee -a upload_log.txt
+          done
+      - name: Commit
+        if: always()
+        run: |
+          mkdir -p uploads; cp upload_log.txt uploads/last_run_log.txt 2>/dev/null || true
+          git config user.name "pipeline-bot"; git config user.email "pipeline@users.noreply.github.com"
+          git add uploads
+          git commit -qm "uploads $(date -u +%F)" || exit 0
+          git pull -q --rebase origin main && git push -q origin HEAD:main
