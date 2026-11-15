@@ -11,6 +11,15 @@ When our data contradicts a [Pro] rule, our data wins and the change is logged i
 
 ---
 
+## 0. Target audience (user rule, 15 Nov 2026 – applies to every batch, summary and platform)
+
+Priority order: **1. United States · 2. India · 3. United Kingdom** (focus on these three as much as possible) · 4. Canada · 5. EU.
+- **Language:** plain, simple English; **American spelling** (color, center, favor, leveled) and US number/money formats ($, "40 dollars"). Avoid British-only words and slang. Titles must be clear to non-native speakers (big Indian audience).
+- **Examples:** everyday situations that work in the US, India and the UK (phones, work, shopping, family, money). When a study uses dollars, keep dollars. Avoid examples that only make sense in one country (US-only brands, holidays, sports, school systems).
+- **Posting times:** pick slots that reach the US and India first, then the UK (see §8 / scoreboard slot test). Amsterdam = ET + 6 h, IST − 4.5 h, UK + 1 h (winter).
+- **Analytics:** in daily summaries and weekly reviews, report views/retention for US, India and UK separately when the data has them, and judge topics/slots mainly by those three.
+- Higher ad rates come from US/UK/Canada; India brings volume and subscribers. Don't trade US relevance for India volume or the reverse – aim for topics that land in both.
+
 ## 1. Ground rules (never break)
 
 1. **Monetization safety [YT].** YPP refuses "inauthentic" content: mass-produced, repetitive, templated storylines, slideshows or scrolling text with little narrative or educational value, and "AI-generated content made with generic or unoriginal templates". Allowed: a consistent format if *each video has a distinct storyline, focus or concept*; recurring intros/outros. So: every video has its own researched angle, a real study, a story/example, and a structure that differs from the others in the batch. Reviewers look at the channel's main theme, most-viewed and newest videos, watch-time breakdown, metadata and About section — keep all of these clean.
@@ -136,3 +145,4 @@ Strategists:
 
 ## Change log
 - 2026-11-11: first version.
+- 2026-11-15: added §0 Target audience (user rule): US > India > UK > Canada > EU; American spelling, plain English, slots for US + India.
