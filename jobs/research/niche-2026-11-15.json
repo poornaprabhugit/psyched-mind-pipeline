@@ -1,0 +1,5 @@
+{
+ "queries": ["psychology facts", "psychology shorts", "money psychology", "dark psychology", "human behavior psychology", "psychology of rich people", "wealth mindset", "psychology tricks", "mind blowing facts", "luxury lifestyle psychology"],
+ "handles": ["Psych2go", "aluxcom", "TheSchoolofLifeTV", "CharismaonCommand", "PracticalPsychologyTV", "BetterIdeas", "TheInfographicsShow", "ThePsychedMindHQ"],
+ "per_query": 10, "min_subs": 200000, "max_channels": 35, "uploads": 200
+}
