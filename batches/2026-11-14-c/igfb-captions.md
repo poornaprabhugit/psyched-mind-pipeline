@@ -1,6 +1,6 @@
 # Instagram + Facebook Reels – captions for 16–22 Nov (14 Reels, 2 per day)
 
-Use the **IG-FB** files (no "Full video" card at the end). Schedule each Reel in **Meta Business Suite** with **Instagram + Facebook both ticked**, at the same day and time as on YouTube (Amsterdam time).
+Use the **IG-FB** files (no "Full video" card at the end). Schedule each Reel in **Meta Business Suite → Create reel** (NOT "Create post" – the post composer rejects 9:16 for Instagram, 4:5–16:9 only) with **Instagram + Facebook both ticked**, at the same day and time as on YouTube (Amsterdam time).
 
 **For every Reel:** paste the caption block as it is · cover = a frame with the yellow hook card (~0:01) · "Share to Facebook" on · Audio: the video's own sound (no music added) · location/tags: none · AI label: leave off (real footage + standard narrator; turn it on if Meta asks).
 

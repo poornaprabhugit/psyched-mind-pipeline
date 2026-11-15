@@ -54,3 +54,4 @@
 ## 15 Nov 2026 – daily stats
 - The Data API's channel viewCount lags hours behind per-video counts (14 Nov 18:06: channel 174 while videos summed ~690). Compute "change since yesterday" from per-video sums, not the channel total.
 - A Short's day-1 burst on our channel is front-loaded: doorway got ~55% of its first-16 h views in the first 3 h. Judge day-1 at ~24 h but expect most of it by hour 6.
+- 2026-11-15: All Meta uploads so far (doorway 14 Nov, liking gap/spotlight 15 Nov, the 16–22 Nov week) went to Facebook only. Cause: scheduled via "Create post", whose Instagram check allows 4:5–16:9 only and rejects our 9:16 files ("Wrong aspect ratio"). Use "Create reel" in Business Suite. Instagram has no data yet – the platform test effectively starts when IG Reels are posted.
