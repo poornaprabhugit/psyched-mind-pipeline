@@ -38,3 +38,11 @@
 - 2026-11-14: MPT renders often have a video track 0.3–2.7 s shorter than the audio (s04 clean: 16.4 vs 17.9 s) – the player then freezes the last frame while the voice finishes. Pad with `tpad=stop_mode=clone:stop_duration=<gap>` after tightening; check `ffprobe stream=duration` per stream in review.
 - 2026-11-14: Clean (no CTA card) versions for Instagram/Facebook = same render.json with `cta_text` removed (job 2026-11-14-clean); flat-frame fixes must be re-applied after each re-render.
 - 2026-11-14: Meta Business Suite only schedules Reels at least ~20 min ahead – schedule the week in one go, never last-minute.
+
+## 15 Nov 2026 – automatic YouTube upload
+- Built scripts/upload.py + workflow upload-videos (push jobs/<batch>/upload.json). Always uploads PRIVATE, optional publishAt; never re-uploads a key already in uploads/<batch>.json.
+- Facts (checked 15 Nov): since 2 Nov 2026 unverified API projects are no longer forced to private (Data API revision history); videos.insert has its own 100 calls/day bucket (since 1 Jun 2026); publishAt and containsSyntheticMedia are settable.
+- USER RULE: check upload compliance every week (API revision history, API Services Terms + Developer Policies). Any conflict or doubt → no automatic upload, deliver for manual upload and tell the user.
+- Token status: WAITING – user must replace YT_REFRESH_TOKEN with one that has youtube.upload + youtube.force-ssl (plus the two readonly scopes). Until the user confirms, upload manually.
+- First run: upload ONE Short without publish_at; user checks it in Studio before the rest.
+- Still manual in Studio: Related video, pinning the comment, Test & compare.
