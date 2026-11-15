@@ -37,7 +37,7 @@ Follow for one real psychology study a day 🧠
 ```
 The one word that makes people say yes 🤝
 
-Asking to skip the line at a copy machine: no reason – 60% said yes. 'Because I have to make copies' – 93% said yes. Your brain hears 'because' and stops checking the reason. Works for small favours.
+Asking to skip the line at a copy machine: no reason – 60% said yes. 'Because I have to make copies' – 93% said yes. Your brain hears 'because' and stops checking the reason. Works for small favors.
 
 Source: Langer, Blank & Chanowitz (1978)
 Follow for one real psychology study a day 🧠
@@ -109,7 +109,7 @@ Follow for one real psychology study a day 🧠
 ```
 Why you get angry after a bad night's sleep 😴
 
-After a night without sleep, the brain's alarm centre reacted about 60% more to upsetting images – and was less connected to the part that calms it down. Sleep on it before that argument.
+After a night without sleep, the brain's alarm center reacted about 60% more to upsetting images – and was less connected to the part that calms it down. Sleep on it before that argument.
 
 Source: Yoo, Gujar, Hu, Jolesz & Walker (2007)
 Follow for one real psychology study a day 🧠
@@ -169,7 +169,7 @@ Follow for one real psychology study a day 🧠
 ```
 Can money buy happiness? The $75K myth 💰
 
-A study of 33,391 working adults – co-written by the scientist behind the famous $75K limit – found happiness kept rising with income up to $500K for most people. Only the unhappiest fifth levelled off around $100K.
+A study of 33,391 working adults – co-written by the scientist behind the famous $75K limit – found happiness kept rising with income up to $500K for most people. Only the unhappiest fifth leveled off around $100K.
 
 Source: Killingsworth, Kahneman & Mellers (2023)
 Follow for one real psychology study a day 🧠

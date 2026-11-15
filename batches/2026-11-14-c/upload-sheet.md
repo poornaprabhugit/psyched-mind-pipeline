@@ -56,7 +56,7 @@ Science-backed psychology · Sources in description · Not medical advice.
 **Title:** The one word that makes people say yes to you 🤝
 **Description:**
 ```
-What makes people say yes? Researchers asked to cut the line at a copy machine. With no reason, 60% agreed. With a real reason ("because I'm in a rush"), 94%. With a pointless one ("because I have to make copies"), still 93%. It only worked for small favours.
+What makes people say yes? Researchers asked to cut the line at a copy machine. With no reason, 60% agreed. With a real reason ("because I'm in a rush"), 94%. With a pointless one ("because I have to make copies"), still 93%. It only worked for small favors.
 Source: Langer, Blank & Chanowitz (1978), Journal of Personality and Social Psychology – https://doi.org/10.1037/0022-3514.36.6.635
 Science-backed psychology · Sources in description · Not medical advice.
 #psychology #persuasion #communication #mindset #shorts
@@ -131,7 +131,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 **Title:** Can money buy you happiness? The $75K myth 💰
 **Description:**
 ```
-Does happiness stop at $75,000? A study of 33,391 working US adults – co-written by the scientist behind the famous $75K limit – found happiness kept rising with income up to $500,000 for most people. Only the least happy ~20% levelled off around $100,000.
+Does happiness stop at $75,000? A study of 33,391 working US adults – co-written by the scientist behind the famous $75K limit – found happiness kept rising with income up to $500,000 for most people. Only the least happy ~20% leveled off around $100,000.
 Source: Killingsworth, Kahneman & Mellers (2023), PNAS – https://doi.org/10.1073/pnas.2208661120
 Science-backed psychology · Sources in description · Not financial advice.
 #psychology #money #happiness #wealth #shorts
@@ -204,7 +204,7 @@ Science-backed psychology · Sources in description · Not financial advice.
 **Title:** Why you get angry after a bad night's sleep 😴
 **Description:**
 ```
-Why do you get angry at people after a bad night? After a night and a day without sleep, the brain's alarm centre (the amygdala) reacted about 60% more to upsetting images, and was less connected to the area that normally calms it down.
+Why do you get angry at people after a bad night? After a night and a day without sleep, the brain's alarm center (the amygdala) reacted about 60% more to upsetting images, and was less connected to the area that normally calms it down.
 Source: Yoo, Gujar, Hu, Jolesz & Walker (2007), Current Biology – https://doi.org/10.1016/j.cub.2007.08.007
 Science-backed psychology · Sources in description · Not medical advice.
 #psychology #sleep #brain #stress #shorts
