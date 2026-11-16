@@ -54,4 +54,7 @@
 ## 15 Nov 2026 – daily stats
 - The Data API's channel viewCount lags hours behind per-video counts (14 Nov 18:06: channel 174 while videos summed ~690). Compute "change since yesterday" from per-video sums, not the channel total.
 - A Short's day-1 burst on our channel is front-loaded: doorway got ~55% of its first-16 h views in the first 3 h. Judge day-1 at ~24 h but expect most of it by hour 6.
+- 2026-11-16: Doorway's burst ended by ~hour 16 (720 → 723 over the next 24 h). A big day-1 test does not keep growing by itself – no second wave on our channel yet. Expect each Short's views to be ~final after ~16 h.
+- 2026-11-16: Second near-zero public Short (spotlight remake, 2 views at 16.5 h; peak-end is at 0) – 2 of 13 public Shorts got no real feed test. Check Studio before judging the creative.
+- 2026-11-16: When Bash is blocked, the GitHub MCP (create_or_update_file on jobs/stats-now, list_commits, push_files) runs the whole daily read.
 - 2026-11-15: All Meta uploads so far (doorway 14 Nov, liking gap/spotlight 15 Nov, the 16–22 Nov week) went to Facebook only. Cause: scheduled via "Create post", whose Instagram check allows 4:5–16:9 only and rejects our 9:16 files ("Wrong aspect ratio"). Use "Create reel" in Business Suite, one Reel at a time – the bulk upload tool is what rejects 9:16 for Instagram (user, 15 Nov). Instagram has no data yet – the platform test effectively starts when IG Reels are posted.
