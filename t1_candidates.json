@@ -1,0 +1,239 @@
+{
+ "id": "t1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You walk into a room and forget why you came.",
+   "candidates": [
+    {
+     "pixabay_id": 1261,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_small.jpg",
+     "page": "https://pixabay.com/videos/id-1261/",
+     "tags": "croissants, baking, kitchen, pastry, french, woman, preparation, dough, bakery, food, sweet, breakfast, fresh, tasty, homemade, rustic, golden, dish, delicious, 1444282655",
+     "duration": 61,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 130175,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130175-746395232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130175-746395232_small.jpg",
+     "page": "https://pixabay.com/videos/id-130175/",
+     "tags": "flowers, field, woman, walk, stroll, nature",
+     "duration": 10,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 21472,
+     "url": "https://cdn.pixabay.com/video/2019/02/16/21472-318172509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/16/21472-318172509_small.jpg",
+     "page": "https://pixabay.com/videos/id-21472/",
+     "tags": "building, walk, greenwich chapel, university, london, england, architecture",
+     "duration": 15,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 146633,
+     "url": "https://cdn.pixabay.com/video/2023/01/15/146633-789534286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/15/146633-789534286_small.jpg",
+     "page": "https://pixabay.com/videos/id-146633/",
+     "tags": "woman, forest, hike, adventure, calm, travel, walk, nature, landscape",
+     "duration": 10,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 146135,
+     "url": "https://cdn.pixabay.com/video/2023/01/11/146135-788410176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/11/146135-788410176_small.jpg",
+     "page": "https://pixabay.com/videos/id-146135/",
+     "tags": "woman, model, dress, walk, path, park, colorful, young, nature",
+     "duration": 18,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 148542,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_small.jpg",
+     "page": "https://pixabay.com/videos/id-148542/",
+     "tags": "woman, cook, kitchen, traditional, java, indonesia, rural, village, poverty",
+     "duration": 14,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "woman walks into kitchen"
+    },
+    {
+     "pixabay_id": 3166,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_small.jpg",
+     "page": "https://pixabay.com/videos/id-3166/",
+     "tags": "walking the dog, border-collie, dog, pet, animal, woman, canine, walk, walking dog",
+     "duration": 15,
+     "query": "woman walks into kitchen"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Blame the door.",
+   "candidates": [
+    {
+     "pixabay_id": 20263,
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20263-308335545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/26/20263-308335545_small.jpg",
+     "page": "https://pixabay.com/videos/id-20263/",
+     "tags": "ruins, house, burnt, burned, building, door, windows",
+     "duration": 19,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 39292,
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_small.jpg",
+     "page": "https://pixabay.com/videos/id-39292/",
+     "tags": "curtain, inside, house, room, weekend, bathrobe, windows, home, bedroom, quarantine, covid, lockdown, rest, calm, quiet, silence",
+     "duration": 13,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 20265,
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_small.jpg",
+     "page": "https://pixabay.com/videos/id-20265/",
+     "tags": "ruins, house, burnt, burned, building, door, nails, light, architecture, old",
+     "duration": 16,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 2222,
+     "url": "https://cdn.pixabay.com/video/2016/02/22/2222-156375630_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/22/2222-156375630_small.jpg",
+     "page": "https://pixabay.com/videos/id-2222/",
+     "tags": "snowdrops, blooming, blossom, flower, march, opening, park, petal, plant, spring, white, green, garden, gardening",
+     "duration": 20,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 131988,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_small.jpg",
+     "page": "https://pixabay.com/videos/id-131988/",
+     "tags": "key, take, open, key code, instrument, door",
+     "duration": 8,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 37006,
+     "url": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/23/37006-413208203_small.jpg",
+     "page": "https://pixabay.com/videos/id-37006/",
+     "tags": "clock, time, watches, inside, second, hours",
+     "duration": 18,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 355278,
+     "url": "https://cdn.pixabay.com/video/2026/05/29/355278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/05/29/355278_small.jpg",
+     "page": "https://pixabay.com/videos/id-355278/",
+     "tags": "plant, flowers, oxalis griffithii, mountains, inside the coniferous forest, moss, insect, japan",
+     "duration": 10,
+     "query": "opening door inside house"
+    },
+    {
+     "pixabay_id": 230060,
+     "url": "https://cdn.pixabay.com/video/2024/09/06/230060_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/06/230060_small.jpg",
+     "page": "https://pixabay.com/videos/id-230060/",
+     "tags": "bird, sperling, house sparrow, collect nesting material, nature",
+     "duration": 45,
+     "query": "opening door inside house"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "forget why you came",
+   "candidates": [
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 125147,
+     "url": "https://cdn.pixabay.com/video/2022/07/23/125147-732837117_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/23/125147-732837117_small.jpg",
+     "page": "https://pixabay.com/videos/id-125147/",
+     "tags": "highlander, cattle, animal, mammal, farm, rural, scratching",
+     "duration": 13,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 44438,
+     "url": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_small.jpg",
+     "page": "https://pixabay.com/videos/id-44438/",
+     "tags": "emotions, men staring, human, person, facial expressions, head, adult, people, young man, brown man, expression, men, one, facial",
+     "duration": 12,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 18244,
+     "url": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_small.jpg",
+     "page": "https://pixabay.com/videos/id-18244/",
+     "tags": "owl, animal, bird, nature, feather, head, eagle owl, raptor, sitting, eyes, bill, animal world",
+     "duration": 20,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 7382,
+     "url": "https://cdn.pixabay.com/video/2017/01/16/7382-200092347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/16/7382-200092347_small.jpg",
+     "page": "https://pixabay.com/videos/id-7382/",
+     "tags": "dj, scratch, scratching, hang up, turntable, mixer, analog, music, rap, mix, plate, vinyl, sound studio, sound, technology, disco, recording, dj music",
+     "duration": 20,
+     "query": "man scratching head"
+    },
+    {
+     "pixabay_id": 3360,
+     "url": "https://cdn.pixabay.com/video/2016/06/01/3360-169097328_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/01/3360-169097328_small.jpg",
+     "page": "https://pixabay.com/videos/id-3360/",
+     "tags": "dj, mixer, electro, music, technical device, sound studio, controller, recording, mix, scratching, discotheque, hang up, sound mixer",
+     "duration": 7,
+     "query": "man scratching head"
+    }
+   ]
+  }
+ ]
+}
