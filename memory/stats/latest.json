@@ -1,16 +1,31 @@
 {
- "collected_at": "2026-11-15T14:02:44.067150+00:00",
+ "collected_at": "2026-11-16T07:35:14.444283+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "1019",
+   "viewCount": "1071",
    "subscriberCount": "6",
    "hiddenSubscriberCount": false,
-   "videoCount": "11"
+   "videoCount": "12"
   }
  },
  "videos": [
+  {
+   "id": "QD2VJsMvnRk",
+   "title": "Everyone noticed your mistake? Science says no \ud83d\ude33",
+   "published": "2026-11-15T15:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "2",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "vOZipjzKVTM",
    "title": "People like you more than you think \ud83e\udde0",
@@ -19,7 +34,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "26",
+    "viewCount": "37",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -154,7 +169,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "722",
+    "viewCount": "723",
     "likeCount": "11",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -267,21 +282,6 @@
    }
   },
   {
-   "id": "QD2VJsMvnRk",
-   "title": "Everyone noticed your mistake? Science says no \ud83d\ude33",
-   "published": "2026-11-14T11:15:22Z",
-   "privacy": "private",
-   "publish_at": "2026-11-15T15:00:00Z",
-   "duration": "PT21S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "xHNCEPqi2DQ",
    "title": "Can't sleep? Write this down before bed \ud83c\udf19",
    "published": "2026-11-14T10:00:31Z",
@@ -289,7 +289,7 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "113",
+    "viewCount": "114",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -304,7 +304,7 @@
    "publish_at": null,
    "duration": "PT35S",
    "statistics": {
-    "viewCount": "14",
+    "viewCount": "17",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -334,7 +334,7 @@
    "publish_at": null,
    "duration": "PT29S",
    "statistics": {
-    "viewCount": "1",
+    "viewCount": "0",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -349,7 +349,7 @@
    "publish_at": null,
    "duration": "PT28S",
    "statistics": {
-    "viewCount": "17",
+    "viewCount": "16",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -416,6 +416,18 @@
    "subscribersGained": 0
   },
   {
+   "video": "WdR33wEaImo",
+   "views": 49,
+   "engagedViews": 10,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 11,
+   "averageViewPercentage": 43.22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "1YpGk3PgSTc",
    "views": 37,
    "engagedViews": 8,
@@ -429,11 +441,23 @@
   },
   {
    "video": "AWwEyFrD7d8",
-   "views": 16,
+   "views": 17,
    "engagedViews": 4,
    "estimatedMinutesWatched": 1,
    "averageViewDuration": 12,
    "averageViewPercentage": 45.51,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "IYrmhlu2pa0",
+   "views": 11,
+   "engagedViews": 1,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 5,
+   "averageViewPercentage": 15.43,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -482,13 +506,19 @@
    "views": 23,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 1
+  },
+  {
+   "day": "2026-11-13",
+   "views": 61,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 2
   }
  ],
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 99,
-   "averageViewDuration": 13
+   "views": 158,
+   "averageViewDuration": 12
   },
   {
    "insightTrafficSourceType": "YT_CHANNEL",
@@ -497,7 +527,7 @@
   },
   {
    "insightTrafficSourceType": "YT_SEARCH",
-   "views": 6,
+   "views": 7,
    "averageViewDuration": 17
   },
   {
@@ -506,10 +536,20 @@
    "averageViewDuration": 4
   },
   {
+   "insightTrafficSourceType": "EXT_URL",
+   "views": 1,
+   "averageViewDuration": 26
+  },
+  {
    "insightTrafficSourceType": "NO_LINK_OTHER",
    "views": 0,
    "averageViewDuration": 0
   }
  ],
- "countries": []
+ "countries": [
+  {
+   "country": "NL",
+   "views": 0
+  }
+ ]
 }
