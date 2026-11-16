@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-16T07:35:14.444283+00:00",
+ "collected_at": "2026-11-16T15:59:04.198552+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
@@ -7,10 +7,40 @@
    "viewCount": "1071",
    "subscriberCount": "6",
    "hiddenSubscriberCount": false,
-   "videoCount": "12"
+   "videoCount": "14"
   }
  },
  "videos": [
+  {
+   "id": "62jE8udd0jI",
+   "title": "Why your best ideas come when you walk \ud83d\udeb6",
+   "published": "2026-11-16T15:00:20Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "wZALlLbeMZ0",
+   "title": "Why winning millions wouldn't make you happier \ud83d\udcb0",
+   "published": "2026-11-16T11:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT18S",
+   "statistics": {
+    "viewCount": "14",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "QD2VJsMvnRk",
    "title": "Everyone noticed your mistake? Science says no \ud83d\ude33",
@@ -132,21 +162,6 @@
    }
   },
   {
-   "id": "62jE8udd0jI",
-   "title": "Why your best ideas come when you walk \ud83d\udeb6",
-   "published": "2026-11-14T18:22:00Z",
-   "privacy": "private",
-   "publish_at": "2026-11-16T15:00:00Z",
-   "duration": "PT21S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "WQcp4iHg1Ts",
    "title": "The Psychology of Looking Rich (7 Real Studies)",
    "published": "2026-11-14T17:00:28Z",
@@ -169,7 +184,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "723",
+    "viewCount": "724",
     "likeCount": "11",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -257,21 +272,6 @@
    "published": "2026-11-14T11:15:30Z",
    "privacy": "private",
    "publish_at": "2026-11-17T15:00:00Z",
-   "duration": "PT18S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "wZALlLbeMZ0",
-   "title": "Why winning millions wouldn't make you happier \ud83d\udcb0",
-   "published": "2026-11-14T11:15:27Z",
-   "privacy": "private",
-   "publish_at": "2026-11-16T11:00:00Z",
    "duration": "PT18S",
    "statistics": {
     "viewCount": "0",
