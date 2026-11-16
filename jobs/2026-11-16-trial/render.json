@@ -4,7 +4,7 @@
    "id": "t1",
    "subject": "Why you forget why you walked into a room",
    "script": "You forget why you walked in. Blame the door. Researchers tested it: people forgot more after stepping through a doorway than after walking the same distance in one room. Your brain treats a doorway like a scene change in a movie. It closes the old scene, and files your reason for walking in with it. That's why",
-   "hook_text": "Forgot why you walked in?",
+   "hook_text": "Walked in. Forgot why?",
    "fast_open": {
     "clips": 3,
     "seconds": 1.5
