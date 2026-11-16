@@ -48,7 +48,7 @@
 - Still manual in Studio: Related video, pinning the comment, Test & compare.
 
 ## 15 Nov 2026 – Meta auto-posting plan (user agreed)
-- Order: 1) YouTube auto-upload test in the 21 Nov batch; 2) once that works, send the user a Meta setup guide (Meta developer app, IG account must likely be Business not Creator, Page token, secrets); 3) Facebook Reels first (API supports scheduled publish 10 min–29 days ahead, 30 API reels/Page/24 h); 4) then Instagram (no scheduling in the API → our own GitHub cron posts at each slot + a backup run 10 min later, ~120 Actions min/month).
+- Order: 1) YouTube auto-upload test in the 21 Nov batch; 2) once that works, send the user a Meta setup guide (Meta developer app, IG Creator account is fine – checked 16 Nov: Meta's 'Instagram API with Instagram Login' covers business AND creator professional accounts, needs no Facebook Page link, and gives Reels insights (views, reach, likes, saved, shares, ig_reels_avg_watch_time; up to 48 h delay) + Reels publishing; keep Creator, do not switch to Business, Page token, secrets); 3) Facebook Reels first (API supports scheduled publish 10 min–29 days ahead, 30 API reels/Page/24 h); 4) then Instagram (no scheduling in the API → our own GitHub cron posts at each slot + a backup run 10 min later, ~120 Actions min/month).
 - Add Meta Platform Terms / Developer Policies + IG/FB publishing docs to the weekly compliance check when Meta posting goes live. Any conflict → manual via Meta Business Suite.
 
 ## 15 Nov 2026 – daily stats
