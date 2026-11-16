@@ -1,0 +1,29 @@
+{
+ "videos": [
+  {
+   "id": "t1",
+   "subject": "Why you forget why you walked into a room",
+   "script": "You forget why you walked in. Blame the door. Researchers tested it: people forgot more after stepping through a doorway than after walking the same distance in one room. Your brain treats a doorway like a scene change in a movie. It closes the old scene, and files your reason for walking in with it. That's why",
+   "hook_text": "Forgot why you walked in?",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+    "https://cdn.pixabay.com/video/2022/04/17/114254-700585823_large.mp4",
+    "https://cdn.pixabay.com/video/2024/06/01/214855_medium.mp4",
+    "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+    "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+    "https://cdn.pixabay.com/video/2022/07/27/125778-735656062_large.mp4",
+    "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+    "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+    "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4"
+   ]
+  }
+ ],
+ "tighten": true
+}
