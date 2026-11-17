@@ -1,0 +1,597 @@
+{
+ "collected_at": "2026-11-17T07:35:48.037265+00:00",
+ "note": "Analytics data lags 1-3 days",
+ "channel": {
+  "title": "ThePsychedMindHQ",
+  "statistics": {
+   "viewCount": "1114",
+   "subscriberCount": "6",
+   "hiddenSubscriberCount": false,
+   "videoCount": "14"
+  }
+ },
+ "videos": [
+  {
+   "id": "62jE8udd0jI",
+   "title": "Why your best ideas come when you walk \ud83d\udeb6",
+   "published": "2026-11-16T15:00:20Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "12",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "wZALlLbeMZ0",
+   "title": "Why winning millions wouldn't make you happier \ud83d\udcb0",
+   "published": "2026-11-16T11:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT18S",
+   "statistics": {
+    "viewCount": "25",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "QD2VJsMvnRk",
+   "title": "Everyone noticed your mistake? Science says no \ud83d\ude33",
+   "published": "2026-11-15T15:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "2",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "vOZipjzKVTM",
+   "title": "People like you more than you think \ud83e\udde0",
+   "published": "2026-11-15T11:00:22Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "42",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "WDPDtmLAfmg",
+   "title": "Can money buy you happiness? The $75K myth \ud83d\udcb0",
+   "published": "2026-11-14T18:22:30Z",
+   "privacy": "private",
+   "publish_at": "2026-11-22T15:00:00Z",
+   "duration": "PT24S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "BAP6lbY6rtw",
+   "title": "Why your coins disappear faster than bills \ud83d\udcb5",
+   "published": "2026-11-14T18:22:25Z",
+   "privacy": "private",
+   "publish_at": "2026-11-21T11:00:00Z",
+   "duration": "PT24S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "zc7YjPhg_wk",
+   "title": "Half of people miss this gorilla. Would you? \ud83e\udd8d",
+   "published": "2026-11-14T18:22:19Z",
+   "privacy": "private",
+   "publish_at": "2026-11-20T15:00:00Z",
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "AiSraDqO9CU",
+   "title": "Why FREE makes you choose worse \ud83c\udf6b",
+   "published": "2026-11-14T18:22:14Z",
+   "privacy": "private",
+   "publish_at": "2026-11-19T11:00:00Z",
+   "duration": "PT22S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "Q2tEpcgs-2Q",
+   "title": "Why prices end in 9 \u2013 and why it works on you \ud83c\udff7\ufe0f",
+   "published": "2026-11-14T18:22:07Z",
+   "privacy": "private",
+   "publish_at": "2026-11-18T15:00:00Z",
+   "duration": "PT24S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "V06wwgkqDf4",
+   "title": "The one word that makes people say yes to you \ud83e\udd1d",
+   "published": "2026-11-14T18:22:03Z",
+   "privacy": "private",
+   "publish_at": "2026-11-17T11:00:00Z",
+   "duration": "PT22S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "WQcp4iHg1Ts",
+   "title": "The Psychology of Looking Rich (7 Real Studies)",
+   "published": "2026-11-14T17:00:28Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT10M5S",
+   "statistics": {
+    "viewCount": "1",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "ZMRtsDFoB-Y",
+   "title": "Why you forget why you walked into a room \ud83d\udeaa",
+   "published": "2026-11-14T15:00:12Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "726",
+    "likeCount": "11",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "1"
+   }
+  },
+  {
+   "id": "JTo5p_ezo8w",
+   "title": "The happiest way to spend $40 isn't on stuff \ud83d\udcb8",
+   "published": "2026-11-14T11:15:51Z",
+   "privacy": "private",
+   "publish_at": "2026-11-22T11:00:00Z",
+   "duration": "PT23S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "NN45tRpB5Wc",
+   "title": "Why you hear your name in a noisy room \ud83d\udc42",
+   "published": "2026-11-14T11:15:46Z",
+   "privacy": "private",
+   "publish_at": "2026-11-21T15:00:00Z",
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "wMTaTbowq6k",
+   "title": "Why you get angry after a bad night's sleep \ud83d\ude34",
+   "published": "2026-11-14T11:15:43Z",
+   "privacy": "private",
+   "publish_at": "2026-11-20T11:00:00Z",
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "kH10-SXGt2o",
+   "title": "Why your coffee card comes with free stamps \u2615",
+   "published": "2026-11-14T11:15:39Z",
+   "privacy": "private",
+   "publish_at": "2026-11-19T15:00:00Z",
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "n1lgwIswJ0s",
+   "title": "You'd defend a choice you never made \ud83e\udd2f",
+   "published": "2026-11-14T11:15:34Z",
+   "privacy": "private",
+   "publish_at": "2026-11-18T11:00:00Z",
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "Jl01ZVSoQbo",
+   "title": "Why you can't let go of money you already spent \ud83c\udfbf",
+   "published": "2026-11-14T11:15:30Z",
+   "privacy": "private",
+   "publish_at": "2026-11-17T15:00:00Z",
+   "duration": "PT18S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "xHNCEPqi2DQ",
+   "title": "Can't sleep? Write this down before bed \ud83c\udf19",
+   "published": "2026-11-14T10:00:31Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "114",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "IYrmhlu2pa0",
+   "title": "Why making mistakes makes people like you more \u2615",
+   "published": "2026-11-13T21:00:26Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT35S",
+   "statistics": {
+    "viewCount": "17",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "WdR33wEaImo",
+   "title": "Why you spend more with a card than cash \ud83d\udcb3",
+   "published": "2026-11-13T15:00:33Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT27S",
+   "statistics": {
+    "viewCount": "53",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "6z_Euar4Wrg",
+   "title": "Why your brain remembers the ending most \ud83e\udde0",
+   "published": "2026-11-12T21:00:14Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT29S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "AWwEyFrD7d8",
+   "title": "The favor trick that makes people like you \ud83d\udcd6",
+   "published": "2026-11-12T11:00:31Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT28S",
+   "statistics": {
+    "viewCount": "16",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "jGEnqapHOhA",
+   "title": "Why \u201cI\u2019ll start Monday\u201d actually works \ud83d\udcc5",
+   "published": "2026-11-11T17:00:27Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT33S",
+   "statistics": {
+    "viewCount": "4",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "1SiTheh1gbA",
+   "title": "Why your wobbly shelf feels priceless \ud83d\udd28",
+   "published": "2026-11-11T11:00:34Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT29S",
+   "statistics": {
+    "viewCount": "66",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "1YpGk3PgSTc",
+   "title": "You don't like it. You've just seen it a lot \ud83c\udfa7",
+   "published": "2026-11-10T19:00:08Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT30S",
+   "statistics": {
+    "viewCount": "36",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  }
+ ],
+ "per_video": [
+  {
+   "video": "ZMRtsDFoB-Y",
+   "views": 728,
+   "engagedViews": 156,
+   "estimatedMinutesWatched": 46,
+   "averageViewDuration": 12,
+   "averageViewPercentage": 66.81,
+   "likes": 11,
+   "comments": 1,
+   "shares": 0,
+   "subscribersGained": 3
+  },
+  {
+   "video": "xHNCEPqi2DQ",
+   "views": 112,
+   "engagedViews": 20,
+   "estimatedMinutesWatched": 6,
+   "averageViewDuration": 13,
+   "averageViewPercentage": 46.63,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "1SiTheh1gbA",
+   "views": 66,
+   "engagedViews": 13,
+   "estimatedMinutesWatched": 4,
+   "averageViewDuration": 16,
+   "averageViewPercentage": 55.50999999999999,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "WdR33wEaImo",
+   "views": 53,
+   "engagedViews": 10,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 11,
+   "averageViewPercentage": 43.22,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "1YpGk3PgSTc",
+   "views": 37,
+   "engagedViews": 8,
+   "estimatedMinutesWatched": 4,
+   "averageViewDuration": 27,
+   "averageViewPercentage": 90.17,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "AWwEyFrD7d8",
+   "views": 17,
+   "engagedViews": 4,
+   "estimatedMinutesWatched": 1,
+   "averageViewDuration": 12,
+   "averageViewPercentage": 45.51,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "IYrmhlu2pa0",
+   "views": 14,
+   "engagedViews": 2,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 5,
+   "averageViewPercentage": 16.29,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "jGEnqapHOhA",
+   "views": 4,
+   "engagedViews": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "6z_Euar4Wrg",
+   "views": 0,
+   "engagedViews": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  }
+ ],
+ "daily": [
+  {
+   "day": "2026-11-10",
+   "views": 34,
+   "subscribersGained": 3,
+   "estimatedMinutesWatched": 4
+  },
+  {
+   "day": "2026-11-11",
+   "views": 66,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 4
+  },
+  {
+   "day": "2026-11-12",
+   "views": 23,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 1
+  },
+  {
+   "day": "2026-11-13",
+   "views": 61,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 2
+  },
+  {
+   "day": "2026-11-14",
+   "views": 847,
+   "subscribersGained": 3,
+   "estimatedMinutesWatched": 52
+  }
+ ],
+ "traffic_sources": [
+  {
+   "insightTrafficSourceType": "SHORTS",
+   "views": 986,
+   "averageViewDuration": 12
+  },
+  {
+   "insightTrafficSourceType": "YT_SEARCH",
+   "views": 21,
+   "averageViewDuration": 11
+  },
+  {
+   "insightTrafficSourceType": "YT_CHANNEL",
+   "views": 14,
+   "averageViewDuration": 33
+  },
+  {
+   "insightTrafficSourceType": "YT_OTHER_PAGE",
+   "views": 9,
+   "averageViewDuration": 10
+  },
+  {
+   "insightTrafficSourceType": "EXT_URL",
+   "views": 1,
+   "averageViewDuration": 26
+  },
+  {
+   "insightTrafficSourceType": "NO_LINK_OTHER",
+   "views": 0,
+   "averageViewDuration": 0
+  }
+ ],
+ "countries": [
+  {
+   "country": "NL",
+   "views": 258
+  },
+  {
+   "country": "BE",
+   "views": 70
+  },
+  {
+   "country": "AL",
+   "views": 0
+  },
+  {
+   "country": "GB",
+   "views": 0
+  }
+ ]
+}
