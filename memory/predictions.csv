@@ -2,14 +2,14 @@ batch,id,topic,youtube_id,angle,slot,predicted,predicted_reason,day1_views,day7_
 2026-11-14,r1,doorway effect,ZMRtsDFoB-Y,everyday,Sat 14 Nov 16:00,,not logged,720 (16.5h),,19.2,high,,"first breakout signal; prediction was not recorded so no hit score; 395@3h, 607@6h, 720@16.5h, 723@40.5h (burst over)"
 2026-11-14,r2,liking gap (remake),vOZipjzKVTM,everyday,Sun 15 Nov 12:00,,not logged,37 (20.5h),,,low,,"new style (result first, loop); day-1 in line with old-style Shorts (34-51)"
 2026-11-14,r3,spotlight effect (remake),QD2VJsMvnRk,everyday,Sun 15 Nov 16:00,,not logged,2 (16.5h),,,low,,"near-zero like peak-end -> likely distribution issue, Studio check asked 16 Nov"
-2026-11-14,s01,Lottery winners,wZALlLbeMZ0,wealth,Mon 16 Nov 12:00,medium,,25 (20.5h),,,low,no,wealth 12:00; liking-gap-like day-1
+2026-11-14,s01,Lottery winners,wZALlLbeMZ0,wealth,Mon 16 Nov 12:00,medium,,25 (20.5h),,7.4,low,no,wealth 12:00; liking-gap-like day-1
 2026-11-14,s02,Worse holiday,Jl01ZVSoQbo,wealth,Tue 17 Nov 16:00,high,,,,,,,
 2026-11-14,s03,Choice blindness,n1lgwIswJ0s,everyday,Wed 18 Nov 12:00,medium,,,,,,,
 2026-11-14,s04,Free stamps,kH10-SXGt2o,wealth,Thu 19 Nov 16:00,medium,,,,,,,
 2026-11-14,s05,Sleepless night,wMTaTbowq6k,health,Fri 20 Nov 12:00,medium,,,,,,,
 2026-11-14,s06,Hear your name,NN45tRpB5Wc,everyday,Sat 21 Nov 16:00,medium,,,,,,,
 2026-11-14,s07,Spend 40 dollars,JTo5p_ezo8w,wealth,Sun 22 Nov 12:00,high,,,,,,,
-2026-11-14-c,n01,Walking ideas,62jE8udd0jI,health,Mon 16 Nov 16:00,medium,,12 (16.5h),,,low,no,health 16:00
+2026-11-14-c,n01,Walking ideas,62jE8udd0jI,health,Mon 16 Nov 16:00,medium,,12 (16.5h),,,low,no,health 16:00; avg viewed 172% on 13 views (Ask Studio 17 Nov)
 2026-11-14-c,n02,The word because,V06wwgkqDf4,everyday,Tue 17 Nov 12:00,medium,,,,,,,
 2026-11-14-c,n03,Prices ending in 9,Q2tEpcgs-2Q,wealth,Wed 18 Nov 16:00,high,,,,,,,
 2026-11-14-c,n04,Free chocolate,AiSraDqO9CU,wealth,Thu 19 Nov 12:00,high,,,,,,,
