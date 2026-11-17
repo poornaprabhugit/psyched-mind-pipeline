@@ -32,6 +32,12 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 - **16:00 vs 22:00 Amsterdam slot** — since 12 Nov (2/day this week). Compare day-1 views per slot once ≥4 Shorts per slot are live. 2026-11-14: 22:00 → peak-end 1, pratfall 11; 16:00 → card 49. n=3, too early.
 - **Money angle vs everyday angle** — since 13 Nov. Card-users (money) 49 views day 1 = top day-1 of the 4 Shorts with hook cards. One video; too early. Long video 01 (money) will add evidence.
 
+## Decided 17 Nov (user)
+- **Brain-first angle from the 21 Nov batch:** 8 brain & memory (everyday), 4 brain & money (how the brain thinks about money, not wealth advice), 2 brain & health. Replaces the 14 Nov 8/14 wealth mix. Evidence: what-works research (doc https://claude.ai/artifact/7VTGgTkWhvKqbF1GR1BrmH).
+- **How we validate it:** compare the brain-first week (23–29 Nov) with this week (16–22 Nov, wealth-led, same style/length/slots): median day-1 views, stayed to watch %, avg % viewed; within the week, brain & memory vs brain & money. Week-vs-week is confounded by channel age → read with care, say "too early" under ~1,000 views/video.
+- **Length test (35–45 s vs 18–24 s) waits** until the user has validated the angle. Do not start it on our own.
+- Long video 01 (22 Nov) stays money-themed but framed brain-first ("how your brain handles money").
+
 ## Decided 14 Nov (user)
 - Slot test: Shorts alternate 12:00 Amsterdam (UK/EU/Asia) and 16:00 (US). 22:00 slot dropped (peak-end 1, pratfall 11 day-1 views).
 - Angle mix: 4/7 Shorts wealth & success (money, assets, business, luxury/status), 1 health & mind, 2 everyday as control. Long videos lean wealth/success; every 3rd week a contrast angle.

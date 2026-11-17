@@ -59,6 +59,7 @@ Priority order: **1. United States · 2. India · 3. United Kingdom** (focus on 
 ## 4. Ideas [Pro + YT]
 
 - Spend ~30% of effort on idea + packaging before writing (Paddy Galloway). A weak idea can't be saved by editing.
+- **Brain-first angle (user decision 17 Nov 2026):** every Short is about how the brain works – memory, attention, perception, everyday "your brain does this" moments. Money/wealth Shorts are framed as *how your brain thinks about money* (card vs cash, prices ending in 9, sunk cost), never general wealth/success advice. Mix per 14: 8 brain & memory (everyday), 4 brain & money, 2 brain & health. Evidence: 35 top channels / 3,411 Shorts – brain/memory topics 1.7× channel median (7 of 8 channels), money/success 0.55–0.99× (research doc 17 Nov); our doorway + "because" Shorts.
 - **Familiar but unexpected:** a recognisable format with one twist ("$1 vs $100", "10 minutes vs 24 hours" style) adapted to psychology.
 - **Curiosity gap:** a specific, concrete promise beats a topic label ("Why you forget why you walked in" > "The doorway effect").
 - **80/20:** ~80% of videos are close to what already works for our audience, ~20% experiments.
@@ -154,3 +155,4 @@ Strategists:
 - 2026-11-11: first version.
 - 2026-11-15: added §0 Target audience (user rule): US > India > UK > Canada > EU; American spelling, plain English, slots for US + India.
 - 2026-11-15: added §00 How we decide (user rule): fact-based, research before decisions, no assumptions; user thoughts are inputs, not decisions.
+- 2026-11-17: §4 brain-first angle (user decision after channel research): 8 brain & memory / 4 brain & money / 2 brain & health per 14 Shorts. Replaces the 14 Nov wealth-led mix (8/14 wealth). Validate this first; length test (35–45 s vs 18–24 s) only after the user validates the angle.
