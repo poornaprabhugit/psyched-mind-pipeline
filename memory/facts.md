@@ -48,3 +48,5 @@ _Created 2026-11-15 (user asked for #5 "facts file"). Every script, title, descr
 | YouTube Shorts doesn't prioritize posting times; many Shorts a day doesn't unlock better performance (Todd Sherman, Creator Insider) | https://benzinga.com/z/34020532 | 2026-11-15 |
 | Upload hour had little effect on 30-day views (80.3M US Shorts) | https://vidiq.com/blog/post/best-time-publish-video-youtube/ | 2026-11-15 |
 | GitHub Free: 2,000 Actions minutes/month for private repos | https://docs.github.com/en/get-started/learning-about-github/githubs-plans | 2026-11-15 |
+
+- (Platform, checked 17 Nov 2026) YouTube Analytics omits countries below an unpublished threshold but keeps them in totals (support.google.com/youtube/answer/9101241). Country of residence drives YPP eligibility (answer/2976814); no official link to reach. Multi-language audio works on Shorts and videos (answer/13338784); YouTube: >25% of watch time from non-primary languages for creators using it (blog.youtube, Sep 2025).
