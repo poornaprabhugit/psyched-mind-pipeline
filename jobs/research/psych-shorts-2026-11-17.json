@@ -1,0 +1,9 @@
+{
+ "queries": ["psychology facts shorts", "psychology shorts", "human behavior facts", "dark psychology facts", "money psychology shorts", "brain facts shorts", "mind facts", "psychology tricks shorts"],
+ "video_queries": ["psychology facts", "psychology", "why your brain", "human behavior", "money psychology", "brain facts", "psychology trick", "why do we"],
+ "regions": ["US", "IN"],
+ "video_duration": "short",
+ "published_after": "2026-05-17T00:00:00Z",
+ "handles": ["Psych2go", "BrainyDose", "TopThink", "thealphamind-z1c"],
+ "min_subs": 50000, "max_channels": 45, "uploads": 200
+}
