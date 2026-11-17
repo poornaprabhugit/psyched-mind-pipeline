@@ -93,6 +93,12 @@ def main(outdir):
     data["traffic_sources"] = report(token, start, end, "views,averageViewDuration",
                                      dimensions="insightTrafficSourceType", sort="-views")
     data["countries"] = report(token, start, end, "views", dimensions="country", sort="-views")
+    # Per-video countries (only videos with >=100 views; rows below YouTube's privacy threshold are omitted)
+    data["countries_by_video"] = {}
+    for v in videos:
+        if v["privacy"] == "public" and int(v.get("statistics", {}).get("viewCount", 0) or 0) >= 100:
+            data["countries_by_video"][v["id"]] = report(token, start, end, "views", dimensions="country",
+                                                         filters="video==" + v["id"], sort="-views")
 
     os.makedirs(outdir, exist_ok=True)
     path = os.path.join(outdir, f"{today.isoformat()}.json")
