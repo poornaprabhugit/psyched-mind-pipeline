@@ -160,10 +160,28 @@ def main(job_path, vid, mpt_dir, outdir):
     local = os.path.join(mpt_dir, "storage", "local_videos")
     os.makedirs(local, exist_ok=True)
     names = []
-    for i, url in enumerate(video["clips"], 1):
-        name = f"{vid}_{i:02d}.mp4"
-        download(url, os.path.join(local, name))
-        names.append(name)
+    lines = video.get("lines")  # sentence-aligned mode (long videos): [{"text", "clips": [urls]}]
+    line_files = []
+    if lines:
+        video["script"] = video.get("script") or " ".join(l["text"] for l in lines)
+        seen = {}
+        for li, l in enumerate(lines):
+            files = []
+            for url in l["clips"]:
+                if url not in seen:
+                    ext = os.path.splitext(url.split("?")[0])[1].lower() or ".mp4"
+                    name = f"{vid}_{len(seen) + 1:03d}{ext}"
+                    download(url, os.path.join(local, name))
+                    seen[url] = name
+                    names.append(name)
+                files.append(os.path.join(local, seen[url]))
+            line_files.append(files)
+        names = [n for n in names if n.endswith(".mp4")] or names
+    else:
+        for i, url in enumerate(video["clips"], 1):
+            name = f"{vid}_{i:02d}.mp4"
+            download(url, os.path.join(local, name))
+            names.append(name)
     print(f"downloaded {len(names)} clips", flush=True)
     fast = video.get("fast_open", job.get("fast_open", 0))  # e.g. {"clips": 3, "seconds": 1.5}
     if fast:
@@ -191,9 +209,18 @@ def main(job_path, vid, mpt_dir, outdir):
         if d.get("state") == 1:
             src = os.path.join(mpt_dir, "storage", "tasks", task_id, "final-1.mp4")
             dst = os.path.join(outdir, f"{vid}.mp4")
+            if lines:
+                import align
+                aligned = os.path.join(outdir, f"{vid}_aligned.mp4")
+                log = align.build(os.path.join(mpt_dir, "storage", "tasks", task_id), lines, line_files, aligned,
+                                  aspect=params.get("video_aspect", "16:9"),
+                                  fonts_dir=os.path.join(mpt_dir, "resource", "fonts"),
+                                  style=video.get("subtitle_style", job.get("subtitle_style")))
+                print(f"aligned {len(log)} lines to their own clips", flush=True)
+                src = aligned
             if video.get("tighten", job.get("tighten", False)):
                 tight = os.path.join(outdir, f"{vid}_tight.mp4")
-                cut = tighten(src, tight)
+                cut = tighten(src, tight, max_gap=float(video.get("tighten_gap", job.get("tighten_gap", 0.35))))
                 print(f"tightened: removed {cut:.2f} s of pauses", flush=True)
                 src = tight
             cta = video.get("cta_text", job.get("cta_text"))
@@ -204,8 +231,9 @@ def main(job_path, vid, mpt_dir, outdir):
                 clean = os.path.join(outdir, f"{vid}_clean.mp4")
                 add_overlays(src, clean, mpt_dir, hook=video.get("hook_text"), cta=None, title=video.get("title_card"))
                 pad_to_audio(clean)
-            if os.path.exists(os.path.join(outdir, f"{vid}_tight.mp4")):
-                os.remove(os.path.join(outdir, f"{vid}_tight.mp4"))
+            for tmpname in (f"{vid}_tight.mp4", f"{vid}_aligned.mp4"):
+                if os.path.exists(os.path.join(outdir, tmpname)):
+                    os.remove(os.path.join(outdir, tmpname))
             json.dump({"id": vid, "task_id": task_id, "seconds": int(time.time() - start)},
                       open(os.path.join(outdir, f"{vid}.json"), "w"))
             return

@@ -1,0 +1,146 @@
+{
+ "videos": [
+  {
+   "id": "T1",
+   "subject": "4 \u00b7 Why old money whispers",
+   "lines": [
+    {
+     "text": "Number four: why old money whispers.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/10/14/92009-636709315_large.mp4"
+     ]
+    },
+    {
+     "text": "Marketing researchers looked at luxury handbags from brands like Louis Vuitton and Gucci, and sorted them by how loudly they show the logo.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/02/18/259189_large.mp4",
+      "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4"
+     ]
+    },
+    {
+     "text": "Some have the brand printed all over.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/07/16/44860-440261070_large.mp4"
+     ]
+    },
+    {
+     "text": "Others have a tiny logo, or none you'd spot.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/07/01/3681-173505067_large.mp4"
+     ]
+    },
+    {
+     "text": "The quiet ones were, on average, the more expensive bags.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2026/07/18/364779_large.mp4"
+     ]
+    },
+    {
+     "text": "Then they looked at who buys what.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4"
+     ]
+    },
+    {
+     "text": "People with lots of money and no need to prove it preferred the quiet versions.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+      "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4"
+     ]
+    },
+    {
+     "text": "They signal to a small group of insiders who recognise the design without a logo.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/12/05/141673-778335004_large.mp4",
+      "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_large.mp4"
+     ]
+    },
+    {
+     "text": "People with money who want to be seen as rich preferred the loud versions.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/04/15/15615-265015228_large.mp4"
+     ]
+    },
+    {
+     "text": "And people who want status but can't afford it were the most likely to buy counterfeits, almost always of the loud kind.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/13/84885-588566515_large.mp4"
+     ]
+    },
+    {
+     "text": "The researchers called the quiet group patricians.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/10/14/92009-636709315_large.mp4"
+     ]
+    },
+    {
+     "text": "Old money.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/02/18/259189_large.mp4"
+     ]
+    },
+    {
+     "text": "Your brain reads a giant logo as 'look at me', and the people at the very top know it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+      "https://cdn.pixabay.com/video/2020/07/16/44860-440261070_large.mp4"
+     ]
+    },
+    {
+     "text": "So looking rich has a strange rule: the more you have, the less you need to show.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/07/01/3681-173505067_large.mp4",
+      "https://cdn.pixabay.com/video/2026/07/18/364779_large.mp4"
+     ]
+    },
+    {
+     "text": "That's why a watch with no visible logo can say more, to the right people, than one covered in diamonds.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+      "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4"
+     ]
+    },
+    {
+     "text": "Try this today: think of the last thing you bought partly so others would notice.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4",
+      "https://cdn.pixabay.com/video/2022/12/05/141673-778335004_large.mp4"
+     ]
+    },
+    {
+     "text": "Would a quieter version have done the job?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/06/27/43295-436026111_large.mp4"
+     ]
+    },
+    {
+     "text": "But if loud signals aren't the top of the ladder, what is?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/04/15/15615-265015228_large.mp4"
+     ]
+    },
+    {
+     "text": "The next study found something stranger: breaking the rules.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4"
+     ]
+    }
+   ],
+   "title_card": "4 \u00b7 Why old money whispers",
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   }
+  }
+ ],
+ "tighten": true,
+ "tighten_gap": 0.6
+}
