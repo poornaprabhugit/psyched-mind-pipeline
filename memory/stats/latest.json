@@ -1,16 +1,46 @@
 {
- "collected_at": "2026-11-18T07:35:19.376138+00:00",
+ "collected_at": "2026-11-18T15:47:03.780673+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "1113",
+   "viewCount": "1366",
    "subscriberCount": "6",
    "hiddenSubscriberCount": false,
-   "videoCount": "16"
+   "videoCount": "18"
   }
  },
  "videos": [
+  {
+   "id": "Q2tEpcgs-2Q",
+   "title": "Why prices end in 9 \u2013 and why it works on you \ud83c\udff7\ufe0f",
+   "published": "2026-11-18T15:00:35Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT24S",
+   "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "n1lgwIswJ0s",
+   "title": "You'd defend a choice you never made \ud83e\udd2f",
+   "published": "2026-11-18T11:00:23Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "177",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "Jl01ZVSoQbo",
    "title": "Why you can't let go of money you already spent \ud83c\udfbf",
@@ -34,7 +64,7 @@
    "publish_at": null,
    "duration": "PT22S",
    "statistics": {
-    "viewCount": "243",
+    "viewCount": "244",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -162,21 +192,6 @@
    }
   },
   {
-   "id": "Q2tEpcgs-2Q",
-   "title": "Why prices end in 9 \u2013 and why it works on you \ud83c\udff7\ufe0f",
-   "published": "2026-11-14T18:22:07Z",
-   "privacy": "private",
-   "publish_at": "2026-11-18T15:00:00Z",
-   "duration": "PT24S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "WQcp4iHg1Ts",
    "title": "The Psychology of Looking Rich (7 Real Studies)",
    "published": "2026-11-14T17:00:28Z",
@@ -199,7 +214,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "727",
+    "viewCount": "724",
     "likeCount": "11",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -267,21 +282,6 @@
    }
   },
   {
-   "id": "n1lgwIswJ0s",
-   "title": "You'd defend a choice you never made \ud83e\udd2f",
-   "published": "2026-11-14T11:15:34Z",
-   "privacy": "private",
-   "publish_at": "2026-11-18T11:00:00Z",
-   "duration": "PT21S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "xHNCEPqi2DQ",
    "title": "Can't sleep? Write this down before bed \ud83c\udf19",
    "published": "2026-11-14T10:00:31Z",
@@ -289,7 +289,7 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "114",
+    "viewCount": "113",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -394,7 +394,7 @@
    "publish_at": null,
    "duration": "PT30S",
    "statistics": {
-    "viewCount": "36",
+    "viewCount": "37",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -589,7 +589,7 @@
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 1029,
+   "views": 1017,
    "averageViewDuration": 12
   },
   {
@@ -611,6 +611,11 @@
    "insightTrafficSourceType": "SUBSCRIBER",
    "views": 1,
    "averageViewDuration": 354
+  },
+  {
+   "insightTrafficSourceType": "NOTIFICATION",
+   "views": 1,
+   "averageViewDuration": 5
   },
   {
    "insightTrafficSourceType": "EXT_URL",
@@ -642,6 +647,7 @@
   }
  ],
  "countries_by_video": {
+  "n1lgwIswJ0s": [],
   "V06wwgkqDf4": [],
   "ZMRtsDFoB-Y": [
    {
