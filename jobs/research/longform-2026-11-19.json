@@ -1,0 +1,8 @@
+{
+ "video_queries": ["psychology", "psychology explained", "money psychology", "why your brain", "human behavior psychology", "cognitive biases"],
+ "regions": ["US", "IN", "GB"],
+ "video_duration": "medium",
+ "published_after": "2025-11-19T00:00:00Z",
+ "handles": ["Psych2go", "CharismaonCommand", "PursuitofWonder", "academyofideas", "einzelganger", "SproutsSchool", "TheSchoolofLifeTV", "veritasium", "kurzgesagt", "BrainCraft", "aperture"],
+ "min_subs": 300000, "max_channels": 30, "uploads": 120
+}
