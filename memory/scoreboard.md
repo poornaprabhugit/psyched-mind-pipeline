@@ -5,6 +5,8 @@ _Updated daily by the stats run. Move an item only when the evidence supports it
 ## Working (keep doing)
 - _Nothing proven yet._ All public Shorts are under 100 views (2026-11-14: max 67, IKEA). Channel 174 views (+72 in 24 h), 3 subs.
 
+- Leading signal (not proven, <1,000 views/video), 2026-11-19: this week's everyday/brain Shorts beat the wealth Shorts on day 1 – because 243, choice blindness 180 vs lottery 26, sunk cost 91, prices-9 25 (same style, length, loop ending). Matches the 17 Nov research (brain 1.7×, money in psych channels 0.55×). Our predictions had it backwards (wealth 'high', everyday 'medium'): 1 hit of 6 scored.
+
 ## Not working (stop)
 - _Nothing proven yet._
 - Watch item (not proven): comment-question endings → 0 comments on 101 views across 3 Shorts (mere exposure, IKEA, fresh start), 2026-11-12; still 0 comments on 122 views across 5 Shorts, 2026-11-13. Revisit at ≥1,000 views. 2026-11-14: still 0 comments on 185 views across 7 public Shorts (question and loop endings alike).
@@ -66,14 +68,15 @@ Studio: ~81% swiped away; avg 11 s of 27 s; the study + punchline landed at 13�
 ## Angle tracker (day-1 views; compare once ≥3 per angle are ≥24 h old)
 | Angle | Shorts | Day-1 views |
 |---|---|---|
-| wealth & success | card-users (13 Nov 16:00) 49 · lottery 26 · sunk cost 91 | median 49 |
-| everyday | IKEA 51 · mere exposure 34 · favor 15 · pratfall 11 · peak-end 1 · fresh start 4 · doorway ~720 · liking gap 37 · spotlight 2 · because 243 | median ~34 |
+| wealth & success | card-users (13 Nov 16:00) 49 · lottery 26 · sunk cost 91 · prices-9 25 | median 37.5 |
+| everyday | IKEA 51 · mere exposure 34 · favor 15 · pratfall 11 · peak-end 1 · fresh start 4 · doorway ~720 · liking gap 37 · spotlight 2 · because 243 · choice blindness 180 | median ~37 |
 | health & mind | can't-sleep (14 Nov) ~112 · walking 13 | – |
 Batch 2026-11-14-c adds: wealth ×4 (n03 price endings, n04 zero price, n06 denomination, n07 income-happiness), health ×1 (n01 walking), everyday ×2 (n02 because, n05 gorilla).
 Batch 2026-11-14 adds: wealth ×4 (s01 lottery, s02 sunk cost, s04 endowed progress, s07 buying time), health ×1 (s05 sleep), everyday ×2 (s03 choice blindness, s06 cocktail party).
 
 ## Slot tracker (12:00 vs 16:00 Amsterdam, from 16 Nov) – 2/day from 16 Nov (user, 14 Nov 15:00)
 12:00: s01 Mon, n02 Tue, s03 Wed, n04 Thu, s05 Fri, n06 Sat, s07 Sun · 16:00: n01 Mon, s02 Tue, n03 Wed, s04 Thu, n05 Fri, s06 Sat, n07 Sun. Wealth 4 per slot. Compare day-1 views once ≥4 per slot are live (wealth split 2/2 across slots so angle and slot aren't confounded). 2026-11-16: all 14 scheduled at the right UTC times (checked via API).
+2026-11-19 (day-1 so far, n=3 per slot): 12:00 → lottery 26 · because 243 · choice blindness 180 (median 180); 16:00 → walking 13 · sunk cost 91 · prices-9 25 (median 25). Slot and angle are confounded so far (both everyday Shorts were 12:00). Wealth-only: 12:00 lottery 26 vs 16:00 sunk cost 91 / prices-9 25 → no slot signal. Too early (<1,000 views/video); judge at ≥4 per slot (Sun 22 Nov).
 
 ## Decided 14 Nov (user): long 02 released first
 - Long 01's final file was lost (built in an earlier session, not in the repo). Long 02 goes live **Sat 14 Nov 18:00** instead; it is the Related video for the remakes and B1–B7.
