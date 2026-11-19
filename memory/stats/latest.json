@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-11-18T15:47:03.780673+00:00",
+ "collected_at": "2026-11-19T07:34:24.359406+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "1366",
+   "viewCount": "1635",
    "subscriberCount": "6",
    "hiddenSubscriberCount": false,
    "videoCount": "18"
@@ -19,8 +19,8 @@
    "publish_at": null,
    "duration": "PT24S",
    "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "25",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -34,7 +34,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "177",
+    "viewCount": "180",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -109,7 +109,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "4",
+    "viewCount": "3",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -405,11 +405,11 @@
  "per_video": [
   {
    "video": "ZMRtsDFoB-Y",
-   "views": 729,
-   "engagedViews": 157,
+   "views": 723,
+   "engagedViews": 159,
    "estimatedMinutesWatched": 46,
    "averageViewDuration": 12,
-   "averageViewPercentage": 66.52,
+   "averageViewPercentage": 66.14,
    "likes": 11,
    "comments": 1,
    "shares": 0,
@@ -417,7 +417,7 @@
   },
   {
    "video": "xHNCEPqi2DQ",
-   "views": 114,
+   "views": 113,
    "engagedViews": 20,
    "estimatedMinutesWatched": 6,
    "averageViewDuration": 13,
@@ -453,11 +453,11 @@
   },
   {
    "video": "vOZipjzKVTM",
-   "views": 37,
-   "engagedViews": 6,
-   "estimatedMinutesWatched": 1,
-   "averageViewDuration": 11,
-   "averageViewPercentage": 58.92000000000001,
+   "views": 42,
+   "engagedViews": 7,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 15,
+   "averageViewPercentage": 84.14,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -465,7 +465,7 @@
   },
   {
    "video": "1YpGk3PgSTc",
-   "views": 37,
+   "views": 36,
    "engagedViews": 8,
    "estimatedMinutesWatched": 4,
    "averageViewDuration": 27,
@@ -476,8 +476,20 @@
    "subscribersGained": 0
   },
   {
+   "video": "wZALlLbeMZ0",
+   "views": 25,
+   "engagedViews": 2,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 5,
+   "averageViewPercentage": 28.67,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "IYrmhlu2pa0",
-   "views": 17,
+   "views": 16,
    "engagedViews": 3,
    "estimatedMinutesWatched": 0,
    "averageViewDuration": 5,
@@ -489,11 +501,23 @@
   },
   {
    "video": "AWwEyFrD7d8",
-   "views": 17,
+   "views": 16,
    "engagedViews": 4,
    "estimatedMinutesWatched": 1,
    "averageViewDuration": 12,
    "averageViewPercentage": 45.51,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "62jE8udd0jI",
+   "views": 12,
+   "engagedViews": 2,
+   "estimatedMinutesWatched": 1,
+   "averageViewDuration": 36,
+   "averageViewPercentage": 172.46,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -551,7 +575,7 @@
  "daily": [
   {
    "day": "2026-11-10",
-   "views": 34,
+   "views": 33,
    "subscribersGained": 3,
    "estimatedMinutesWatched": 4
   },
@@ -563,19 +587,19 @@
   },
   {
    "day": "2026-11-12",
-   "views": 23,
+   "views": 22,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 1
   },
   {
    "day": "2026-11-13",
-   "views": 61,
+   "views": 60,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 2
   },
   {
    "day": "2026-11-14",
-   "views": 847,
+   "views": 837,
    "subscribersGained": 3,
    "estimatedMinutesWatched": 52
   },
@@ -584,18 +608,24 @@
    "views": 46,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 8
+  },
+  {
+   "day": "2026-11-16",
+   "views": 45,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 3
   }
  ],
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 1017,
+   "views": 1055,
    "averageViewDuration": 12
   },
   {
    "insightTrafficSourceType": "YT_SEARCH",
-   "views": 22,
-   "averageViewDuration": 11
+   "views": 26,
+   "averageViewDuration": 18
   },
   {
    "insightTrafficSourceType": "YT_CHANNEL",
@@ -604,7 +634,7 @@
   },
   {
    "insightTrafficSourceType": "YT_OTHER_PAGE",
-   "views": 9,
+   "views": 10,
    "averageViewDuration": 10
   },
   {
