@@ -4,7 +4,7 @@ Usage: python scripts/render.py jobs/<batch>/render.json <video_id> <mpt_dir> <o
 
 render.json:
 {"videos": [{"id": "v01", "subject": "...", "script": "...", "clips": ["https://cdn.pixabay.com/...mp4", ...],
-             optional: "hook_text", "cta_text", "title_card", "fast_open": {"clips": 3, "seconds": 1.5},
+             optional: "hook_text", "cta_text", "follow_text" (+ "follow_text_clean" for IG/FB), "title_card", "fast_open": {"clips": 3, "seconds": 1.5},
              "settings": {per-video overrides}}],
  "settings": {optional overrides of DEFAULTS}, optional "cta_text", "fast_open",
  optional "long": {"id": "long02", "segments": ["L0", ...]}  -> collect job joins the segments (scripts/join_long.py)}
@@ -54,11 +54,12 @@ def _wrap_cards(text, width, max_lines=3):
 
 
 def add_overlays(src, dst, mpt_dir, hook=None, cta=None, title=None, hook_seconds=2.5,
-                 cta_seconds=2.5, title_seconds=4.0):
+                 cta_seconds=2.5, title_seconds=4.0, follow=None):
     """Burn text cards in one ffmpeg pass (black on #FFE600, brand style):
     hook  = big card near the top for the first seconds (Shorts; stops the scroll, works muted)
     cta   = small card near the bottom for the last seconds (points to the Related video link)
-    title = item title card top-left for the first seconds (long-video segments)."""
+    title = item title card top-left for the first seconds (long-video segments)
+    follow = small subscribe/follow card above the cta for the same last seconds (P1 conversion test, 20 Nov)."""
     import subprocess
     font = os.path.join(mpt_dir, "resource", "fonts", "MicrosoftYaHeiBold.ttc")
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", src],
@@ -75,6 +76,8 @@ def add_overlays(src, dst, mpt_dir, hook=None, cta=None, title=None, hook_second
     if hook:
         for i, line in enumerate(_wrap_cards(hook, 22)):
             card(line, 72, "(w-text_w)/2", f"h*0.14+{i}*96", f"lt(t,{hook_seconds})", 18)
+    if follow:
+        card(follow, 40, "(w-text_w)/2", "h*0.62", f"gt(t,{max(dur - cta_seconds, 0):.2f})", 14)
     if cta:
         card(cta, 46, "(w-text_w)/2", "h*0.70", f"gt(t,{max(dur - cta_seconds, 0):.2f})", 14)
     if title:
@@ -224,12 +227,15 @@ def main(job_path, vid, mpt_dir, outdir):
                 print(f"tightened: removed {cut:.2f} s of pauses", flush=True)
                 src = tight
             cta = video.get("cta_text", job.get("cta_text"))
-            add_overlays(src, dst, mpt_dir, hook=video.get("hook_text"), cta=cta, title=video.get("title_card"))
+            follow = video.get("follow_text")
+            add_overlays(src, dst, mpt_dir, hook=video.get("hook_text"), cta=cta, title=video.get("title_card"),
+                         follow=follow)
             print(f"padded video by {pad_to_audio(dst):.2f} s", flush=True)
-            if cta and job.get("clean_variant"):
+            if (cta or follow) and job.get("clean_variant"):
                 # Instagram/Facebook version from the same render: no "Full video" card (saves a second render job)
                 clean = os.path.join(outdir, f"{vid}_clean.mp4")
-                add_overlays(src, clean, mpt_dir, hook=video.get("hook_text"), cta=None, title=video.get("title_card"))
+                add_overlays(src, clean, mpt_dir, hook=video.get("hook_text"), cta=None, title=video.get("title_card"),
+                             follow=video.get("follow_text_clean", follow))
                 pad_to_audio(clean)
             for tmpname in (f"{vid}_tight.mp4", f"{vid}_aligned.mp4"):
                 if os.path.exists(os.path.join(outdir, tmpname)):

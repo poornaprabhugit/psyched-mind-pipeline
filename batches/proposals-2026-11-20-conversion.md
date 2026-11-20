@@ -1,4 +1,6 @@
-# Proposals 2026-11-20 – subscriber & like conversion (NOT applied – waiting for the user)
+# Proposals 2026-11-20 – subscriber & like conversion
+
+**Status (user, 20 Nov): P1 APPROVED for the 21 Nov batch (Shorts 23–29 Nov); judge it, then decide how to continue. P2–P4 not approved (not run).**
 
 Evidence: `memory/research-log.md` (2026-11-20). Our numbers: 9.0 likes per 1k views vs a median of 30.8 at 45 top psych/facts Shorts channels. ~1.2 subs per 1k views. 40 likes per 1k *engaged* views, so viewers who stay do convert. One variable per week. Measure likes/1k, subs/1k (Analytics) and stayed-to-watch per Short. Below ~1,000 views per arm, read the result as a direction only.
 
