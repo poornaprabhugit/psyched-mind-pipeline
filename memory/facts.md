@@ -42,6 +42,30 @@ _Created 2026-11-15 (user asked for #5 "facts file"). Every script, title, descr
 | Doorway | People forgot more after walking through a doorway than after walking the same distance in one room | Radvansky, Krawietz & Tamplin (2011), QJEP | 2026-11-14 |
 | Long 02 (7 studies) | See batches/2026-11-14/content.py LONG_SOURCES and the long 02 description | 7 papers listed there | 2026-11-14 |
 
+| Phantom vibration | 68% (115/169) of hospital staff reported phantom vibrations; 13% daily | Rothberg et al. (2010), BMJ, https://doi.org/10.1136/bmj.c6914 | 2026-11-20 |
+| Lost ticket vs cash | Lost a $10 bill: 88% still buy a $10 ticket (N=183); lost the $10 ticket: 46% buy another (N=200) | Tversky & Kahneman (1981), Science, https://doi.org/10.1126/science.7455683 | 2026-11-20 |
+| Contagious yawning | 55% (23/42) yawned watching yawns for 5 min vs 21% (5/24) watching smiles | Provine (1986), Ethology 72(2) | 2026-11-20 |
+| Gym | 7,752 members; >$70/month, 4.3 visits/month → >$17/visit vs $10 10-visit pass; 80% of monthly members would have saved | DellaVigna & Malmendier (2006), AER, https://doi.org/10.1257/aer.96.3.694 | 2026-11-20 |
+| Photo-taking | Museum objects photographed were remembered worse (fewer objects, details); zooming in on a detail removed the effect | Henkel (2014), Psychological Science, https://doi.org/10.1177/0956797613504438 | 2026-11-20 |
+| Just think | 15 min alone: 12/18 men (67%) and 6/24 women (25%) gave themselves a mild shock at least once, after saying they'd pay to avoid it | Wilson et al. (2014), Science, https://doi.org/10.1126/science.1250830 | 2026-11-20 |
+| Endowment (mugs) | Sellers' median $7.12 vs buyers' $2.87 for the same mug (Exp. 6, 77 students) | Kahneman, Knetsch & Thaler (1990), JPE, https://doi.org/10.1086/261737 | 2026-11-20 |
+| Earworms & gum | Chewing gum reduced how often people noticed a catchy song in their head; finger tapping did not reliably help (no % given) | Beaman, Powell & Rapley (2015), QJEP, https://doi.org/10.1080/17470218.2015.1034142 | 2026-11-20 |
+| Nature pill | 36 city dwellers, 8 weeks: nature time cut cortisol 21.3%/h beyond the normal drop; best value per minute at 20–30 min | Hunter, Gillespie & Chen (2019), Frontiers in Psychology, https://doi.org/10.3389/fpsyg.2019.00722 | 2026-11-20 |
+| Smell memories | 93 older adults: smell-cued memories mostly from the first decade of life; word/picture cues peak at ages 11–20 | Willander & Larsson (2006), PB&R, https://doi.org/10.3758/BF03193837 | 2026-11-20 |
+| Self-tickle | Self-produced touch rated less tickly; with a robot delay of 200–300 ms it felt like an external touch (N=16) | Blakemore, Frith & Wolpert (1999), J Cogn Neurosci 11(5); Blakemore, Wolpert & Frith (1998), Nat Neurosci | 2026-11-20 |
+| Semantic satiation | Repeating a word aloud for 15 s (2–3×/s) lowered its rated meaning | Lambert & Jakobovits (1960), J Exp Psychol, https://doi.org/10.1037/h0045624 | 2026-11-20 |
+| Loss aversion | Meta-analysis of 607 estimates (150 articles): losses weigh ~1.96× equal gains; Tom et al. (2007) median 1.93; varies a lot between people | Brown, Imai, Vieider & Camerer (2024), JEL, https://doi.org/10.1257/jel.20221698 | 2026-11-20 |
+| Mind wandering | 2,250 adults: minds wandered in 46.9% of samples; less happy while wandering (correlational) | Killingsworth & Gilbert (2010), Science, https://doi.org/10.1126/science.1192439 | 2026-11-20 |
+| Doorway (detail) | Real rooms (N=60) and virtual (N=55): more forgetting after a doorway; virtual Exp 3: going back to the first room did not help; more new rooms = more forgetting | Radvansky, Krawietz & Tamplin (2011), QJEP, https://doi.org/10.1080/17470218.2011.571267 | 2026-11-20 |
+| Next-in-line | 88 students reading words in turn: own words ~87% recalled; words read just before and after one's own turn recalled worst | Brenner (1973), JVLVB 12, 320–323 | 2026-11-20 |
+| Baker/baker | Harder to recall that someone's surname is Baker than that they are a baker (no numbers quoted; replication mixed) | McWeeny, Young, Hay & Ellis (1987), Br J Psychol, https://doi.org/10.1111/j.2044-8295.1987.tb02235.x | 2026-11-20 |
+| Forgetting curve | Replication (1 person, ~70 h): relearning effort needed after 20 min ≈ 53%, 1 day ≈ 68%, 31 days ≈ 96% (savings measure, not recall) | Murre & Dros (2015), PLOS ONE, https://doi.org/10.1371/journal.pone.0120644 | 2026-11-20 |
+| Peak-end | 32 men: 60 s at 14°C vs 90 s (last 30 s ~1°C warmer); 69% chose to repeat the longer trial | Kahneman et al. (1993), Psych Science, https://doi.org/10.1111/j.1467-9280.1993.tb00589.x | 2026-11-20 |
+| Loftus & Palmer | Speed estimates: smashed 40.8, collided 39.3, bumped 38.1, hit 34.0, contacted 31.8 mph; broken glass a week later: smashed 32%, hit 14%, control 12% | Loftus & Palmer (1974), JVLVB 13, 585–589 | 2026-11-20 |
+| Sleep & memory | Learning before sleep → less forgetting than learning in the morning; a night awake after learning → less recall 48 h later even after recovery sleep (no %) | Gais, Lucas & Born (2006), Learning & Memory, https://doi.org/10.1101/lm.132106 | 2026-11-20 |
+| Forgetting is useful | Goal of memory is to optimize decisions, not transmit information; active forgetting promotes generalization | Richards & Frankland (2017), Neuron, https://doi.org/10.1016/j.neuron.2017.04.037 | 2026-11-20 |
+| Retrieval practice | Exp 2 (N=180): one week later, tested 3× recalled 61% vs studied 4× 40%; at 5 min 71% vs 83%; restudy group more confident | Roediger & Karpicke (2006), Psych Science, https://doi.org/10.1111/j.1467-9280.2006.01693.x | 2026-11-20 |
+
 ## Platform facts we rely on (re-check monthly)
 | Fact | Source | Checked |
 |---|---|---|

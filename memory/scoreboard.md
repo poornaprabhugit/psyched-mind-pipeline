@@ -44,6 +44,9 @@ Each week's new Shorts compete with our own top 3 Shorts by day-7 views and with
 - **16:00 vs 22:00 Amsterdam slot** — since 12 Nov (2/day this week). Compare day-1 views per slot once ≥4 Shorts per slot are live. 2026-11-14: 22:00 → peak-end 1, pratfall 11; 16:00 → card 49. n=3, too early.
 - **Money angle vs everyday angle** — since 13 Nov. Card-users (money) 49 views day 1 = top day-1 of the 4 Shorts with hook cards. One video; too early. Long video 01 (money) will add evidence.
 
+## Decided 20 Nov (user): scripts need user review before rendering
+- User (20 Nov): "share the script for all the videos for the coming week; let me go through it once before you create the videos." Draft: batches/2026-11-21/scripts-draft.md (14 Shorts + long video). The 21 Nov batch run must NOT render until the user's approval is recorded here (line below: 'Scripts 2026-11-21 approved').
+
 ## Decided 20 Nov (user): P1 subscribe-card test, batch 2026-11-21 (Shorts Mon 23 – Sun 29 Nov)
 - **Arm A (7 Shorts):** on-screen card **"Subscribe for a new brain fact every day"** (YouTube) / "Follow for a new brain fact every day" (IG/FB clean files) in the last 2.5 s, above the "Full video" card. render.json `follow_text` (+ `follow_text_clean`). Voice, loop ending and everything else unchanged.
 - **Arm B (7 Shorts):** no subscribe card (still the "Full video" card, as all Shorts after the 22 Nov long video).
