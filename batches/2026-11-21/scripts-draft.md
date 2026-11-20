@@ -12,12 +12,12 @@ _Written 20 Nov 2026 at the user's request ("share the scripts before you create
 | Day | 12:00 | 16:00 |
 |---|---|---|
 | Mon 23 | **P01** Phantom phone buzz · memory · A | **P02** Lost ticket vs lost cash · money · B |
-| Tue 24 | **P03** Contagious yawns · memory · B | **P04** Gym membership · money · A |
+| Tue 24 | **P03** Contagious yawns · memory · B | **P04** FREE chocolate & tips · money · A |
 | Wed 25 | **P05** Photos make you forget · memory · A | **P06** Alone with your thoughts · health · B |
 | Thu 26 | **P07** Your old stuff feels pricier · money · B | **P08** Stuck song · memory · A |
 | Fri 27 | **P09** 20 minutes in nature · health · A | **P10** Smell memories · memory · B |
 | Sat 28 | **P11** Can't tickle yourself · memory · B | **P12** Word stops making sense · memory · A |
-| Sun 29 | **P13** FREE chocolate & tips · money · A | **P14** Wandering mind · memory · B |
+| Sun 29 | **P13** Losses hurt twice · money · A | **P14** Wandering mind · memory · B |
 
 Prediction (low <50 / medium 50–200 / high >200 day-1 views; reasons in predictions.csv once approved): high – P01, P03, P11 (moments almost everyone has had, like doorway and "because") · medium – P02, P04, P05, P07, P08, P12, P13, P14 · low/medium – P06, P09, P10.
 
@@ -44,12 +44,13 @@ Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. 
 Over half of people yawn just from watching someone yawn. People watched five minutes of yawning faces. Fifty-five percent yawned. Five minutes of smiling faces? About one in five. You might be yawning right now. Your brain copies what it sees before you decide to. That's why ↻
 **Source:** Provine (1986), Ethology – 23/42 (55%) vs 5/24 (21%)
 
-## P04 · Tue 24 Nov 16:00 · brain & money · A · predicted medium
-**Hook card:** $70 a month vs $10 a visit
-**Title:** Why your gym membership costs more than you think 🏋️
-**Script (~57 words):**
-Most gym members would have saved money paying per visit. Researchers checked over seven thousand members. They paid over seventy dollars a month but went about four times. That's over seventeen dollars a visit, when a ten-dollar pass was right there. Eighty percent would have saved. Your brain pays for the person you plan to be. That's why ↻
-**Source:** DellaVigna & Malmendier (2006), American Economic Review – https://doi.org/10.1257/aer.96.3.694
+## P04 · Tue 24 Nov 16:00 · brain & money · A · predicted medium · "FREE" title test (user idea, 20 Nov)
+**Hook card:** Free chocolate = bigger tip?
+**Title:** Why a FREE chocolate with the bill makes you tip more 🍬
+**Script (~55 words):**
+One free chocolate with the bill, and people tip more. Researchers tested it in a real restaurant. Two chocolates? Even bigger tips. But the biggest came when the waiter walked away, turned back, and offered one more, just for you. Free feels like a gift, and your brain wants to pay it back. That's why ↻
+**Source:** Strohmetz, Rind, Fisher & Lynn (2002), Journal of Applied Social Psychology 32(2), 300–309 – https://doi.org/10.1111/j.1559-1816.2002.tb00216.x (abstract: candy with the check raised tips; tips rose with the amount and the way it was offered; secondary sources: no candy 18.95% → one 19.59% → two 21.62% → one-plus-one 22.99%; no exact % in the voiceover because the paper itself could not be opened)
+**Replaces:** the gym-membership Short (user choice, 20 Nov). Loss aversion stays (user).
 
 ## P05 · Wed 25 Nov 12:00 · brain & memory · A · predicted medium
 **Hook card:** Photo it vs just look at it
@@ -108,13 +109,12 @@ You can't tickle yourself because your brain sees it coming. When you move, your
 Say one word for fifteen seconds, and it starts to lose its meaning. People repeated a word out loud, two or three times a second. Afterward, the word felt less meaningful. Milk. Milk. Milk. Milk. Scientists think your brain's response to it simply gets tired. Try it now: ↻
 **Source:** Lambert & Jakobovits (1960), Journal of Experimental Psychology – https://doi.org/10.1037/h0045624 (semantic satiation)
 
-## P13 · Sun 29 Nov 12:00 · brain & money · A · predicted medium · "FREE" title test (user idea, 20 Nov)
-**Hook card:** Free chocolate = bigger tip?
-**Title:** Why a FREE chocolate with the bill makes you tip more 🍬
-**Script (~55 words):**
-One free chocolate with the bill, and people tip more. Researchers tested it in a real restaurant. Two chocolates? Even bigger tips. But the biggest came when the waiter walked away, turned back, and offered one more, just for you. Free feels like a gift, and your brain wants to pay it back. That's why ↻
-**Source:** Strohmetz, Rind, Fisher & Lynn (2002), Journal of Applied Social Psychology 32(2), 300–309 – https://doi.org/10.1111/j.1559-1816.2002.tb00216.x (abstract: candy with the check raised tips; tips rose with the amount and the way it was offered; secondary sources: no candy 18.95% → one 19.59% → two 21.62% → one-plus-one 22.99%; no exact % in the voiceover because the paper itself could not be opened)
-**Replaces:** "Why losing money hurts twice as much" (loss aversion) – its coin-flip line was the least directly supported claim in the batch (extrapolated from an average, not measured).
+## P13 · Sun 29 Nov 12:00 · brain & money · A · predicted medium
+**Hook card:** Lose $100 or win $150?
+**Title:** Why losing money hurts twice as much 💸
+**Script (~56 words):**
+A loss hurts about twice as much as the same win feels good. Flip a coin: lose a hundred dollars, or win a hundred and fifty. Many people say no. Across a hundred and fifty studies, the win had to be about twice the loss. Your brain guards what you have more than what you could get. That's why ↻
+**Source:** Brown, Imai, Vieider & Camerer (2024), Journal of Economic Literature – https://doi.org/10.1257/jel.20221698 (meta-analysis, 607 estimates, mean λ ≈ 1.96); Tom et al. (2007), Science (median λ 1.93)
 
 ## P14 · Sun 29 Nov 16:00 · brain & memory · B · predicted medium
 **Hook card:** Your mind is elsewhere 47% of the time
