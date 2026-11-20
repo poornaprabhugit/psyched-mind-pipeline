@@ -1,6 +1,6 @@
 # Batch 2026-11-21 – SCRIPT DRAFT FOR USER REVIEW (not rendered)
 
-_Written 20 Nov 2026 at the user's request ("share the scripts before you create the videos"). Status: **waiting for user approval**. Nothing gets rendered until the user approves or edits this file._
+_Written 20 Nov 2026 at the user's request ("share the scripts before you create the videos"). Status: **APPROVED by the user on 20 Nov (no edits)**. User doubts some money topics – test as planned and compare._
 
 **Week:** Mon 23 – Sun 29 Nov · 14 Shorts at 12:00 + 16:00 Amsterdam · long video Sun 22 Nov 18:00.
 **Angle mix (user, 17 Nov):** 8 brain & memory · 4 brain & money · 2 brain & health.
