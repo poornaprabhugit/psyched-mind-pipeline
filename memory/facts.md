@@ -66,6 +66,8 @@ _Created 2026-11-15 (user asked for #5 "facts file"). Every script, title, descr
 | Forgetting is useful | Goal of memory is to optimize decisions, not transmit information; active forgetting promotes generalization | Richards & Frankland (2017), Neuron, https://doi.org/10.1016/j.neuron.2017.04.037 | 2026-11-20 |
 | Retrieval practice | Exp 2 (N=180): one week later, tested 3× recalled 61% vs studied 4× 40%; at 5 min 71% vs 83%; restudy group more confident | Roediger & Karpicke (2006), Psych Science, https://doi.org/10.1111/j.1467-9280.2006.01693.x | 2026-11-20 |
 
+| Candy & tipping | A small chocolate with the check raised tips; tips rose with the amount of candy and the way it was offered (one, then a second 'just for you' highest). Secondary table: 18.95% none, 19.59% one, 21.62% two, 22.99% one-plus-one (not verified on the paper) | Strohmetz, Rind, Fisher & Lynn (2002), J Applied Social Psychology, https://doi.org/10.1111/j.1559-1816.2002.tb00216.x | 2026-11-20 |
+
 ## Platform facts we rely on (re-check monthly)
 | Fact | Source | Checked |
 |---|---|---|
