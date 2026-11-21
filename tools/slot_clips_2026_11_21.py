@@ -1,7 +1,7 @@
 """Shorts: order clips so each MPT slot (3 x 1.5 s fast-open, then 3 s each) shows a clip picked for the line
 being spoken at that moment. Line times come from the first render's audio (pauses = sentence ends)."""
 import json, re, subprocess, sys, math
-sys.path.insert(0, '/home/claude'); import build_shorts as B
+sys.path.insert(0, 'tools'); import build_shorts_2026_11_21 as B
 M = {
 'p01': {1:['P ph1 1 0','P ph1 1 3'],2:['S p01 2 3','S p01 2 2'],3:['S p01 3 1','P ph1 1 7'],4:['P ph1 2 0','P ph1 2 7'],5:['S p01 5 0','S p01 5 7'],6:['S p01 6 4'],7:['S p01 7 5','S p01 1 0']},
 'p02': {1:['P ph1 3 7','P ph1 3 0'],2:['P ph1 4 0','P ph1 4 2'],3:['P ph1 5 2','P ph1 5 7'],4:['P ph2 1 7'],5:['P ph2 2 4','P ph2 2 0'],6:['S p02 6 3','S p02 6 5'],7:['P ph2 3 2','P ph2 3 3']},
@@ -15,7 +15,7 @@ M = {
 'p10': {1:['P ph4 4 0','P ph4 4 4'],2:['P ph4 5 3','S p10 2 6'],3:['P ph4 5 5','P ph4 5 4'],4:['P ph4 5 6','S p10 4 5'],5:['S p10 5 0','S p10 5 1','S p10 5 6'],6:['S p10 6 4','S p10 6 0'],7:['P ph4 4 3']},
 'p11': {1:['P ph5 1 0','P vd1 4 4'],2:['P ph5 1 2','S p11 2 1'],3:['S p11 3 1','S p11 3 3'],4:['S p11 4 0','S p11 4 6'],5:['P ph5 1 3','P ph5 2 6'],6:['P ph5 2 7','S p11 6 1']},
 'p12': {1:['P ph5 3 2','P ph5 3 3'],2:['S p12 2 1','S p12 2 0'],3:['P ph5 3 7'],4:['S p12 4 0','S p12 4 1','S p12 4 2'],5:['S p12 5 5','S p12 5 1'],6:['S p12 6 0']},
-'p13': {1:['P ph1 3 3','P ph1 3 6'],2:['S p13 2 5'],3:['P ph1 3 1'],4:['G g09 5 7'],5:['G g09 3 7','G g09 3 2'],6:['G g09 1 0'],7:['G g09 3 2']},
+'p13': {1:['P ph1 3 3','P ph1 3 6'],2:['S p13 2 5'],3:['P ph1 3 1'],4:['G g09 5 7'],5:['G g09 3 7','G g09 3 2'],6:['S p13 6 7'],7:['G g09 1 0']},
 'p14': {1:['P ph6 1 2','P ph6 1 0'],2:['S p14 2 3','S p14 2 6'],3:['P ph6 1 6','S p14 3 3'],4:['S p14 4 5','S p14 4 6'],5:['S p14 5 3','S p14 5 1'],6:['S p14 6 5','S p14 6 2']},
 }
 def pauses(f):

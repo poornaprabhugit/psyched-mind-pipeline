@@ -48,7 +48,8 @@ for vid,refs in picks.items():
     if vid in A:
         v["follow_text"]="Subscribe for a new brain fact every day"; v["follow_text_clean"]="Follow for a new brain fact every day"
     vids.append(v)
-json.dump({"videos":vids,"tighten":True,"clean_variant":True},open('jobs/2026-11-21/render.json','w'),indent=1)
+if __name__ == "__main__" or True: pass
+if __name__ == "__main__": json.dump({"videos":vids,"tighten":True,"clean_variant":True},open('jobs/2026-11-21/render.json','w'),indent=1)
 print(len(vids),'videos', sum(len(v['clips']) for v in vids),'clips'); 
 for v in vids: print(v['id'],len(v['clips']),v['hook_text'],'|',v['script'][-25:], 'A' if 'follow_text' in v else 'B')
 
