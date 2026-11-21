@@ -13,10 +13,10 @@ _Scripts approved by the user on 20 Nov; built exactly as approved. Shorts part 
 | Wed 25 Nov | **B05** Photos make you forget · memory · card A | **B06** Alone with your thoughts · health · card B |
 | Thu 26 Nov | **B07** Your old stuff feels pricier · money · card B | **B08** Stuck song · memory · card A |
 | Fri 27 Nov | **B09** 20 minutes in nature · health · card A | **B10** Smell memories · memory · card B |
-| Sat 28 Nov | ~~B11 Can't tickle yourself~~ (held back, see below) | **B12** Word stops making sense · memory · card A |
+| Sat 28 Nov | **B11** Can't tickle yourself · memory · card B | **B12** Word stops making sense · memory · card A |
 | Sun 29 Nov | **B13** Losses hurt twice · money · card A | **B14** Wandering mind · memory · card B |
 
-Angle mix (user, 17 Nov): 8 brain & memory · 4 brain & money · 2 brain & health. **P1 subscribe-card test (user, 20 Nov):** arm A (card "Subscribe for a new brain fact every day" in the last 2.5 s) = B01, B04, B05, B08, B09, B12, B13; arm B (no card) = B02, B03, B06, B07, B10, B14 (B11 held back). Balanced by angle (4/2/1 each) and slot.
+Angle mix (user, 17 Nov): 8 brain & memory · 4 brain & money · 2 brain & health. **P1 subscribe-card test (user, 20 Nov):** arm A (card "Subscribe for a new brain fact every day" in the last 2.5 s) = B01, B04, B05, B08, B09, B12, B13; arm B (no card) = the other 7. Balanced by angle (4/2/1 each) and slot.
 
 **Same settings for every Short:**
 - Playlist "Psychology that moves you" · Category Education · Not made for kids · Language: English (video + audio language).
@@ -197,8 +197,20 @@ Science-backed psychology · Sources in description · Not medical or financial 
 
 ---
 
-## B11 · Sat 28 Nov 12:00 · HELD BACK – not delivered
-Failed the independent review twice (robot shot did not read as a robot; source link opened a different paper). Per the rule (max 2 fix rounds, then drop) it is not in this delivery. The Sat 28 Nov 12:00 slot stays empty unless you want to fill it. P1 arm B now has 6 Shorts (3 memory, 2 money, 1 health) vs arm A 7.
+## B11 · Sat 28 Nov 12:00 · brain & memory · P1 arm B (follow_card no) · predicted: high
+**File:** `B11 – Sat 28 Nov 12-00 – Can't tickle yourself.mp4` · **Hook card:** Your hand vs a robot's · **Hook variant:** result-first line 1 + contrast card · **Ending:** loop
+**Title:** Why you can't tickle yourself 🪶
+**Description:**
+```
+Why can't you tickle yourself? When you move, your brain predicts the touch and turns it down. In one study, people tickled their own hand through a robot. When the robot added a delay of a fifth of a second, it felt more like someone else's touch – the prediction no longer matched.
+Source: Blakemore, Frith & Wolpert (1999), Journal of Cognitive Neuroscience 11(5) – https://scilit.com/publications/3006701e388a03e1116aef4b9874320c
+Full video: Why Your Brain Forgets Things On Purpose (Related video link above)
+Science-backed psychology · Sources in description · Not medical or financial advice.
+#psychology #brain #neuroscience #brainfacts #shorts
+```
+**Tags:** why can't you tickle yourself, tickling science, tickle robot experiment, brain prediction, brain facts, psychology facts, neuroscience, sensory prediction
+**Pinned comment:** Are you ticklish? Very, a little or not at all?
+**Related video:** Why Your Brain Forgets Things On Purpose (new long video)
 
 ---
 
@@ -289,4 +301,4 @@ Science-backed psychology · Sources above · Not medical advice.
 **Tags:** why do we forget things, doorway effect, why do I forget why I walked into a room, forgetting curve, how to remember names, peak end rule, false memories, sleep and memory, retrieval practice, how to remember what you read, memory psychology, brain facts
 **End screen (last ~10 s, from ~11:36):** 1 video = "You'd defend a choice you never made 🤯" (choice blindness Short, already public – the voiceover points to it) + Subscribe. Add to playlist.
 **Pinned comment:** What do you forget most: names, why you walked into a room, or what you just read?
-**After it is public:** set Related video = this video on all 13 Shorts of 23–29 Nov (and on last week's Shorts if you like); start Test & compare (title + thumbnail) once it is public.
+**After it is public:** set Related video = this video on all 14 Shorts of 23–29 Nov (and on last week's Shorts if you like); start Test & compare (title + thumbnail) once it is public.

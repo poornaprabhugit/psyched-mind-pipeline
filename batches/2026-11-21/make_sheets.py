@@ -1,5 +1,5 @@
 from content import S
-HELD = {"B11"}
+HELD = set()
 L = []
 L.append("# Upload sheet – batch 2026-11-21 · 14 Shorts (Mon 23 – Sun 29 Nov) + long video (Sun 22 Nov 18:00)\n")
 L.append("_Scripts approved by the user on 20 Nov; built exactly as approved. Shorts part delivered first; the long-video part is at the end._\n")

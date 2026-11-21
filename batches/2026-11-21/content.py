@@ -63,7 +63,7 @@ S = [
  dict(id="p11", b="B11", day="Sat 28 Nov", slot="12:00", angle="brain & memory", arm="B", pred="high", short="Can't tickle yourself",
   title="Why you can't tickle yourself 🪶", hook="Your hand vs a robot's",
   desc="Why can't you tickle yourself? When you move, your brain predicts the touch and turns it down. In one study, people tickled their own hand through a robot. When the robot added a delay of a fifth of a second, it felt more like someone else's touch – the prediction no longer matched.",
-  src="Blakemore, Frith & Wolpert (1999), Journal of Cognitive Neuroscience 11(5) – https://wolpertlab.neuroscience.columbia.edu/sites/default/files/content/papers/BlaWolFri99.pdf", tags="why can't you tickle yourself, tickling science, tickle robot experiment, brain prediction, brain facts, psychology facts, neuroscience, sensory prediction",
+  src="Blakemore, Frith & Wolpert (1999), Journal of Cognitive Neuroscience 11(5) – https://scilit.com/publications/3006701e388a03e1116aef4b9874320c", tags="why can't you tickle yourself, tickling science, tickle robot experiment, brain prediction, brain facts, psychology facts, neuroscience, sensory prediction",
   hashtags="#psychology #brain #neuroscience #brainfacts #shorts", pin="Are you ticklish? Very, a little or not at all?",
   ig_hook="Why can't you tickle yourself? 🪶", ig_body="Your brain predicts your own touch and turns it down. Through a robot with a fifth-of-a-second delay, people's own touch tickled like someone else's hand.", ig_src="Blakemore, Frith & Wolpert (1999)", ig_tags="#psychology #brain #neuroscience #brainfacts"),
  dict(id="p12", b="B12", day="Sat 28 Nov", slot="16:00", angle="brain & memory", arm="A", pred="medium", short="Word stops making sense",
