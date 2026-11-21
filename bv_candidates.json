@@ -1,0 +1,177 @@
+{
+ "id": "bv",
+ "lines": [
+  {
+   "n": 1,
+   "text": "robot hand",
+   "candidates": [
+    {
+     "pixabay_id": 12041,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12041-234530519_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12041-234530519_small.jpg",
+     "page": "https://pixabay.com/videos/id-12041/",
+     "tags": "gloves, glove, levers, equipment, mechanism, climb, lever arm, control, sleeve, pen, fist, gauntlet, hand, kernel, jack, location, movement, machine, car, engine, worker, operational, labor, industrial, steel, industry, mechanical, metal, heavy, details, transport, power, hose, technique, building, iron, excavator, work, bulldozer, tractor, the piston, rusty, hydraulic, cable, pressure, tool, broadcast, factory, wheel, electric, technology, danger, remote, robot, safety, production",
+     "duration": 16,
+     "query": "robot hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "robot hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "robot hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "robotic hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "robotic hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 960,
+     "url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_small.jpg",
+     "page": "https://pixabay.com/videos/id-960/",
+     "tags": "painting, drawing, colors, design, brush, artist painting, artistic, decoration, watercolor, creative, summer, hand drawing, picture, hearts, love, romantic, 104695749",
+     "duration": 21,
+     "query": "robotic hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3593,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3593-172488287_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3593-172488287_small.jpg",
+     "page": "https://pixabay.com/videos/id-3593/",
+     "tags": "escalator, airport, terminal, moving, transport, technology, modern, walkway, perspective",
+     "duration": 20,
+     "query": "robot arm moving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3012,
+     "url": "https://cdn.pixabay.com/video/2016/05/04/3012-165457856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/04/3012-165457856_small.jpg",
+     "page": "https://pixabay.com/videos/id-3012/",
+     "tags": "snail, mollusc, nature, animals, brown, shell, wildlife, exoskeleton, hardshell, life, macro, arthropod, moving, rock, small, movement, slow, slowly, yellow",
+     "duration": 23,
+     "query": "robot arm moving",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "robot2",
+   "candidates": [
+    {
+     "pixabay_id": 88223,
+     "url": "https://cdn.pixabay.com/video/2021/09/11/88223-606079076_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/11/88223-606079076_small.jpg",
+     "page": "https://pixabay.com/videos/id-88223/",
+     "tags": "robot, machine, work, company, business, home",
+     "duration": 20,
+     "query": "humanoid robot",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2379,
+     "url": "https://cdn.pixabay.com/video/2016/03/04/2379-157901989_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/03/04/2379-157901989_small.jpg",
+     "page": "https://pixabay.com/videos/id-2379/",
+     "tags": "space ship, drone, science fiction, aerial, si-fi, flight, futuristic, robot, vehicle, technology, flying object, machine",
+     "duration": 15,
+     "query": "humanoid robot",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 23848,
+     "url": "https://cdn.pixabay.com/video/2019/05/21/23848-337680847_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/21/23848-337680847_small.jpg",
+     "page": "https://pixabay.com/videos/id-23848/",
+     "tags": "drone, camera, quadrocopter, technology, flight, propeller, dji, fly, drones, robot, trees, hobby, clouds, sky, illuminated, electronics, aircraft, rotors, city, buildings, building",
+     "duration": 38,
+     "query": "humanoid robot",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "robot arm close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26493,
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.jpg",
+     "page": "https://pixabay.com/videos/id-26493/",
+     "tags": "colours, pattern, texture, abstract, macro, close-up",
+     "duration": 74,
+     "query": "robot arm close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 30470,
+     "url": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_small.jpg",
+     "page": "https://pixabay.com/videos/id-30470/",
+     "tags": "bee, honey bee, insect, pollen, close up, live wallpaper",
+     "duration": 6,
+     "query": "robot arm close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3741,
+     "url": "https://cdn.pixabay.com/video/2016/07/08/3741-174188012_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/08/3741-174188012_small.jpg",
+     "page": "https://pixabay.com/videos/id-3741/",
+     "tags": "working site, excavator, construction, site, equipment, digger, machine, develop, industrial, construction site, construction equipment, dig, bulldozer, under construction, development, teamwork, aerial view",
+     "duration": 20,
+     "query": "industrial robot arm",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11111,
+     "url": "https://cdn.pixabay.com/video/2017/08/03/11111-228400364_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/03/11111-228400364_small.jpg",
+     "page": "https://pixabay.com/videos/id-11111/",
+     "tags": "weather, cloudy, heaven, storm, clouds, sun, light, climate, wind, architecture, industry, factory building, building, industrial plant, industrial area",
+     "duration": 22,
+     "query": "industrial robot arm",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+bv L1: 8 candidates
+bv L2: 8 candidates
+bp L1: 8 candidates
+bp L2: 8 candidates
