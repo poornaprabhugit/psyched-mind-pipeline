@@ -11,3 +11,20 @@ date,workflow,runs,job_minutes,notes
 2026-11-14,search-clips,6,15.0,
 2026-11-14,youtube-stats,3,3.0,
 2026-11-15,channel-research,2,3.0,
+2026-11-15,youtube-stats,3,3.0,
+2026-11-16,render-videos,2,19.0,
+2026-11-16,search-clips,1,1.0,
+2026-11-16,youtube-stats,2,2.0,
+2026-11-17,channel-research,1,2.0,
+2026-11-17,render-videos,1,25.0,
+2026-11-17,youtube-stats,3,3.0,
+2026-11-18,youtube-stats,2,2.0,
+2026-11-19,channel-research,1,2.0,
+2026-11-19,shorts-snapshots,1,1.0,
+2026-11-19,youtube-stats,2,2.0,
+2026-11-20,shorts-snapshots,2,2.0,
+2026-11-20,youtube-stats,2,2.0,
+2026-11-21,channel-research,1,1.0,wall 0.8 min (actions_cost.py 21 Nov, partial day)
+2026-11-21,render-videos,9,539.0,wall 153.2 min (actions_cost.py 21 Nov, partial day)
+2026-11-21,search-clips,7,13.0,wall 10.3 min (actions_cost.py 21 Nov, partial day)
+2026-11-21,youtube-stats,1,1.0,wall 0.2 min (actions_cost.py 21 Nov, partial day)
