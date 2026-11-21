@@ -967,5 +967,6 @@
    "L4",
    "L5"
   ]
- }
+ },
+ "note": "re-run 21 Nov after tighten fix (trim/concat + sync check)"
 }
