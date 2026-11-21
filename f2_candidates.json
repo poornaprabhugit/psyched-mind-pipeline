@@ -1,0 +1,435 @@
+{
+ "id": "f2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L2-1 meeting",
+   "candidates": [
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "business meeting table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3132,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_small.jpg",
+     "page": "https://pixabay.com/videos/id-3132/",
+     "tags": "work space, meeting, startup, notebook, laptops, teamwork, office, corporate, communication, people, computer, internet, businessman, professional, group, coworking, network, brainstorming, conference, discussion, table, seminar",
+     "duration": 33,
+     "query": "business meeting table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 137265,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137265-766326232_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137265-766326232_small.jpg",
+     "page": "https://pixabay.com/videos/id-137265/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 14,
+     "query": "business meeting table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "team meeting office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39890,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_small.jpg",
+     "page": "https://pixabay.com/videos/id-39890/",
+     "tags": "office, people, business, work, team, human, corporate, the meeting, planning, project, young, plan",
+     "duration": 12,
+     "query": "team meeting office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 710,
+     "url": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_small.jpg",
+     "page": "https://pixabay.com/videos/id-710/",
+     "tags": "board, write, man, memo, memory, chalk, meeting, meet, office, business, team",
+     "duration": 23,
+     "query": "team meeting office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 69952,
+     "url": "https://cdn.pixabay.com/video/2021/04/04/69952-533273133_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/04/69952-533273133_small.jpg",
+     "page": "https://pixabay.com/videos/id-69952/",
+     "tags": "office, meeting, working, discussion, startup, business, computer, work, team, plan, brainstorming, teamwork, table, corporate, casual, people, company, writing, desk, conference, group, colleagues, teacher, project, coffee",
+     "duration": 15,
+     "query": "people meeting conference table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1035,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_small.jpg",
+     "page": "https://pixabay.com/videos/id-1035/",
+     "tags": "meeting, conference, talk, blur, bokeh, business, people, corporate, group, presentation, business meeting, office, corporate meeting, meeting people, room, discussion, communication, professional, teamwork, office meeting",
+     "duration": 16,
+     "query": "people meeting conference table",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L2-3 after meeting",
+   "candidates": [
+    {
+     "pixabay_id": 87593,
+     "url": "https://cdn.pixabay.com/video/2021/09/05/87593-602317653_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/05/87593-602317653_small.jpg",
+     "page": "https://pixabay.com/videos/id-87593/",
+     "tags": "work, office, people, working, discussing, meeting",
+     "duration": 32,
+     "query": "colleagues leaving meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 18713,
+     "url": "https://cdn.pixabay.com/video/2018/10/14/18713-295718392_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/10/14/18713-295718392_small.jpg",
+     "page": "https://pixabay.com/videos/id-18713/",
+     "tags": "legs, shoes, leaves, yellow, autumn, expectation, a meeting, the park",
+     "duration": 18,
+     "query": "colleagues leaving meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 180,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_small.jpg",
+     "page": "https://pixabay.com/videos/id-180/",
+     "tags": "conversation, talk, dialogue, coffee, colleagues, discussion, discuss",
+     "duration": 6,
+     "query": "colleagues leaving meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 95126,
+     "url": "https://cdn.pixabay.com/video/2021/11/08/95126-645704295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/08/95126-645704295_small.jpg",
+     "page": "https://pixabay.com/videos/id-95126/",
+     "tags": "office, corporate, business, attractive, businessman, business people, businesswoman, colleagues, employees, confident, laptop, working, talking, professional, partner, technology, women, men, colleagues chatting, coworkers, discussing, entrepreneurs, executives, using, team",
+     "duration": 35,
+     "query": "office people talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 95122,
+     "url": "https://cdn.pixabay.com/video/2021/11/08/95122-645704287_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/08/95122-645704287_small.jpg",
+     "page": "https://pixabay.com/videos/id-95122/",
+     "tags": "office, corporate, business, attractive, businessman, business people, businesswoman, colleagues, employees, confident, laptop, working, talking, professional, partner, technology, women, men, colleagues chatting, coworkers, discussing, entrepreneurs, executives, using, team",
+     "duration": 33,
+     "query": "office people talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 95121,
+     "url": "https://cdn.pixabay.com/video/2021/11/08/95121-645704283_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/08/95121-645704283_small.jpg",
+     "page": "https://pixabay.com/videos/id-95121/",
+     "tags": "office, corporate, business, attractive, businesswoman, business people, colleagues, employees, confident, working, laptop, talking, professional, partner, technology, women, colleagues chatting, coworkers, discussing, entrepreneurs, executives, using, team, interaction, young",
+     "duration": 23,
+     "query": "office people talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 846,
+     "url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_small.jpg",
+     "page": "https://pixabay.com/videos/id-846/",
+     "tags": "library, books, the corridor, window, rack, the culture, reading, classic, new items, reading room, society, shelves, education, studies, school",
+     "duration": 13,
+     "query": "coworkers corridor",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 20837,
+     "url": "https://cdn.pixabay.com/video/2019/01/19/20837-312432073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/19/20837-312432073_small.jpg",
+     "page": "https://pixabay.com/videos/id-20837/",
+     "tags": "hallway, dark, corridor, dim, mystery, scary, path, hall, old, walls, building, decay, broken, lights, flickering, flickering lights, abandoned",
+     "duration": 7,
+     "query": "coworkers corridor",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L2-20 own turn",
+   "candidates": [
+    {
+     "pixabay_id": 130650,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130650-747868382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130650-747868382_small.jpg",
+     "page": "https://pixabay.com/videos/id-130650/",
+     "tags": "woman, smartphone, social media, videoconference, meeting, city life, technology, internet, connection, tourism, social, modern technology, leisure, casual, young, person, lifestyle, urban, portrait",
+     "duration": 20,
+     "query": "woman presenting meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1112,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_small.jpg",
+     "page": "https://pixabay.com/videos/id-1112/",
+     "tags": "talk, discussion, meeting, team, group, conference, discuss, people, chairs, sitting, chatting, talking, debating, argument, men",
+     "duration": 7,
+     "query": "woman presenting meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 41820,
+     "url": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_small.jpg",
+     "page": "https://pixabay.com/videos/id-41820/",
+     "tags": "diversity, meeting, communication, people, against racism, black, connection, ethnicities, friends, fun, group, happy, human, mixed race, multiracial, person, race racism, sharing, smiling, together, woman, young, summer",
+     "duration": 17,
+     "query": "woman presenting meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 204420,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_small.jpg",
+     "page": "https://pixabay.com/videos/id-204420/",
+     "tags": "man, call, happy, to speak, laugh, discuss",
+     "duration": 15,
+     "query": "man speaking meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 204421,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_small.jpg",
+     "page": "https://pixabay.com/videos/id-204421/",
+     "tags": "man, call, smartphone, anger, to speak, yell, discuss, unhappy",
+     "duration": 22,
+     "query": "man speaking meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 268230,
+     "url": "https://cdn.pixabay.com/video/2025/03/28/268230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/28/268230_small.jpg",
+     "page": "https://pixabay.com/videos/id-268230/",
+     "tags": "business, office, computer, man, laptop, company, corporate, meeting, work, marketing, team, technology, people, internet, planning, professional, working, project, web, startup, building, young, students, plan",
+     "duration": 12,
+     "query": "man speaking meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27092,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_small.jpg",
+     "page": "https://pixabay.com/videos/id-27092/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 21,
+     "query": "woman speaking office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman speaking office",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L3-5 long study",
+   "candidates": [
+    {
+     "pixabay_id": 140807,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_small.jpg",
+     "page": "https://pixabay.com/videos/id-140807/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 11,
+     "query": "student studying library",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 35453,
+     "url": "https://cdn.pixabay.com/video/2020/04/08/35453-407130965_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/08/35453-407130965_small.jpg",
+     "page": "https://pixabay.com/videos/id-35453/",
+     "tags": "education, school, library, books, student, children, study, knowledge, book, research, reading, learning, science, studying, read, ink, design, brush",
+     "duration": 18,
+     "query": "student studying library",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 140808,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140808-776043763_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140808-776043763_small.jpg",
+     "page": "https://pixabay.com/videos/id-140808/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 16,
+     "query": "student studying library",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "young man studying notes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 159029,
+     "url": "https://cdn.pixabay.com/video/2023/04/15/159029-818026300_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/15/159029-818026300_small.jpg",
+     "page": "https://pixabay.com/videos/id-159029/",
+     "tags": "students, books, papers, text, study, studying, library, research, academic, college, university, desk, teamwork, collaboration, group project, young, essay",
+     "duration": 60,
+     "query": "young man studying notes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "young man studying notes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22518,
+     "url": "https://cdn.pixabay.com/video/2019/04/01/22518-328624723_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/01/22518-328624723_small.jpg",
+     "page": "https://pixabay.com/videos/id-22518/",
+     "tags": "night, girl, work, student, study",
+     "duration": 21,
+     "query": "student studying night",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 131990,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131990-751915304_small.jpg",
+     "page": "https://pixabay.com/videos/id-131990/",
+     "tags": "student, to write, to study, work, task, issue, question, study",
+     "duration": 24,
+     "query": "student studying night",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L4-2 telling day",
+   "candidates": [
+    {
+     "pixabay_id": 298643,
+     "url": "https://cdn.pixabay.com/video/2025/08/20/298643_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/20/298643_small.jpg",
+     "page": "https://pixabay.com/videos/id-298643/",
+     "tags": "landscape, five story pagoda, buddhist temple, sunset, cloud, old capital kyoto, japan",
+     "duration": 20,
+     "query": "woman telling story",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 40706,
+     "url": "https://cdn.pixabay.com/video/2020/05/31/40706-426189559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/31/40706-426189559_small.jpg",
+     "page": "https://pixabay.com/videos/id-40706/",
+     "tags": "love, story, relationship, fantasy, magic, novel, young woman, romance, picnic, mood, romantic, beautiful, dance, angel",
+     "duration": 19,
+     "query": "woman telling story",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "woman telling story",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6409,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_small.jpg",
+     "page": "https://pixabay.com/videos/id-6409/",
+     "tags": "restaurant, couple, bokeh, blur, beautiful wallpaper, background, talking, relaxed, cafe, bar, meeting, people, relaxation, lifestyle, cafeteria",
+     "duration": 20,
+     "query": "couple talking dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1623,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_small.jpg",
+     "page": "https://pixabay.com/videos/id-1623/",
+     "tags": "cafe, restaurant, talking, talk, people, sitting, chatting, menu, coffee, dinner, table, bar, drink, interior, cafe interior, restaurant interior",
+     "duration": 19,
+     "query": "couple talking dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "couple talking dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 202135,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202135-917314714_small.jpg",
+     "page": "https://pixabay.com/videos/id-202135/",
+     "tags": "boss, employee, talking, angry, argument",
+     "duration": 19,
+     "query": "friends talking sofa",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 137036,
+     "url": "https://cdn.pixabay.com/video/2022/10/29/137036-765458136_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/29/137036-765458136_small.jpg",
+     "page": "https://pixabay.com/videos/id-137036/",
+     "tags": "people, friends, hut, cabin, communication, house, ocean, sea, vancouver, waterfront, city, boat, ship, talking, sunset, sun",
+     "duration": 23,
+     "query": "friends talking sofa",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "id": "f1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L0-1 walk into kitchen",
+   "candidates": [
+    {
+     "pixabay_id": 1261,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_small.jpg",
+     "page": "https://pixabay.com/videos/id-1261/",
+     "tags": "croissants, baking, kitchen, pastry, french, woman, preparation, dough, bakery, food, sweet, breakfast, fresh, tasty, homemade, rustic, golden, dish, delicious, 1444282655",
+     "duration": 61,
+     "query": "woman walks into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130175,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130175-746395232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130175-746395232_small.jpg",
+     "page": "https://pixabay.com/videos/id-130175/",
+     "tags": "flowers, field, woman, walk, stroll, nature",
+     "duration": 10,
+     "query": "woman walks into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 21472,
+     "url": "https://cdn.pixabay.com/video/2019/02/16/21472-318172509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/16/21472-318172509_small.jpg",
+     "page": "https://pixabay.com/videos/id-21472/",
+     "tags": "building, walk, greenwich chapel, university, london, england, architecture",
+     "duration": 15,
+     "query": "woman walks into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "man walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 282995,
+     "url": "https://cdn.pixabay.com/video/2025/06/01/282995_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/01/282995_small.jpg",
+     "page": "https://pixabay.com/videos/id-282995/",
+     "tags": "hiking, walking, trail, man, alone, single, middle-aged, adult, human, forest, landscape, path, environment, fog, winter, frost, woodlands, wood, mist, sunbeams",
+     "duration": 14,
+     "query": "man walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 202743,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_small.jpg",
+     "page": "https://pixabay.com/videos/id-202743/",
+     "tags": "man, walking, path, netherlands, drenthe, alone, sunrise",
+     "duration": 31,
+     "query": "man walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "person enters kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 267,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_small.jpg",
+     "page": "https://pixabay.com/videos/id-267/",
+     "tags": "pot, cooking, steam, steaming, hot, food, kettle, preparation, kitchen, sepia, cook, heat, warm",
+     "duration": 25,
+     "query": "person enters kitchen",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L0-5 remembering",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 124252,
+     "url": "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_small.jpg",
+     "page": "https://pixabay.com/videos/id-124252/",
+     "tags": "girl, sofa, education, couch, book, lifestyle, woman, student, sitting, room, relaxation, leisure, home, happy, cute, happiness, study, relax, read, novel, house, beautiful, studying",
+     "duration": 15,
+     "query": "pensive woman sofa",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 129543,
+     "url": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_small.jpg",
+     "page": "https://pixabay.com/videos/id-129543/",
+     "tags": "cat, pet, house, home, sofa, cute, adorable, animal",
+     "duration": 15,
+     "query": "pensive woman sofa",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L1-1 bedroom morning",
+   "candidates": [
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman waking up bed",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman waking up bed",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman waking up bed",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27539,
+     "url": "https://cdn.pixabay.com/video/2019/10/04/27539-364430966_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/04/27539-364430966_small.jpg",
+     "page": "https://pixabay.com/videos/id-27539/",
+     "tags": "running, bridge, mountains, men running, running in morning, running in winters, running on old bridge, drone view running, running aerial view, men running in morning, monsoon running, men running in hills",
+     "duration": 8,
+     "query": "woman sitting on bed morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 191159,
+     "url": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_small.jpg",
+     "page": "https://pixabay.com/videos/id-191159/",
+     "tags": "gull, bird, snow, plumage, sitting, winter, wildlife",
+     "duration": 10,
+     "query": "woman sitting on bed morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "woman sitting on bed morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "man waking up bedroom",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 37918,
+     "url": "https://cdn.pixabay.com/video/2020/05/02/37918-415925014_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/02/37918-415925014_small.jpg",
+     "page": "https://pixabay.com/videos/id-37918/",
+     "tags": "rest, house, home, quarantine, silent, mood, wake, apartment, nature, wake-up, morning",
+     "duration": 20,
+     "query": "man waking up bedroom",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L1-5 carrying object",
+   "candidates": [
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2775,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_small.jpg",
+     "page": "https://pixabay.com/videos/id-2775/",
+     "tags": "blue tit, bird box, bird house, garden, nest, mate, bird, box, wildlife, nature, spring, small, nesting, ornithology, songbird, birdwatching",
+     "duration": 30,
+     "query": "carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 20112,
+     "url": "https://cdn.pixabay.com/video/2018/12/18/20112-307163913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/18/20112-307163913_small.jpg",
+     "page": "https://pixabay.com/videos/id-20112/",
+     "tags": "boxing, woman, sports, person, fight, body, female, model",
+     "duration": 13,
+     "query": "woman carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143884,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_small.jpg",
+     "page": "https://pixabay.com/videos/id-143884/",
+     "tags": "christmas, xmas, decoration, celebration, gifts, 25 december, christmas gifts, gifts boxes, box",
+     "duration": 7,
+     "query": "woman carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 65672,
+     "url": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_small.jpg",
+     "page": "https://pixabay.com/videos/id-65672/",
+     "tags": "honey, honey bees, honey box, crate, farm",
+     "duration": 52,
+     "query": "woman carrying box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "putting box on table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 32443,
+     "url": "https://cdn.pixabay.com/video/2020/02/16/32443-392248971_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/16/32443-392248971_small.jpg",
+     "page": "https://pixabay.com/videos/id-32443/",
+     "tags": "cpu, cpu socket, putting a cpu into a socket, hand, technology",
+     "duration": 10,
+     "query": "putting box on table",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L1-20 kitchen now",
+   "candidates": [
+    {
+     "pixabay_id": 148542,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_small.jpg",
+     "page": "https://pixabay.com/videos/id-148542/",
+     "tags": "woman, cook, kitchen, traditional, java, indonesia, rural, village, poverty",
+     "duration": 14,
+     "query": "woman standing kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "woman standing kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 205283,
+     "url": "https://cdn.pixabay.com/video/2024/03/23/205283-926665334_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/23/205283-926665334_small.jpg",
+     "page": "https://pixabay.com/videos/id-205283/",
+     "tags": "meerkat, standing, cute, mammal, curious, wildlife",
+     "duration": 14,
+     "query": "woman standing kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126805,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_small.jpg",
+     "page": "https://pixabay.com/videos/id-126805/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro",
+     "duration": 16,
+     "query": "woman making coffee kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11606,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_small.jpg",
+     "page": "https://pixabay.com/videos/id-11606/",
+     "tags": "chopping, cutting, ingredients, mortar, garlic, prepare, grind, add, food, kitchen, cooking, adding, cook, making, fresh, table, healthy, preparing, homemade, chef, preparation, hand, organic, vegetarian, vegan",
+     "duration": 38,
+     "query": "woman making coffee kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126804,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126804-737028143_small.jpg",
+     "page": "https://pixabay.com/videos/id-126804/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro of coffee",
+     "duration": 16,
+     "query": "woman making coffee kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143161,
+     "url": "https://cdn.pixabay.com/video/2022/12/16/143161-781991198_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/16/143161-781991198_small.jpg",
+     "page": "https://pixabay.com/videos/id-143161/",
+     "tags": "man, kitchen, model, dishes",
+     "duration": 11,
+     "query": "man kitchen morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 173522,
+     "url": "https://cdn.pixabay.com/video/2023/07/27/173522-849651812_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/27/173522-849651812_small.jpg",
+     "page": "https://pixabay.com/videos/id-173522/",
+     "tags": "mount fuji, morning, clouds, japan, landscape",
+     "duration": 10,
+     "query": "man kitchen morning",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "id": "f3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L4-10 evening edit",
+   "candidates": [
+    {
+     "pixabay_id": 369,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/369-136082525_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/369-136082525_small.jpg",
+     "page": "https://pixabay.com/videos/id-369/",
+     "tags": "girl, thinking, resting, person, woman, beach, holiday, dancing, happy, pleased, satisfied, sunset, evening, relaxing, vacation, 9311383",
+     "duration": 10,
+     "query": "woman thinking evening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 318540,
+     "url": "https://cdn.pixabay.com/video/2025/11/28/318540_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/28/318540_small.jpg",
+     "page": "https://pixabay.com/videos/id-318540/",
+     "tags": "sun, heaven, clouds, evening sky, evening atmosphere, windmill, wind energy, rotate, power generation",
+     "duration": 18,
+     "query": "woman thinking evening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 153976,
+     "url": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/09/153976-817104245_small.jpg",
+     "page": "https://pixabay.com/videos/id-153976/",
+     "tags": "sunset, sea, sun, evening atmosphere, nature, landscape",
+     "duration": 21,
+     "query": "woman thinking evening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11722,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_small.jpg",
+     "page": "https://pixabay.com/videos/id-11722/",
+     "tags": "rain, water, window, wet, drops, dripping, rainy, night, light, sad",
+     "duration": 33,
+     "query": "man thinking night window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking night window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking night window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6962,
+     "url": "https://cdn.pixabay.com/video/2016/12/31/6962-197634410_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/12/31/6962-197634410_small.jpg",
+     "page": "https://pixabay.com/videos/id-6962/",
+     "tags": "stars, long exposure, starry sky, heaven, evening sky, landscape, mountains, evening atmosphere, universe, nature, alps, switzerland, gurnigel, gantric, timelaps, earth day",
+     "duration": 6,
+     "query": "pensive woman evening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148594,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148594-794221537_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148594-794221537_small.jpg",
+     "page": "https://pixabay.com/videos/id-148594/",
+     "tags": "fire, evening, nature, forest, autumn, romance, love",
+     "duration": 20,
+     "query": "pensive woman evening",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L4-11 cars",
+   "candidates": [
+    {
+     "pixabay_id": 336253,
+     "url": "https://cdn.pixabay.com/video/2026/02/23/336253_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/02/23/336253_small.jpg",
+     "page": "https://pixabay.com/videos/id-336253/",
+     "tags": "traffic, city, stop, road, car, bridge, river, urban",
+     "duration": 19,
+     "query": "traffic cars road",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2165,
+     "url": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_small.jpg",
+     "page": "https://pixabay.com/videos/id-2165/",
+     "tags": "car, road, transportation, vehicle, driving, car on road, transport, drive, highway, speed, car driving, traffic, auto, car road, automobile, journey, blurred, motor, motion, modern, driving car, wheel, street, time lapse, time, lapse",
+     "duration": 60,
+     "query": "traffic cars road",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22544,
+     "url": "https://cdn.pixabay.com/video/2019/04/02/22544-328624736_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/02/22544-328624736_small.jpg",
+     "page": "https://pixabay.com/videos/id-22544/",
+     "tags": "bridge, road, cars, traffic, sunset, clouds, water",
+     "duration": 15,
+     "query": "traffic cars road",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 180386,
+     "url": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_small.jpg",
+     "page": "https://pixabay.com/videos/id-180386/",
+     "tags": "intersection, cars, pedestrian, night, urban, osaka, japan",
+     "duration": 31,
+     "query": "cars intersection",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 97885,
+     "url": "https://cdn.pixabay.com/video/2021/11/14/97885-649761107_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/14/97885-649761107_small.jpg",
+     "page": "https://pixabay.com/videos/id-97885/",
+     "tags": "traffic, city, intersection, street, car, automobile, vehicle, auto, automotive, albuquerque, road, highway, signal",
+     "duration": 5,
+     "query": "cars intersection",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 220480,
+     "url": "https://cdn.pixabay.com/video/2024/07/10/220480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/10/220480_small.jpg",
+     "page": "https://pixabay.com/videos/id-220480/",
+     "tags": "roads, cars, traffic, intersection, drone, city, vietnam",
+     "duration": 14,
+     "query": "cars intersection",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 53902,
+     "url": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_small.jpg",
+     "page": "https://pixabay.com/videos/id-53902/",
+     "tags": "traffic, city traffic, drone, transportation, crowd, driving, megalopolis, city, street, urban, car, sun, evening, sunset, schaffhausen, switzerland, live wallpaper",
+     "duration": 5,
+     "query": "car driving city street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6456,
+     "url": "https://cdn.pixabay.com/video/2016/11/17/6456-192501931_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/17/6456-192501931_small.jpg",
+     "page": "https://pixabay.com/videos/id-6456/",
+     "tags": "traffic, lights, city, street, night, cars, blurred, bokeh, urban, city street, flashes, road, dark, driving, rear lights, glow, headlights",
+     "duration": 15,
+     "query": "car driving city street",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L5-3 morning study",
+   "candidates": [
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "student studying morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 131993,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131993-751915314_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131993-751915314_small.jpg",
+     "page": "https://pixabay.com/videos/id-131993/",
+     "tags": "to write, to study, task, job, issue, question, study, student, hand, ballpoint, pen",
+     "duration": 23,
+     "query": "student studying morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "student studying morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 131989,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_small.jpg",
+     "page": "https://pixabay.com/videos/id-131989/",
+     "tags": "to write, to study, work, desk, office, feel, men, task, issue, student, school",
+     "duration": 19,
+     "query": "student desk lamp",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "student desk lamp",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11186,
+     "url": "https://cdn.pixabay.com/video/2017/08/06/11186-228573647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/06/11186-228573647_small.jpg",
+     "page": "https://pixabay.com/videos/id-11186/",
+     "tags": "lamp, kerosene, flashlight, fire, old, antiques",
+     "duration": 11,
+     "query": "student desk lamp",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 345244,
+     "url": "https://cdn.pixabay.com/video/2026/04/08/345244_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/08/345244_small.jpg",
+     "page": "https://pixabay.com/videos/id-345244/",
+     "tags": "kingfisher, bird, fauna, river, plugged, at the water's edge, colorful, beak, plumage",
+     "duration": 10,
+     "query": "studying at desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 42305,
+     "url": "https://cdn.pixabay.com/video/2020/06/16/42305-431511171_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/16/42305-431511171_small.jpg",
+     "page": "https://pixabay.com/videos/id-42305/",
+     "tags": "man, computer, work, pc, home, mac, windows, desk, clics, house, mouse, books, table, office, modern, at work, black, busy, working, email, screen, electronic",
+     "duration": 15,
+     "query": "studying at desk",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L5-15 parking password",
+   "candidates": [
+    {
+     "pixabay_id": 1137,
+     "url": "https://cdn.pixabay.com/video/2015/10/22/1137-143368900_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/22/1137-143368900_small.jpg",
+     "page": "https://pixabay.com/videos/id-1137/",
+     "tags": "drift, car, vehicle, parking lot, tires, tuning, sport, ride, event, bwm, fast",
+     "duration": 9,
+     "query": "parking lot cars",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1136,
+     "url": "https://cdn.pixabay.com/video/2015/10/21/1136-143407453_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/21/1136-143407453_small.jpg",
+     "page": "https://pixabay.com/videos/id-1136/",
+     "tags": "drift, car, vehicle, parking lot, tires, tuning, sport, ride, event, bwm, fast",
+     "duration": 8,
+     "query": "parking lot cars",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33035,
+     "url": "https://cdn.pixabay.com/video/2020/02/29/33035-395456492_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/29/33035-395456492_small.jpg",
+     "page": "https://pixabay.com/videos/id-33035/",
+     "tags": "santa clarita, city, california, houses, building, trees, traffic, sky, mountains, cars, drone, aerial, street, transportation, parking lot",
+     "duration": 5,
+     "query": "parking lot cars",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "typing password laptop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3174,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_small.jpg",
+     "page": "https://pixabay.com/videos/id-3174/",
+     "tags": "computer keyboard, typing, hands, female, keyboard, computer, technology, business, office, internet, type, key, communication, pc, information, white, working, letter, fingers",
+     "duration": 12,
+     "query": "typing password laptop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3188,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_small.jpg",
+     "page": "https://pixabay.com/videos/id-3188/",
+     "tags": "computer keyboard, typing, white, keyboard, computer, technology, business, office, internet, communication, fingers, hands, fast, text, messaging",
+     "duration": 14,
+     "query": "typing password laptop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 53141,
+     "url": "https://cdn.pixabay.com/video/2020/10/23/53141-472583449_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/23/53141-472583449_small.jpg",
+     "page": "https://pixabay.com/videos/id-53141/",
+     "tags": "albert park, melbourne, lake, clear sky, beautiful afternoon, blue sky, car driving, trees, street, city, urban, buildings, construction, skyscraper, park, perspective, architecture, water, outdoor, sky",
+     "duration": 40,
+     "query": "car park",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46343,
+     "url": "https://cdn.pixabay.com/video/2020/08/04/46343-447447955_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/04/46343-447447955_small.jpg",
+     "page": "https://pixabay.com/videos/id-46343/",
+     "tags": "fountain, park, architecture, water, city, street, road, traffic, car, paris, germany, munich, slow, castle, money, rich, classy",
+     "duration": 17,
+     "query": "car park",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L5-17 notes fade",
+   "candidates": [
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "notebook pages",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9037,
+     "url": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/09/9037-217261005_small.jpg",
+     "page": "https://pixabay.com/videos/id-9037/",
+     "tags": "book, page, publication, knowledge, study, creativity, document, daily, notebook, open, opened, hand, browse",
+     "duration": 20,
+     "query": "notebook pages",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 62461,
+     "url": "https://cdn.pixabay.com/video/2021/01/20/62461-504238956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/20/62461-504238956_small.jpg",
+     "page": "https://pixabay.com/videos/id-62461/",
+     "tags": "book, burn, flames, fire, pages, fireplace, notebook, memory, read, souvenir, notes, literature, document",
+     "duration": 59,
+     "query": "notebook pages",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 122495,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122495-725812858_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122495-725812858_small.jpg",
+     "page": "https://pixabay.com/videos/id-122495/",
+     "tags": "laptop, computer, internet, to work, hotel, holiday, beautiful wallpaper, summer, sunny, pool, resort, alcohol, cocktail, drink, coolness, spaciousness, nature, to swim, relaxing, relaxation, background, close, tourism, trip, coast",
+     "duration": 40,
+     "query": "closing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "closing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39892,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39892-423345743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39892-423345743_small.jpg",
+     "page": "https://pixabay.com/videos/id-39892/",
+     "tags": "office, laptop, business, computer, notebook, work, the internet, table, technology, company, launch, student, team, corporate, plan",
+     "duration": 15,
+     "query": "closing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "handwritten notes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "handwritten notes",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}
