@@ -121,11 +121,29 @@ def tighten(src, dst, max_gap=0.35, noise="-33dB", min_detect=0.4, tail=0.25):
             cuts.append((keep_a, keep_b))
     if not cuts:
         shutil.copy(src, dst); return 0.0
-    expr = "+".join(f"between(t,{a:.3f},{b:.3f})" for a, b in cuts)
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src,
-                    "-vf", f"select='not({expr})',setpts=N/FRAME_RATE/TB",
-                    "-af", f"aselect='not({expr})',asetpts=N/SR/TB",
+    # keep-segments, cut with trim/atrim + concat (the old select/aselect pair left the audio uncut on the
+    # runner on 21 Nov while the video was cut -> pad_to_audio froze the last frame and captions ran early)
+    keeps, pos = [], 0.0
+    for a, b in sorted(cuts):
+        if a > pos + 0.02:
+            keeps.append((pos, a))
+        pos = max(pos, b)
+    if pos < dur - 0.02:
+        keeps.append((pos, dur))
+    parts, labels = [], []
+    for i, (a, b) in enumerate(keeps):
+        parts.append(f"[0:v]trim=start={a:.3f}:end={b:.3f},setpts=PTS-STARTPTS[v{i}];"
+                     f"[0:a]atrim=start={a:.3f}:end={b:.3f},asetpts=PTS-STARTPTS[a{i}]")
+        labels.append(f"[v{i}][a{i}]")
+    fc = ";".join(parts) + ";" + "".join(labels) + f"concat=n={len(keeps)}:v=1:a=1[v][a]"
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", src, "-filter_complex", fc, "-map", "[v]", "-map", "[a]",
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-c:a", "aac", "-b:a", "192k", dst], check=True)
+    def sd(kind):
+        o = subprocess.run(["ffprobe", "-v", "error", "-select_streams", kind, "-show_entries", "stream=duration",
+                            "-of", "csv=p=0", dst], capture_output=True, text=True).stdout.split()
+        return float(o[0]) if o else 0.0
+    if abs(sd("v:0") - sd("a:0")) > 0.15:
+        raise RuntimeError(f"tighten: video {sd('v:0'):.2f}s vs audio {sd('a:0'):.2f}s out of sync")
     return sum(b - a for a, b in cuts)
 
 
