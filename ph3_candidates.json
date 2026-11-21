@@ -1,0 +1,435 @@
+{
+ "id": "ph3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P04L2 restaurant",
+   "candidates": [
+    {
+     "pixabay_id": 9826328,
+     "url": "https://pixabay.com/get/gf6a01595c2d7621f7bb91fca0a06677239f1b9813213be554e693678ca7ee8043722171b3d7ca919dd0b7ef0976c7769178608a8631756c998a00d9c682e7cb1_1280.jpg",
+     "thumb": "https://pixabay.com/get/g21aba56b822768d7207889cc0d4b53c82d907ac350b26e460f5746470cce601b69147a8e8235a7e8df6db675c2dd8aad4f67b034c8c2366e3f65a31d62ec77a6_640.jpg",
+     "page": "https://pixabay.com/photos/japan-osaka-city-urban-neon-night-9826328/",
+     "tags": "japan, osaka, city, urban, neon, night, bar, pub, cinematic, travel",
+     "duration": 0,
+     "query": "restaurant interior",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 4048225,
+     "url": "https://pixabay.com/get/gef057cc96bfc6be98ba59b7c5975b52d1ee72d60f60bf57f59377936ac0779d5abe42bd62776c4bbcf525d50de09b05f75e1411914b4f433f4780b78fe602eff_1280.jpg",
+     "thumb": "https://pixabay.com/get/g53673d6e2fa0c2e9fc1772397317fc28fef2fe833dc2253bba574137cf3c739f22774705564fc6e6d63263e391374dd8682f025cd080e3d8ef5fa39685ba3ccd_640.jpg",
+     "page": "https://pixabay.com/photos/ikea-table-dining-chair-lamp-4048225/",
+     "tags": "ikea, table, dining, nature, chair, lamp, plant, natural, lifestyle, life, live, living, room, restaurant, simple, white",
+     "duration": 0,
+     "query": "restaurant interior",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 449952,
+     "url": "https://pixabay.com/get/g86bb9b548ae3540a94af7993f49aadae890602bee2373fabc9a54170b44817b8712d37033b19d5dc83c656f207fa6f68ba8cd996ac932dd14f47f2ab54c0133d_1280.jpg",
+     "thumb": "https://pixabay.com/get/gc23d56fa989908f20c285a887ef933d5f2121ca065448e984aba93f0dc16415c0823614a80fa9f3522b38dcf98f09ed5_640.jpg",
+     "page": "https://pixabay.com/photos/restaurant-table-setting-table-449952/",
+     "tags": "restaurant, table setting, table, glassware, stemware, wine glasses, glasses, plates, napkin, set-up, dinner, dining, service, lunch, restaurant, restaurant, restaurant, restaurant, restaurant",
+     "duration": 0,
+     "query": "restaurant interior",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 712665,
+     "url": "https://pixabay.com/get/gce5cb85152126cf54a0f2c41de14184e752feaefeb8bbe29f21c6e10ed647c880577a2d9064027731be02616c7f2f63d34152eb52f69e91291637d454b769c79_1280.jpg",
+     "thumb": "https://pixabay.com/get/g6ff5d1124396942c5ab5f908d0d030e384e7dc3c12381544fd3bfe2d355275794cade9fb2c7a7c17d04c746925a49d3e_640.jpg",
+     "page": "https://pixabay.com/photos/food-salmon-teriyaki-fish-eat-712665/",
+     "tags": "food, salmon, teriyaki, fish, eat, dish, restaurant, nature, meal, healthy, healthy meal, savory, food photography",
+     "duration": 0,
+     "query": "restaurant dinner",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 518032,
+     "url": "https://pixabay.com/get/g6f6c385f2eb5ddeb40d4d1d02633db0690fa69c51e0f1ac8469f07e4f7387f13604beb97448feb0d5101933c0cc2f439d26edab926abe075e7796b5017ef0951_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd8f6b20f2d7c07cd55a32dead65abe2ece4a3e4286c0f2e18f6d9e1107f4114d311381ccac323080421a51dbb68a41be_640.jpg",
+     "page": "https://pixabay.com/photos/new-years-eve-salmon-fish-seafood-518032/",
+     "tags": "new year's eve, salmon, fish, seafood, veggies, salad, meal, dish, nature, plate, food, cuisine, Tasmania, Strahan, Australia",
+     "duration": 0,
+     "query": "restaurant dinner",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1807617,
+     "url": "https://pixabay.com/get/ga94966ee47554348ecf9b38b7da97a4313906027211589fabf9c93be7f24969b2b43b63e38417630e5203dad6bf36a8847ad6f6e40d215c89b5764bd59e0241c_1280.jpg",
+     "thumb": "https://pixabay.com/get/g83d6d012fcfff1d5a89cabdd3a51a4a57eab0028d1493de569e8d5938f51f8232f691eb5362fbc7716f122f741480e4f31d06db2d717482b5f32d19bc7e507e3_640.jpg",
+     "page": "https://pixabay.com/photos/happy-valentines-day-couple-1807617/",
+     "tags": "happy valentines day, couple, restaurant, dating, drink, smiling, man, woman, adult, girlfriend, boyfriend, talk, conversation, together, lovers, romance, relationship, cheers, food, valentines, leisure, eating, dinner, asian",
+     "duration": 0,
+     "query": "restaurant dinner",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2598319,
+     "url": "https://pixabay.com/get/g8470af35668d53573bf6faa248f1f1f23a5d0b0bbfc1bbd8a9013b4f8f77c11d8439d35fa92eadd9f3a8b3ec1d037b48bb50f68ac9c2bffb54806a52388e76c9_1280.jpg",
+     "thumb": "https://pixabay.com/get/gb8e4abc85ebd453b9938498c7f65b58dd4af3697582f79958fdd6d6f29a7101f2b775dc3fb2a2341977c91aff054dfbf4a5772c0b40277fe2d208db83d0a8147_640.jpg",
+     "page": "https://pixabay.com/photos/inside-restaurant-bar-table-dining-2598319/",
+     "tags": "inside, restaurant, bar, table, dining, area, people, guest, customer, women, lamp, light, menu, bread, brown restaurant, brown table, brown bread, brown lamp, restaurant, restaurant, restaurant, guest, guest, customer, customer, customer, customer, customer, menu",
+     "duration": 0,
+     "query": "restaurant guests",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 4546618,
+     "url": "https://pixabay.com/get/gdf113014069e0f5cb9c4d55b0f10597e38ef5f856b18e9b9fdaa994c81372af58b3864a85b4657bda83a540728db2b1f23c15aadcbe2fa2e5d98f86471e114ed_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd9e2692cdfa577b1dbe8885ab42beec8ccf328a39420b452e591d7a94bcf41cb81aa36d78268b718f92c60d4b2527d23936480a3b35470992ddd2aedbf423cf7_640.jpg",
+     "page": "https://pixabay.com/photos/architecture-coffee-shop-building-4546618/",
+     "tags": "architecture, coffee shop, building, restaurant, city, facade, lounge, house, shop, window, exterior view, cafe, glass, lighting, relax, drink, coffee, bar, eve, evening atmosphere, coffee shop, lounge, lounge, lounge, lounge, lounge, cafe",
+     "duration": 0,
+     "query": "restaurant guests",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P04L4 waiter",
+   "candidates": [
+    {
+     "pixabay_id": 1846137,
+     "url": "https://pixabay.com/get/g30024c3c7ead75d9151cd3d07e848da11e8313515acdd46bf0cc2b02bea1d18cefbb154c12509622902095fa1830dfb4451fc6a0e503780878b05fe226c54ba8_1280.jpg",
+     "thumb": "https://pixabay.com/get/g612652f71cdced5c2204c8235f38ee9a59a876ebacd6e47d8a7cc1832a9aca4a2c31622837e03617a83e9fb1aa15dae6fed9e0cc4c403dbf0510f9a3d1241d42_640.jpg",
+     "page": "https://pixabay.com/photos/outdoor-dining-restaurant-bar-1846137/",
+     "tags": "outdoor dining, restaurant, bar, waiter, al fresco, city, customers, group, patrons, people, street, tables, chairs, restaurant, restaurant, restaurant, restaurant, restaurant",
+     "duration": 0,
+     "query": "waiter",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 498420,
+     "url": "https://pixabay.com/get/gbd1703e91f719927e9956aee806e2fb5f0674cbae880f39c62cdf9bd85f748d37629f266d6bbf7408ce5abd237621027088727d2511a80f437de611ff077e148_1280.jpg",
+     "thumb": "https://pixabay.com/get/ga8d69b087b9cee3533f4d109d4956182dd9a8a78c76a88509a926f8d6d9770d158146f990990805c723a181cf3058b95_640.jpg",
+     "page": "https://pixabay.com/photos/bar-lounge-cocktail-alcohol-glass-498420/",
+     "tags": "bar, lounge, cocktail, alcohol, glass, restaurant, club, interior, beverage, vintage, retro, service, nightlife, bartender, mixologist, nightclub, waiter, bottles, drinks, bar, bar, bar, bar, bar, restaurant, restaurant, restaurant, bartender, waiter",
+     "duration": 0,
+     "query": "waiter",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1372458,
+     "url": "https://pixabay.com/get/gb92ac1d51c9cd8fd3176b872934643b7f432949a2d84f3676249f295986b8ceb42986c48f3c39fb0fcaaf6a21f0bc9b48a21f841ca514fcb81e5abdc2fd9b4f4_1280.jpg",
+     "thumb": "https://pixabay.com/get/gca8a41b39514555fb2116ac014cc8287f8a1d94fcd0f79591e4d27e181a42784c4d0e6ab7bd02af424571b7f89d19f618e90f332aacf4e8c6057d6b6b0a0c1d5_640.jpg",
+     "page": "https://pixabay.com/photos/characters-jobs-work-fun-career-1372458/",
+     "tags": "characters, jobs, work, fun, career, job, real estate agent, businessman, plumber, painter, police, waitress, upper, vet, veterinarian, computer freak, mechanic, nurse, office, jobs, jobs, jobs, jobs, jobs, career, career, career, job, job, job, nurse, nurse",
+     "duration": 0,
+     "query": "waiter",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 3996802,
+     "url": "https://pixabay.com/get/g1c00fe121511085cf293ddab1c230a5b345ad35b11e40b1bc49be1f24a0ab764a9461b5690f25f0ebeb96ac770756e7bbf045a57ffb023c38fc14c860bbc4483_1280.jpg",
+     "thumb": "https://pixabay.com/get/gbd81c31cb97485b38cd02a9e43700eb2feeb30db31421b7396d7d55aed3cca2dc48c67dd634d7349c15c70709a9da75c8f1a51d78f3d3bf7e779551f68f2f759_640.jpg",
+     "page": "https://pixabay.com/photos/food-servers-banquet-waitress-3996802/",
+     "tags": "food, servers, banquet, waitress, waiter, server, restaurant, dining, service, customer, serving, catering, waitress, waitress, waitress, waiter, waiter, waiter, waiter, waiter, catering",
+     "duration": 0,
+     "query": "waitress serving",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 4701127,
+     "url": "https://pixabay.com/get/g39a8f3a60250e2e1577f4e2aa345b4ca853b7dda23eb172672274cd54922c52b0d5ab473f16a7975acdca0e6887022dbb80880c4d5e9b36f11c7877a392fc2a8_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd72eb8d9ee818d364cc24346eeaa2be1baba37123c5bfa7512b4fcd61921643d685677ff2c063a05efe845397db80dbf4878f6eee7844fa64340f5900cee49b3_640.jpg",
+     "page": "https://pixabay.com/photos/service-coffee-counter-bistro-4701127/",
+     "tags": "service, coffee, counter, bistro",
+     "duration": 0,
+     "query": "waitress serving",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1284351,
+     "url": "https://pixabay.com/get/g8ce5f473e052e8a43a81d50d6afca901b7f30870c87c863ffffb3f760d1baf3bbbea80d166509aae04f92a8e0ef320ad32c77fd019c94a0291ec11ca4600c363_1280.jpg",
+     "thumb": "https://pixabay.com/get/g1eea3aa550448e4d2aa365cc56824708f481177825dd63780b87257400abb2ae484539e497d4b6f580da0c6bc58a12d15108c894ff3443239c3dbbe8b54fc733_640.jpg",
+     "page": "https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/",
+     "tags": "restaurant, cooking, chef, kitchen, food, professional, preparation, meal, dish, appetizer, cook, lunch, plate, prepare, food preparation, restaurant, restaurant, restaurant, restaurant, cooking, cooking, cooking, cooking, cooking, chef, chef, chef, kitchen, food, cook",
+     "duration": 0,
+     "query": "waitress serving",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 492872,
+     "url": "https://pixabay.com/get/gfc0b6985eb062ae10cd739f36291c60e92a776774a4b5330ad54a60f5f2f5f09b76f898e293d65169ad5c0e7fb70942931a7f47e6b8053797c7c6d8e6c3286bf_1280.jpg",
+     "thumb": "https://pixabay.com/get/g0540209242186014f7cea57e9b253e3db3441f41e3a6dc5d0991871f5a950aa549f5675effc61fb2bfc905a0cfb8d433_640.jpg",
+     "page": "https://pixabay.com/photos/waiter-bread-deliver-serve-food-492872/",
+     "tags": "waiter, bread, deliver, serve, food, restaurant, service, man, meal, person, lunch, kitchen, male, adult, apron, dish, smiling, breakfast, happy, human, cooking, guy, tray, dinner, nutritious, tasty, eat, brown food, brown happy, brown kitchen, brown cooking, brown restaurant, brown smile, brown bread, brown human, brown dinner, brown eating, brown happiness, brown breakfast, brown service, waiter, waiter, waiter, waiter, waiter",
+     "duration": 0,
+     "query": "waiter restaurant",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 939434,
+     "url": "https://pixabay.com/get/g6969b2a1d53bea0da79aa3879351174f829842f1f6b825a7d88551f294d89ed6c10af120675d47e81bee7d729380ea8dcbb3e890d1edbb66aad82c3cf5d29462_1280.jpg",
+     "thumb": "https://pixabay.com/get/g318469588919c78064a3b8af78f58b4c2cf810e34489b3849527e66d3bf40212a70edcc4954a7daaa7d99b46ab42bd07_640.jpg",
+     "page": "https://pixabay.com/photos/dinner-salad-restaurant-italians-939434/",
+     "tags": "dinner, salad, restaurant, italians, berlin, kurf\u00fcrstendamm, dinner, restaurant, restaurant, restaurant, restaurant, restaurant",
+     "duration": 0,
+     "query": "waiter restaurant",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P04L5 chocolates",
+   "candidates": [
+    {
+     "pixabay_id": 2554,
+     "url": "https://pixabay.com/get/gca6df6059c686a3394e70647fbaba4029f5f12bd764fb6b969b63908729e416179808f9e565d84cd96724c19d30e9617_1280.jpg",
+     "thumb": "https://pixabay.com/get/g5682eb0b816c66232a242e0c9057bd034a7ee585c951efbab878fd7749217c346a2fefd78902cf962d602a9dda0f3259_640.jpg",
+     "page": "https://pixabay.com/photos/chocolate-bars-cocoa-chocolate-bars-2554/",
+     "tags": "chocolate, bars, cocoa, chocolate bars, bars of chocolate, chocolate barks, nuts, nutty chocolate, confections, sweets, desserts, calories, candies, food, treats, chocolate, chocolate, chocolate, chocolate, chocolate",
+     "duration": 0,
+     "query": "chocolates",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1737503,
+     "url": "https://pixabay.com/get/g8a709fadea580c27b2f75d72a5b7da01f1789508cd25a43c6d9b3be1dd780b0afb63976a604f8bb20c4e563bddd2bb7c7bafdd4c9f71dc52aa238d4680488199_1280.jpg",
+     "thumb": "https://pixabay.com/get/gae0d1c6f47c90b9a8fe6588c606d619dcd09f972f13fd1bc600672a51052462166d46442145874ecd9fe4352748822a5530787ed02bbf1f238289bb4514f9feb_640.jpg",
+     "page": "https://pixabay.com/photos/chocolates-chocolate-confiserie-1737503/",
+     "tags": "chocolates, chocolate, confiserie, sweets, nibble, chocolate praline, cute, food, yummy, enjoyment, nourishment, dessert, candy, chocolatier, meal, chocolate confectionery, gourmet, belgian chocolates, chocolate truffles, fine chocolates, white chocolate, truffles chocolates, cocoa, candy ball, dark chocolate, calories, calorie bomb, confectionery, snack, round chocolates, schokokugel, specialty, truffle, truffle chocolates, chocolate, chocolate, chocolate, chocolate, chocolate",
+     "duration": 0,
+     "query": "chocolates",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2562840,
+     "url": "https://pixabay.com/get/g24936d97508f1b52b2e378b443092540935a8cbe58adc5877aa47ea3a257be388fb07d36a57ad59d5bd3e526b39ca0f0d364f3a89873cd2965c2d8e9cd93c89d_1280.jpg",
+     "thumb": "https://pixabay.com/get/gcec1eb075813e2f218a494122cf284c05e944c5b1675173dc2e97748a2b6d8d4096a989980294f32b35e33ff10f40b7be878413f58590748d40d968624d5ce16_640.jpg",
+     "page": "https://pixabay.com/photos/dark-chocolate-bar-food-black-dark-2562840/",
+     "tags": "dark, chocolate, bar, food, black dark, black chocolate, chocolate, chocolate, chocolate, chocolate, chocolate",
+     "duration": 0,
+     "query": "chocolates",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 183543,
+     "url": "https://pixabay.com/get/gcf8c655b125bac4928f219d69d30135ff6abca4aa79b7ff588559ed487d9cb4ee46453cd81312b0d09eeac9b90b24d0787db0893c16f99d2000b6b90307a1424_1280.jpg",
+     "thumb": "https://pixabay.com/get/g40876d788bc1f4c2fff783d8043294b13efa988f1962e5f427fe74344e694f30745fea3546c0032dbb52fde36d05af56_640.jpg",
+     "page": "https://pixabay.com/photos/chocolate-bars-dark-chocolate-183543/",
+     "tags": "chocolate, bars, dark chocolate, chocolate bars, chocolatier, cocoa, cocoa powder, calories, confectionery, delicious, nibble, sweets, chocolate candy, bitter chocolate, chocolate pieces, close up, chocolate, chocolate, chocolate, chocolate, chocolate",
+     "duration": 0,
+     "query": "chocolate candy",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 7107142,
+     "url": "https://pixabay.com/get/g4d4d0484bc43815bdd031ae57ad274fff9f80f7ceebfe19952bbf02da16b3004c7b0e3da93ea25bfe9397362c0876acda2fb72b0ad9e8a31a603e1e65bd016ca_1280.jpg",
+     "thumb": "https://pixabay.com/get/g2c0ce8f1dd7f4950a2f50535c6286b0263cceb38cba32e1707e74822470c63663e8469990de72d6cd17dfe84e6840bfb873e052f76ac8c03a77c76c4905f487c_640.jpg",
+     "page": "https://pixabay.com/photos/hearts-sweets-desserts-treats-7107142/",
+     "tags": "hearts, sweets, desserts, treats, valentine's day, wedding shower, bridal shower, top view, chocolate-covered oreos, pastries, cookies",
+     "duration": 0,
+     "query": "chocolate candy",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 380702,
+     "url": "https://pixabay.com/get/g5cee337e3ebc794fa0007891bb63612da683897689281471c858222c781013fe9a62fe1bc961410a86f6890ec17210e55c0e610cf941184306b163dd1d84423e_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd60dd90c92b47c7a3897aeab23d5d7f74abdc207286b0a1f7b45b376732dab0d509d83792960246bbc07b13db114b13c_640.jpg",
+     "page": "https://pixabay.com/photos/white-chocolate-chocolate-food-380702/",
+     "tags": "white chocolate, chocolate, food, dessert, confectionery, sweet, tasty, close up, food photography, white chocolate, white chocolate, white chocolate, white chocolate, white chocolate, chocolate, chocolate",
+     "duration": 0,
+     "query": "chocolate candy",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 6707442,
+     "url": "https://pixabay.com/get/g10486943287a2587bfdc5c15ae9eb29292d799c1449393ab1b51a27b36741f251c98eeafa379baa4684b984cfe2514d941102c65d8e8fff0f9e86bdc5de14c96_1280.jpg",
+     "thumb": "https://pixabay.com/get/g787b61d7c54dcae6e84c54a7766113fd034373263c30c9b6d4d5b477184067ad110aa066d009ce67914e4ccdc89a3c34e9cf1b7a1b7b4f27c7a949d8cfcd2f94_640.jpg",
+     "page": "https://pixabay.com/photos/netherlands-sinterklaas-party-6707442/",
+     "tags": "netherlands, sinterklaas party, dutch tradition, sweets, celebration, saint nicholas, sint nicolaas, party, 5th of december, gifts, packages, bank holiday, peppernuts, sintsnoep, bag of santa claus, grit, package night, saint nicholas, saint nicholas, saint nicholas, saint nicholas, saint nicholas",
+     "duration": 0,
+     "query": "giving chocolate",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1549399,
+     "url": "https://pixabay.com/get/gf8e616f7d7519d862300e202a78554027a77c198f82365fa1af93dabd65fbabf6e03943874dfea654da677b8a8aad7ca07b8b50d4a94261fe72f430a29bed934_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd363ac186a0591ef2e7c4eb85728d48ffe682700c9cd3f890e94dbff6c95df7f24c8872ff32f8dc46a252751e2df6a8501cec5139e47afa7434089ba556e6bfc_640.jpg",
+     "page": "https://pixabay.com/photos/happy-valentines-day-hand-gift-1549399/",
+     "tags": "happy valentines day, hand, gift, bouquet, love, flower wallpaper, congratulate, give, flowers, bunch of flowers, beautiful flowers, offering, flower background, nature, fence, concept",
+     "duration": 0,
+     "query": "giving chocolate",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P04L6 tip",
+   "candidates": [
+    {
+     "pixabay_id": 7962483,
+     "url": "https://pixabay.com/get/g9ba9b10d46905ef6d31da83fda02c45e568d9d754b5ebc26a0df131492647404dbdfe7318bb6f5deb78a0fccca573dc6cb01322772afacc22174389cacefa1fc_1280.jpg",
+     "thumb": "https://pixabay.com/get/g1b7b5bcc3466f59543ab8fe53c669a1e9b7427244a2da7b8a7f74bc0a77bdc367e584121061326e653c68eb2736908d0de392c2c391591913969d556e2838015_640.jpg",
+     "page": "https://pixabay.com/photos/man-piano-elderly-playing-outdoor-7962483/",
+     "tags": "man, piano, elderly, playing, outdoor, restaurant, terrace, musical, entertainment",
+     "duration": 0,
+     "query": "tip restaurant",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2592341,
+     "url": "https://pixabay.com/get/ga373476774e238e0baf0e04f5053b4aab55419b836244efdfce085654f52e8a9f82dd0ae3ef2268a739bee70d11651615a8594a937d5849128b157101a0833a5_1280.jpg",
+     "thumb": "https://pixabay.com/get/g047ade9bb967a38faab0001f452fc23d1165b6b154d1f73e849910abe549aa9c1021fdf9445c04db3ab0b7d191296dd74d267d70ace5cdcbccb9836280fcd2ca_640.jpg",
+     "page": "https://pixabay.com/photos/people-man-bartender-restaurant-2592341/",
+     "tags": "people, man, bartender, restaurant, shop, cafe, coffee, money, dollar, table, cap, bartender, bartender, bartender, bartender, bartender",
+     "duration": 0,
+     "query": "tip restaurant",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8031510,
+     "url": "https://pixabay.com/get/gfd3ffb764e7d259e8454e3d142c07de867222670f563a2f045671e6f637719aad7ee0e19853baf25eb548512fc8a3d71cfe0ab4319dc9c2a880673d0f01fd784_1280.jpg",
+     "thumb": "https://pixabay.com/get/g5f8dab045b0e05badbe6d32800692a24e4de827d7f67642b6763ffcf45ff0ef30bf6b9fa67acf4a9951275bb2ba33875693ce38802aa1068e16e0066849b2800_640.jpg",
+     "page": "https://pixabay.com/photos/crepes-strawberries-dessert-meal-8031510/",
+     "tags": "crepes, strawberries, dessert, meal, food",
+     "duration": 0,
+     "query": "tip restaurant",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2139278,
+     "url": "https://pixabay.com/get/g06abda8f3726a4eecc012797d600b159559eef14ea14dd40229932d8666ae56a55131f72a669209c4d1081edd3cc2b041c093a1c5b7a8565b55efaaa0411146d_1280.jpg",
+     "thumb": "https://pixabay.com/get/g1f254871cac54132543b7d293bd124eec11cdce9d500e3b7bf33e75bfc34b6a939a215cebc0c84aca0792c0b44a2aa110e8be068ac20d001e4277b73aa64dcb2_640.jpg",
+     "page": "https://pixabay.com/photos/hummingbird-bird-trochilidae-flying-2139278/",
+     "tags": "hummingbird, bird, trochilidae, flying, plumage, colorful, iridescent, bill, wings, nature, flight, flying bird, ave, avian, ornithology, birdwatching, animal, animal world",
+     "duration": 0,
+     "query": "paying bill",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 881594,
+     "url": "https://pixabay.com/get/g05627bb4942b1a230eb270468a492f0d88614e454945e5eedea927a85dd34f3bd94fd35b93bf7aee4b798f548e5c2ca44531f349b37688ad3bc57971b27d8793_1280.jpg",
+     "thumb": "https://pixabay.com/get/g2e1a0e67583906c570b4b83433f4b48e4c93532d139fb48bc84e56da8976f5b424e0a08fc9c24ca46894a203a9b0bc25_640.jpg",
+     "page": "https://pixabay.com/photos/kingfisher-bird-wood-perched-881594/",
+     "tags": "kingfisher, bird, wood, perched, alcedo atthis, common kingfisher, small, animal, wildlife, feathers, plumage, beak, bill, branch, wild, wilderness, nature, birdwatching, bird, bird, bird, bird, bird",
+     "duration": 0,
+     "query": "paying bill",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 6484206,
+     "url": "https://pixabay.com/get/gc5c3d43d569ea53f98e1732efa9b2bbb459517ae8177dc8ae1102f3c24132593f0ac5ed7a2d456f0082582c1a3825cf7fe7f28054885d726fe667d57d2a9f554_1280.jpg",
+     "thumb": "https://pixabay.com/get/g20f80050194125abc3ea3f81c80eb53d59de7c9e42d4344a36cd36ea4d83734a344fe561a1808a84bbf7f5f31a832002318b26e6c750b86855efdc8c2d42dff9_640.jpg",
+     "page": "https://pixabay.com/photos/parrot-bird-perched-animal-6484206/",
+     "tags": "parrot, bird, perched, iphone wallpaper, animal, mobile wallpaper 4k, colorful, feathers, plumage, beak, mobile wallpaper, bill, bird watching, ipad wallpaper, ornithology, samsung wallpaper, animal world, avian, lock screen wallpaper, exotic, beautiful wallpaper, wildlife, tropical, portrait, nature, wallpaper, phone wallpaper, bright",
+     "duration": 0,
+     "query": "paying bill",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2322785,
+     "url": "https://pixabay.com/get/g92d991e69466108d136399a5ddfdd53c7bc2b3b2a4f00393f1dc8561de068d65e0fce8f9a9ab84f0d20d6f72eaaaa2bb566a57be116e992b6f1f11424334ad8e_1280.jpg",
+     "thumb": "https://pixabay.com/get/g4f5f9d05730436e5e97c7401d243619fdee38c433ae6ecf3ea2db8471ab4ddf83e745c7d29e200ddf8f8d15a3a2ce5b1f573deee99c037350d14016158875023_640.jpg",
+     "page": "https://pixabay.com/photos/dollar-grades-money-note-money-2322785/",
+     "tags": "dollar, grades, money, note money, cash, america, dollar, dollar, money, money, money, money, money, cash, cash, cash, cash",
+     "duration": 0,
+     "query": "cash on table",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 7356555,
+     "url": "https://pixabay.com/get/gf05f08d99f9c43e3dbeb71948d577702e7c7bc9635645be27779210a7e90f6eaba4a62a5c1f4750ee1b6f9fb92fb913d1adf1f9a2705d5e43c7b203ffd5f4aad_1280.jpg",
+     "thumb": "https://pixabay.com/get/g3e7aa224a8372c7fc71243abafad4106f202a1392eb2b990f19d2e64dd19c02951a9059ab00859d3be3d1c0348c149d789c2268975061aea80840ea0d689296e_640.jpg",
+     "page": "https://pixabay.com/photos/currency-note-wage-real-money-7356555/",
+     "tags": "currency, note, wage, real money, brazilian currency",
+     "duration": 0,
+     "query": "cash on table",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P05L2 museum",
+   "candidates": [
+    {
+     "pixabay_id": 458321,
+     "url": "https://pixabay.com/get/g0a650ad0b88d9b486c6cc55e91216ae3984e539e83457367e6c765fb36ba31f43076edeca4dfe3e5df545d31c60e8cce4e74bd8afd0a6dc716cfc45acb274c09_1280.jpg",
+     "thumb": "https://pixabay.com/get/gcbec40af9612ca2e332f867e79d413c2d459eedbaa4088d059189abdf434230aceaa78b89bd24d4c989510e6429667e8_640.jpg",
+     "page": "https://pixabay.com/photos/museum-architecture-london-landmark-458321/",
+     "tags": "museum, architecture, london, landmark, city, building, structure, europe, antiquities, art, culture, british museum, museum, museum, museum, museum, museum, london, london, london, london, british museum, british museum, London, England, United Kingdom",
+     "duration": 0,
+     "query": "museum visitors",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1283009,
+     "url": "https://pixabay.com/get/gdbb77d3f9f44e26505120c487c79c0cd5e7d906acddad6d9e213e8c0686424d014577f7d20504d2f7cfddbfe455aa86dfda5f25e1f824a171914cfa60dcf7f8b_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd702f29fcb1280d47bd49f9f1548f8fb9df0340fb72799752139b5513711e546224841dacf3cf1dbbdede44a67cfb7f16b4efc27791b14281ce46431f7b62984_640.jpg",
+     "page": "https://pixabay.com/photos/woman-art-creative-relaxation-girl-1283009/",
+     "tags": "woman, art, creative, relaxation, girl, gallery, creativity, old, museum, exhibition, pictures, louvre, paintings, vernissage, inspiration, zoom background, brown background, brown art, brown relax, brown zoom, brown painting, brown paint, brown creative, brown old, brown inspiration, art, gallery, museum, museum, museum, museum, museum",
+     "duration": 0,
+     "query": "museum visitors",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8431913,
+     "url": "https://pixabay.com/get/g235d04d1efec238183dd5e99e67c94fd81251e2c7675d9ae38bb4465c0d1c4a2d29085740eaa104e86a09d379ce67b7e1ee00ca06aebf7d91ddd3efc731e65bd_1280.jpg",
+     "thumb": "https://pixabay.com/get/gfde5a68e6df668577f24234d116dd6cb1669c72173345c5e96d8fea46d095139613747fd0efe7250617a88cf001a11b7aa99c481cd7cc51399627621f987c02b_640.jpg",
+     "page": "https://pixabay.com/photos/exhibition-museum-gallery-art-8431913/",
+     "tags": "exhibition, museum, gallery, art, people, sculptures, statue, viewer, viewing, monochrome, museum, people, people, people, people, people",
+     "duration": 0,
+     "query": "museum visitors",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 6469580,
+     "url": "https://pixabay.com/get/g80caef984f11d3a2de2f54d340c7941d46065bae9ee40d4eaf7b74136e5a697ef961d0ab67f5d2ddca54ec480358792fe4305b84c1d758fed03ff692a7d095ad_1280.jpg",
+     "thumb": "https://pixabay.com/get/gbe706d1dc5ad36f28b85f0758f2c09b4dca26a8adbc8d0cd9ebd70a8cf590cb4e94b33d033578011b76546b0fad747024b45b475a6defd8b10d10c3a381a14c1_640.jpg",
+     "page": "https://pixabay.com/photos/versailles-castle-hall-museum-6469580/",
+     "tags": "versailles, castle, hall, museum, interior, sculptures, statues, hallway, architecture, france, castle, castle, castle, castle, castle, hall, hall, museum, museum, museum, hallway",
+     "duration": 0,
+     "query": "museum",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5195046,
+     "url": "https://pixabay.com/get/gf254d597266462669a4c939d4fc34ea7261c63578a958615fa44a0ee48ea5dd539c75063379c3d3a2b44fd84b4161f8dbd9386b51f0ae924c6900752ad48c761_1280.jpg",
+     "thumb": "https://pixabay.com/get/g4d0131aa8d4fca453bf4e9bc46710dd0f771e537fa45c3cf11d5499091702c3a2fc31cf905e134c116d170c9217069ebac292f3c26ed5a8ff74ba8b8ce1b37eb_640.jpg",
+     "page": "https://pixabay.com/photos/rome-vatican-stairs-italy-pope-5195046/",
+     "tags": "rome, vatican, stairs, italy, pope, architecture, michelangelo, roma, basilica, church, tourism, building, museum, travel, staircase, famous, city, europe, italian, historical architecture, baroque architecture, rome, rome, rome, rome, rome, vatican, vatican, vatican, vatican, stairs, architecture, architecture, architecture, roma, museum, staircase, staircase",
+     "duration": 0,
+     "query": "museum",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2013048,
+     "url": "https://pixabay.com/get/gec5593d8a82b51bc9c1a8088a72648060dbad791e6dd7d47b00ec72e41a753450462a8dab4bb1da747a64c2569120d6ad8e6ea6c42f9b5ca0ce3a72c4fb9ee31_1280.jpg",
+     "thumb": "https://pixabay.com/get/g835b6b4e4261eb8451431c19928a0690b6c8176ff44ba2ac6d136091927aa1317b53a1a59849b20423048b6a62b319f1001316705d47e433188b641657f1e9a5_640.jpg",
+     "page": "https://pixabay.com/photos/sculpture-bronze-woman-statue-2013048/",
+     "tags": "sculpture, bronze, woman, statue, close up, fighter, artwork, bronze sculpture, old museum, berlin, sculpture, sculpture, bronze, statue, statue, statue, statue, statue, fighter, berlin, berlin",
+     "duration": 0,
+     "query": "museum",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 846873,
+     "url": "https://pixabay.com/get/g64e39b7b86b87dc3ccdfc34cca04387ef3b1b48db403e52c3be008474ff6e470489fee836a3917764eaf589b17c22a60c1f7475be93708994ca0ddc5a4551c6f_1280.jpg",
+     "thumb": "https://pixabay.com/get/gaddb342c99b9faf0be1ee98c56b339ddf0f9102f3a5c56f37874d09dfed3e64b9d930ba0562ed88ec5e4682b6b3b68b7_640.jpg",
+     "page": "https://pixabay.com/photos/paris-museum-orsay-clock-women-846873/",
+     "tags": "paris, museum, orsay, clock, women, people, numbers, paris, paris, clock, clock, clock, clock, clock",
+     "duration": 0,
+     "query": "people museum",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1649815,
+     "url": "https://pixabay.com/get/g2ce93d3e5b3374b0643705b4ad87bd6ba960da1ee605eeaec8bb5b2d72a327d4713f7194902faebc4fe5327fee69e9a4eae92c08a47986a188eef9ed0e82c68b_1280.jpg",
+     "thumb": "https://pixabay.com/get/g26dd28eb7796f51e802b1857f9e0afe3596ba8511778d0adce18e2ad9ddd03419a2b89925002df32d54cc595d4c164ce49edb8937423b72188053a738ac4b840_640.jpg",
+     "page": "https://pixabay.com/photos/visitors-exhibition-see-museum-art-1649815/",
+     "tags": "visitors, exhibition, see, museum, art, gallery, exhibition, museum, museum, museum, museum, museum, gallery, gallery, gallery",
+     "duration": 0,
+     "query": "people museum",
+     "kind": "photo"
+    }
+   ]
+  }
+ ]
+}

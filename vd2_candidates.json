@@ -1,0 +1,435 @@
+{
+ "id": "vd2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P10 smell v",
+   "candidates": [
+    {
+     "pixabay_id": 47551,
+     "url": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_small.jpg",
+     "page": "https://pixabay.com/videos/id-47551/",
+     "tags": "pot, flowers, hand, woman, garden, nature, gardening, holding, smelling flowers, springtime, green, natural, flower pot, environment, plant, earth",
+     "duration": 10,
+     "query": "smelling flower",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 16459,
+     "url": "https://cdn.pixabay.com/video/2018/05/26/16459-272487477_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/26/16459-272487477_small.jpg",
+     "page": "https://pixabay.com/videos/id-16459/",
+     "tags": "poppy field, red poppy, flower, red flower, plant, nature, poppies, meadow flower, spring flower, wildflower, mood, summer flowers, red, flora",
+     "duration": 32,
+     "query": "smelling flower",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 16453,
+     "url": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/26/16453-272487468_small.jpg",
+     "page": "https://pixabay.com/videos/id-16453/",
+     "tags": "poppy field, poppy, field, red flower, flower, plant, summer, poppies, red poppy, nature, summer plants, summer flowers, wildflower, spring, summer flower, red, flora, sunset",
+     "duration": 30,
+     "query": "smelling flower",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 16165,
+     "url": "https://cdn.pixabay.com/video/2018/05/12/16165-269534746_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/12/16165-269534746_small.jpg",
+     "page": "https://pixabay.com/videos/id-16165/",
+     "tags": "smelled, stingray, fishes, underwater, aquarium, underwater world, sea creatures",
+     "duration": 17,
+     "query": "smelling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 16164,
+     "url": "https://cdn.pixabay.com/video/2018/05/12/16164-269534743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/12/16164-269534743_small.jpg",
+     "page": "https://pixabay.com/videos/id-16164/",
+     "tags": "smelled, stingray, underwater, aquarium, underwater world, sea creatures",
+     "duration": 19,
+     "query": "smelling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 270086,
+     "url": "https://cdn.pixabay.com/video/2025/04/06/270086_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/06/270086_small.jpg",
+     "page": "https://pixabay.com/videos/id-270086/",
+     "tags": "dog, relaxing, smelling, pet, animal, deck",
+     "duration": 14,
+     "query": "smelling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "smell",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 40167,
+     "url": "https://cdn.pixabay.com/video/2020/05/25/40167-424912126_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/25/40167-424912126_small.jpg",
+     "page": "https://pixabay.com/videos/id-40167/",
+     "tags": "coffee, falling coffee beans, the smell of, aroma, morning, caffeine, cafe, brown, light, shadow",
+     "duration": 50,
+     "query": "smell",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P02 cinema v",
+   "candidates": [
+    {
+     "pixabay_id": 24496,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_small.jpg",
+     "page": "https://pixabay.com/videos/id-24496/",
+     "tags": "camera, the video camera, movie, cinema, photo, photographer, video, lens, shoot, cameraman, video camera, recording, digital",
+     "duration": 19,
+     "query": "cinema",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 107142,
+     "url": "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/08/107142-675298847_small.jpg",
+     "page": "https://pixabay.com/videos/id-107142/",
+     "tags": "tape, music, registration, sound, speaker, studio, pulley, cinema, movie, retro, stale, reel to reel tape recorder, cinematic, real to real, reel tape",
+     "duration": 39,
+     "query": "cinema",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2792,
+     "url": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/13/2792-162802086_small.jpg",
+     "page": "https://pixabay.com/videos/id-2792/",
+     "tags": "popcorn, popping, cooking, food, snack, movie, cinema, eat, entertainment, bowl, pan",
+     "duration": 27,
+     "query": "cinema",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1823,
+     "url": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_small.jpg",
+     "page": "https://pixabay.com/videos/id-1823/",
+     "tags": "movie, opening credits, curtain up, curtain closed, movie theater, canvas, video",
+     "duration": 10,
+     "query": "movie theater",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26531,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_small.jpg",
+     "page": "https://pixabay.com/videos/id-26531/",
+     "tags": "camera, camcorder, video, movie theater, equipment, lens, digital, technology, audiovisual, media, photo, tv, production, image, streaming, studio, the operator, event, people, celebration, show, crowd, entertainment",
+     "duration": 14,
+     "query": "movie theater",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 62825,
+     "url": "https://cdn.pixabay.com/video/2021/01/25/62825-505080344_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/25/62825-505080344_small.jpg",
+     "page": "https://pixabay.com/videos/id-62825/",
+     "tags": "woman, mask, portrait, hair, face, theatre, movie, game, wind, overview, people, design, inspiration, opinions, concept, horror, halloween, night, dream",
+     "duration": 55,
+     "query": "movie theater",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130439,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_small.jpg",
+     "page": "https://pixabay.com/videos/id-130439/",
+     "tags": "theater, stage, caesarea, caesarea national park, ancient theater, israel, mediterranean sea, roman, architecture",
+     "duration": 13,
+     "query": "theater",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 219780,
+     "url": "https://cdn.pixabay.com/video/2024/07/06/219780_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/06/219780_small.jpg",
+     "page": "https://pixabay.com/videos/id-219780/",
+     "tags": "theater, roof, architecture, nature, quadrocopter, sun, flying, city, view, summer, drone",
+     "duration": 15,
+     "query": "theater",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P12 talk v",
+   "candidates": [
+    {
+     "pixabay_id": 370,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_small.jpg",
+     "page": "https://pixabay.com/videos/id-370/",
+     "tags": "sea, beach, ocean, back light, surfer, man, woman, pair, happy, holiday, talking, waves, sparkle, glitter, water, coast, 9311383",
+     "duration": 10,
+     "query": "woman talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "woman talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130212,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130212-748134203_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130212-748134203_small.jpg",
+     "page": "https://pixabay.com/videos/id-130212/",
+     "tags": "woman, young, walking, happy, lifestyle, smile, female, adult, girl, person, communication, technology, online, internet, chatting, phone, connection, home, smartphone, mobile, social media, chat, conversation",
+     "duration": 14,
+     "query": "woman talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 35070,
+     "url": "https://cdn.pixabay.com/video/2020/04/05/35070-407595451_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/05/35070-407595451_small.jpg",
+     "page": "https://pixabay.com/videos/id-35070/",
+     "tags": "web webinar, application job, business ethnicity, businesswoman chat, college tutor, technology virtual, prepare professional, using video, language laptop, internet interpreter, test training, student studying, notebook office, teach teacher, headphones headset, work worker, technology teenager, people person, conversation course, call camera, information internet",
+     "duration": 12,
+     "query": "talking to camera",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 318654,
+     "url": "https://cdn.pixabay.com/video/2025/11/28/318654_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/28/318654_small.jpg",
+     "page": "https://pixabay.com/videos/id-318654/",
+     "tags": "drone, beach, nature, landscape, camera, flight, sea, uav, travel",
+     "duration": 29,
+     "query": "talking to camera",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 314643,
+     "url": "https://cdn.pixabay.com/video/2025/11/07/314643_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/07/314643_small.jpg",
+     "page": "https://pixabay.com/videos/id-314643/",
+     "tags": "drone, nature, beach, landscape, camera, technology, tech, aircraft, uav, travel, sea, summer",
+     "duration": 8,
+     "query": "talking to camera",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 204420,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_small.jpg",
+     "page": "https://pixabay.com/videos/id-204420/",
+     "tags": "man, call, happy, to speak, laugh, discuss",
+     "duration": 15,
+     "query": "speaking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 204421,
+     "url": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/16/204421-924209373_small.jpg",
+     "page": "https://pixabay.com/videos/id-204421/",
+     "tags": "man, call, smartphone, anger, to speak, yell, discuss, unhappy",
+     "duration": 22,
+     "query": "speaking",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P14 daydream v",
+   "candidates": [
+    {
+     "pixabay_id": 118178,
+     "url": "https://cdn.pixabay.com/video/2022/05/26/118178-714270952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/26/118178-714270952_small.jpg",
+     "page": "https://pixabay.com/videos/id-118178/",
+     "tags": "candle flame, candlelight, candles, contemplation, daydreaming, leaning tower of pisa, memory, mockup, paper images, paper photo, pisa, leaning tower",
+     "duration": 15,
+     "query": "daydreaming",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3068,
+     "url": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_small.jpg",
+     "page": "https://pixabay.com/videos/id-3068/",
+     "tags": "smoke, ascending, haze, blue, step out",
+     "duration": 10,
+     "query": "staring out window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22761,
+     "url": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_small.jpg",
+     "page": "https://pixabay.com/videos/id-22761/",
+     "tags": "bud, leaf, sprout, rise up, time lapse, leaf bud, eye, set out, branch, spring awakening, drive out, summit bud",
+     "duration": 47,
+     "query": "staring out window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11722,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_small.jpg",
+     "page": "https://pixabay.com/videos/id-11722/",
+     "tags": "rain, water, window, wet, drops, dripping, rainy, night, light, sad",
+     "duration": 33,
+     "query": "staring out window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "lost in thought",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15241,
+     "url": "https://cdn.pixabay.com/video/2018/03/28/15241-262569972_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/28/15241-262569972_small.jpg",
+     "page": "https://pixabay.com/videos/id-15241/",
+     "tags": "drone shot, italian alps, log footage, lost, mountains, spring in alps, mountain valley",
+     "duration": 31,
+     "query": "lost in thought",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15239,
+     "url": "https://cdn.pixabay.com/video/2018/03/28/15239-262569965_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/28/15239-262569965_small.jpg",
+     "page": "https://pixabay.com/videos/id-15239/",
+     "tags": "drone selfie, italian alps, log footage, lost girl, spring in alps, mountain valley",
+     "duration": 33,
+     "query": "lost in thought",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 62595,
+     "url": "https://cdn.pixabay.com/video/2021/01/21/62595-504654720_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/21/62595-504654720_small.jpg",
+     "page": "https://pixabay.com/videos/id-62595/",
+     "tags": "wolf, tongue, licking, predator, canine, zoo, outdoor, forest, wolves, pack, yellow eyes, staring, cautious",
+     "duration": 27,
+     "query": "staring out window",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P04 restaurant v",
+   "candidates": [
+    {
+     "pixabay_id": 227128,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227128_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227128_small.jpg",
+     "page": "https://pixabay.com/videos/id-227128/",
+     "tags": "lunch, food, dinner, meal, cooking, restaurant, breakfast, sandwich, delicious, dish",
+     "duration": 6,
+     "query": "restaurant",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126334,
+     "url": "https://cdn.pixabay.com/video/2022/08/01/126334-735976704_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/01/126334-735976704_small.jpg",
+     "page": "https://pixabay.com/videos/id-126334/",
+     "tags": "bar, boats, applause, cocktail, drink, feast, restaurant, woman",
+     "duration": 5,
+     "query": "restaurant",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11620,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_small.jpg",
+     "page": "https://pixabay.com/videos/id-11620/",
+     "tags": "roast, pork, meat, food, roasted, dinner, meal, grilled, lunch, barbecue, cooked, bbq, gourmet, cuisine, delicious, cooking, steak, restaurant, dish, baked, hot, cook, loin, fillet",
+     "duration": 20,
+     "query": "restaurant",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10878,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_small.jpg",
+     "page": "https://pixabay.com/videos/id-10878/",
+     "tags": "discussion, restaurant, people, talk, communication, lunch, dinner, together",
+     "duration": 20,
+     "query": "restaurant dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3625,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3625-172488382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3625-172488382_small.jpg",
+     "page": "https://pixabay.com/videos/id-3625/",
+     "tags": "running sushi, sushi, japanese food, food, fish, asian, meal, restaurant, rice, seafood, cuisine, sashimi, traditional, salmon, dish, dinner, rolls, gourmet, diet, wasabi, culture, ginger, culinary, healthy, eat, tradition, sauce, shrimp, tuna, raw",
+     "duration": 17,
+     "query": "restaurant dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1623,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1623-148613540_small.jpg",
+     "page": "https://pixabay.com/videos/id-1623/",
+     "tags": "cafe, restaurant, talking, talk, people, sitting, chatting, menu, coffee, dinner, table, bar, drink, interior, cafe interior, restaurant interior",
+     "duration": 19,
+     "query": "restaurant dinner",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 172686,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_small.jpg",
+     "page": "https://pixabay.com/videos/id-172686/",
+     "tags": "dining table, table, eat, dinner, family, family dinner",
+     "duration": 12,
+     "query": "dining",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 246385,
+     "url": "https://cdn.pixabay.com/video/2024/12/12/246385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/12/246385_small.jpg",
+     "page": "https://pixabay.com/videos/id-246385/",
+     "tags": "sushi, salmon, food, restaurant, japanese, japan, nature, fish, rice, meal, seafood, rolls, dish, sashimi, dining, asia",
+     "duration": 5,
+     "query": "dining",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

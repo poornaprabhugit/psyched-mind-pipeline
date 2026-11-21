@@ -1,0 +1,435 @@
+{
+ "id": "vd1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P03 yawn v",
+   "candidates": [
+    {
+     "pixabay_id": 122124,
+     "url": "https://cdn.pixabay.com/video/2022/06/26/122124-724732611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/26/122124-724732611_small.jpg",
+     "page": "https://pixabay.com/videos/id-122124/",
+     "tags": "tiger, feline, stripes, carnivore, animal, yawn",
+     "duration": 11,
+     "query": "yawn",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 180693,
+     "url": "https://cdn.pixabay.com/video/2023/09/15/180693-864967735_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/15/180693-864967735_small.jpg",
+     "page": "https://pixabay.com/videos/id-180693/",
+     "tags": "cat, face, yawn, asleep, animal, pet, cute",
+     "duration": 50,
+     "query": "yawn",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46320,
+     "url": "https://cdn.pixabay.com/video/2020/08/03/46320-447422988_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/03/46320-447422988_small.jpg",
+     "page": "https://pixabay.com/videos/id-46320/",
+     "tags": "cat, yawn, home, sleepy, animal, pet, kitten, kitty",
+     "duration": 17,
+     "query": "yawn",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6970,
+     "url": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/01/6970-197914397_small.jpg",
+     "page": "https://pixabay.com/videos/id-6970/",
+     "tags": "lion, hagenbeck, yawning, big cat, to sunbathe, panthera leo, rock, majestic, zoo, awake",
+     "duration": 21,
+     "query": "yawning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 117749,
+     "url": "https://cdn.pixabay.com/video/2022/05/22/117749-713017125_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/22/117749-713017125_small.jpg",
+     "page": "https://pixabay.com/videos/id-117749/",
+     "tags": "ape, barbary macaque, furry, construction pole, animal, weary, yawning, wildlife",
+     "duration": 21,
+     "query": "yawning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 142997,
+     "url": "https://cdn.pixabay.com/video/2022/12/15/142997-781982500_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/15/142997-781982500_small.jpg",
+     "page": "https://pixabay.com/videos/id-142997/",
+     "tags": "tiger, predator, mammal, yawning, licking, wildlife, animal",
+     "duration": 25,
+     "query": "yawning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 233504,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233504_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233504_small.jpg",
+     "page": "https://pixabay.com/videos/id-233504/",
+     "tags": "dog, german shepperd, pet, sleepy, mammal, animal",
+     "duration": 11,
+     "query": "sleepy",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 150871,
+     "url": "https://cdn.pixabay.com/video/2023/02/15/150871-799327597_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/15/150871-799327597_small.jpg",
+     "page": "https://pixabay.com/videos/id-150871/",
+     "tags": "parrot, bird, yellow, blue sky, sleepy, animal, fauna",
+     "duration": 10,
+     "query": "sleepy",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P04 waiter v",
+   "candidates": [
+    {
+     "pixabay_id": 181546,
+     "url": "https://cdn.pixabay.com/video/2023/09/21/181546-866999878_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/21/181546-866999878_small.jpg",
+     "page": "https://pixabay.com/videos/id-181546/",
+     "tags": "cafe, restaurant, bar, waiter, coffee, people",
+     "duration": 15,
+     "query": "waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26373,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26373-357839133_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26373-357839133_small.jpg",
+     "page": "https://pixabay.com/videos/id-26373/",
+     "tags": "beer, brewery, tavern, waiter",
+     "duration": 12,
+     "query": "waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 29028,
+     "url": "https://cdn.pixabay.com/video/2019/11/13/29028-373125395_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/13/29028-373125395_small.jpg",
+     "page": "https://pixabay.com/videos/id-29028/",
+     "tags": "a glass of wine, white, dry, a restaurant, the waiter, drink",
+     "duration": 7,
+     "query": "waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1008,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1008-142621182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1008-142621182_small.jpg",
+     "page": "https://pixabay.com/videos/id-1008/",
+     "tags": "coffee, restaurant, espresso, cafe, coffee shop, shop, drink, food, coffee cup, breakfast, cup of coffee, menu, cappuccino, aroma, caffeine, waiter, blur, bokeh",
+     "duration": 17,
+     "query": "restaurant waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "restaurant waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "restaurant waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33256,
+     "url": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_small.jpg",
+     "page": "https://pixabay.com/videos/id-33256/",
+     "tags": "pasta, food, pastas, eat, nutrition, spaghetti, noodles, italian, cooker, restaurant, lunch, tomato, italy, vegetarian, ingredient, carbs, delicious, recipes, yummy, healthy",
+     "duration": 10,
+     "query": "restaurant waiter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11610,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_small.jpg",
+     "page": "https://pixabay.com/videos/id-11610/",
+     "tags": "slice, chinese, cabbage, food, cuisine, vegetable, healthy, meal, asian, dish, restaurant, delicious, meat, china, dinner, crispy, sweet, oriental, beijing, peking, herb, fried",
+     "duration": 19,
+     "query": "restaurant waiter",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P08 gum v",
+   "candidates": [
+    {
+     "pixabay_id": 215533,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215533_small.jpg",
+     "page": "https://pixabay.com/videos/id-215533/",
+     "tags": "hippo, hippopotamus, animal, wildlife, werribee open range zoo, zoo, chewing, chewing mat, nature",
+     "duration": 30,
+     "query": "chewing gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 341430,
+     "url": "https://cdn.pixabay.com/video/2026/03/21/341430_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/03/21/341430_small.jpg",
+     "page": "https://pixabay.com/videos/id-341430/",
+     "tags": "koala, marsupial, phascolarctos cinereus, herbivore, arboreal, wildlife, animal, nature, tree, mammal, pouched mammal, eucalyptus, leaves, fluffy, native, australia, australian, iconic, aussie, protected, wild, eating, gum tree, gum leaves",
+     "duration": 11,
+     "query": "chewing gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 131551,
+     "url": "https://cdn.pixabay.com/video/2022/09/16/131551-750721062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/16/131551-750721062_small.jpg",
+     "page": "https://pixabay.com/videos/id-131551/",
+     "tags": "cow, animal, mammal, bovine, shaking head, resting, chewing cud, pasture, meadow",
+     "duration": 10,
+     "query": "chewing gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 7141,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7141-198606872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7141-198606872_small.jpg",
+     "page": "https://pixabay.com/videos/id-7141/",
+     "tags": "soap bubble, freeze, winter, cold, freezing, ice cream, frozen, frozen soap bubble, blue, wintry, ice crystals",
+     "duration": 40,
+     "query": "bubble gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 7105,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7105-198553615_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7105-198553615_small.jpg",
+     "page": "https://pixabay.com/videos/id-7105/",
+     "tags": "soap bubble, freeze, crystal formation, crystals, ice crystals, cold, bubble, backlighting, winter, bullet, wintry, frozen, frost, spherical shape, spherical, icy, icy cold, ice flowers, crystal growth, crystalline, snow, ice cream, the winter's tale, winter magic, fairytale, magical, magic, frozen bubble, double bubble",
+     "duration": 16,
+     "query": "bubble gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 7558,
+     "url": "https://cdn.pixabay.com/video/2017/01/28/7558-201447783_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/28/7558-201447783_small.jpg",
+     "page": "https://pixabay.com/videos/id-7558/",
+     "tags": "soap bubble, freeze, frost, night, cold, darkness, ice cream, icy",
+     "duration": 32,
+     "query": "bubble gum",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 412,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/412-136139401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/412-136139401_small.jpg",
+     "page": "https://pixabay.com/videos/id-412/",
+     "tags": "elk, animal, chewing, eating, grazing, mammal, sitting, nature, brown, deer, fur",
+     "duration": 12,
+     "query": "chewing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 118094,
+     "url": "https://cdn.pixabay.com/video/2022/05/25/118094-713887593_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/25/118094-713887593_small.jpg",
+     "page": "https://pixabay.com/videos/id-118094/",
+     "tags": "cow, animal, mammal, cattle, livestock, pasture, meadow, rural, chewing the cud, farm",
+     "duration": 13,
+     "query": "chewing",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P11 tickle v",
+   "candidates": [
+    {
+     "pixabay_id": 33631,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_small.jpg",
+     "page": "https://pixabay.com/videos/id-33631/",
+     "tags": "child, child smiling, baby, kid, happy, smile, childhood, person, little, children, cheerful, girl, happiness, female, cute, family, smiling, laugh, playing",
+     "duration": 30,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 32938,
+     "url": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/27/32938-395456384_small.jpg",
+     "page": "https://pixabay.com/videos/id-32938/",
+     "tags": "dance, celebrate, fun, celebration, happy, dancing, girl, festive, colorful, laughing, young, people, person",
+     "duration": 34,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 218795,
+     "url": "https://cdn.pixabay.com/video/2024/06/30/218795_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/30/218795_small.jpg",
+     "page": "https://pixabay.com/videos/id-218795/",
+     "tags": "kids running, fun, happy, nature, laughing, smiling, ecuador",
+     "duration": 23,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 237643,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237643_small.jpg",
+     "page": "https://pixabay.com/videos/id-237643/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 8,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 253997,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253997_small.jpg",
+     "page": "https://pixabay.com/videos/id-253997/",
+     "tags": "kiss, love, together, father, family, baby, parent, child, dad, man, people, happy, play, girl, cold, winter, snow, look",
+     "duration": 8,
+     "query": "laughing child",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 40,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/40-135715695_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/40-135715695_small.jpg",
+     "page": "https://pixabay.com/videos/id-40/",
+     "tags": "fun fair, amusement park, girls, roller coaster, rollercoaster, fun, people, laughing, screaming, state fair, america, usa, women, happy, hair",
+     "duration": 30,
+     "query": "laughing child",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P13 coin v",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12740,
+     "url": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_small.jpg",
+     "page": "https://pixabay.com/videos/id-12740/",
+     "tags": "kettlebells, kettlebell juggling, kettlebell training, beach, crossfit, flip",
+     "duration": 76,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, monetary, luck, waving, animal, mascot, wealth, prosperity, feng shui, pet, finance, profit, coins",
+     "duration": 9,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "flipping coin",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "flipping coin",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}
