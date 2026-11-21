@@ -1,0 +1,193 @@
+{
+ "videos": [
+  {
+   "id": "f1",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L0-1 walk into kitchen",
+     "queries": [
+      "woman walks into kitchen",
+      "man walking into kitchen",
+      "person enters kitchen"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L0-5 remembering",
+     "queries": [
+      "woman thinking window",
+      "woman remembering",
+      "pensive woman sofa"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L1-1 bedroom morning",
+     "queries": [
+      "woman waking up bed",
+      "woman sitting on bed morning",
+      "man waking up bedroom"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L1-5 carrying object",
+     "queries": [
+      "carrying box",
+      "woman carrying box",
+      "putting box on table"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L1-20 kitchen now",
+     "queries": [
+      "woman standing kitchen",
+      "woman making coffee kitchen",
+      "man kitchen morning"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f2",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L2-1 meeting",
+     "queries": [
+      "business meeting table",
+      "team meeting office",
+      "people meeting conference table"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L2-3 after meeting",
+     "queries": [
+      "colleagues leaving meeting",
+      "office people talking",
+      "coworkers corridor"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L2-20 own turn",
+     "queries": [
+      "woman presenting meeting",
+      "man speaking meeting",
+      "woman speaking office"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L3-5 long study",
+     "queries": [
+      "student studying library",
+      "young man studying notes",
+      "student studying night"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L4-2 telling day",
+     "queries": [
+      "woman telling story",
+      "couple talking dinner",
+      "friends talking sofa"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f3",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L4-10 evening edit",
+     "queries": [
+      "woman thinking evening",
+      "man thinking night window",
+      "pensive woman evening"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L4-11 cars",
+     "queries": [
+      "traffic cars road",
+      "cars intersection",
+      "car driving city street"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L5-3 morning study",
+     "queries": [
+      "student studying morning",
+      "student desk lamp",
+      "studying at desk"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L5-15 parking password",
+     "queries": [
+      "parking lot cars",
+      "typing password laptop",
+      "car park"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L5-17 notes fade",
+     "queries": [
+      "notebook pages",
+      "closing notebook",
+      "handwritten notes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fp",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L0-1 kitchen photo",
+     "queries": [
+      "woman in kitchen",
+      "man in kitchen confused",
+      "kitchen doorway"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "L2-1 meeting photo",
+     "queries": [
+      "business meeting",
+      "meeting room people",
+      "team meeting"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "L4-11 traffic photo",
+     "queries": [
+      "traffic",
+      "cars on road",
+      "city traffic"
+     ],
+     "photos": true
+    }
+   ]
+  }
+ ]
+}
