@@ -1,0 +1,454 @@
+{
+ "videos": [
+  {
+   "id": "g01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P01L1 phone buzz",
+     "queries": [
+      "phone vibrating",
+      "man takes phone out of pocket",
+      "phone on table"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P01L4 shirt",
+     "queries": [
+      "man shirt",
+      "shirt",
+      "muscle"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P06L1 man alone",
+     "queries": [
+      "man sitting alone",
+      "lonely man room",
+      "man waiting room"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P06L4 button",
+     "queries": [
+      "pressing button",
+      "push button",
+      "button finger"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P06L6 alone",
+     "queries": [
+      "man thinking alone",
+      "lonely woman",
+      "man looking out window"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P02L1 dropped money",
+     "queries": [
+      "money on ground",
+      "dropped money",
+      "lost wallet"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P02L2 ticket",
+     "queries": [
+      "tickets",
+      "movie ticket",
+      "cinema"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P02L3 theater",
+     "queries": [
+      "theater",
+      "theatre building",
+      "cinema entrance"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P02L4 box office",
+     "queries": [
+      "ticket booth",
+      "cashier",
+      "buying tickets"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P02L5 searching",
+     "queries": [
+      "searching bag",
+      "woman looking in purse",
+      "searching pockets"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P02L7 audience",
+     "queries": [
+      "theater audience",
+      "red curtain",
+      "concert audience"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P03 yawn",
+     "queries": [
+      "yawn",
+      "yawning woman",
+      "tired man yawn"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P03 yawn2",
+     "queries": [
+      "yawning",
+      "sleepy yawn",
+      "woman yawns"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P04L1 bill",
+     "queries": [
+      "restaurant bill",
+      "check restaurant",
+      "bill"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P04L2 restaurant",
+     "queries": [
+      "restaurant",
+      "dinner restaurant couple",
+      "restaurant table"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g04",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P04L3 candies",
+     "queries": [
+      "candies",
+      "truffles",
+      "sweets"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P04L4 waiter",
+     "queries": [
+      "waiter walking",
+      "waitress",
+      "serving food"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P04L5 give",
+     "queries": [
+      "giving chocolate",
+      "chocolate hand",
+      "hand gives"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P04L6 pay",
+     "queries": [
+      "paying bill",
+      "tip",
+      "paying cash"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P05L2 museum",
+     "queries": [
+      "museum visitors",
+      "people in museum",
+      "art gallery visitors"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P07L2 students",
+     "queries": [
+      "university students lecture",
+      "college students",
+      "students classroom"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P07L6 mug",
+     "queries": [
+      "woman holding mug",
+      "drinking coffee",
+      "mug hands"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P08 gum",
+     "queries": [
+      "chewing gum",
+      "bubblegum",
+      "bubble gum girl"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P08 chewing",
+     "queries": [
+      "chewing",
+      "woman chewing",
+      "gum"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P08L5 tapping",
+     "queries": [
+      "tapping fingers",
+      "drumming fingers",
+      "finger tapping"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g06",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P08L6 singing",
+     "queries": [
+      "singing",
+      "woman singing car",
+      "man singing"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P10L1 smell",
+     "queries": [
+      "smelling flowers",
+      "woman smelling",
+      "smell"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P10L2 senior",
+     "queries": [
+      "grandmother",
+      "senior woman",
+      "elderly couple"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P10L3 old talk",
+     "queries": [
+      "old woman talking",
+      "grandfather talking",
+      "elderly man smiling"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P10L4 teens",
+     "queries": [
+      "old photographs",
+      "teenagers friends",
+      "teenagers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P10L7 smell2",
+     "queries": [
+      "smelling coffee",
+      "perfume",
+      "smelling food"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P11 tickle",
+     "queries": [
+      "tickle",
+      "tickling child",
+      "laughing child"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P11L3 robot",
+     "queries": [
+      "robotic arm",
+      "robot arm",
+      "industrial robot"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P11L5 tickle2",
+     "queries": [
+      "feather",
+      "tickling feet",
+      "laughing girl"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P12L1 speak",
+     "queries": [
+      "woman speaking",
+      "talking to camera",
+      "man speaking"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g08",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P12L2 mouth",
+     "queries": [
+      "mouth speaking",
+      "lips talking",
+      "talking"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P12L3 confused",
+     "queries": [
+      "confused woman",
+      "puzzled man",
+      "confused"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P12L5 tired",
+     "queries": [
+      "exhausted woman",
+      "tired man",
+      "tired"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P12L6 milk",
+     "queries": [
+      "milk bottle",
+      "glass of milk",
+      "drinking milk"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P13L1 loss",
+     "queries": [
+      "sad man",
+      "losing money",
+      "disappointed man"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g09",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P13L2 coin",
+     "queries": [
+      "coin flip",
+      "tossing coin",
+      "coin toss"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P13L4 no",
+     "queries": [
+      "shaking head no",
+      "man says no",
+      "woman says no"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P13L5 papers",
+     "queries": [
+      "research papers",
+      "scientist reading",
+      "stack of papers"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P14L1 daydream",
+     "queries": [
+      "daydreaming",
+      "woman looking out window",
+      "staring"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P14L3 thinking",
+     "queries": [
+      "thinking man",
+      "pensive woman",
+      "thoughtful"
+     ]
+    }
+   ]
+  }
+ ]
+}
