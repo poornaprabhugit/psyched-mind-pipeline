@@ -1,0 +1,38 @@
+lg1 L1: 8 candidates
+lg1 L2: 8 candidates
+lg1 L3: 8 candidates
+lg1 L4: 8 candidates
+lg1 L5: 8 candidates
+lg2 L1: 8 candidates
+lg2 L2: 8 candidates
+lg2 L3: 8 candidates
+lg2 L4: 8 candidates
+lg2 L5: 8 candidates
+lg3 L1: 8 candidates
+lg3 L2: 8 candidates
+lg3 L3: 8 candidates
+lg3 L4: 8 candidates
+lg3 L5: 8 candidates
+lg4 L1: 8 candidates
+lg4 L2: 8 candidates
+lg4 L3: 8 candidates
+lg4 L4: 8 candidates
+lg4 L5: 8 candidates
+lg5 L1: 8 candidates
+lg5 L2: 8 candidates
+lg5 L3: 8 candidates
+lp1 L1: 8 candidates
+lp1 L2: 8 candidates
+lp1 L3: 8 candidates
+lp1 L4: 8 candidates
+lp1 L5: 8 candidates
+  retry 1 https://pixabay.com/get/gfab4b3b8ce0db856d77d25605fbfa4d2bc040c09d63adda65959214: HTTP Error 429: Too Many Requests
+  retry 2 https://pixabay.com/get/gfab4b3b8ce0db856d77d25605fbfa4d2bc040c09d63adda65959214: HTTP Error 429: Too Many Requests
+  retry 3 https://pixabay.com/get/gfab4b3b8ce0db856d77d25605fbfa4d2bc040c09d63adda65959214: HTTP Error 429: Too Many Requests
+  retry 1 https://pixabay.com/get/g7a441fbb758185b70868c87738cb3468f44e5a238696c565c711b15: HTTP Error 429: Too Many Requests
+  retry 1 https://pixabay.com/get/g5d08e31af367e93db0461f3b4d210db159504dbadf2570268aa5e71: HTTP Error 429: Too Many Requests
+  retry 2 https://pixabay.com/get/g5d08e31af367e93db0461f3b4d210db159504dbadf2570268aa5e71: HTTP Error 429: Too Many Requests
+  retry 3 https://pixabay.com/get/g5d08e31af367e93db0461f3b4d210db159504dbadf2570268aa5e71: HTTP Error 429: Too Many Requests
+lp2 L1: 8 candidates
+lp2 L2: 8 candidates
+lp2 L3: 8 candidates

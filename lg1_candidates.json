@@ -1,0 +1,435 @@
+{
+ "id": "lg1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L0-3",
+   "candidates": [
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "business people shaking hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "business people shaking hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "business people shaking hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26539,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26539-357855269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26539-357855269_small.jpg",
+     "page": "https://pixabay.com/videos/id-26539/",
+     "tags": "long name, cloud, sky, landscape, nature, mountain",
+     "duration": 22,
+     "query": "name tag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4941,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_small.jpg",
+     "page": "https://pixabay.com/videos/id-4941/",
+     "tags": "search, web, website, address, arrow, background, bar, box, browser, browsing, business, click, closeup, commerce, computer, concept, cursor, data, domain, find, graphic, http, hyperlink, information, internet, link, beautiful wallpaper, mouse, name, net, network, online, page, pointer, pointing, screen, shopping, site, surfing, url, webpage, white, wide, window, world, www",
+     "duration": 16,
+     "query": "name tag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 116943,
+     "url": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/14/116943-709867290_small.jpg",
+     "page": "https://pixabay.com/videos/id-116943/",
+     "tags": "sheep, animal, farm animal, farm, flock, horns, white, whole, pack, cute, lamb, grazing, walking, daylight, livestock, tagged, herd",
+     "duration": 21,
+     "query": "name tag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33632,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_small.jpg",
+     "page": "https://pixabay.com/videos/id-33632/",
+     "tags": "class room, class, classroom, seminar, training, room, learning, school, meeting, education, teacher, coaching, introduction, teaching, students",
+     "duration": 15,
+     "query": "introduction meeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1035,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_small.jpg",
+     "page": "https://pixabay.com/videos/id-1035/",
+     "tags": "meeting, conference, talk, blur, bokeh, business, people, corporate, group, presentation, business meeting, office, corporate meeting, meeting people, room, discussion, communication, professional, teamwork, office meeting",
+     "duration": 16,
+     "query": "introduction meeting",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L0-5",
+   "candidates": [
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman remembering",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 14869,
+     "url": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_small.jpg",
+     "page": "https://pixabay.com/videos/id-14869/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, outdoors, brown, looking, look, posing",
+     "duration": 19,
+     "query": "looking at old photos",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15305,
+     "url": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_small.jpg",
+     "page": "https://pixabay.com/videos/id-15305/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, brown, looking, look, posing, adorable, portrait, tense, calm",
+     "duration": 15,
+     "query": "looking at old photos",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 119283,
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119283-717347146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/04/119283-717347146_small.jpg",
+     "page": "https://pixabay.com/videos/id-119283/",
+     "tags": "turtle, wild, jungle, lake, look back, sunbathing, green, looking at me, watching, rotten tree, hungary",
+     "duration": 11,
+     "query": "looking at old photos",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 40797,
+     "url": "https://cdn.pixabay.com/video/2020/06/01/40797-426939500_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/01/40797-426939500_small.jpg",
+     "page": "https://pixabay.com/videos/id-40797/",
+     "tags": "men, window, dark, thoughts, person, shadow",
+     "duration": 16,
+     "query": "thoughtful woman window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "thoughtful woman window",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L0-6",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "human brain model",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 61299,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61299-498228517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61299-498228517_small.jpg",
+     "page": "https://pixabay.com/videos/id-61299/",
+     "tags": "man, angry, stress, depression, anxiety, male, model, human, portrait, expression, adult, face, person",
+     "duration": 16,
+     "query": "human brain model",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 61290,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61290-498228525_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61290-498228525_small.jpg",
+     "page": "https://pixabay.com/videos/id-61290/",
+     "tags": "man, adult, face, person, psychology, emotions, male, model, human, expression, stress, beard, mustache",
+     "duration": 30,
+     "query": "human brain model",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12897,
+     "url": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_small.jpg",
+     "page": "https://pixabay.com/videos/id-12897/",
+     "tags": "school, student, studies, to read, book, young woman, cabinet, think",
+     "duration": 10,
+     "query": "woman thinking",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L0-7",
+   "candidates": [
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "woman smiling thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "woman smiling thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "man thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 249400,
+     "url": "https://cdn.pixabay.com/video/2024/12/28/249400_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/28/249400_small.jpg",
+     "page": "https://pixabay.com/videos/id-249400/",
+     "tags": "girl, woman, model, nature, baby, sit, pensive, thinking, relaxing, people, meditation",
+     "duration": 6,
+     "query": "pensive",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 249399,
+     "url": "https://cdn.pixabay.com/video/2024/12/28/249399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/28/249399_small.jpg",
+     "page": "https://pixabay.com/videos/id-249399/",
+     "tags": "girl, child, model, cute, nature, baby, sit, pensive, thinking, relaxing, people, meditation",
+     "duration": 6,
+     "query": "pensive",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L1-1",
+   "candidates": [
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman waking up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman waking up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman waking up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "bedroom morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 282329,
+     "url": "https://cdn.pixabay.com/video/2025/05/29/282329_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/29/282329_small.jpg",
+     "page": "https://pixabay.com/videos/id-282329/",
+     "tags": "man, window, silhouette, morning, cinematic, room, curtain, bedroom",
+     "duration": 5,
+     "query": "bedroom morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27111,
+     "url": "https://cdn.pixabay.com/video/2019/09/21/27111-361827499_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/21/27111-361827499_small.jpg",
+     "page": "https://pixabay.com/videos/id-27111/",
+     "tags": "morning mist, fog, nature, morning hour, south-tirol, italy, hill, mountains, time lapse, timelapse",
+     "duration": 41,
+     "query": "bedroom morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 110492,
+     "url": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/12/110492-689510263_small.jpg",
+     "page": "https://pixabay.com/videos/id-110492/",
+     "tags": "bride, curtains, wedding, woman, dress",
+     "duration": 8,
+     "query": "woman getting dressed",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 192667,
+     "url": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/10/192667-893427260_small.jpg",
+     "page": "https://pixabay.com/videos/id-192667/",
+     "tags": "woman, model, sunset, dress, sky, dawn, female, fashion",
+     "duration": 8,
+     "query": "woman getting dressed",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

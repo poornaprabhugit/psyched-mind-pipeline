@@ -1,0 +1,263 @@
+{
+ "id": "lp2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L4-13 photo",
+   "candidates": [
+    {
+     "pixabay_id": 3677258,
+     "url": "https://pixabay.com/get/gc8db5cbf265320625bdf170ccaddad2d4d3cc097d8780cf7692cbef87bcea3af17f1aefd61a1164d81ef9e51a1c53171450114ecb18d6c288bdb6faf66e3a661_1280.jpg",
+     "thumb": "https://pixabay.com/get/gb2bec8f5fd9707a27cead5ad91eef21227dd7fa556afc85629679c9285e4b472bc89cd104c56366ab1322c6db93208d368a9ccbd0661a2ece05a89f927f31460_640.jpg",
+     "page": "https://pixabay.com/photos/feedback-review-good-bad-3677258/",
+     "tags": "feedback, review, good, bad, satisfactory, positive, negative, discussion, write a review, social, communication, smiley, job, work, feedback, feedback, feedback, feedback, feedback, review, review, review, positive",
+     "duration": 0,
+     "query": "questionnaire",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1594962,
+     "url": "https://pixabay.com/get/g9b3c13801a406a9eca36f86510388d3b2478e13331ec59545794e42568d91d73712d5cc326e4be24bd2bc8b1ae359b09d09e8bead283e0bb4db34101fab0054d_1280.jpg",
+     "thumb": "https://pixabay.com/get/g6cc55b7108c5adbf86355057237644d0e8b428257b25ceb1391e69896d07c7a1c274e44cab113a21228b4d43fd9c32d8b96a951cecadecdc5e5028f2ea2529f3_640.jpg",
+     "page": "https://pixabay.com/photos/opinion-poll-opinion-polling-survey-1594962/",
+     "tags": "opinion poll, opinion polling, survey, voting, to complete, vote, hand, write, ballpoint pen, paper, reports, ink pen, pen, survey, survey, survey, survey, survey",
+     "duration": 0,
+     "query": "questionnaire",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 3653346,
+     "url": "https://pixabay.com/get/g782a984eb2e1a8e8624cafecd1d154674c8f2601b04081b75da074fdf7f61e8e0a0dcddd1b5bb61c31c39f341eed3a160573a3471bb69fc1bef09f7c4fe5c336_1280.jpg",
+     "thumb": "https://pixabay.com/get/g25ac61f3aadf753912575b4faf2474d247b63caaa547c93e50c2122ff1e2796f0576c9c8bc97f00931b38d8ce3781fbada26c21946d86fa4bc01fc40549136d3_640.jpg",
+     "page": "https://pixabay.com/photos/man-men-hand-person-people-male-3653346/",
+     "tags": "man, men, hand, person, people, male, portrait, human, adult, business, young, fill, sheet, paper, pencil, work, office, educate, exam, circle, filed, picture, desk, table, exam, exam, exam, exam, exam",
+     "duration": 0,
+     "query": "questionnaire",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1919292,
+     "url": "https://pixabay.com/get/g77680a84ad4ef27b6ff888284dd81296a831d80a1ad982b3939d486d6fe30e2a432494b9a15633e5b674bf906a73049d742d29de96ae849df804fda60a0f9963_1280.jpg",
+     "thumb": "https://pixabay.com/get/g1805874c2bd02d83ca5591dff6c6e07d8bf3e937330ea22bd978de1c782fd7d2752f898737447454b055635b10efe3e21f39a5c7c723aab317ef9a679f0c5881_640.jpg",
+     "page": "https://pixabay.com/photos/checklist-list-hand-pen-business-1919292/",
+     "tags": "checklist, list, hand, pen, business, writing, check, mark, questionnaire, survey, tick, checkbox, checklist, checklist, checklist, checklist, checklist, list, list, check",
+     "duration": 0,
+     "query": "survey form",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2313804,
+     "url": "https://pixabay.com/get/gf44d32c512fb0ef69aab65cf650c8b78fa4031c131b05b1108ee01e1464021f8de67cb2de6af112aec27573a2ae436f68506568bf1afc783955279651d5f7b5b_1280.jpg",
+     "thumb": "https://pixabay.com/get/g39cc651357f759ac4e2ad4e5ad4d217a8d805e56112617272df81b6cd87f3d7f63f29d51f750be034268a5bf833600e6740a4b29ddf70d4b9bb961bb107cf45d_640.jpg",
+     "page": "https://pixabay.com/photos/checklist-check-yes-or-no-decision-2313804/",
+     "tags": "checklist, check yes or no, decision, opinion, business, work, respond, informational, tasks, situation, checklist, checklist, checklist, checklist, checklist",
+     "duration": 0,
+     "query": "survey form",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 3709752,
+     "url": "https://pixabay.com/get/ga794063284f0a4ae3e2a6c73f5da85becba2d8885086966ac575b9683d22e088859ae7d632ad219446b23f5718690a1cf243abd24722b238582470c15a258a7f_1280.jpg",
+     "thumb": "https://pixabay.com/get/g9dbced74ed83b8d609ed231178238dc56637d69bc6a5b6241cfbff9e832ddacfd4d93d1dcf7c87af47c304174c5197d8862cd1626cd9283b11829d15b7912eca_640.jpg",
+     "page": "https://pixabay.com/photos/feedback-survey-nps-satisfaction-3709752/",
+     "tags": "feedback, survey, nps, satisfaction, customer, face, happy, poll, check, rating, choice, experience, multiple, negative, neutral, opinion, paper, pen, positive, product, quality, range, rank, research, sad, feedback, survey, survey, survey, survey, survey",
+     "duration": 0,
+     "query": "survey form",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 3653353,
+     "url": "https://pixabay.com/get/gd1d344452daa843634ddd1879189054fe1ce4d06b8ae9ca78150bbca3dcf4155e114983d8a761ee84521ca3a7729b29b4e124c10068284ec65ab801d56c1cdb5_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd60e27820d327ab98d48e5895b52e4fafa314339cd741e52d5d3a08e5fcc70dd45f0cf601387ca4df67e0cf2e30c2723802b2c7e1da1f682ceae76b72dcf455d_640.jpg",
+     "page": "https://pixabay.com/photos/man-men-person-people-male-3653353/",
+     "tags": "man, men, person, people, male, portrait, adult, young, fill, sheet, paper, glasses, pen, pencil, write, hand, table, picture, pic, filed, note, fill, fill, fill, fill, fill, pic, pic, pic, pic",
+     "duration": 0,
+     "query": "filling form",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 491626,
+     "url": "https://pixabay.com/get/gb04c5797a6a7f89e6eec7fb8af1c404a492bd704cf2a0473e9c2cc3d998c20ff1ca48cd05e05fc6dc2edab8740908ff6863e15064637d9c66d1857175c0c552a_1280.jpg",
+     "thumb": "https://pixabay.com/get/g4d13c2cda692c8d5e6e794cd4e961dfc5063a16402d719764c34b49b98f5bfecc22b545b2ff8952ec4bd78c395b5ad09_640.jpg",
+     "page": "https://pixabay.com/photos/income-tax-calculation-calculate-491626/",
+     "tags": "income tax, calculation, calculate, paperwork, tax, income, finance, calculator, financial, accounting, paper, office, irs, business, taxation, clutter, income tax, tax, tax, tax, tax, tax, accounting",
+     "duration": 0,
+     "query": "filling form",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L5-1 photo",
+   "candidates": [
+    {
+     "pixabay_id": 389254,
+     "url": "https://pixabay.com/get/g55f084fcf72b9009d0ad6167c6f0e9975a6168e063faef525e06673a5817dc3c6f21abbdcd0649a99c79794ca45dcfad22f7ab2ef39f792aee624b0c24ec4be9_1280.jpg",
+     "thumb": "https://pixabay.com/get/gece6aed783ea05c3ce645e8510dd9f5b0e59daa492b98e1f45ce59d724927a85223f50a21d1f736e8ab19fc43b30d381_640.jpg",
+     "page": "https://pixabay.com/photos/bedroom-interior-design-house-home-389254/",
+     "tags": "bedroom, interior design, house, home, bed, furniture, bedroom furniture, room, room interior, contemporary, bedroom, bedroom, bedroom, bedroom, bedroom, interior design, house, house, home, bed, room",
+     "duration": 0,
+     "query": "going to bed",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5772286,
+     "url": "https://pixabay.com/get/gc2157a7cf415b911af8ce5f5ec9089f8c0ac55384055c1738cbef17566f1b07235f064c389f61677910874c1f132d6942df7811161fbe0ebf092ae20392a6ca9_1280.jpg",
+     "thumb": "https://pixabay.com/get/g9005b830cb8d32c211a1ff6f47e9c23d9e9461496cce595e6d7372799c114b8a1b2a57b833b2430a1d2fefeb42dae3b1f43a62dee8f031a6dcd56be1b92df974_640.jpg",
+     "page": "https://pixabay.com/photos/bedroom-interior-design-house-room-5772286/",
+     "tags": "bedroom, interior design, house, room, bed, interior, beddings, furniture, bedroom furniture, bedroom interior, minimalist design, minimalist interior, minimalist, minimalism, bedroom, bedroom, bedroom, bedroom, bedroom, bed, bed",
+     "duration": 0,
+     "query": "going to bed",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5664221,
+     "url": "https://pixabay.com/get/gd7e94937c694352e8cdc6687af63c29f6584c998523cd2da9550af7f93296989d6359b8280fb5964b618bd7c0227378fef101de780668489b8a512ffdd39b239_1280.jpg",
+     "thumb": "https://pixabay.com/get/g674f055661362e6e662a9d647a58c5a4c549d651eaa088db4eaa1f10eb98896507f4cb2fcf6abbe8dcdca2439692ef0993f75b14cfe99fe5e6d8052a4764ab6c_640.jpg",
+     "page": "https://pixabay.com/photos/bedroom-interior-design-bed-room-5664221/",
+     "tags": "bedroom, interior design, bed, room, furniture, interior, indoors, bedroom interior, bedroom furniture, hotel room, house, home, bedroom, bedroom, bedroom, bedroom, bedroom, bed, bed, bed, room, hotel room, hotel room",
+     "duration": 0,
+     "query": "going to bed",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 6778193,
+     "url": "https://pixabay.com/get/g784861334630290144481964dc3165dba4dc6cd9bccd571afcebdf962750b1700744e1c78553c6ab533bf739978858213023f5f21a13ac743797ff0647171bd9_1280.jpg",
+     "thumb": "https://pixabay.com/get/g5f83c4a19ab69aca4d7012d5e4ab13a59ce21023d519ae937ba8458fcdc0948ca2a17001b132ef131db3401c3b2d22890ed315c366dc93c66221f9cd9ac1c2ca_640.jpg",
+     "page": "https://pixabay.com/photos/bedroom-interior-design-furniture-6778193/",
+     "tags": "bedroom, interior design, furniture, interior, bed, room, modern, apartment, home, house, decor, architecture, window, comfortable, contemporary, residential, bedroom, bedroom, bedroom, bedroom, bedroom, interior design, bed, room, apartment, home, house",
+     "duration": 0,
+     "query": "bedside lamp",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 6577523,
+     "url": "https://pixabay.com/get/gc307de2af37c1f39fd52bf5f403c28b6f681369b599ff88f6ec21a4735654f0e3ede304e2a7d74de7954020ce2594be83c43b15abf3b9af31b1b71dca7209e5e_1280.jpg",
+     "thumb": "https://pixabay.com/get/ge41022e8c89872170879a2d1ec9072a9edfb19859eb157922a5c125f37dc27e2c7ae3a84cc03dcaeb747bbe04a669f824e4c92f7eb6e84c9cd0196cd3835a67c_640.jpg",
+     "page": "https://pixabay.com/photos/bedroom-indoors-interior-design-bed-6577523/",
+     "tags": "bedroom, indoors, interior design, bed, furniture, hotel, bedroom, bedroom, bedroom, bedroom, interior design, furniture, hotel, hotel, hotel, hotel, hotel",
+     "duration": 0,
+     "query": "bedside lamp",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8407976,
+     "url": "https://pixabay.com/get/g627fe347697c7bad9a71ac9300e295984edb2a5bc14a0c50ebfa08bbd771331331fd93005edc396bb399fc33b40d5464e3720d4e2c13bb4868b37f3b95b507de_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd80dc8b47fd6103f8457c01b7a9e962786dd48a92e818c174a32cb19ca501734fab11f4266dcea04d6e097187937cfc82693b26b82114a60869ec7793681fc04_640.jpg",
+     "page": "https://pixabay.com/photos/room-interior-bedroom-bed-hotel-8407976/",
+     "tags": "room, interior, bedroom, bed, hotel, home, lamp, design, furniture, house, sofa, apartment, luxury, comfortable, pillow, wall, table, nobody, decor, window, indoor, architecture, chair, light, contemporary",
+     "duration": 0,
+     "query": "bedside lamp",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 1733352,
+     "url": "https://pixabay.com/get/gc15753b9f4a54a317bc437f03a20a85f3b5d3cfbf27aad4b269913346e45b3679da31cf26f6de64c95dbbc66c362ce7dead22131ddc33041f11c76483347226c_1280.jpg",
+     "thumb": "https://pixabay.com/get/g84f728f5574880a74c57128a7b65346069505c08613389389a77720bc9a55668c2309bea3ddf7e55d5262a7514e82d3e3d3af55cc618b4f01321cb27c3f06ccc_640.jpg",
+     "page": "https://pixabay.com/photos/girl-sleep-lying-down-dog-pet-1733352/",
+     "tags": "girl, sleep, lying down, dog, pet, owner, animal, asian, asian woman, young woman, upside down, asleep, sleeping, sleeping woman, female, woman, dreaming, portrait, resting, relax, dream",
+     "duration": 0,
+     "query": "woman sleeping",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 821625,
+     "url": "https://pixabay.com/get/gcf4504dc3a56e5023e2756fbab9e0a315bbed079dde8425d75dbf16168d4056f9102dc3cbc425b280dfd8398e3c2f3a11e282340595294161f2a4d153313d88d_1280.jpg",
+     "thumb": "https://pixabay.com/get/g7c42d814b6ab056603415d90285f3048b0585ab779d8c5452aab45896254233707509ed206184b243dd56a94dbb8df42_640.jpg",
+     "page": "https://pixabay.com/photos/baby-mother-infant-child-female-821625/",
+     "tags": "baby, mother, infant, child, female, happy, white, joy, family, young, delight, love, nature, smile, sunlight, present, small, baby, baby, baby, baby, baby, mother, mother, family",
+     "duration": 0,
+     "query": "woman sleeping",
+     "kind": "photo"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L5-6 photo",
+   "candidates": [
+    {
+     "pixabay_id": 15584,
+     "url": "https://pixabay.com/get/gc488a21fd15b2bf05f47b6a61797875d5afeb8a812b25dd34cff0dafd92b96e4ede03fceab36b06a7a38490492e08363_1280.jpg",
+     "thumb": "https://pixabay.com/get/gb3fe5d6a2cf1aa0ca05ebbf04d3c637d6ec99c2d4eff942c3332164fed54197f493454da42cf61414d394ddae4df747f_640.jpg",
+     "page": "https://pixabay.com/photos/book-bored-college-education-15584/",
+     "tags": "book, bored, college, education, female, girl, learn, people, school, student, study, table, tired, white, woman, young, youth, bored, bored, bored, school, student, student, student, student, student, tired, tired, tired",
+     "duration": 0,
+     "query": "tired student",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 927394,
+     "url": "https://pixabay.com/get/g064b1a9578dcffbbf3e756a0eca1174970c90b166f0a315479e76db3305f12c71c744a30f1b631233e11bb0a8bae7039bc2311459f144f5b3651bc0100670296_1280.jpg",
+     "thumb": "https://pixabay.com/get/gb57911a09ad5a939c834ea5426915d1a444505ca0821e9a85d7f6bebcb76b85c74e9616c46a18a16f50779833f48eb35_640.jpg",
+     "page": "https://pixabay.com/photos/books-student-studying-learn-read-927394/",
+     "tags": "books, student, studying, learn, read, knowledge, library, brown book, brown books, brown library, brown learning, brown reading, brown study, brown studying, brown knowledge, student, student, student, student, student, library",
+     "duration": 0,
+     "query": "tired student",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5679001,
+     "url": "https://pixabay.com/get/ge3df80a5bf09081ad59640f473448d2eebe89d648112e151f76a81686b911fc65b0d7b89708d620ca73c5231caa52d84fc9c17467d19b04f07be763f399deb5a_1280.jpg",
+     "thumb": "https://pixabay.com/get/g3d5775ae4583907ed31975ce4b1d935be932a9ba12b6a12434bc152737e0c8dcb0505c9f6665e46a347a4a734e794c221db941760a733e1bcdf6e059d5832f6e_640.jpg",
+     "page": "https://pixabay.com/photos/woman-bored-tired-office-business-5679001/",
+     "tags": "woman, bored, tired, office, business, meeting, team, teamwork, communication, network, marketing, entrepreneur, idea, career, course, work, business woman, study, student, intern, trainee, search, job seeker, boring, bored, bored, bored, bored, bored, tired, tired, tired, boring, boring",
+     "duration": 0,
+     "query": "tired student",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 2838945,
+     "url": "https://pixabay.com/get/g6910e4e10553bcf4e0fdeaf9e16a9fed3ee81d83148381b64b3961fafeac872b0f0f2ecf9592d2a0be5f320c80e9506b969c978401d99e93f77606f03e487bf0_1280.jpg",
+     "thumb": "https://pixabay.com/get/ge56e6205c5df99b16f537c0b7945465935d9504f93b86d09ad7db3836fb206aeadc9f73bcb2640487e23b955689d5e517fa4e099af9db089c660c4f2fb84e432_640.jpg",
+     "page": "https://pixabay.com/photos/blogger-screenwriter-desperate-2838945/",
+     "tags": "blogger, screenwriter, desperate, unimaginative, uncreative, writer's block, thinking blockade, hair-tearing, headache, workplace, unmotivated, desk, home office, computer, office, macbook, mockup, exhausted, profession, work, resigned, writer, multimedia, graphic design, media specialist, young man, employees, entrepreneur, author, programmer, frustration, frustrated, resignation, the media, media-creating, burnout, headache, headache, computer, computer, office, work, work, work, work, work, writer, frustration, frustrated, burnout",
+     "duration": 0,
+     "query": "exhausted student night",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5993627,
+     "url": "https://pixabay.com/get/g42010c44e3b816297d4ad2b5792139f246ba53e131079f48588c0c8b448ab705f8f60b5d3dc7dd9a7497eac4ccd869d0f2d64460abfa34f6fd8e3469d2e9318c_1280.jpg",
+     "thumb": "https://pixabay.com/get/g4dfff1dbe43d9c722fcaf3bfb986e1232d423cdc3b1befaa957a06f46ad4010b9e12e8de71df8b0271123b9b84bb3224d035b5120db1b5ca4324ec5347d1c5c9_640.jpg",
+     "page": "https://pixabay.com/photos/girl-portrait-woman-face-model-5993627/",
+     "tags": "girl, wallpaper hd, portrait, woman, face, model, 4k wallpaper, wallpaper 4k, fashion, full hd wallpaper, female, beautiful wallpaper, laptop wallpaper, people, child, hd wallpaper, cool backgrounds, desktop backgrounds, windows wallpaper, free background, 4k wallpaper 1920x1080, mac wallpaper, free wallpaper, young, makeup, hair, pose, skin, background",
+     "duration": 0,
+     "query": "exhausted student night",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 7116367,
+     "url": "https://pixabay.com/get/g261bf72f0757eda9a44d817d7f8d715b6fa678f8475da80e8bf72d816624cd85d698fbba08ceada41ccdef4b5d3df0a5c681c367ef27f2447c0365aa0af63c55_1280.jpg",
+     "thumb": "https://pixabay.com/get/g8eba7d0f7dc8029c63893c60273536f21d5bdfd5921ab138c9896bf4315d2cde4f295f2ff589078691063ea3f689cfd0f349cf23a3306607f6493c16f068186f_640.jpg",
+     "page": "https://pixabay.com/photos/man-adult-young-break-corporate-7116367/",
+     "tags": "man, adult, young, break, corporate, asleep, business, analyst, workplace, person, businessman, work, job, broker, trader, profession, professional, remote, browsing, e-business, laptop, wi-fi, mobile, technology, office, break, business, job, job, job, job, job, office",
+     "duration": 0,
+     "query": "exhausted student night",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 4151164,
+     "url": "https://pixabay.com/get/g46c91198474cc6e36b5b502fa0a8c3ab9b729a87275a287d95a5fa7a8e4c28502fd0d7106a24e0c9a7f7f25f6574a340fd6c0571cb41ef93af7ce39c13e1f6a1_1280.jpg",
+     "thumb": "https://pixabay.com/get/g2c3e04a52313004f46b79dc91c203b0c17f7eb57acc9e3cfd5651776e100b2b1927a0291d6025d27eaede4637d9c440435a4ec652402f126bba87db2d43651fb_640.jpg",
+     "page": "https://pixabay.com/photos/a-book-glasses-translate-4151164/",
+     "tags": "a book, glasses, translate, translation, foreign language, language, translator, paper, document, side, literature, reading glasses, read, text, book pages, translate, translate, translation, translation, translation, translation, translation, translator",
+     "duration": 0,
+     "query": "studying late",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 4491416,
+     "url": "https://pixabay.com/get/g68190ce9c0102fd2cbfec276262ea8b3c5b1ca9b8fc2bc870682602e7992e99a37d30ab09fa87ee429f35d651dee06b4f7e0568824d1c23dc5a6108f0debd0d2_1280.jpg",
+     "thumb": "https://pixabay.com/get/g960d85eca90e4e0aca62767267e676e6c8f8cdff764c7af3c83b1034b4a866fe071c444e31134a78e62123f96bc1996aff044693551c9f9a6930ac5bb1c6697e_640.jpg",
+     "page": "https://pixabay.com/photos/write-notebook-pen-hand-paper-4491416/",
+     "tags": "write, notebook, pen, hand, paper, notes, phone wallpaper, aesthetic wallpaper, iphone wallpaper",
+     "duration": 0,
+     "query": "studying late",
+     "kind": "photo"
+    }
+   ]
+  }
+ ]
+}

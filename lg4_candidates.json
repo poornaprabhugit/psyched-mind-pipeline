@@ -1,0 +1,435 @@
+{
+ "id": "lg4",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L2-18",
+   "candidates": [
+    {
+     "pixabay_id": 62216,
+     "url": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_small.jpg",
+     "page": "https://pixabay.com/videos/id-62216/",
+     "tags": "handshake, greeting, deal, thanks, trust, hello, welcome",
+     "duration": 6,
+     "query": "handshake",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 13937,
+     "url": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/01/25/13937-252799112_small.jpg",
+     "page": "https://pixabay.com/videos/id-13937/",
+     "tags": "date of birth, birthday party, birthday card, congratulations, greeting card, love greeting, love, emotions, fixed",
+     "duration": 11,
+     "query": "greeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 119298,
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119298-717336872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/04/119298-717336872_small.jpg",
+     "page": "https://pixabay.com/videos/id-119298/",
+     "tags": "stork, wading bird, animal, ciconia ciconia, nest, greeting ritual, beak rattling, young, chicks, feather, plumage, spring, symbol, fertility",
+     "duration": 52,
+     "query": "greeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 30487,
+     "url": "https://cdn.pixabay.com/video/2019/12/23/30487-381526142_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/23/30487-381526142_small.jpg",
+     "page": "https://pixabay.com/videos/id-30487/",
+     "tags": "merry christmas, christmas, christmas greeting, christmas time, christmas motif, christmas party, advent, december, advent season, xmas, christmas decoration, the atmosphere, holidays, decoration",
+     "duration": 22,
+     "query": "greeting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33631,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_small.jpg",
+     "page": "https://pixabay.com/videos/id-33631/",
+     "tags": "child, child smiling, baby, kid, happy, smile, childhood, person, little, children, cheerful, girl, happiness, female, cute, family, smiling, laugh, playing",
+     "duration": 30,
+     "query": "smiling introduction",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 171044,
+     "url": "https://cdn.pixabay.com/video/2023/07/11/171044-844787782_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/11/171044-844787782_small.jpg",
+     "page": "https://pixabay.com/videos/id-171044/",
+     "tags": "man, smile, smiling, happy, male, person, outdoors, portrait",
+     "duration": 8,
+     "query": "smiling introduction",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44223,
+     "url": "https://cdn.pixabay.com/video/2020/07/08/44223-438212555_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/08/44223-438212555_small.jpg",
+     "page": "https://pixabay.com/videos/id-44223/",
+     "tags": "happy, child, childhood, portrait, fun, happiness, kid, cute, cheerful, joy, face, young, little, smiling, smile, caucasian, boy",
+     "duration": 11,
+     "query": "smiling introduction",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 141318,
+     "url": "https://cdn.pixabay.com/video/2022/12/01/141318-777508154_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/01/141318-777508154_small.jpg",
+     "page": "https://pixabay.com/videos/id-141318/",
+     "tags": "season greetings, snowing, christmas, year-end, seoul",
+     "duration": 20,
+     "query": "greeting",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L3-10",
+   "candidates": [
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "crowd street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1643,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_small.jpg",
+     "page": "https://pixabay.com/videos/id-1643/",
+     "tags": "india, shiva, people, asia, street, asian, person, culture, city, town, road, busy, crowd, alley, urban, men, women, market",
+     "duration": 14,
+     "query": "crowd street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 53902,
+     "url": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_small.jpg",
+     "page": "https://pixabay.com/videos/id-53902/",
+     "tags": "traffic, city traffic, drone, transportation, crowd, driving, megalopolis, city, street, urban, car, sun, evening, sunset, schaffhausen, switzerland, live wallpaper",
+     "duration": 5,
+     "query": "crowd street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1694,
+     "url": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_small.jpg",
+     "page": "https://pixabay.com/videos/id-1694/",
+     "tags": "street, walking, crowd, people, urban, city, blurred, walking people, women, motion, life, travel, traffic, downtown, pedestrian, unrecognizable, urban city, bokeh, business, group, busy, blur, urban street, men, crowded, town, person, day, city street, rush, road, walk, scene, sidewalk, outdoors, lifestyle",
+     "duration": 20,
+     "query": "busy city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10831,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10831-226624994_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10831-226624994_small.jpg",
+     "page": "https://pixabay.com/videos/id-10831/",
+     "tags": "tourists, people, walking, city, urban, busy",
+     "duration": 15,
+     "query": "busy city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 190482,
+     "url": "https://cdn.pixabay.com/video/2023/11/24/190482-888122628_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/24/190482-888122628_small.jpg",
+     "page": "https://pixabay.com/videos/id-190482/",
+     "tags": "city, night, lights, busy, urban, street, drive, automobile, light trail, moving, motorway",
+     "duration": 10,
+     "query": "busy city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 180386,
+     "url": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_small.jpg",
+     "page": "https://pixabay.com/videos/id-180386/",
+     "tags": "intersection, cars, pedestrian, night, urban, osaka, japan",
+     "duration": 31,
+     "query": "pedestrians",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2121,
+     "url": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_small.jpg",
+     "page": "https://pixabay.com/videos/id-2121/",
+     "tags": "shopping, pedestrian, time lapse, city, consumption, pedestrian zone, department stores, store window, department store, people, marketplace",
+     "duration": 32,
+     "query": "pedestrians",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L3-17",
+   "candidates": [
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "writing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "writing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "writing notebook",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "woman writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130645,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_small.jpg",
+     "page": "https://pixabay.com/videos/id-130645/",
+     "tags": "woman, model, notebook, book, creator, desk, businesswoman, young, writing, working, paper, lifestyle, laptop, computer, adult, work, student, pen, business, typing, table, sitting, creative, casual",
+     "duration": 15,
+     "query": "woman writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "pen paper",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10824,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_small.jpg",
+     "page": "https://pixabay.com/videos/id-10824/",
+     "tags": "sketch, draw, pencil, drawing, design, hand, paper, creative, artist, pen, sketching, artistic, artwork, paint, creativity, school, painting, designer",
+     "duration": 15,
+     "query": "pen paper",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L4-13",
+   "candidates": [
+    {
+     "pixabay_id": 67358,
+     "url": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_small.jpg",
+     "page": "https://pixabay.com/videos/id-67358/",
+     "tags": "ink, water, underwater, foam, smoke, background, macro, abstract, color, beautiful wallpaper, paint, watercolor, art, texture, painting, design, pattern, blend, messy, drop, flow, wave, form, artistic, live wallpaper",
+     "duration": 59,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8451,
+     "url": "https://cdn.pixabay.com/video/2017/03/20/8451-209292190_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/20/8451-209292190_small.jpg",
+     "page": "https://pixabay.com/videos/id-8451/",
+     "tags": "sunset, sky, clouds, abendstimmung, evening sky, dark clouds, clouds form, front detail, the sky, nature, blue, mood, atmospheric, air, atmosphere, beautiful, weather, summer sky, sun, yellow, reddish, organs",
+     "duration": 18,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 58193,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_small.jpg",
+     "page": "https://pixabay.com/videos/id-58193/",
+     "tags": "ink, colors, that, underwater, torn, smoke, background, macro, abstract, colour, paint, watercolor, art, tissue, painting, color, design, pattern, blend, messy, drop, beautiful wallpaper, flow, wave, form, artistic, live wallpaper",
+     "duration": 43,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 137624,
+     "url": "https://cdn.pixabay.com/video/2022/11/03/137624-767473328_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/03/137624-767473328_small.jpg",
+     "page": "https://pixabay.com/videos/id-137624/",
+     "tags": "online, salary, online work, survey",
+     "duration": 16,
+     "query": "survey",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 134,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_small.jpg",
+     "page": "https://pixabay.com/videos/id-134/",
+     "tags": "espresso, coffee, ristretto, hot beverage, cup, cappuccino, drink, glass, cafe, relax, brown, machine, filling",
+     "duration": 17,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262311,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262311_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262311_small.jpg",
+     "page": "https://pixabay.com/videos/id-262311/",
+     "tags": "water, waves, wet, psychedelic, template, to form, element, sand",
+     "duration": 14,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262310,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262310_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262310_small.jpg",
+     "page": "https://pixabay.com/videos/id-262310/",
+     "tags": "water, waves, wet, psychedelic, template, to form, element, blue",
+     "duration": 14,
+     "query": "filling form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262308,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262308_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262308_small.jpg",
+     "page": "https://pixabay.com/videos/id-262308/",
+     "tags": "water, waves, wet, psychedelic, template, to form, element, ocean floor",
+     "duration": 14,
+     "query": "filling form",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L4-14",
+   "candidates": [
+    {
+     "pixabay_id": 79395,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79395-569653289_small.jpg",
+     "page": "https://pixabay.com/videos/id-79395/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 51,
+     "query": "woman thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "woman thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 79393,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79393-569653281_small.jpg",
+     "page": "https://pixabay.com/videos/id-79393/",
+     "tags": "woman, model, face, hair, wind, pose, fashion, beauty, skin, eyes, young, emotional, melancholy, think, adult, portrait",
+     "duration": 12,
+     "query": "woman thinking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 19179,
+     "url": "https://cdn.pixabay.com/video/2018/11/06/19179-299997261_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/06/19179-299997261_small.jpg",
+     "page": "https://pixabay.com/videos/id-19179/",
+     "tags": "hdd, technology, computing, hardware, unit, memory",
+     "duration": 19,
+     "query": "memory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 111939,
+     "url": "https://cdn.pixabay.com/video/2022/03/25/111939-692613275_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/25/111939-692613275_small.jpg",
+     "page": "https://pixabay.com/videos/id-111939/",
+     "tags": "stone bridge, stream, in may, nature, landscape, country, memory",
+     "duration": 38,
+     "query": "memory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 68056,
+     "url": "https://cdn.pixabay.com/video/2021/03/15/68056-524689309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/15/68056-524689309_small.jpg",
+     "page": "https://pixabay.com/videos/id-68056/",
+     "tags": "hand, woman, model, beach, sea, ocean, water, nature, seascape, travel, sand, vacation, memory",
+     "duration": 11,
+     "query": "memory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 372896,
+     "url": "https://cdn.pixabay.com/video/2026/08/27/372896_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/27/372896_small.jpg",
+     "page": "https://pixabay.com/videos/id-372896/",
+     "tags": "interaction, mature, person, kindness, street, urban, pensive, contemplative, bird, atmosphere, public, elderly man, feeding pigeons, city square, bird feeding, urban nature, city life, city street, european city, sitting, bench, feeding, close-up of hands, trust",
+     "duration": 13,
+     "query": "pensive man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "pensive man",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

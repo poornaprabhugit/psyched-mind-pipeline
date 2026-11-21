@@ -1,0 +1,435 @@
+{
+ "id": "lg2",
+ "lines": [
+  {
+   "n": 1,
+   "text": "L1-2",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "woman walking hallway",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "woman walking hallway",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3166,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_small.jpg",
+     "page": "https://pixabay.com/videos/id-3166/",
+     "tags": "walking the dog, border-collie, dog, pet, animal, woman, canine, walk, walking dog",
+     "duration": 15,
+     "query": "woman walking hallway",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "walking into kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "home hallway",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 14476,
+     "url": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_small.jpg",
+     "page": "https://pixabay.com/videos/id-14476/",
+     "tags": "house, stone, street, motorbike, old, person, architecture, building, travel, home, tourism, summer, turkey, city",
+     "duration": 11,
+     "query": "home hallway",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "L1-3",
+   "candidates": [
+    {
+     "pixabay_id": 284347,
+     "url": "https://cdn.pixabay.com/video/2025/06/08/284347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/08/284347_small.jpg",
+     "page": "https://pixabay.com/videos/id-284347/",
+     "tags": "man, thinking, confused, yellow background",
+     "duration": 18,
+     "query": "confused man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 134507,
+     "url": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_small.jpg",
+     "page": "https://pixabay.com/videos/id-134507/",
+     "tags": "windmill, green electricity, electricity, confused pinwheel, windmill turns, energy transition, climate neutral, no electricity, confused",
+     "duration": 18,
+     "query": "confused man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 117690,
+     "url": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_small.jpg",
+     "page": "https://pixabay.com/videos/id-117690/",
+     "tags": "clouds, cumulus, heaven, sinister, mood, fall, bottomless, lost, hopeless, cold, alone, confused, upset, darkness, afraid, dark, grim",
+     "duration": 15,
+     "query": "confused man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 165772,
+     "url": "https://cdn.pixabay.com/video/2023/06/04/165772-833149608_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/04/165772-833149608_small.jpg",
+     "page": "https://pixabay.com/videos/id-165772/",
+     "tags": "flower, forget me not, spring, blossoms, blue, tender, nature, flora, bloom",
+     "duration": 15,
+     "query": "forgetful",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 162124,
+     "url": "https://cdn.pixabay.com/video/2023/05/08/162124-824931960_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/08/162124-824931960_small.jpg",
+     "page": "https://pixabay.com/videos/id-162124/",
+     "tags": "flower, forget me not, spring, blossoms, blue, tender, mother's day, nature, flora, bloom, slow motion",
+     "duration": 45,
+     "query": "forgetful",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 160968,
+     "url": "https://cdn.pixabay.com/video/2023/04/29/160968-822391306_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/29/160968-822391306_small.jpg",
+     "page": "https://pixabay.com/videos/id-160968/",
+     "tags": "flower, forget me not, blue, spring, flora, garden, bloom, blossoms, nature, wildflower, pointed flower, mother's day",
+     "duration": 16,
+     "query": "forgetful",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "scratching head",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 125147,
+     "url": "https://cdn.pixabay.com/video/2022/07/23/125147-732837117_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/23/125147-732837117_small.jpg",
+     "page": "https://pixabay.com/videos/id-125147/",
+     "tags": "highlander, cattle, animal, mammal, farm, rural, scratching",
+     "duration": 13,
+     "query": "scratching head",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "L1-4",
+   "candidates": [
+    {
+     "pixabay_id": 192281,
+     "url": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_small.jpg",
+     "page": "https://pixabay.com/videos/id-192281/",
+     "tags": "scientist, laboratory, research, space, science, technology, discussion",
+     "duration": 15,
+     "query": "psychology laboratory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 197489,
+     "url": "https://cdn.pixabay.com/video/2024/01/20/197489-905015030_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/20/197489-905015030_small.jpg",
+     "page": "https://pixabay.com/videos/id-197489/",
+     "tags": "woman, chemistry, laboratory, test, experiment, technology",
+     "duration": 28,
+     "query": "psychology laboratory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 197483,
+     "url": "https://cdn.pixabay.com/video/2024/01/20/197483-905015011_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/20/197483-905015011_small.jpg",
+     "page": "https://pixabay.com/videos/id-197483/",
+     "tags": "sample, laboratory, quality, science, medicine, chemistry, liquid, yellow",
+     "duration": 8,
+     "query": "psychology laboratory",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262188,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262188_small.jpg",
+     "page": "https://pixabay.com/videos/id-262188/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 14,
+     "query": "researcher",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262187,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262187_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262187_small.jpg",
+     "page": "https://pixabay.com/videos/id-262187/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 12,
+     "query": "researcher",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "researcher",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262464,
+     "url": "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/04/262464_small.jpg",
+     "page": "https://pixabay.com/videos/id-262464/",
+     "tags": "scientist, laboratory, lab, blue-collar",
+     "duration": 21,
+     "query": "scientists",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "scientists",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "L1-10",
+   "candidates": [
+    {
+     "pixabay_id": 3174,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_small.jpg",
+     "page": "https://pixabay.com/videos/id-3174/",
+     "tags": "computer keyboard, typing, hands, female, keyboard, computer, technology, business, office, internet, type, key, communication, pc, information, white, working, letter, fingers",
+     "duration": 12,
+     "query": "woman finds keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 131988,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_small.jpg",
+     "page": "https://pixabay.com/videos/id-131988/",
+     "tags": "key, take, open, key code, instrument, door",
+     "duration": 8,
+     "query": "woman finds keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "woman finds keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1048,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_small.jpg",
+     "page": "https://pixabay.com/videos/id-1048/",
+     "tags": "keyboard, button, press, push, keypress, keys, computer, hand, finger, key, pc, click, selective, technology, communication, network, service, information",
+     "duration": 15,
+     "query": "keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26368,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26368-357512458_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26368-357512458_small.jpg",
+     "page": "https://pixabay.com/videos/id-26368/",
+     "tags": "gold wash, pan, looking for gold, washing technology, gold washing pan, key, wash bowl, gold scrubber",
+     "duration": 12,
+     "query": "keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26366,
+     "url": "https://cdn.pixabay.com/video/2019/08/29/26366-357512459_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/29/26366-357512459_small.jpg",
+     "page": "https://pixabay.com/videos/id-26366/",
+     "tags": "gold wash, pan, looking for gold, washing technology, gold washing pan, key, wash bowl, gold wash bowl, gold washing equipment, gold scrubber, prospectors, hobby, leisure time",
+     "duration": 14,
+     "query": "keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 47158,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_small.jpg",
+     "page": "https://pixabay.com/videos/id-47158/",
+     "tags": "computer, laptop, keyboard, to write, research, screen, keys, study, project, internet, technology, cafe, house, office, work, glasses, table, woman, girl, hands, fingers",
+     "duration": 23,
+     "query": "house keys",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 125777,
+     "url": "https://cdn.pixabay.com/video/2022/07/27/125777-735656057_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/27/125777-735656057_small.jpg",
+     "page": "https://pixabay.com/videos/id-125777/",
+     "tags": "key, door, house, to open, closure, hands",
+     "duration": 5,
+     "query": "house keys",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "L1-15",
+   "candidates": [
+    {
+     "pixabay_id": 19316,
+     "url": "https://cdn.pixabay.com/video/2018/11/13/19316-300877530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/13/19316-300877530_small.jpg",
+     "page": "https://pixabay.com/videos/id-19316/",
+     "tags": "opening, door, gate, walk, park, old, garden, hand, passage, way out",
+     "duration": 7,
+     "query": "door opening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130783,
+     "url": "https://cdn.pixabay.com/video/2022/09/10/130783-748347211_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/10/130783-748347211_small.jpg",
+     "page": "https://pixabay.com/videos/id-130783/",
+     "tags": "elevator, door, open, waiting elevator, sliding door, lift, waiting area, staircase, scape door, technology, electric door, lobby, hotel, building, architecture, machine",
+     "duration": 7,
+     "query": "door opening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 71476,
+     "url": "https://cdn.pixabay.com/video/2021/04/18/71476-538476198_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/18/71476-538476198_small.jpg",
+     "page": "https://pixabay.com/videos/id-71476/",
+     "tags": "wall, bricks, gateway, portal, door, hole, sky, clouds, window, escape, religion, spirituality, mind, idea, exploration, open-mind, open-minded",
+     "duration": 26,
+     "query": "door opening",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 199841,
+     "url": "https://cdn.pixabay.com/video/2024/02/08/199841-911406596_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/08/199841-911406596_small.jpg",
+     "page": "https://pixabay.com/videos/id-199841/",
+     "tags": "fridge, egg, leek, empty, food, open, door",
+     "duration": 12,
+     "query": "opening door",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 211207,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211207_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211207_small.jpg",
+     "page": "https://pixabay.com/videos/id-211207/",
+     "tags": "meeting, open doors, leader, success, leadership, office, people",
+     "duration": 6,
+     "query": "opening door",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 282141,
+     "url": "https://cdn.pixabay.com/video/2025/05/28/282141_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/28/282141_small.jpg",
+     "page": "https://pixabay.com/videos/id-282141/",
+     "tags": "politics, politician, government, meeting, business, office, team, people, open doors",
+     "duration": 15,
+     "query": "opening door",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 74016,
+     "url": "https://cdn.pixabay.com/video/2021/05/13/74016-550033213_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/13/74016-550033213_small.jpg",
+     "page": "https://pixabay.com/videos/id-74016/",
+     "tags": "doorway, stone, ruins, clouds, sky, covehithe, suffolk, nature, uk, coast, sea, coastline, shore, seaside, britain, decay, landscape",
+     "duration": 15,
+     "query": "doorway light",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 74015,
+     "url": "https://cdn.pixabay.com/video/2021/05/13/74015-550033209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/13/74015-550033209_small.jpg",
+     "page": "https://pixabay.com/videos/id-74015/",
+     "tags": "doorway, stone, ruins, clouds, sky, covehithe, suffolk, nature, uk, coast, sea, coastline, shore, seaside, britain, decay, landscape",
+     "duration": 10,
+     "query": "doorway light",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}
