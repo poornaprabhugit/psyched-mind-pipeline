@@ -1,0 +1,27 @@
+{
+ "video_queries": [
+  "psychology",
+  "psychology facts",
+  "money psychology",
+  "human behavior",
+  "rich people habits",
+  "brain facts"
+ ],
+ "regions": [
+  "US",
+  "IN",
+  "GB"
+ ],
+ "video_duration": "short",
+ "published_after": "2026-11-14T00:00:00Z",
+ "handles": [
+  "Psych2go",
+  "alux",
+  "ZackDFilms",
+  "BrainyDose",
+  "TopThink"
+ ],
+ "min_subs": 300000,
+ "max_channels": 30,
+ "uploads": 200
+}
