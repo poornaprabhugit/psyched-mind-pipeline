@@ -1,0 +1,395 @@
+{
+ "id": "g01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P01L1 phone buzz",
+   "candidates": [
+    {
+     "pixabay_id": 202987,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_small.jpg",
+     "page": "https://pixabay.com/videos/id-202987/",
+     "tags": "phone, smartphone, mobile, portable, screen, digital, communication, texting, business, work",
+     "duration": 15,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 47743,
+     "url": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_small.jpg",
+     "page": "https://pixabay.com/videos/id-47743/",
+     "tags": "phone, hands, screen touch, smart phone, message",
+     "duration": 7,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 6590,
+     "url": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_small.jpg",
+     "page": "https://pixabay.com/videos/id-6590/",
+     "tags": "guy, phone, city, street, mobile phone, wait, italy",
+     "duration": 9,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 142641,
+     "url": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_small.jpg",
+     "page": "https://pixabay.com/videos/id-142641/",
+     "tags": "man, phone, smartphone, mobile",
+     "duration": 8,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 61298,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61298-498228506_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61298-498228506_small.jpg",
+     "page": "https://pixabay.com/videos/id-61298/",
+     "tags": "man, phone, camera, selfie, smart phone, mobile phone, male, model, human, portrait, expression, adult, face, person, contact, internet",
+     "duration": 28,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 88686,
+     "url": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_small.jpg",
+     "page": "https://pixabay.com/videos/id-88686/",
+     "tags": "phone, scrolling phone, woman, picnic, hands, girl, summer, nature",
+     "duration": 5,
+     "query": "phone vibrating"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P01L4 shirt",
+   "candidates": [
+    {
+     "pixabay_id": 286314,
+     "url": "https://cdn.pixabay.com/video/2025/06/17/286314_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/17/286314_small.jpg",
+     "page": "https://pixabay.com/videos/id-286314/",
+     "tags": "forest, trees, nature, man, shorts, t-shirt, camping, survival, hike, axe, chop wood",
+     "duration": 28,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 67861,
+     "url": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/13/67861-523396059_small.jpg",
+     "page": "https://pixabay.com/videos/id-67861/",
+     "tags": "belief, shirt, man, quote, trust, faith, glowing letters",
+     "duration": 7,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 129476,
+     "url": "https://cdn.pixabay.com/video/2022/08/29/129476-744385489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/29/129476-744385489_small.jpg",
+     "page": "https://pixabay.com/videos/id-129476/",
+     "tags": "businessman, city, people, urban, business, person, man, street, town, walk, walking, downtown, pedestrian, motion, outdoors, contemporary, lifestyle, busy, white shirt",
+     "duration": 9,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 129479,
+     "url": "https://cdn.pixabay.com/video/2022/08/29/129479-744385496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/29/129479-744385496_small.jpg",
+     "page": "https://pixabay.com/videos/id-129479/",
+     "tags": "businessman, city, people, urban, business, person, man, street, town, walk, walking, downtown, pedestrian, motion, outdoors, contemporary, lifestyle, busy, white shirt",
+     "duration": 5,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man shirt"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man shirt"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P06L1 man alone",
+   "candidates": [
+    {
+     "pixabay_id": 164788,
+     "url": "https://cdn.pixabay.com/video/2023/05/28/164788-831084872_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/28/164788-831084872_small.jpg",
+     "page": "https://pixabay.com/videos/id-164788/",
+     "tags": "man, bench, sunset, afternoon, trees, forest, netherlands, drenthe, hoogeveen, scenery, drone, aerial, alone, sitting, nature",
+     "duration": 43,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 123168,
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123168-727221430_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/05/123168-727221430_small.jpg",
+     "page": "https://pixabay.com/videos/id-123168/",
+     "tags": "man, think, alone, emotion, lonely, quiet, to sit, nature, person",
+     "duration": 12,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 289138,
+     "url": "https://cdn.pixabay.com/video/2025/07/03/289138_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/03/289138_small.jpg",
+     "page": "https://pixabay.com/videos/id-289138/",
+     "tags": "man, alone, nature, sitting, waiting, relaxing, river, landscape, waterfall, water, spiritual, meditation, yoga, faith, thinking, relax",
+     "duration": 49,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 91065,
+     "url": "https://cdn.pixabay.com/video/2021/10/06/91065-629483774_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/06/91065-629483774_small.jpg",
+     "page": "https://pixabay.com/videos/id-91065/",
+     "tags": "field, nature, countryside, car, alone, vibes, relax, chill, isolated, sitting, trees, vegetation, man, drone, aerial, aesthetic, surreal",
+     "duration": 26,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 282995,
+     "url": "https://cdn.pixabay.com/video/2025/06/01/282995_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/01/282995_small.jpg",
+     "page": "https://pixabay.com/videos/id-282995/",
+     "tags": "hiking, walking, trail, man, alone, single, middle-aged, adult, human, forest, landscape, path, environment, fog, winter, frost, woodlands, wood, mist, sunbeams",
+     "duration": 14,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 202743,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_small.jpg",
+     "page": "https://pixabay.com/videos/id-202743/",
+     "tags": "man, walking, path, netherlands, drenthe, alone, sunrise",
+     "duration": 31,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 202753,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_small.jpg",
+     "page": "https://pixabay.com/videos/id-202753/",
+     "tags": "man, path, walking, sunrise, netherlands, drenthe, alone",
+     "duration": 26,
+     "query": "man sitting alone"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P06L4 button",
+   "candidates": [
+    {
+     "pixabay_id": 1048,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_small.jpg",
+     "page": "https://pixabay.com/videos/id-1048/",
+     "tags": "keyboard, button, press, push, keypress, keys, computer, hand, finger, key, pc, click, selective, technology, communication, network, service, information",
+     "duration": 15,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 175,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_small.jpg",
+     "page": "https://pixabay.com/videos/id-175/",
+     "tags": "gas station, fuel, petrol station, buttons, pressing button, hand, touch, select, choice, octane",
+     "duration": 8,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 224252,
+     "url": "https://cdn.pixabay.com/video/2024/08/01/224252_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/01/224252_small.jpg",
+     "page": "https://pixabay.com/videos/id-224252/",
+     "tags": "keyboard, button, computer, concept, internet, key, sign, symbol, business, close, office, pc, press, blue, push, technology, handwritten, message, design, text, device",
+     "duration": 7,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 369802,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369802_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369802_small.jpg",
+     "page": "https://pixabay.com/videos/id-369802/",
+     "tags": "audio, button, visual, neon, bright, lighting, control room, control panel, trigger, contrast, controller, editing, changing, hand, press, light up buttons, slider, auto, increase",
+     "duration": 8,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258355,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258355_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258355_small.jpg",
+     "page": "https://pixabay.com/videos/id-258355/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, technology, text, type, user, delete, eliminate",
+     "duration": 34,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 369811,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369811_small.jpg",
+     "page": "https://pixabay.com/videos/id-369811/",
+     "tags": "audio, button, visual, neon, bright, lighting, control room, control panel, trigger, contrast, controller, editing, changing, hand, press, light up buttons",
+     "duration": 26,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258351,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258351_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258351_small.jpg",
+     "page": "https://pixabay.com/videos/id-258351/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, text, type, user, ctrl, control",
+     "duration": 31,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258368,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258368_small.jpg",
+     "page": "https://pixabay.com/videos/id-258368/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, technology, text, type, user, space",
+     "duration": 32,
+     "query": "pressing button"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P06L6 alone",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 218504,
+     "url": "https://cdn.pixabay.com/video/2024/06/27/218504_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/27/218504_small.jpg",
+     "page": "https://pixabay.com/videos/id-218504/",
+     "tags": "man, sunset, beach, ocean, sea, alone, thinking, relax, loneliness, lonely, water, silhouette, golden hour, solitude, meditation, yoga, zen, spiritual, calm, clouds, peaceful, relaxation",
+     "duration": 49,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 120033,
+     "url": "https://cdn.pixabay.com/video/2022/06/12/120033-719686489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/12/120033-719686489_small.jpg",
+     "page": "https://pixabay.com/videos/id-120033/",
+     "tags": "man, male, sad, alone, depression, thinking, think, idea",
+     "duration": 14,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 145566,
+     "url": "https://cdn.pixabay.com/video/2023/01/06/145566-787059312_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/06/145566-787059312_small.jpg",
+     "page": "https://pixabay.com/videos/id-145566/",
+     "tags": "man, alone, thinking, lonely, thoughts",
+     "duration": 12,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 124390,
+     "url": "https://cdn.pixabay.com/video/2022/07/16/124390-730756801_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/16/124390-730756801_small.jpg",
+     "page": "https://pixabay.com/videos/id-124390/",
+     "tags": "man, thoughts, thinking, emotion, sad, alone, silence, lonely, emotional",
+     "duration": 24,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 37620,
+     "url": "https://cdn.pixabay.com/video/2020/04/30/37620-414754443_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/30/37620-414754443_small.jpg",
+     "page": "https://pixabay.com/videos/id-37620/",
+     "tags": "thoughtful, man, serious, mood, portrait, thinking, sad, face, alone, calm, young, love, waiting, journey, mind",
+     "duration": 10,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 35594,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35594-407701510_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35594-407701510_small.jpg",
+     "page": "https://pixabay.com/videos/id-35594/",
+     "tags": "thoughtful, thoughts, serious, mood, portrait, man, thinking, sad, face, alone, calm, young, love, waiting, journey, mind",
+     "duration": 26,
+     "query": "man thinking alone"
+    },
+    {
+     "pixabay_id": 35585,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35585-407701414_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35585-407701414_small.jpg",
+     "page": "https://pixabay.com/videos/id-35585/",
+     "tags": "walk, lonely, walking, landscape, away, alone, nature, man, mood, fog, mindfulness, freedom, trees, winter, tree, person, cold, human, girl, hiking, inspiration, thinking, trekking, hiker, forest",
+     "duration": 53,
+     "query": "man thinking alone"
+    }
+   ]
+  }
+ ]
+}

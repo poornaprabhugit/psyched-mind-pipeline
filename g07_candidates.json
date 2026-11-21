@@ -1,0 +1,395 @@
+{
+ "id": "g07",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P10L7 smell2",
+   "candidates": [
+    {
+     "pixabay_id": 46989,
+     "url": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_small.jpg",
+     "page": "https://pixabay.com/videos/id-46989/",
+     "tags": "coffee, hot drink, coffee pot, enjoyment, drink, coffee enjoyment, caffeine, motivation, coffee break, espresso, machine, coffee machine",
+     "duration": 35,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 209424,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209424_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209424_small.jpg",
+     "page": "https://pixabay.com/videos/id-209424/",
+     "tags": "coffee, cappuccino, caffeine, coffee funnel, processing, brew",
+     "duration": 36,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 45358,
+     "url": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/23/45358-443057031_small.jpg",
+     "page": "https://pixabay.com/videos/id-45358/",
+     "tags": "coffee, beans, caffeine, coffee shop, coffee beans, food, aroma, pleasure, roasted, fragrance, luxury goods, slow motion, coffee enjoyment, drink, live wallpaper",
+     "duration": 17,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 233024,
+     "url": "https://cdn.pixabay.com/video/2024/09/24/233024_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/24/233024_small.jpg",
+     "page": "https://pixabay.com/videos/id-233024/",
+     "tags": "pie, fruit pie, dessert, coffee, cup",
+     "duration": 12,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 180,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_small.jpg",
+     "page": "https://pixabay.com/videos/id-180/",
+     "tags": "conversation, talk, dialogue, coffee, colleagues, discussion, discuss",
+     "duration": 6,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "smelling coffee"
+    },
+    {
+     "pixabay_id": 126805,
+     "url": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/05/126805-737028146_small.jpg",
+     "page": "https://pixabay.com/videos/id-126805/",
+     "tags": "coffee, coffee beans, coffee shop, coffee table, coffee break, coffee maker, coffee making, smoke, macro",
+     "duration": 16,
+     "query": "smelling coffee"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P11 tickle",
+   "candidates": [
+    {
+     "pixabay_id": 237643,
+     "url": "https://cdn.pixabay.com/video/2024/10/22/237643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/22/237643_small.jpg",
+     "page": "https://pixabay.com/videos/id-237643/",
+     "tags": "trees, father, parent, girl, child, care, love, autumn, fall, baby, park, leaves, family, outdoors, nature",
+     "duration": 8,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 253997,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253997_small.jpg",
+     "page": "https://pixabay.com/videos/id-253997/",
+     "tags": "kiss, love, together, father, family, baby, parent, child, dad, man, people, happy, play, girl, cold, winter, snow, look",
+     "duration": 8,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 170134,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170134-842720330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170134-842720330_small.jpg",
+     "page": "https://pixabay.com/videos/id-170134/",
+     "tags": "baby, child, new born, infant, nap, rest",
+     "duration": 10,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 303275,
+     "url": "https://cdn.pixabay.com/video/2025/09/11/303275_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/11/303275_small.jpg",
+     "page": "https://pixabay.com/videos/id-303275/",
+     "tags": "insect, mantis, child, natural",
+     "duration": 25,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 86242,
+     "url": "https://cdn.pixabay.com/video/2021/08/24/86242-591841114_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/24/86242-591841114_small.jpg",
+     "page": "https://pixabay.com/videos/id-86242/",
+     "tags": "child, drawing, kid, pencil",
+     "duration": 15,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 46881,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46881-449588602_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46881-449588602_small.jpg",
+     "page": "https://pixabay.com/videos/id-46881/",
+     "tags": "boy, run, water, child",
+     "duration": 8,
+     "query": "tickling child"
+    },
+    {
+     "pixabay_id": 212511,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212511_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212511_small.jpg",
+     "page": "https://pixabay.com/videos/id-212511/",
+     "tags": "child, kid, family, father, mother, people",
+     "duration": 6,
+     "query": "tickling child"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P11L3 robot",
+   "candidates": [
+    {
+     "pixabay_id": 3372,
+     "url": "https://cdn.pixabay.com/video/2016/06/02/3372-169168117_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/02/3372-169168117_small.jpg",
+     "page": "https://pixabay.com/videos/id-3372/",
+     "tags": "robot, robots, robotic arm, collaborative robot, automation, engineering, iot, artificial intelligence",
+     "duration": 6,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 8197,
+     "url": "https://cdn.pixabay.com/video/2017/03/06/8197-207209259_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/06/8197-207209259_small.jpg",
+     "page": "https://pixabay.com/videos/id-8197/",
+     "tags": "robot, robots, robotic arm, collaborative robot, automation, engineering, iot, artificial intelligence",
+     "duration": 13,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 12041,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12041-234530519_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12041-234530519_small.jpg",
+     "page": "https://pixabay.com/videos/id-12041/",
+     "tags": "gloves, glove, levers, equipment, mechanism, climb, lever arm, control, sleeve, pen, fist, gauntlet, hand, kernel, jack, location, movement, machine, car, engine, worker, operational, labor, industrial, steel, industry, mechanical, metal, heavy, details, transport, power, hose, technique, building, iron, excavator, work, bulldozer, tractor, the piston, rusty, hydraulic, cable, pressure, tool, broadcast, factory, wheel, electric, technology, danger, remote, robot, safety, production",
+     "duration": 16,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 12742,
+     "url": "https://cdn.pixabay.com/video/2017/11/03/12742-241674218_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/03/12742-241674218_small.jpg",
+     "page": "https://pixabay.com/videos/id-12742/",
+     "tags": "kettlebell swing, russian swing, double arm swing, conventional kettlebell swing, crossfit, burpees",
+     "duration": 59,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 154835,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154835-808562582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154835-808562582_small.jpg",
+     "page": "https://pixabay.com/videos/id-154835/",
+     "tags": "woman, phone, business, casual, cheerful, beautiful wallpaper, customer, female, happy, professional, retail, sale, service, shop, store, young, asian, arm, background, confident, corporate, face, lady, person",
+     "duration": 12,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 154833,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154833-808562576_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154833-808562576_small.jpg",
+     "page": "https://pixabay.com/videos/id-154833/",
+     "tags": "woman, phone, business, casual, cheerful, customer, female, happy, professional, retail, sale, beautiful wallpaper, service, shop, store, young, asian, arm, background, confident, corporate, face, lady, person",
+     "duration": 7,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 45285,
+     "url": "https://cdn.pixabay.com/video/2020/07/22/45285-442643065_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/22/45285-442643065_small.jpg",
+     "page": "https://pixabay.com/videos/id-45285/",
+     "tags": "woman, athlete, sports, fitness, arm, health, healthy, fit, diet, portrait, girl, beautiful, pose, model, expression, mimic, beauty, white, beautiful wallpaper, background, insulating, face, young, make-up, eyes",
+     "duration": 7,
+     "query": "robotic arm"
+    },
+    {
+     "pixabay_id": 154830,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154830-808562567_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154830-808562567_small.jpg",
+     "page": "https://pixabay.com/videos/id-154830/",
+     "tags": "woman, phone, business, casual, cheerful, customer, female, happy, professional, retail, beautiful wallpaper, sale, service, shop, store, young, asian, arm, background, confident, corporate, face, lady, person",
+     "duration": 15,
+     "query": "robotic arm"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P11L5 tickle2",
+   "candidates": [
+    {
+     "pixabay_id": 11168,
+     "url": "https://cdn.pixabay.com/video/2017/08/05/11168-228530158_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/05/11168-228530158_small.jpg",
+     "page": "https://pixabay.com/videos/id-11168/",
+     "tags": "feather, wind, movement, grass, field, wave, meadow, summer",
+     "duration": 13,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 1287,
+     "url": "https://cdn.pixabay.com/video/2015/11/08/1287-145131537_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/08/1287-145131537_small.jpg",
+     "page": "https://pixabay.com/videos/id-1287/",
+     "tags": "swans, ducks, water, white, bird, nature, animal, wildlife, lake, wild, pond, beak, feather, outdoors, park, reflection, wave, group, blue, life, wing, floating, river, swimming",
+     "duration": 23,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 71457,
+     "url": "https://cdn.pixabay.com/video/2021/04/18/71457-538476146_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/18/71457-538476146_small.jpg",
+     "page": "https://pixabay.com/videos/id-71457/",
+     "tags": "blackthorn, bud, blossom, bloom, feather, flowered, time lapse, timelapse, live wallpaper",
+     "duration": 31,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 72763,
+     "url": "https://cdn.pixabay.com/video/2021/05/01/72763-544315311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/01/72763-544315311_small.jpg",
+     "page": "https://pixabay.com/videos/id-72763/",
+     "tags": "flower, dandelion, wild flowers, blossom, bloom, feather, time lapse, timelapse, live wallpaper",
+     "duration": 21,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 39263,
+     "url": "https://cdn.pixabay.com/video/2020/05/16/39263-420997306_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/16/39263-420997306_small.jpg",
+     "page": "https://pixabay.com/videos/id-39263/",
+     "tags": "pigeons, bird, feather, plumage",
+     "duration": 11,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 15614,
+     "url": "https://cdn.pixabay.com/video/2018/04/15/15614-265015219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/15/15614-265015219_small.jpg",
+     "page": "https://pixabay.com/videos/id-15614/",
+     "tags": "cherry blossoms, blossom, bloom, feather, flower, blossom branch, white, time lapse, timelapse",
+     "duration": 17,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 39264,
+     "url": "https://cdn.pixabay.com/video/2020/05/16/39264-420997312_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/16/39264-420997312_small.jpg",
+     "page": "https://pixabay.com/videos/id-39264/",
+     "tags": "pigeons, bird, feather, plumage, pairing, kiss",
+     "duration": 10,
+     "query": "feather"
+    },
+    {
+     "pixabay_id": 109373,
+     "url": "https://cdn.pixabay.com/video/2022/03/02/109373-684065488_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/02/109373-684065488_small.jpg",
+     "page": "https://pixabay.com/videos/id-109373/",
+     "tags": "feather, bird, falling feather, floating, float, lightweight, light as a feather, soft, fluffy, feathery, air, gossamer, forrest gump, pillow fight",
+     "duration": 13,
+     "query": "feather"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P12L1 speak",
+   "candidates": [
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 7826,
+     "url": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_small.jpg",
+     "page": "https://pixabay.com/videos/id-7826/",
+     "tags": "woman, girl, shooting, photography, paint, color, creative, cinemagraphs",
+     "duration": 9,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "woman speaking"
+    },
+    {
+     "pixabay_id": 58142,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_small.jpg",
+     "page": "https://pixabay.com/videos/id-58142/",
+     "tags": "woman, flowers, plants, field, garden, nature, gardening, petals, floral, flora, blossom, blooming, fresh, spring, park, outdoors",
+     "duration": 13,
+     "query": "woman speaking"
+    }
+   ]
+  }
+ ]
+}

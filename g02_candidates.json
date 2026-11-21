@@ -1,0 +1,395 @@
+{
+ "id": "g02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P02L1 dropped money",
+   "candidates": [
+    {
+     "pixabay_id": 175912,
+     "url": "https://cdn.pixabay.com/video/2023/08/13/175912-854230269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/13/175912-854230269_small.jpg",
+     "page": "https://pixabay.com/videos/id-175912/",
+     "tags": "tree roots, foliage, autumn, river bank, water, nature, leaves on the ground, rhizomes",
+     "duration": 13,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 65776,
+     "url": "https://cdn.pixabay.com/video/2021/02/20/65776-515379469_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/20/65776-515379469_small.jpg",
+     "page": "https://pixabay.com/videos/id-65776/",
+     "tags": "chaffinch, bird, observation, on the ground, cute, animal, beak, feathers, nature, birds, animals",
+     "duration": 8,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 186195,
+     "url": "https://cdn.pixabay.com/video/2023/10/23/186195-877323695_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/23/186195-877323695_small.jpg",
+     "page": "https://pixabay.com/videos/id-186195/",
+     "tags": "cow, ruminant, pasture, meadow, nature, animals on the farm, dairy cows, group, landscape",
+     "duration": 15,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 152801,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152801-803733122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152801-803733122_small.jpg",
+     "page": "https://pixabay.com/videos/id-152801/",
+     "tags": "rain, water, road, ground",
+     "duration": 15,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 179207,
+     "url": "https://cdn.pixabay.com/video/2023/09/05/179207-861403607_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/05/179207-861403607_small.jpg",
+     "page": "https://pixabay.com/videos/id-179207/",
+     "tags": "cow, meadow, pasture, animals on the farm, lying, grass, group, beef, dairy cows, wildlife",
+     "duration": 14,
+     "query": "money on ground"
+    },
+    {
+     "pixabay_id": 3742,
+     "url": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_small.jpg",
+     "page": "https://pixabay.com/videos/id-3742/",
+     "tags": "fire, calls, wood fire, hot, lena, burning, burn down, light, turn on, red, combustion",
+     "duration": 58,
+     "query": "money on ground"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P02L2 ticket",
+   "candidates": [
+    {
+     "pixabay_id": 31782,
+     "url": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/30/31782-388997475_small.jpg",
+     "page": "https://pixabay.com/videos/id-31782/",
+     "tags": "metro, bangkok, thailand, transport, people, ticket",
+     "duration": 13,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 36565,
+     "url": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/19/36565-409804701_small.jpg",
+     "page": "https://pixabay.com/videos/id-36565/",
+     "tags": "flower, cherry, spring, tree, branch, nature, flowering, botany, tickets, plant, beautiful, season, botanical, time lapse",
+     "duration": 40,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 134789,
+     "url": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/13/134789-760690952_small.jpg",
+     "page": "https://pixabay.com/videos/id-134789/",
+     "tags": "airport, trip, screen, aeroplane, passport, flight, flight ticket, departure",
+     "duration": 12,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 204452,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204452-924698029_small.jpg",
+     "page": "https://pixabay.com/videos/id-204452/",
+     "tags": "passengers, people, crowd, terminal, boarding pass, boarding, ticketing, ticket, lax, airport",
+     "duration": 35,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 131432,
+     "url": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/15/131432-750569021_small.jpg",
+     "page": "https://pixabay.com/videos/id-131432/",
+     "tags": "airport, aeroplane, trip, ticket, application, landing, departure, gezi, holiday, lax",
+     "duration": 17,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 33924,
+     "url": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/18/33924-399148582_small.jpg",
+     "page": "https://pixabay.com/videos/id-33924/",
+     "tags": "purple, spring, flowers, plant, nature, garden, bloom, blue, close up, flora, tickets",
+     "duration": 19,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 23710,
+     "url": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/15/23710-337108762_small.jpg",
+     "page": "https://pixabay.com/videos/id-23710/",
+     "tags": "asia, thailand, thai, bangkok, traffic, transportation, bts, line, sky, convenient, rail, railway, tram, downtown, travel, ticket, station",
+     "duration": 22,
+     "query": "tickets"
+    },
+    {
+     "pixabay_id": 9756,
+     "url": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/10/9756-221163214_small.jpg",
+     "page": "https://pixabay.com/videos/id-9756/",
+     "tags": "tram, railway carriage, urban transport, electric vehicle, people, passengers, doors, seat, armchairs, shipping, transportation, vehicle, the cost of transportation, ticket, communications, movement, trip, street, railway, railway track, road, way, rails",
+     "duration": 7,
+     "query": "tickets"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P02L3 theater",
+   "candidates": [
+    {
+     "pixabay_id": 130439,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130439-746957179_small.jpg",
+     "page": "https://pixabay.com/videos/id-130439/",
+     "tags": "theater, stage, caesarea, caesarea national park, ancient theater, israel, mediterranean sea, roman, architecture",
+     "duration": 13,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 1823,
+     "url": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/03/1823-150669776_small.jpg",
+     "page": "https://pixabay.com/videos/id-1823/",
+     "tags": "movie, opening credits, curtain up, curtain closed, movie theater, canvas, video",
+     "duration": 10,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 219780,
+     "url": "https://cdn.pixabay.com/video/2024/07/06/219780_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/06/219780_small.jpg",
+     "page": "https://pixabay.com/videos/id-219780/",
+     "tags": "theater, roof, architecture, nature, quadrocopter, sun, flying, city, view, summer, drone",
+     "duration": 15,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 219782,
+     "url": "https://cdn.pixabay.com/video/2024/07/06/219782_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/06/219782_small.jpg",
+     "page": "https://pixabay.com/videos/id-219782/",
+     "tags": "park, buildings, theater, drone, quadrocopter, flying, city, architecture, green, view, summer, heat, urban, street, bialystok, poland, grass, nature, landscape",
+     "duration": 16,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 26531,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26531-357855224_small.jpg",
+     "page": "https://pixabay.com/videos/id-26531/",
+     "tags": "camera, camcorder, video, movie theater, equipment, lens, digital, technology, audiovisual, media, photo, tv, production, image, streaming, studio, the operator, event, people, celebration, show, crowd, entertainment",
+     "duration": 14,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 130446,
+     "url": "https://cdn.pixabay.com/video/2022/09/06/130446-746957215_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/06/130446-746957215_small.jpg",
+     "page": "https://pixabay.com/videos/id-130446/",
+     "tags": "drone footage, mediterranean, caesarea maritima, caesarea, israel, caesarea national park, hippodrome, theater, ancient, crusader, muslim, beach, history",
+     "duration": 23,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 226059,
+     "url": "https://cdn.pixabay.com/video/2024/08/12/226059_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/12/226059_small.jpg",
+     "page": "https://pixabay.com/videos/id-226059/",
+     "tags": "park, buildings, theater, drone, quadrocopter, flying, city, architecture, summer, urban, street, bialystok, poland, grass, nature, landscape",
+     "duration": 11,
+     "query": "theater"
+    },
+    {
+     "pixabay_id": 226058,
+     "url": "https://cdn.pixabay.com/video/2024/08/12/226058_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/12/226058_small.jpg",
+     "page": "https://pixabay.com/videos/id-226058/",
+     "tags": "park, buildings, theater, drone, quadrocopter, flying, city, architecture, green, summer, urban, street, bialystok, poland, grass, nature, landscape",
+     "duration": 10,
+     "query": "theater"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P02L4 box office",
+   "candidates": [
+    {
+     "pixabay_id": 254465,
+     "url": "https://cdn.pixabay.com/video/2025/01/24/254465_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/24/254465_small.jpg",
+     "page": "https://pixabay.com/videos/id-254465/",
+     "tags": "booth, city, cars, highway, drone, travel",
+     "duration": 7,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 39249,
+     "url": "https://cdn.pixabay.com/video/2020/05/16/39249-421020458_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/16/39249-421020458_small.jpg",
+     "page": "https://pixabay.com/videos/id-39249/",
+     "tags": "telephone, booth, old, call",
+     "duration": 6,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 21357,
+     "url": "https://cdn.pixabay.com/video/2019/02/13/21357-317090290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/13/21357-317090290_small.jpg",
+     "page": "https://pixabay.com/videos/id-21357/",
+     "tags": "london, telephone box, telephone, red, phone, british, booth, communication, famous, england",
+     "duration": 10,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 69626,
+     "url": "https://cdn.pixabay.com/video/2021/03/31/69626-531621054_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/31/69626-531621054_small.jpg",
+     "page": "https://pixabay.com/videos/id-69626/",
+     "tags": "student, library, studio booth, learn, learning, knowledge, university, education, research, individual",
+     "duration": 34,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 28525,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28525-370317113_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28525-370317113_small.jpg",
+     "page": "https://pixabay.com/videos/id-28525/",
+     "tags": "recording studio, control room, voice over, microphone, studio monitor, sound, sound waves, mixer, sound editing, audio meters, vu meters, mixing console, broadcast, broadcast booth, mixing table, editing table, audio levels, recording booth, speakers, direction, recording, music, mic, computer, console",
+     "duration": 6,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 115163,
+     "url": "https://cdn.pixabay.com/video/2022/04/26/115163-703528179_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/26/115163-703528179_small.jpg",
+     "page": "https://pixabay.com/videos/id-115163/",
+     "tags": "booth wood reservoir, huddersfield, landscape, stott hall farm, m62, aerial footage, drone aerial footage, uas aerial footage, 4k aerial footage, nature, water, flyby, rochdale",
+     "duration": 44,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 11572,
+     "url": "https://cdn.pixabay.com/video/2017/08/27/11572-231758740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/27/11572-231758740_small.jpg",
+     "page": "https://pixabay.com/videos/id-11572/",
+     "tags": "train station, railway transport, passenger, station, depot, platform, stop, train, compound, rails, railway, railway carriage, shipping, travel, journey, trip, excursion, transport, rate, locomotive, speed, movement, people, city, tourism, vehicle, traveler, line, industrial, industry, blue, quick, ticket, service, long distance",
+     "duration": 7,
+     "query": "ticket booth"
+    },
+    {
+     "pixabay_id": 11584,
+     "url": "https://cdn.pixabay.com/video/2017/08/28/11584-231758734_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/28/11584-231758734_small.jpg",
+     "page": "https://pixabay.com/videos/id-11584/",
+     "tags": "train station, railway transport, passenger, station, depot, platform, stop, train, compound, rails, railway, railway carriage, shipping, travel, journey, trip, excursion, transport, rate, locomotive, speed, movement, people, city, tourism, vehicle, traveler, line, industrial, industry, blue, quick, ticket, service, long distance",
+     "duration": 16,
+     "query": "ticket booth"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P02L5 searching",
+   "candidates": [
+    {
+     "pixabay_id": 80672,
+     "url": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/08/80672-572853714_small.jpg",
+     "page": "https://pixabay.com/videos/id-80672/",
+     "tags": "kangaroo, marsupial, young, bag, furry, animal, cute, zoo hague",
+     "duration": 26,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 41869,
+     "url": "https://cdn.pixabay.com/video/2020/06/13/41869-431407027_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/13/41869-431407027_small.jpg",
+     "page": "https://pixabay.com/videos/id-41869/",
+     "tags": "trash, rubbish, garbage, waste, throwing away, paper, plastic, black bin bag, plastic bottles, plastic bag, event, pollution, disposal, overflow, environmental, foam, road, people, thailand, runners",
+     "duration": 10,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 89187,
+     "url": "https://cdn.pixabay.com/video/2021/09/21/89187-613200480_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/21/89187-613200480_small.jpg",
+     "page": "https://pixabay.com/videos/id-89187/",
+     "tags": "flowers, lotus, seed bag, wind, pond",
+     "duration": 37,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 29884,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29884-378294331_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29884-378294331_small.jpg",
+     "page": "https://pixabay.com/videos/id-29884/",
+     "tags": "travel, ipad, search, vacation, holiday, planning, location, looking, internet, searching, destination, tourism, airport, airline, vacations, departure, airplane, flying, trip, transportation",
+     "duration": 61,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 29886,
+     "url": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/06/29886-378294346_small.jpg",
+     "page": "https://pixabay.com/videos/id-29886/",
+     "tags": "web, internet, real estate, laptop, digital, media, connected, tech, computer, information, communication, network, property, selling, home, house sale, searching, buying",
+     "duration": 24,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 105688,
+     "url": "https://cdn.pixabay.com/video/2022/01/26/105688-670934811_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/26/105688-670934811_small.jpg",
+     "page": "https://pixabay.com/videos/id-105688/",
+     "tags": "tea, bag, boiling, heater, drink, beautiful wallpaper, glass, kitchen, food, background",
+     "duration": 58,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 105687,
+     "url": "https://cdn.pixabay.com/video/2022/01/26/105687-670934809_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/26/105687-670934809_small.jpg",
+     "page": "https://pixabay.com/videos/id-105687/",
+     "tags": "tea, bag, boiling, heater, beautiful wallpaper, drink, glass, kitchen, food, background",
+     "duration": 33,
+     "query": "searching bag"
+    },
+    {
+     "pixabay_id": 52370,
+     "url": "https://cdn.pixabay.com/video/2020/10/14/52370-468233792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/14/52370-468233792_small.jpg",
+     "page": "https://pixabay.com/videos/id-52370/",
+     "tags": "millipede, insect, moving, legs, stone, ants, hide, bright, day, head, body, black, gold, dust, group of ants, group of legs, walking, finding way, searching for food, small insect, small stones, finding, antenna, migration, searching",
+     "duration": 20,
+     "query": "searching bag"
+    }
+   ]
+  }
+ ]
+}

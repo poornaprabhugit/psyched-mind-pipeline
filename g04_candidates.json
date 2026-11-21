@@ -1,0 +1,395 @@
+{
+ "id": "g04",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P04L3 candies",
+   "candidates": [
+    {
+     "pixabay_id": 71743,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_small.jpg",
+     "page": "https://pixabay.com/videos/id-71743/",
+     "tags": "strawberry, chocolate, pouring, sauce, candy, cocoa, dessert, fruit, liquid, pour, prepare, calories, dairy, melted",
+     "duration": 9,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 12669,
+     "url": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_small.jpg",
+     "page": "https://pixabay.com/videos/id-12669/",
+     "tags": "chocolate, candy, belgium, food, dessert, sweet, brown, delicious, dark, white, sugar, snack, milk, cocoa, tasty, gourmet, eat, cacao, cooking, baking, treat, bonbon",
+     "duration": 8,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 168213,
+     "url": "https://cdn.pixabay.com/video/2023/06/21/168213-838884062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/21/168213-838884062_small.jpg",
+     "page": "https://pixabay.com/videos/id-168213/",
+     "tags": "friends, couple, fun, cotton candy, fair",
+     "duration": 33,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 71747,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_small.jpg",
+     "page": "https://pixabay.com/videos/id-71747/",
+     "tags": "chocolate, sweet, snack, candy, milk, swiss, cocoa, nut, dessert, food, gourmet",
+     "duration": 7,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 81261,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_small.jpg",
+     "page": "https://pixabay.com/videos/id-81261/",
+     "tags": "chocolate, candy, sugar, chocolates, sweets, dessert",
+     "duration": 24,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 12863,
+     "url": "https://cdn.pixabay.com/video/2017/11/09/12863-242215697_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/09/12863-242215697_small.jpg",
+     "page": "https://pixabay.com/videos/id-12863/",
+     "tags": "candy, cake, food, dessert, tasty, eat, confectionery, dainty, gastronomy",
+     "duration": 15,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 2772,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2772-162345684_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2772-162345684_small.jpg",
+     "page": "https://pixabay.com/videos/id-2772/",
+     "tags": "tall grass, herbs, outside, nature, candy, landscape",
+     "duration": 20,
+     "query": "candies"
+    },
+    {
+     "pixabay_id": 71522,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71522-538962701_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71522-538962701_small.jpg",
+     "page": "https://pixabay.com/videos/id-71522/",
+     "tags": "indian food, india, jalebi, sweets, shiva, delicious, cooking, fresh",
+     "duration": 36,
+     "query": "candies"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P04L4 waiter",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 7795,
+     "url": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_small.jpg",
+     "page": "https://pixabay.com/videos/id-7795/",
+     "tags": "spider, arachnid, insect, octapod, animal, walking spider, wood trunk",
+     "duration": 11,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "waiter walking"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P04L5 give",
+   "candidates": [
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 32387,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_small.jpg",
+     "page": "https://pixabay.com/videos/id-32387/",
+     "tags": "woman, young, beautiful, expression, style, modeling, experience, exclusive, the best, interesting, exotic, people, queen, top, options, black, blue, skin, chocolate",
+     "duration": 44,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 33711,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_small.jpg",
+     "page": "https://pixabay.com/videos/id-33711/",
+     "tags": "martabak, manis, indonesia, food, makanan, coklat, chocolate, cheese, sweet, jajanan, pasar, traditional, cheap",
+     "duration": 9,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 153806,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_small.jpg",
+     "page": "https://pixabay.com/videos/id-153806/",
+     "tags": "flower, pastry shop, tasty, breakfast, kitchen, sweet, cream, to eat, floret, chocolate",
+     "duration": 11,
+     "query": "giving chocolate"
+    },
+    {
+     "pixabay_id": 14627,
+     "url": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/02/14627-258543533_small.jpg",
+     "page": "https://pixabay.com/videos/id-14627/",
+     "tags": "sparkling wine, give a, glass, alcohol, celebration",
+     "duration": 30,
+     "query": "giving chocolate"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P04L6 pay",
+   "candidates": [
+    {
+     "pixabay_id": 9908,
+     "url": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_small.jpg",
+     "page": "https://pixabay.com/videos/id-9908/",
+     "tags": "count, money, taxes, to save, currency, savings, polish zlotys, pay, business, sum, polish banknotes, means of payment, dollars, usa, dime, payment, banknotes, golden, shopping, bills, finances, wallet, polish, one hundred zlotys, coins, cash register, gold, finance, fifty zlotys, earnings, pln, one, antique, two, english pounds, bake",
+     "duration": 16,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 80028,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80028-572853499_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80028-572853499_small.jpg",
+     "page": "https://pixabay.com/videos/id-80028/",
+     "tags": "bird, eagle, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 8,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 138566,
+     "url": "https://cdn.pixabay.com/video/2022/11/11/138566-769988162_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/11/138566-769988162_small.jpg",
+     "page": "https://pixabay.com/videos/id-138566/",
+     "tags": "nile goose, water bird, animal, feather, bill, wing flapping, flock, water, pond",
+     "duration": 17,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 137868,
+     "url": "https://cdn.pixabay.com/video/2022/11/05/137868-767696342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/05/137868-767696342_small.jpg",
+     "page": "https://pixabay.com/videos/id-137868/",
+     "tags": "egyptian goose, water bird, wildlife, animal, feather, bill, eye, water",
+     "duration": 11,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 80158,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80158-572853517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80158-572853517_small.jpg",
+     "page": "https://pixabay.com/videos/id-80158/",
+     "tags": "bird, branch, beak, bill, wings, wildlife, animal, wild, ornithology, nature",
+     "duration": 9,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 80025,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80025-572853491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80025-572853491_small.jpg",
+     "page": "https://pixabay.com/videos/id-80025/",
+     "tags": "bird, pelicans, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 10,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 92333,
+     "url": "https://cdn.pixabay.com/video/2021/10/17/92333-636709333_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/17/92333-636709333_small.jpg",
+     "page": "https://pixabay.com/videos/id-92333/",
+     "tags": "bird, starling, perched, feathers, plumage, beak, bill, ornithology, nature, wildlife, animal",
+     "duration": 11,
+     "query": "paying bill"
+    },
+    {
+     "pixabay_id": 80159,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80159-572853520_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80159-572853520_small.jpg",
+     "page": "https://pixabay.com/videos/id-80159/",
+     "tags": "bird, branch, beak, bill, wings, wildlife, animal, wild, ornithology, nature",
+     "duration": 9,
+     "query": "paying bill"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P05L2 museum",
+   "candidates": [
+    {
+     "pixabay_id": 122355,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122355-725067752_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122355-725067752_small.jpg",
+     "page": "https://pixabay.com/videos/id-122355/",
+     "tags": "curtain, wind, silence, silent, museum",
+     "duration": 10,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 215832,
+     "url": "https://cdn.pixabay.com/video/2024/06/08/215832_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/08/215832_small.jpg",
+     "page": "https://pixabay.com/videos/id-215832/",
+     "tags": "waterfall, tourists, rheinfall, switzerland, touristic, rhine, landscape, nature, river, water, stream, visitors",
+     "duration": 6,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 26788,
+     "url": "https://cdn.pixabay.com/video/2019/09/12/26788-361092006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/12/26788-361092006_small.jpg",
+     "page": "https://pixabay.com/videos/id-26788/",
+     "tags": "lion, statue, museum, night, street, evening",
+     "duration": 18,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 2265,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2265-157183276_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2265-157183276_small.jpg",
+     "page": "https://pixabay.com/videos/id-2265/",
+     "tags": "museum, angels, exhibition, gold, wings, statue, sculpture, arts",
+     "duration": 10,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 28201,
+     "url": "https://cdn.pixabay.com/video/2019/10/23/28201-368763917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/23/28201-368763917_small.jpg",
+     "page": "https://pixabay.com/videos/id-28201/",
+     "tags": "venice, palace, museum, building, italy, architecture, city, travel, face, decorated",
+     "duration": 9,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 228783,
+     "url": "https://cdn.pixabay.com/video/2024/08/29/228783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/29/228783_small.jpg",
+     "page": "https://pixabay.com/videos/id-228783/",
+     "tags": "building, biosphere, environment museum, montreal, canada, quebec, architecture",
+     "duration": 14,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 141918,
+     "url": "https://cdn.pixabay.com/video/2022/12/06/141918-778907078_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/06/141918-778907078_small.jpg",
+     "page": "https://pixabay.com/videos/id-141918/",
+     "tags": "church, religion, christianity, countryside, turfhouse, museum, christmas, winter, snow, iceland, landscape",
+     "duration": 18,
+     "query": "museum visitors"
+    },
+    {
+     "pixabay_id": 228782,
+     "url": "https://cdn.pixabay.com/video/2024/08/29/228782_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/29/228782_small.jpg",
+     "page": "https://pixabay.com/videos/id-228782/",
+     "tags": "building, the biosphere, environment museum, montreal, canada, quebec, architecture",
+     "duration": 11,
+     "query": "museum visitors"
+    }
+   ]
+  }
+ ]
+}

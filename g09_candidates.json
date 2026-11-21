@@ -1,0 +1,395 @@
+{
+ "id": "g09",
+ "lines": [
+  {
+   "n": 1,
+   "text": "P13L2 coin",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 12740,
+     "url": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_small.jpg",
+     "page": "https://pixabay.com/videos/id-12740/",
+     "tags": "kettlebells, kettlebell juggling, kettlebell training, beach, crossfit, flip",
+     "duration": 76,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 12842,
+     "url": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_small.jpg",
+     "page": "https://pixabay.com/videos/id-12842/",
+     "tags": "kettlebell flip, juggling, kettlebell training, kettlebells",
+     "duration": 15,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, monetary, luck, waving, animal, mascot, wealth, prosperity, feng shui, pet, finance, profit, coins",
+     "duration": 9,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "coin flip"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "P13L4 no",
+   "candidates": [
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 3634,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_small.jpg",
+     "page": "https://pixabay.com/videos/id-3634/",
+     "tags": "whiskey, glasses, alcohol, moving, shaking, beverage, alcoholic, whisky, restaurant, celebration, brandy, party, cocktail",
+     "duration": 13,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 7924,
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_small.jpg",
+     "page": "https://pixabay.com/videos/id-7924/",
+     "tags": "flowers, nature, time, blossom, leaf, petal, plant, summer, green, lapse, blooming, growth, botany, gardening, season, stem, head, new, garden, bud, floral, single, stamen, life, springtime",
+     "duration": 10,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 193066,
+     "url": "https://cdn.pixabay.com/video/2023/12/13/193066-894278294_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/13/193066-894278294_small.jpg",
+     "page": "https://pixabay.com/videos/id-193066/",
+     "tags": "deer, wild, head, wildlife",
+     "duration": 15,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 57916,
+     "url": "https://cdn.pixabay.com/video/2020/11/30/57916-486683368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/30/57916-486683368_small.jpg",
+     "page": "https://pixabay.com/videos/id-57916/",
+     "tags": "nothing, no, non",
+     "duration": 69,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 222133,
+     "url": "https://cdn.pixabay.com/video/2024/07/20/222133_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/20/222133_small.jpg",
+     "page": "https://pixabay.com/videos/id-222133/",
+     "tags": "moose, mammal, head, wildlife",
+     "duration": 12,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 226015,
+     "url": "https://cdn.pixabay.com/video/2024/08/12/226015_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/12/226015_small.jpg",
+     "page": "https://pixabay.com/videos/id-226015/",
+     "tags": "thread, nothing, no",
+     "duration": 24,
+     "query": "shaking head no"
+    },
+    {
+     "pixabay_id": 232342,
+     "url": "https://cdn.pixabay.com/video/2024/09/20/232342_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/20/232342_small.jpg",
+     "page": "https://pixabay.com/videos/id-232342/",
+     "tags": "thread, nothing, no",
+     "duration": 59,
+     "query": "shaking head no"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "P13L5 papers",
+   "candidates": [
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 159029,
+     "url": "https://cdn.pixabay.com/video/2023/04/15/159029-818026300_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/15/159029-818026300_small.jpg",
+     "page": "https://pixabay.com/videos/id-159029/",
+     "tags": "students, books, papers, text, study, studying, library, research, academic, college, university, desk, teamwork, collaboration, group project, young, essay",
+     "duration": 60,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 212509,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212509_small.jpg",
+     "page": "https://pixabay.com/videos/id-212509/",
+     "tags": "documents, papers, research, education",
+     "duration": 12,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 192281,
+     "url": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_small.jpg",
+     "page": "https://pixabay.com/videos/id-192281/",
+     "tags": "scientist, laboratory, research, space, science, technology, discussion",
+     "duration": 15,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 108640,
+     "url": "https://cdn.pixabay.com/video/2022/02/23/108640-681143995_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/23/108640-681143995_small.jpg",
+     "page": "https://pixabay.com/videos/id-108640/",
+     "tags": "business, marketing, research, technology, tech, office, great, entrepreneur",
+     "duration": 19,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 262188,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262188_small.jpg",
+     "page": "https://pixabay.com/videos/id-262188/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 14,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "research papers"
+    },
+    {
+     "pixabay_id": 197486,
+     "url": "https://cdn.pixabay.com/video/2024/01/20/197486-905015022_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/20/197486-905015022_small.jpg",
+     "page": "https://pixabay.com/videos/id-197486/",
+     "tags": "scientific, laboratory, science, to experience, chemical, microscope, chemistry, binoculars, biotechnology, pharmacy, research, men, microbiology, liquid, biology, biochemistry",
+     "duration": 18,
+     "query": "research papers"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "P14L1 daydream",
+   "candidates": [
+    {
+     "pixabay_id": 118178,
+     "url": "https://cdn.pixabay.com/video/2022/05/26/118178-714270952_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/26/118178-714270952_small.jpg",
+     "page": "https://pixabay.com/videos/id-118178/",
+     "tags": "candle flame, candlelight, candles, contemplation, daydreaming, leaning tower of pisa, memory, mockup, paper images, paper photo, pisa, leaning tower",
+     "duration": 15,
+     "query": "daydreaming"
+    },
+    {
+     "pixabay_id": 46230,
+     "url": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_small.jpg",
+     "page": "https://pixabay.com/videos/id-46230/",
+     "tags": "cat, pet, window, waiting, looking, animal, white cat",
+     "duration": 7,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 14869,
+     "url": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_small.jpg",
+     "page": "https://pixabay.com/videos/id-14869/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, outdoors, brown, looking, look, posing",
+     "duration": 19,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 3068,
+     "url": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_small.jpg",
+     "page": "https://pixabay.com/videos/id-3068/",
+     "tags": "smoke, ascending, haze, blue, step out",
+     "duration": 10,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 15305,
+     "url": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_small.jpg",
+     "page": "https://pixabay.com/videos/id-15305/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, brown, looking, look, posing, adorable, portrait, tense, calm",
+     "duration": 15,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 22761,
+     "url": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_small.jpg",
+     "page": "https://pixabay.com/videos/id-22761/",
+     "tags": "bud, leaf, sprout, rise up, time lapse, leaf bud, eye, set out, branch, spring awakening, drive out, summit bud",
+     "duration": 47,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 397,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_small.jpg",
+     "page": "https://pixabay.com/videos/id-397/",
+     "tags": "woodhouse's toad, animal, frog, amphibian, toad, water, slimy, eyes, looking, nostrils",
+     "duration": 7,
+     "query": "woman looking out window"
+    },
+    {
+     "pixabay_id": 85660,
+     "url": "https://cdn.pixabay.com/video/2021/08/19/85660-591865471_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/19/85660-591865471_small.jpg",
+     "page": "https://pixabay.com/videos/id-85660/",
+     "tags": "meerkat, mammal, guard, watch out, savannah, cute, look out, predator, africa, namibia",
+     "duration": 12,
+     "query": "woman looking out window"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "P14L3 thinking",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "thinking man"
+    },
+    {
+     "pixabay_id": 82130,
+     "url": "https://cdn.pixabay.com/video/2021/07/19/82130-577017520_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/19/82130-577017520_small.jpg",
+     "page": "https://pixabay.com/videos/id-82130/",
+     "tags": "thinking, think, idea, man, person, surprised",
+     "duration": 15,
+     "query": "thinking man"
+    }
+   ]
+  }
+ ]
+}
