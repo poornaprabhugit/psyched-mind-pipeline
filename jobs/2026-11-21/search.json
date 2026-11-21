@@ -1,0 +1,911 @@
+{
+ "videos": [
+  {
+   "id": "p01",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You just felt your phone buzz, and nothing was there.",
+     "queries": [
+      "phone vibrating table",
+      "woman checking phone",
+      "man pocket phone"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Two out of three hospital workers said this happens to them.",
+     "queries": [
+      "nurse hospital corridor",
+      "doctor hospital",
+      "medical staff"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Their brains learned to expect the buzz, so they guess.",
+     "queries": [
+      "woman looking at phone",
+      "notification smartphone",
+      "man waiting phone"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "A shirt moves, a muscle twitches,",
+     "queries": [
+      "shirt fabric close up",
+      "man adjusting shirt",
+      "arm muscle close up"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "and your brain says: message.",
+     "queries": [
+      "smartphone message",
+      "texting hands",
+      "phone screen light"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "It's not broken. It's trained.",
+     "queries": [
+      "man looking at phone confused",
+      "woman puts phone down",
+      "phone on table"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why",
+     "queries": [
+      "phone vibrating",
+      "woman pocket phone",
+      "smartphone table"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Lose ten dollars, and you still buy the ticket.",
+     "queries": [
+      "dollar bill falling",
+      "money dropped street",
+      "wallet money"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Lose the ticket, and you don't.",
+     "queries": [
+      "ticket hand",
+      "cinema ticket",
+      "searching pockets"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Lost a ten-dollar bill on the way to the theater?",
+     "queries": [
+      "theater entrance",
+      "walking to theater night",
+      "cinema lights"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Eighty-eight percent still bought a ticket.",
+     "queries": [
+      "ticket office",
+      "buying ticket",
+      "box office"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Lost the ten-dollar ticket itself? Only forty-six percent bought another.",
+     "queries": [
+      "man searching pockets",
+      "woman looking in bag",
+      "frustrated man"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Same money.",
+     "queries": [
+      "dollar bills",
+      "money counting",
+      "cash hands"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "But your brain says the show now costs twenty. So:",
+     "queries": [
+      "theater stage",
+      "audience theater",
+      "cinema seats"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Over half of people yawn just from watching someone yawn.",
+     "queries": [
+      "yawning",
+      "man yawning",
+      "woman yawning"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "People watched five minutes of yawning faces.",
+     "queries": [
+      "watching screen",
+      "people watching video",
+      "woman watching laptop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Fifty-five percent yawned.",
+     "queries": [
+      "tired yawn",
+      "yawn office",
+      "sleepy man"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Five minutes of smiling faces? About one in five.",
+     "queries": [
+      "smiling face",
+      "woman smiling",
+      "man smiling"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "You might be yawning right now.",
+     "queries": [
+      "yawning woman bed",
+      "sleepy woman",
+      "yawn"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain copies what it sees before you decide to.",
+     "queries": [
+      "two people talking",
+      "friends laughing",
+      "people mirroring"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why",
+     "queries": [
+      "yawning man",
+      "tired yawn",
+      "sleepy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p04",
+   "lines": [
+    {
+     "n": 1,
+     "text": "One free chocolate with the bill, and people tip more.",
+     "queries": [
+      "chocolate candy",
+      "restaurant bill",
+      "chocolates plate"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Researchers tested it in a real restaurant.",
+     "queries": [
+      "restaurant dinner",
+      "waiter restaurant",
+      "people eating restaurant"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Two chocolates? Even bigger tips.",
+     "queries": [
+      "chocolates",
+      "candy bowl",
+      "chocolate pieces"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "But the biggest came when the waiter walked away, turned back,",
+     "queries": [
+      "waiter walking",
+      "waitress serving",
+      "waiter"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "and offered one more, just for you.",
+     "queries": [
+      "hand offering chocolate",
+      "giving gift",
+      "chocolate box"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Free feels like a gift, and your brain wants to pay it back.",
+     "queries": [
+      "paying bill restaurant",
+      "credit card payment",
+      "cash tip table"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why",
+     "queries": [
+      "chocolate",
+      "restaurant table",
+      "dessert"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Taking a photo of something makes you remember it worse.",
+     "queries": [
+      "taking photo smartphone",
+      "museum photo",
+      "tourist photo"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "On a museum tour, people photographed some objects and just looked at others.",
+     "queries": [
+      "museum",
+      "museum visitors",
+      "art gallery"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "The next day, they remembered fewer of the photographed ones, and fewer details.",
+     "queries": [
+      "scrolling photos phone",
+      "phone gallery",
+      "woman thinking"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Your brain thinks: the camera's got it.",
+     "queries": [
+      "camera",
+      "smartphone camera",
+      "photographing"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "But zooming in on one detail fixed it.",
+     "queries": [
+      "zoom camera",
+      "phone zoom",
+      "close up statue"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Because remember:",
+     "queries": [
+      "museum statue",
+      "sculpture",
+      "gallery painting"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p06",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Two in three men chose an electric shock over sitting alone with their thoughts.",
+     "queries": [
+      "man sitting alone",
+      "electricity spark",
+      "man thinking alone"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Fifteen minutes in an empty room.",
+     "queries": [
+      "empty room",
+      "empty white room",
+      "clock"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "No phone.",
+     "queries": [
+      "phone turned off",
+      "phone face down",
+      "no phone"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Just a button for a mild shock they'd said they'd pay to avoid.",
+     "queries": [
+      "pressing button",
+      "finger button",
+      "red button"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Two in three men pressed it. One in four women too.",
+     "queries": [
+      "man bored",
+      "woman sitting alone",
+      "bored woman"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Being alone with your mind is harder than it sounds. In fact,",
+     "queries": [
+      "man staring wall",
+      "alone window",
+      "person alone"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "The moment you own something, it feels worth twice as much.",
+     "queries": [
+      "coffee mug",
+      "mug hands",
+      "holding mug"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Half a class got a coffee mug. The other half could buy one.",
+     "queries": [
+      "classroom students",
+      "lecture hall",
+      "students"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Owners wanted about seven dollars to sell.",
+     "queries": [
+      "dollar bills",
+      "money",
+      "cash"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Buyers would pay under three.",
+     "queries": [
+      "coins",
+      "paying coins",
+      "coins hand"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Same mug.",
+     "queries": [
+      "mug table",
+      "coffee cup table",
+      "mug"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Owning it made it feel like part of you.",
+     "queries": [
+      "woman holding cup",
+      "man drinking coffee",
+      "cozy coffee"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why selling your old stuff is so hard, and why",
+     "queries": [
+      "garage sale",
+      "boxes moving",
+      "old things"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p08",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Chewing gum can push a stuck song out of your head.",
+     "queries": [
+      "chewing gum",
+      "woman chewing gum",
+      "bubble gum"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "People heard catchy songs,",
+     "queries": [
+      "headphones music",
+      "listening music",
+      "woman headphones"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "then pressed a key each time a song came back.",
+     "queries": [
+      "typing keyboard",
+      "pressing key",
+      "keyboard"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "With gum, it came back less often.",
+     "queries": [
+      "chewing gum man",
+      "gum",
+      "chewing"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Tapping a finger didn't work as well.",
+     "queries": [
+      "finger tapping table",
+      "tapping",
+      "fingers drumming"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your mouth is busy, so your inner voice can't sing along.",
+     "queries": [
+      "woman singing",
+      "singing",
+      "mouth"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So if a song won't leave,",
+     "queries": [
+      "headphones",
+      "music",
+      "earphones"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p09",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Twenty minutes in nature is enough to lower your stress hormone.",
+     "queries": [
+      "walking in nature",
+      "forest walk",
+      "park walk"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "City people took short nature breaks for eight weeks.",
+     "queries": [
+      "city street",
+      "city park",
+      "busy city"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "No phone, no workout.",
+     "queries": [
+      "sitting on bench park",
+      "relaxing grass",
+      "woman sitting nature"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Their stress hormone fell about twenty percent more per hour than it normally does.",
+     "queries": [
+      "relaxed woman nature",
+      "breathing nature",
+      "calm"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "The best value came at twenty to thirty minutes.",
+     "queries": [
+      "watch time",
+      "clock",
+      "wristwatch"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "After that, gains slowed. A park counts.",
+     "queries": [
+      "park",
+      "city park trees",
+      "trees"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So try it:",
+     "queries": [
+      "forest path",
+      "walking trees",
+      "green park"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "lines": [
+    {
+     "n": 1,
+     "text": "One smell can take you back to before you were ten.",
+     "queries": [
+      "smelling flower",
+      "woman smelling",
+      "smell"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Older adults got a smell, a word or a picture,",
+     "queries": [
+      "elderly woman",
+      "old man",
+      "senior"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "and shared the first memory that came up.",
+     "queries": [
+      "elderly talking",
+      "grandmother",
+      "old woman smiling"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Words and pictures brought back their teens.",
+     "queries": [
+      "old photos",
+      "photo album",
+      "teenagers"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Smells brought back early childhood.",
+     "queries": [
+      "children playing",
+      "child",
+      "kids playing"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Same person, different key, an older door.",
+     "queries": [
+      "old door",
+      "key door",
+      "door opening"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's how",
+     "queries": [
+      "smelling coffee",
+      "perfume",
+      "baking bread"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You can't tickle yourself because your brain sees it coming.",
+     "queries": [
+      "tickling",
+      "tickle laughing",
+      "laughing child"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "When you move, your brain predicts the touch and turns it down.",
+     "queries": [
+      "hand touching arm",
+      "hand skin",
+      "touch hand"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "People tickled themselves through a robot.",
+     "queries": [
+      "robot arm",
+      "robotic arm",
+      "robot"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Add a delay of a fifth of a second,",
+     "queries": [
+      "stopwatch",
+      "clock",
+      "timer"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "and it tickled like someone else's hand.",
+     "queries": [
+      "tickle feet",
+      "laughing woman",
+      "feather"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain lost the timing. It's simple:",
+     "queries": [
+      "laughing",
+      "girl laughing",
+      "tickled"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Say one word for fifteen seconds, and it starts to lose its meaning.",
+     "queries": [
+      "woman talking",
+      "man talking camera",
+      "mouth speaking"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "People repeated a word out loud, two or three times a second.",
+     "queries": [
+      "speaking",
+      "talking",
+      "lips"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Afterward, the word felt less meaningful.",
+     "queries": [
+      "confused woman",
+      "confused man",
+      "thinking"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Milk. Milk. Milk. Milk.",
+     "queries": [
+      "milk",
+      "pouring milk",
+      "milk glass"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Scientists think your brain's response to it simply gets tired.",
+     "queries": [
+      "tired",
+      "exhausted",
+      "brain"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Try it now:",
+     "queries": [
+      "milk bottle",
+      "glass of milk",
+      "milk splash"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "lines": [
+    {
+     "n": 1,
+     "text": "A loss hurts about twice as much as the same win feels good.",
+     "queries": [
+      "losing money",
+      "sad man money",
+      "disappointed"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Flip a coin:",
+     "queries": [
+      "coin flip",
+      "coin toss",
+      "coin"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "lose a hundred dollars, or win a hundred and fifty.",
+     "queries": [
+      "hundred dollar bills",
+      "money",
+      "cash"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Many people say no.",
+     "queries": [
+      "man shaking head",
+      "no",
+      "woman shaking head"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Across a hundred and fifty studies, the win had to be about twice the loss.",
+     "queries": [
+      "scientific papers",
+      "research",
+      "reading papers"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Your brain guards what you have more than what you could get.",
+     "queries": [
+      "holding wallet",
+      "wallet",
+      "piggy bank"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "That's why",
+     "queries": [
+      "coin spinning",
+      "coin",
+      "money"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Your mind is somewhere else almost half the time you're awake.",
+     "queries": [
+      "daydreaming",
+      "woman daydreaming",
+      "man staring window"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Over two thousand people got random phone pings:",
+     "queries": [
+      "phone notification",
+      "smartphone",
+      "people phone"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "what are you doing, and what are you thinking about?",
+     "queries": [
+      "thinking",
+      "woman thinking",
+      "man thinking"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Forty-seven percent of the time, they were thinking about something else.",
+     "queries": [
+      "staring",
+      "daydream",
+      "lost in thought"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "And in those moments, they were less happy.",
+     "queries": [
+      "sad woman",
+      "unhappy man",
+      "bored"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Even reading this, chances are",
+     "queries": [
+      "reading",
+      "woman reading",
+      "man reading"
+     ]
+    }
+   ]
+  }
+ ]
+}
