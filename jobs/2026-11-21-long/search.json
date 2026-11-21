@@ -1,0 +1,1102 @@
+{
+ "videos": [
+  {
+   "id": "L0",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You walk into the kitchen. You stop. Why are you here?",
+     "queries": [
+      "woman walking into kitchen",
+      "woman kitchen confused",
+      "man enters kitchen"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "You had a reason. Three seconds ago it was right there. Now it's gone.",
+     "queries": [
+      "woman confused kitchen",
+      "man scratching head",
+      "woman thinking kitchen"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Later today you'll forget a name a few seconds after hearing it.",
+     "queries": [
+      "business handshake",
+      "people meeting introduce",
+      "office meeting greeting"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "You'll reread something and lose most of it by tonight.",
+     "queries": [
+      "woman reading notes",
+      "reading notebook",
+      "studying notes"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "And you'll remember parts of today that never happened the way you think.",
+     "queries": [
+      "woman looking out window thinking",
+      "man remembering",
+      "pensive woman"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "So here's the question for this video. If your brain is so powerful, why does it keep dropping things?",
+     "queries": [
+      "brain",
+      "neurons",
+      "city night timelapse"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "The answer is not what you'd expect. Your brain isn't failing. A lot of this forgetting is on purpose.",
+     "queries": [
+      "woman smiling thinking",
+      "man thinking window",
+      "thoughtful woman"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Let's follow one ordinary day and catch your brain in the act.",
+     "queries": [
+      "sunrise city",
+      "morning alarm clock",
+      "morning window sunlight"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L1",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "It starts in the morning. You're in the bedroom, and you think: I need my keys.",
+     "queries": [
+      "woman bedroom morning",
+      "woman getting ready morning",
+      "bedroom morning sunlight"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "You walk into the hallway, then the kitchen. And the thought is gone.",
+     "queries": [
+      "walking through door",
+      "woman walking hallway",
+      "doorway home"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "You've done this. Almost everyone has. And for years it looked like simple absent-mindedness.",
+     "queries": [
+      "man confused",
+      "woman forgetful",
+      "looking for keys"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Then a team of memory researchers decided to test it.",
+     "queries": [
+      "scientist laboratory",
+      "researcher notes",
+      "laboratory"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "They set up rooms in a lab. People picked up an object at one table, carried it, and put it down at another table.",
+     "queries": [
+      "carrying box",
+      "picking up box table",
+      "putting box on table"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Sometimes the second table was in the same big room. Sometimes it was through a door, in a new room. The walking distance was the same.",
+     "queries": [
+      "walking through doorway",
+      "open door room",
+      "man walking door"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Then, right after they put it down, they were asked a simple question: what did you just put down?",
+     "queries": [
+      "woman questioned",
+      "interview",
+      "woman answering question"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "The people who had walked through a doorway forgot more. Same time. Same distance. The only difference was the door.",
+     "queries": [
+      "door",
+      "door closing",
+      "wooden door"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "The researchers then tried something else. If the memory was left behind in the first room, maybe going back would bring it back.",
+     "queries": [
+      "walking back hallway",
+      "woman turning around",
+      "man returns room"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "That's what we all do, right? Walk back to the bedroom and suddenly remember.",
+     "queries": [
+      "woman remembers",
+      "bedroom",
+      "woman finds keys"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "In a virtual version of the test, people who walked back into the first room did not do any better.",
+     "queries": [
+      "virtual reality",
+      "video game corridor",
+      "vr headset"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "What mattered was how many new rooms they had entered. Each new room made the forgetting a little worse.",
+     "queries": [
+      "corridor doors",
+      "many doors",
+      "hallway doors"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "So what's going on? The best explanation is that your brain doesn't record your day as one long video.",
+     "queries": [
+      "video camera recording",
+      "film reel",
+      "camera"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "It cuts it into scenes, a bit like a film editor.",
+     "queries": [
+      "video editing",
+      "film editing",
+      "editor computer"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "A doorway is a strong signal that a scene has ended. When the scene ends, your brain files the old scene away and gets ready for the new one.",
+     "queries": [
+      "filing cabinet",
+      "folders files",
+      "door opening light"
+     ]
+    },
+    {
+     "n": 16,
+     "text": "The plan you made in the bedroom gets filed with the bedroom.",
+     "queries": [
+      "bedroom",
+      "empty bedroom",
+      "bed"
+     ]
+    },
+    {
+     "n": 17,
+     "text": "That's not a bug. Think about how much you do in a day.",
+     "queries": [
+      "busy day",
+      "busy street people",
+      "rush hour"
+     ]
+    },
+    {
+     "n": 18,
+     "text": "If every plan from every room stayed active, your head would be full of old, finished business.",
+     "queries": [
+      "messy desk",
+      "sticky notes",
+      "cluttered"
+     ]
+    },
+    {
+     "n": 19,
+     "text": "Closing the scene keeps your attention on where you are now. The cost is small: sometimes you lose a plan you still needed.",
+     "queries": [
+      "woman focused",
+      "focus",
+      "concentration"
+     ]
+    },
+    {
+     "n": 20,
+     "text": "And this is the first clue to our question. Your brain isn't trying to keep everything. It's trying to keep what fits the moment you're in.",
+     "queries": [
+      "woman kitchen",
+      "moment",
+      "woman smiling kitchen"
+     ]
+    },
+    {
+     "n": 21,
+     "text": "But the next part of your day is harder on memory, because now there are other people in the room.",
+     "queries": [
+      "office people",
+      "people office meeting",
+      "coworkers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L2",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Nine o'clock. A meeting with new people. Everyone goes around the table and says their name and their role.",
+     "queries": [
+      "business meeting table",
+      "meeting room",
+      "team meeting"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "The person next to you says their name. Then it's your turn. You say yours.",
+     "queries": [
+      "introducing yourself",
+      "woman speaking meeting",
+      "man talking meeting"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "And by the end of the meeting, you have no idea what the person next to you was called. They were right next to you.",
+     "queries": [
+      "awkward",
+      "embarrassed man",
+      "people leaving meeting"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "This has a name: the next-in-line effect.",
+     "queries": [
+      "people sitting in a row",
+      "line of people",
+      "row of chairs"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "In one study, students sat around a table and took turns reading words out loud.",
+     "queries": [
+      "students table",
+      "students reading",
+      "group study"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Later they had to remember every word they had heard.",
+     "queries": [
+      "writing list",
+      "student writing",
+      "exam"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "They remembered their own words very well, nearly nine in ten.",
+     "queries": [
+      "student smiling",
+      "confident student",
+      "woman writing"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "But the words read just before their turn, and just after it, were remembered worst of all.",
+     "queries": [
+      "student confused",
+      "confused",
+      "frustrated student"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "The closer a word came to their own turn, the more likely it was to vanish.",
+     "queries": [
+      "waiting nervous",
+      "nervous man",
+      "anxious woman"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Here's why. When your turn is coming, your brain is busy getting ready. What will I say? How will I sound?",
+     "queries": [
+      "nervous presentation",
+      "man preparing speech",
+      "woman nervous"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "There isn't room left to store what the person next to you is saying.",
+     "queries": [
+      "people talking",
+      "conversation",
+      "coworkers talking"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Then, while you speak and calm down afterward, the same thing happens again.",
+     "queries": [
+      "woman speaking",
+      "presentation",
+      "relief"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "And names have a second problem. Researchers have found that it is much harder to remember that a person's name is Baker than to remember that a person is a baker.",
+     "queries": [
+      "name tag",
+      "name badge",
+      "conference"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "It's the same word.",
+     "queries": [
+      "baker",
+      "bakery",
+      "baking bread"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "The reason is meaning. A baker connects to a hundred things you already know: bread, early mornings, flour on their hands.",
+     "queries": [
+      "bread",
+      "flour hands",
+      "baker kneading dough"
+     ]
+    },
+    {
+     "n": 16,
+     "text": "Mr. Baker connects to almost nothing. A name is a label with no story attached.",
+     "queries": [
+      "label",
+      "blank label",
+      "business card"
+     ]
+    },
+    {
+     "n": 17,
+     "text": "Your brain is built to keep stories.",
+     "queries": [
+      "storytelling",
+      "friends talking",
+      "book"
+     ]
+    },
+    {
+     "n": 18,
+     "text": "So if you want to keep a name, give it a story. Link it to something. Say it back once, out loud, after your own turn is over.",
+     "queries": [
+      "handshake",
+      "greeting",
+      "people introducing"
+     ]
+    },
+    {
+     "n": 19,
+     "text": "Again, notice what your brain is doing. It isn't broken.",
+     "queries": [
+      "woman thinking",
+      "man thinking",
+      "office"
+     ]
+    },
+    {
+     "n": 20,
+     "text": "It's protecting what matters most to it in that moment: your own turn, and things that connect to what you already know.",
+     "queries": [
+      "woman focused meeting",
+      "focus",
+      "speaker"
+     ]
+    },
+    {
+     "n": 21,
+     "text": "But what about the things you work hard to learn? Surely those stay. Not so fast.",
+     "queries": [
+      "studying",
+      "student books",
+      "learning"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L3",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Lunch break. You reread some notes for later. A report, a lesson, a recipe. You feel like you've got it.",
+     "queries": [
+      "lunch break office",
+      "woman eating lunch reading",
+      "reading notes"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "More than a hundred years ago, one researcher tested his own memory in a strange way.",
+     "queries": [
+      "old book",
+      "vintage",
+      "old library"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "He learned long lists of nonsense syllables, then measured how much work it took to learn them again after different delays.",
+     "queries": [
+      "handwriting",
+      "writing list",
+      "notebook writing"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "If relearning was fast, the memory was still partly there. If it was slow, it was mostly gone.",
+     "queries": [
+      "hourglass",
+      "clock",
+      "time"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "In 2015, two researchers repeated this experiment. One of them, a young student, spent about seventy hours over seventy-five days learning and relearning lists.",
+     "queries": [
+      "student studying",
+      "student laptop",
+      "young man studying"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "The pattern came back almost the same as before.",
+     "queries": [
+      "graph",
+      "chart",
+      "data"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Twenty minutes after learning a list, relearning it already took about half the original effort.",
+     "queries": [
+      "stopwatch",
+      "clock",
+      "timer"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "After one day, about two-thirds. After a month, almost the whole effort again.",
+     "queries": [
+      "calendar",
+      "calendar pages",
+      "days passing"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "This is the forgetting curve. Most of the loss happens early, in the first hours. Then it slows down.",
+     "queries": [
+      "sand hourglass",
+      "time lapse",
+      "hourglass"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "That sounds bad. But think about what it means. Your brain doesn't treat everything you see as worth keeping.",
+     "queries": [
+      "crowd street",
+      "busy city",
+      "shopping street"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "It waits for proof. Something you meet once and never use again fades fast.",
+     "queries": [
+      "fading",
+      "fog",
+      "mist"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Something that keeps coming back gets kept.",
+     "queries": [
+      "repetition",
+      "waves",
+      "ocean waves"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "That's a smart rule for a brain that sees thousands of things a day. Most of them really don't matter.",
+     "queries": [
+      "traffic",
+      "city traffic",
+      "crowd"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "And here is where most of us get it wrong. We try to prove something matters by rereading it.",
+     "queries": [
+      "reading book",
+      "woman reading",
+      "rereading notes"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "But rereading is a weak signal. The words look familiar, so it feels like you know them.",
+     "queries": [
+      "reading highlighting",
+      "highlighter",
+      "book pages"
+     ]
+    },
+    {
+     "n": 16,
+     "text": "Your brain is mostly recognizing the page, not storing anything new.",
+     "queries": [
+      "turning pages",
+      "book",
+      "page"
+     ]
+    },
+    {
+     "n": 17,
+     "text": "There's a much stronger signal, and we'll come back to it at the end, because it's the one thing in this video you can use today.",
+     "queries": [
+      "woman writing",
+      "writing",
+      "pen paper"
+     ]
+    },
+    {
+     "n": 18,
+     "text": "First, let's get to the evening. Because the strangest part of memory isn't what you forget. It's what you remember that isn't true.",
+     "queries": [
+      "sunset city",
+      "evening",
+      "dusk"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L4",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Evening. Someone asks you: how was your day?",
+     "queries": [
+      "couple talking dinner",
+      "family dinner",
+      "friends evening"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "You don't replay the whole day. You can't. Instead you reach for a few moments. Usually the best or worst moment, and how it ended.",
+     "queries": [
+      "woman talking sofa",
+      "friends talking",
+      "conversation evening"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "In one experiment, people put one hand in cold water, cold enough to hurt, for sixty seconds.",
+     "queries": [
+      "hand in water",
+      "cold water",
+      "ice water"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "In another trial, they did the same sixty seconds, then kept their hand in for thirty more seconds while the water got about one degree warmer.",
+     "queries": [
+      "water",
+      "hand water",
+      "thermometer"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Still cold. Still uncomfortable. Just a little less so at the end.",
+     "queries": [
+      "ice",
+      "cold",
+      "ice cubes"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "The second trial was longer. It was strictly more pain.",
+     "queries": [
+      "pain",
+      "clock",
+      "stopwatch"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "But when they were asked which one they'd rather repeat, sixty-nine percent chose the longer one.",
+     "queries": [
+      "choice",
+      "choosing",
+      "woman deciding"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Their memory didn't add up the pain minute by minute. It kept the worst moment and the end.",
+     "queries": [
+      "memory",
+      "old photos",
+      "photographs"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "A better ending made the whole thing feel better, even though it lasted longer.",
+     "queries": [
+      "happy ending",
+      "sunset",
+      "smile"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "So the day you describe tonight is already an edit. But it gets stranger.",
+     "queries": [
+      "film editing",
+      "editing",
+      "scissors"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "In a classic study, people watched short films of car crashes.",
+     "queries": [
+      "car crash",
+      "car accident",
+      "traffic accident"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "Afterward they were asked one question: about how fast were the cars going when they hit each other?",
+     "queries": [
+      "speedometer",
+      "car speed",
+      "traffic"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "For other people, one word was changed. Instead of hit, the question said smashed.",
+     "queries": [
+      "writing question",
+      "questionnaire",
+      "form filling"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "That one word changed what people remembered.",
+     "queries": [
+      "thinking",
+      "woman thinking",
+      "man thinking"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "With smashed, the average guess was almost forty-one miles per hour. With hit, it was thirty-four. With contacted, under thirty-two.",
+     "queries": [
+      "speedometer",
+      "dashboard",
+      "car driving"
+     ]
+    },
+    {
+     "n": 16,
+     "text": "And a week later, everyone was asked: did you see any broken glass?",
+     "queries": [
+      "broken glass",
+      "shattered glass",
+      "glass"
+     ]
+    },
+    {
+     "n": 17,
+     "text": "There was no broken glass in the film.",
+     "queries": [
+      "car",
+      "windshield",
+      "car window"
+     ]
+    },
+    {
+     "n": 18,
+     "text": "Of the people who heard hit, fourteen percent said yes. Of the people who heard smashed, thirty-two percent said yes.",
+     "queries": [
+      "people raising hands",
+      "raise hand",
+      "audience"
+     ]
+    },
+    {
+     "n": 19,
+     "text": "Almost one in three remembered glass that never existed.",
+     "queries": [
+      "broken glass",
+      "glass shards",
+      "glass"
+     ]
+    },
+    {
+     "n": 20,
+     "text": "This is what memory really is. Every time you remember something, you don't play back a recording. You rebuild it.",
+     "queries": [
+      "building blocks",
+      "puzzle",
+      "lego"
+     ]
+    },
+    {
+     "n": 21,
+     "text": "You use the bits you kept, plus what you know, plus what someone just said to you. Then you store it again, slightly changed.",
+     "queries": [
+      "puzzle pieces",
+      "jigsaw",
+      "pieces"
+     ]
+    },
+    {
+     "n": 22,
+     "text": "So when you tell your friend about your day tonight, the story you tell becomes part of the memory.",
+     "queries": [
+      "friends talking cafe",
+      "friends laughing",
+      "two women talking"
+     ]
+    },
+    {
+     "n": 23,
+     "text": "The words you choose, the parts you skip, the ending you give it.",
+     "queries": [
+      "talking",
+      "conversation",
+      "telling story"
+     ]
+    },
+    {
+     "n": 24,
+     "text": "That sounds scary. But it's the same reason you can update what you know. A memory that can change is a memory that can learn.",
+     "queries": [
+      "learning",
+      "growth",
+      "plant growing"
+     ]
+    },
+    {
+     "n": 25,
+     "text": "And that brings us to the night, and to the answer.",
+     "queries": [
+      "night city",
+      "moon",
+      "night sky"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "L5",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You go to bed. For you, the day is over. For your brain, there's still work to do.",
+     "queries": [
+      "going to bed",
+      "woman bed night",
+      "turning off lamp"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "In one study, high-school students learned pairs of English and German words.",
+     "queries": [
+      "students studying",
+      "teenager studying",
+      "vocabulary"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Some learned them in the evening, shortly before sleep. Others learned them in the morning and stayed awake all day.",
+     "queries": [
+      "studying evening lamp",
+      "morning study",
+      "student desk"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "The students who slept soon after learning forgot much less.",
+     "queries": [
+      "sleeping",
+      "woman sleeping",
+      "man sleeping"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "In a second test, students learned the words and then stayed awake all night.",
+     "queries": [
+      "awake night",
+      "tired student night",
+      "insomnia"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Even after a full night of recovery sleep, two days later they remembered less than students who had slept.",
+     "queries": [
+      "tired",
+      "sleeping",
+      "bed"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Sleep isn't just rest. It's when your brain sorts the day.",
+     "queries": [
+      "sleeping peacefully",
+      "sleep",
+      "night"
+     ]
+    },
+    {
+     "n": 8,
+     "text": "Some of it gets kept and linked to what you already know. A lot of it gets let go.",
+     "queries": [
+      "neurons",
+      "network",
+      "connections"
+     ]
+    },
+    {
+     "n": 9,
+     "text": "So, the question we started with. If your brain is so powerful, why does it keep dropping things?",
+     "queries": [
+      "brain",
+      "thinking",
+      "woman window"
+     ]
+    },
+    {
+     "n": 10,
+     "text": "Because dropping things is part of how it works.",
+     "queries": [
+      "leaves falling",
+      "falling leaves",
+      "autumn leaves"
+     ]
+    },
+    {
+     "n": 11,
+     "text": "Brain scientists have argued that the goal of memory is not to keep a perfect record of the past.",
+     "queries": [
+      "old photographs",
+      "archive",
+      "photo album"
+     ]
+    },
+    {
+     "n": 12,
+     "text": "The goal is to help you make good decisions in a world that keeps changing.",
+     "queries": [
+      "crossroads",
+      "decision",
+      "road"
+     ]
+    },
+    {
+     "n": 13,
+     "text": "To do that, your brain actively weakens old connections. It lets go of details that don't repeat. It keeps the pattern and drops the noise.",
+     "queries": [
+      "pattern",
+      "waves",
+      "sand"
+     ]
+    },
+    {
+     "n": 14,
+     "text": "A brain that kept everything would get stuck in the past.",
+     "queries": [
+      "stuck",
+      "clock",
+      "old clock"
+     ]
+    },
+    {
+     "n": 15,
+     "text": "It would remember last year's password, last month's parking spot, the exact words of every conversation, and struggle to see what's new.",
+     "queries": [
+      "password login",
+      "parking lot",
+      "laptop typing"
+     ]
+    },
+    {
+     "n": 16,
+     "text": "The doorway clears finished plans. The name fades because it had no meaning attached.",
+     "queries": [
+      "doorway",
+      "door",
+      "walking through door"
+     ]
+    },
+    {
+     "n": 17,
+     "text": "The notes fade because nothing told your brain they mattered. Even the false glass is the price of a memory that can update.",
+     "queries": [
+      "notes",
+      "glass",
+      "broken glass"
+     ]
+    },
+    {
+     "n": 18,
+     "text": "So your brain forgets on purpose. But you can tell it what matters.",
+     "queries": [
+      "woman smiling",
+      "confident woman",
+      "man smiling"
+     ]
+    },
+    {
+     "n": 19,
+     "text": "Here's the one thing to try today. Instead of rereading something, close it and test yourself. Try to write down or say what you remember.",
+     "queries": [
+      "closing book",
+      "writing notebook",
+      "writing memory"
+     ]
+    },
+    {
+     "n": 20,
+     "text": "In one experiment, students either read a short science text four times, or read it once and then tried to recall it three times.",
+     "queries": [
+      "students reading",
+      "students writing",
+      "exam"
+     ]
+    },
+    {
+     "n": 21,
+     "text": "Five minutes later, the rereaders did better.",
+     "queries": [
+      "student reading",
+      "reading",
+      "book"
+     ]
+    },
+    {
+     "n": 22,
+     "text": "But one week later, the people who tested themselves remembered sixty-one percent. The rereaders remembered forty percent.",
+     "queries": [
+      "student writing",
+      "exam test",
+      "test"
+     ]
+    },
+    {
+     "n": 23,
+     "text": "And the rereaders were the ones who felt more confident.",
+     "queries": [
+      "confident",
+      "confident man",
+      "smiling student"
+     ]
+    },
+    {
+     "n": 24,
+     "text": "Trying to remember is the signal your brain is waiting for. It says: this one matters. Keep it.",
+     "queries": [
+      "woman writing",
+      "writing",
+      "pen"
+     ]
+    },
+    {
+     "n": 25,
+     "text": "And if you want to see how easily your brain can be fooled about your own choices, watch this one next.",
+     "queries": [
+      "woman choosing",
+      "choice",
+      "two options"
+     ]
+    }
+   ]
+  }
+ ]
+}
