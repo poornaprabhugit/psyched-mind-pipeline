@@ -143,7 +143,7 @@ Follow for one real psychology study a day 🧠
 ```
 Say one word for 15 seconds… it loses its meaning 🔁
 
-People who repeated a word out loud felt it was less meaningful afterward. Milk. Milk. Milk. Your brain's response simply gets tired. Try it now.
+People who repeated a word out loud felt it was less meaningful afterward. Milk. Milk. Milk. Scientists think your brain's response simply gets tired. Try it now.
 
 Source: Lambert & Jakobovits (1960)
 Follow for one real psychology study a day 🧠

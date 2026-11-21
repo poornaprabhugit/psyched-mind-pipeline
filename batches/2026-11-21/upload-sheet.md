@@ -67,7 +67,7 @@ Science-backed psychology · Sources in description · Not medical or financial 
 **Description:**
 ```
 Why are yawns contagious? People watched five minutes of faces yawning: 55% yawned themselves. People who watched smiling faces instead: about 1 in 5. Your brain copies what it sees before you decide to. (Did you yawn reading this?)
-Source: Provine (1986), Ethology 72, 109–122
+Source: Provine (1986), Ethology 72(2), 109–122 – https://cir.nii.ac.jp/crid/1360292621459430784
 Full video: Why Your Brain Forgets Things On Purpose (Related video link above)
 Science-backed psychology · Sources in description · Not medical or financial advice.
 #psychology #brain #yawn #brainfacts #shorts
@@ -203,7 +203,7 @@ Science-backed psychology · Sources in description · Not medical or financial 
 **Description:**
 ```
 Why can't you tickle yourself? When you move, your brain predicts the touch and turns it down. In one study, people tickled their own hand through a robot. When the robot added a delay of a fifth of a second, it felt more like someone else's touch – the prediction no longer matched.
-Source: Blakemore, Frith & Wolpert (1999), Journal of Cognitive Neuroscience 11(5); Blakemore, Wolpert & Frith (1998), Nature Neuroscience
+Source: Blakemore, Frith & Wolpert (1999), Journal of Cognitive Neuroscience 11(5) – https://wolpertlab.neuroscience.columbia.edu/sites/default/files/content/papers/BlaWolFri99.pdf
 Full video: Why Your Brain Forgets Things On Purpose (Related video link above)
 Science-backed psychology · Sources in description · Not medical or financial advice.
 #psychology #brain #neuroscience #brainfacts #shorts
@@ -233,7 +233,7 @@ Science-backed psychology · Sources in description · Not medical or financial 
 
 ## B13 · Sun 29 Nov 12:00 · brain & money · P1 arm A (follow_card yes) · predicted: medium
 **File:** `B13 – Sun 29 Nov 12-00 – Losses hurt twice.mp4` · **Hook card:** Lose $100 or win $150? · **Hook variant:** result-first line 1 + contrast card · **Ending:** loop
-**Title:** Why losing money hurts twice as much 💸
+**Title:** Why losing money hurts you twice as much 💸
 **Description:**
 ```
 Would you flip a coin to lose $100 or win $150? Many people say no. A review of 607 estimates from about 150 studies found a loss weighs about twice as much as an equal gain (it varies a lot between people). It's called loss aversion: your brain guards what you have more than what you could get. Works the same in any currency. (Psychology research, not financial advice.)
