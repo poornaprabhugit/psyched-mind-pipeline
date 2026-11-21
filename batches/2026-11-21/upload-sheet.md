@@ -252,3 +252,41 @@ Science-backed psychology · Sources in description · Not medical or financial 
 **Related video:** Why Your Brain Forgets Things On Purpose (new long video)
 
 ---
+
+---
+
+# C · LONG VIDEO · Sun 22 Nov 18:00 Amsterdam
+
+**File:** `C – Sun 22 Nov 18-00 – Why Your Brain Forgets Things On Purpose.mp4` (11:46, 1920×1080, −14 LUFS)
+**Thumbnails (Test & compare, all 3):** `Thumb A – Forgot why.jpg` · `Thumb B – His name.jpg` · `Thumb C – On purpose.jpg`
+**Title (Test & compare, title + thumbnail):** A "Why Your Brain Forgets Things On Purpose" (main) · B "Why You Forget Things You Just Heard" · C "Your Brain Deletes Memories. Here's Why"
+**Settings:** Playlist "The Psyched Mind – Weekly Psychology" · Education · Not made for kids · English video + audio language · Altered/synthetic content: **No** (real stock footage, code-drawn diagrams, standard AI narrator) · Schedule **Sun 22 Nov 18:00** (Amsterdam).
+**Description:**
+```
+Why do you forget why you walked into a room, a name seconds after hearing it, and most of what you reread? Your brain forgets on purpose. Follow one ordinary day – morning to night – and see the memory experiments behind each moment: the doorway effect, the next-in-line effect, the forgetting curve, the peak-end rule, false memories and sleep. At the end: the one study-backed way to remember more (testing yourself beats rereading).
+
+00:00 Why does your brain drop things?
+00:39 Morning: the doorway
+02:52 Work: the name you lost
+04:51 Lunch: why rereading fails
+06:48 Evening: the day you remember
+09:16 Night: sleep, and the answer
+
+Studies in this video:
+Doorway effect – Radvansky, Krawietz & Tamplin (2011), Quarterly Journal of Experimental Psychology: https://doi.org/10.1080/17470218.2011.571267
+Next-in-line effect – Brenner (1973), Journal of Verbal Learning and Verbal Behavior 12, 320–323
+Baker/baker – McWeeny, Young, Hay & Ellis (1987), British Journal of Psychology: https://doi.org/10.1111/j.2044-8295.1987.tb02235.x
+Forgetting curve replication – Murre & Dros (2015), PLOS ONE: https://doi.org/10.1371/journal.pone.0120644
+Cold-water / peak-end – Kahneman, Fredrickson, Schreiber & Redelmeier (1993), Psychological Science: https://doi.org/10.1111/j.1467-9280.1993.tb00589.x
+"Smashed" vs "hit" – Loftus & Palmer (1974), Journal of Verbal Learning and Verbal Behavior 13, 585–589
+Sleep and word learning – Gais, Lucas & Born (2006), Learning & Memory: https://doi.org/10.1101/lm.132106
+Why the brain forgets – Richards & Frankland (2017), Neuron: https://doi.org/10.1016/j.neuron.2017.04.037
+Testing yourself vs rereading – Roediger & Karpicke (2006), Psychological Science: https://doi.org/10.1111/j.1467-9280.2006.01693.x
+
+Science-backed psychology · Sources above · Not medical advice.
+#psychology #memory #brain
+```
+**Tags:** why do we forget things, doorway effect, why do I forget why I walked into a room, forgetting curve, how to remember names, peak end rule, false memories, sleep and memory, retrieval practice, how to remember what you read, memory psychology, brain facts
+**End screen (last ~10 s, from ~11:36):** 1 video = "You'd defend a choice you never made 🤯" (choice blindness Short, already public – the voiceover points to it) + Subscribe. Add to playlist.
+**Pinned comment:** What do you forget most: names, why you walked into a room, or what you just read?
+**After it is public:** set Related video = this video on all 13 Shorts of 23–29 Nov (and on last week's Shorts if you like); start Test & compare (title + thumbnail) once it is public.
