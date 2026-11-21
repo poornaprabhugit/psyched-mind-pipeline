@@ -1,0 +1,551 @@
+{
+ "id": "p13",
+ "lines": [
+  {
+   "n": 1,
+   "text": "A loss hurts about twice as much as the same win feels good.",
+   "candidates": [
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 3816,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3816-175213480_small.jpg",
+     "page": "https://pixabay.com/videos/id-3816/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "losing money"
+    },
+    {
+     "pixabay_id": 148596,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_small.jpg",
+     "page": "https://pixabay.com/videos/id-148596/",
+     "tags": "investment, money, wealth, writing, chart, profit, grow",
+     "duration": 21,
+     "query": "losing money"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Flip a coin:",
+   "candidates": [
+    {
+     "pixabay_id": 12740,
+     "url": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_small.jpg",
+     "page": "https://pixabay.com/videos/id-12740/",
+     "tags": "kettlebells, kettlebell juggling, kettlebell training, beach, crossfit, flip",
+     "duration": 76,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 12842,
+     "url": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_small.jpg",
+     "page": "https://pixabay.com/videos/id-12842/",
+     "tags": "kettlebell flip, juggling, kettlebell training, kettlebells",
+     "duration": 15,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 59134,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59134-491926072_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59134-491926072_small.jpg",
+     "page": "https://pixabay.com/videos/id-59134/",
+     "tags": "cash, money, currency, finance, wealth, coin, investment, business, banking, financial",
+     "duration": 21,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 12751,
+     "url": "https://cdn.pixabay.com/video/2017/11/04/12751-241674238_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/04/12751-241674238_small.jpg",
+     "page": "https://pixabay.com/videos/id-12751/",
+     "tags": "coins, money, pennies, saving, economy, tip, cash, metal, silver, energy, movement",
+     "duration": 12,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 138317,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138317-769163818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138317-769163818_small.jpg",
+     "page": "https://pixabay.com/videos/id-138317/",
+     "tags": "coins, piggy bank, smash, save up, inflation, shopping, savings, finance, hammer, euro, currency, business, income",
+     "duration": 13,
+     "query": "coin flip"
+    },
+    {
+     "pixabay_id": 91678,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91678-629172618_small.jpg",
+     "page": "https://pixabay.com/videos/id-91678/",
+     "tags": "cards, coins, gambling, game, money, currency, finance, casino, happiness, poker, gambling addiction, game bank, win, slow motion",
+     "duration": 29,
+     "query": "coin flip"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "lose a hundred dollars, or win a hundred and fifty.",
+   "candidates": [
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 92333,
+     "url": "https://cdn.pixabay.com/video/2021/10/17/92333-636709333_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/17/92333-636709333_small.jpg",
+     "page": "https://pixabay.com/videos/id-92333/",
+     "tags": "bird, starling, perched, feathers, plumage, beak, bill, ornithology, nature, wildlife, animal",
+     "duration": 11,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 80159,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80159-572853520_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80159-572853520_small.jpg",
+     "page": "https://pixabay.com/videos/id-80159/",
+     "tags": "bird, branch, beak, bill, wings, wildlife, animal, wild, ornithology, nature",
+     "duration": 9,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 80161,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80161-572853526_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80161-572853526_small.jpg",
+     "page": "https://pixabay.com/videos/id-80161/",
+     "tags": "bird, eagle, beak, bill, wings, wildlife, animal, wild, ornithology, nature",
+     "duration": 10,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 120003,
+     "url": "https://cdn.pixabay.com/video/2022/06/11/120003-719443939_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/11/120003-719443939_small.jpg",
+     "page": "https://pixabay.com/videos/id-120003/",
+     "tags": "duck, muscovy duck, waterbird, bird, animal, feather, plumage, bill, resting",
+     "duration": 14,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 80157,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80157-572853514_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80157-572853514_small.jpg",
+     "page": "https://pixabay.com/videos/id-80157/",
+     "tags": "bird, vultures, beak, bill, wings, wildlife, flight, animal, wild, nature, ornithology",
+     "duration": 10,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 326808,
+     "url": "https://cdn.pixabay.com/video/2026/01/09/326808_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/09/326808_small.jpg",
+     "page": "https://pixabay.com/videos/id-326808/",
+     "tags": "sacred kingfisher, kingfisher, todiramphus sanctus, bird, beak, feathers, plumage, bill, animal, wildlife, wilderness, nature, fauna, avian, wild, australia",
+     "duration": 9,
+     "query": "hundred dollar bills"
+    },
+    {
+     "pixabay_id": 80156,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80156-572853511_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80156-572853511_small.jpg",
+     "page": "https://pixabay.com/videos/id-80156/",
+     "tags": "bird, vultures, beak, bill, wings, wildlife, flight, animal, wild, nature, ornithology",
+     "duration": 10,
+     "query": "hundred dollar bills"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Many people say no.",
+   "candidates": [
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 3634,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_small.jpg",
+     "page": "https://pixabay.com/videos/id-3634/",
+     "tags": "whiskey, glasses, alcohol, moving, shaking, beverage, alcoholic, whisky, restaurant, celebration, brandy, party, cocktail",
+     "duration": 13,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 7924,
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_small.jpg",
+     "page": "https://pixabay.com/videos/id-7924/",
+     "tags": "flowers, nature, time, blossom, leaf, petal, plant, summer, green, lapse, blooming, growth, botany, gardening, season, stem, head, new, garden, bud, floral, single, stamen, life, springtime",
+     "duration": 10,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 193066,
+     "url": "https://cdn.pixabay.com/video/2023/12/13/193066-894278294_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/13/193066-894278294_small.jpg",
+     "page": "https://pixabay.com/videos/id-193066/",
+     "tags": "deer, wild, head, wildlife",
+     "duration": 15,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 222133,
+     "url": "https://cdn.pixabay.com/video/2024/07/20/222133_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/20/222133_small.jpg",
+     "page": "https://pixabay.com/videos/id-222133/",
+     "tags": "moose, mammal, head, wildlife",
+     "duration": 12,
+     "query": "man shaking head"
+    },
+    {
+     "pixabay_id": 2717,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_small.jpg",
+     "page": "https://pixabay.com/videos/id-2717/",
+     "tags": "squirrel, head, grey squirrel, eating, feeding, bird feeder, wildlife, fur, nature, wild, brown, gray, grey, paws, rodent, ears, eyes, legs, mouth, seeds, sunflower, tree, cute, outdoors",
+     "duration": 25,
+     "query": "man shaking head"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Across a hundred and fifty studies, the win had to be about twice the loss.",
+   "candidates": [
+    {
+     "pixabay_id": 197485,
+     "url": "https://cdn.pixabay.com/video/2024/01/20/197485-905015019_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/20/197485-905015019_small.jpg",
+     "page": "https://pixabay.com/videos/id-197485/",
+     "tags": "woman, sample, laboratory, quality, scientific, science, chemistry, liquid, green",
+     "duration": 9,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 197486,
+     "url": "https://cdn.pixabay.com/video/2024/01/20/197486-905015022_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/20/197486-905015022_small.jpg",
+     "page": "https://pixabay.com/videos/id-197486/",
+     "tags": "scientific, laboratory, science, to experience, chemical, microscope, chemistry, binoculars, biotechnology, pharmacy, research, men, microbiology, liquid, biology, biochemistry",
+     "duration": 18,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 212508,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212508_small.jpg",
+     "page": "https://pixabay.com/videos/id-212508/",
+     "tags": "documents, paper, research, study, education, knowledge",
+     "duration": 36,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 145360,
+     "url": "https://cdn.pixabay.com/video/2023/01/05/145360-786449200_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/05/145360-786449200_small.jpg",
+     "page": "https://pixabay.com/videos/id-145360/",
+     "tags": "flow, bach, riverbank, meadow, paper ship, paper boat, water",
+     "duration": 11,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 13053,
+     "url": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_small.jpg",
+     "page": "https://pixabay.com/videos/id-13053/",
+     "tags": "write, writing, calligraphy, letters, paper, lettering, old script, nostalgia, old paper, read, text, font, china, chinese, graphically, art",
+     "duration": 40,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 49395,
+     "url": "https://cdn.pixabay.com/video/2020/09/08/49395-459436810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/08/49395-459436810_small.jpg",
+     "page": "https://pixabay.com/videos/id-49395/",
+     "tags": "girl, drawing, colors, paper, table, school, kindergarten, kids, draw",
+     "duration": 18,
+     "query": "scientific papers"
+    },
+    {
+     "pixabay_id": 38919,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38919-418897639_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38919-418897639_small.jpg",
+     "page": "https://pixabay.com/videos/id-38919/",
+     "tags": "library, office, books, paper, business, work, to write, annotation",
+     "duration": 11,
+     "query": "scientific papers"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Your brain guards what you have more than what you could get.",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 7817,
+     "url": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/15/7817-204510030_small.jpg",
+     "page": "https://pixabay.com/videos/id-7817/",
+     "tags": "sparkler, sparkles, cinemagraph, holding, hands, firework, fire",
+     "duration": 10,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 101929,
+     "url": "https://cdn.pixabay.com/video/2021/12/18/101929-658840398_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/18/101929-658840398_small.jpg",
+     "page": "https://pixabay.com/videos/id-101929/",
+     "tags": "cigarette, tobacco, hand, holding, lighter, fire, flame, lighting, smoke",
+     "duration": 15,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 3616,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3616-172490378_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3616-172490378_small.jpg",
+     "page": "https://pixabay.com/videos/id-3616/",
+     "tags": "public transport, subway, train, metro, holding on, hands, grip, people, commuters, commuting, transportation, underground, commute, departure, passengers",
+     "duration": 11,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 231246,
+     "url": "https://cdn.pixabay.com/video/2024/09/13/231246_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/13/231246_small.jpg",
+     "page": "https://pixabay.com/videos/id-231246/",
+     "tags": "field, paddy field, plantation, agriculture, rural, rice, plant, paddy, farmer, farm, countryside, worker, season, outdoor, organic, holding, harvesting, vietnam, thailand, nature",
+     "duration": 9,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 79759,
+     "url": "https://cdn.pixabay.com/video/2021/07/01/79759-570129603_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/01/79759-570129603_small.jpg",
+     "page": "https://pixabay.com/videos/id-79759/",
+     "tags": "ammo, ammunition, barrel, bullet, charge, closeup, crime, double-barreled, gun, handgun, holding, hunter, load, man, metal, object, opening, outdoors, prepare, reload, reloading, rifle, shooting, shotgun, weapon",
+     "duration": 10,
+     "query": "holding wallet"
+    },
+    {
+     "pixabay_id": 50625,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_small.jpg",
+     "page": "https://pixabay.com/videos/id-50625/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 12,
+     "query": "holding wallet"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why",
+   "candidates": [
+    {
+     "pixabay_id": 9091,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9091-217261176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9091-217261176_small.jpg",
+     "page": "https://pixabay.com/videos/id-9091/",
+     "tags": "spinning, coin, money, cash, euro, 20, cent",
+     "duration": 12,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 34312,
+     "url": "https://cdn.pixabay.com/video/2020/03/26/34312-400974342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/26/34312-400974342_small.jpg",
+     "page": "https://pixabay.com/videos/id-34312/",
+     "tags": "coin, spin coin, spin, slow",
+     "duration": 29,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 38388,
+     "url": "https://cdn.pixabay.com/video/2020/05/07/38388-418005845_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/07/38388-418005845_small.jpg",
+     "page": "https://pixabay.com/videos/id-38388/",
+     "tags": "record, record player, vinyl, turntable, retro, spinning, disco, playing, equipment, black",
+     "duration": 19,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 133872,
+     "url": "https://cdn.pixabay.com/video/2022/10/07/133872-758336535_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/07/133872-758336535_small.jpg",
+     "page": "https://pixabay.com/videos/id-133872/",
+     "tags": "fan, ceiling, power, object, spinning, spin",
+     "duration": 30,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 984,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/984-142612081_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/984-142612081_small.jpg",
+     "page": "https://pixabay.com/videos/id-984/",
+     "tags": "spider, cobweb, insect, trap, yellow, hawaii, black, spinning a web, web, spinning",
+     "duration": 17,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 38389,
+     "url": "https://cdn.pixabay.com/video/2020/05/07/38389-418005848_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/07/38389-418005848_small.jpg",
+     "page": "https://pixabay.com/videos/id-38389/",
+     "tags": "record player, vinyl, retro, spinning, turntable, record, disco, playing, equipment, black",
+     "duration": 16,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 65387,
+     "url": "https://cdn.pixabay.com/video/2021/02/16/65387-514139032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/16/65387-514139032_small.jpg",
+     "page": "https://pixabay.com/videos/id-65387/",
+     "tags": "record, record player, vinyl, turntable, retro, spinning, disco, playing, equipment, play, old",
+     "duration": 9,
+     "query": "coin spinning"
+    },
+    {
+     "pixabay_id": 38387,
+     "url": "https://cdn.pixabay.com/video/2020/05/07/38387-418005838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/07/38387-418005838_small.jpg",
+     "page": "https://pixabay.com/videos/id-38387/",
+     "tags": "record player, vinyl, retro, turntable, spinning, record, disco, playing, equipment, black",
+     "duration": 16,
+     "query": "coin spinning"
+    }
+   ]
+  }
+ ]
+}

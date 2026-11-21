@@ -1,0 +1,551 @@
+{
+ "id": "p04",
+ "lines": [
+  {
+   "n": 1,
+   "text": "One free chocolate with the bill, and people tip more.",
+   "candidates": [
+    {
+     "pixabay_id": 71743,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71743-539969557_small.jpg",
+     "page": "https://pixabay.com/videos/id-71743/",
+     "tags": "strawberry, chocolate, pouring, sauce, candy, cocoa, dessert, fruit, liquid, pour, prepare, calories, dairy, melted",
+     "duration": 9,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 12669,
+     "url": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/29/12669-241236739_small.jpg",
+     "page": "https://pixabay.com/videos/id-12669/",
+     "tags": "chocolate, candy, belgium, food, dessert, sweet, brown, delicious, dark, white, sugar, snack, milk, cocoa, tasty, gourmet, eat, cacao, cooking, baking, treat, bonbon",
+     "duration": 8,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 71747,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71747-539969579_small.jpg",
+     "page": "https://pixabay.com/videos/id-71747/",
+     "tags": "chocolate, sweet, snack, candy, milk, swiss, cocoa, nut, dessert, food, gourmet",
+     "duration": 7,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 81261,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81261-575216286_small.jpg",
+     "page": "https://pixabay.com/videos/id-81261/",
+     "tags": "chocolate, candy, sugar, chocolates, sweets, dessert",
+     "duration": 24,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 113707,
+     "url": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/12/113707-698820675_small.jpg",
+     "page": "https://pixabay.com/videos/id-113707/",
+     "tags": "egg, easter, sweets, chocolate, food",
+     "duration": 17,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 247148,
+     "url": "https://cdn.pixabay.com/video/2024/12/17/247148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/17/247148_small.jpg",
+     "page": "https://pixabay.com/videos/id-247148/",
+     "tags": "donut, sugar, chocolate, pastries, meal, cute, calories, sweets, food",
+     "duration": 12,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 29488,
+     "url": "https://cdn.pixabay.com/video/2019/11/26/29488-375947200_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/26/29488-375947200_small.jpg",
+     "page": "https://pixabay.com/videos/id-29488/",
+     "tags": "nougat, chocolate, delicious, sweet, breakfast, eat, bite, food, sweetness, candy, dessert, diabetes, croissant, calories, glass, cream, tasty, sugar",
+     "duration": 33,
+     "query": "chocolate candy"
+    },
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "chocolate candy"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Researchers tested it in a real restaurant.",
+   "candidates": [
+    {
+     "pixabay_id": 1192,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1192-143842659_small.jpg",
+     "page": "https://pixabay.com/videos/id-1192/",
+     "tags": "restaurant, buffet, cuisine, dinner, lunch, food, dining, meal, delicious, restaurant food, fresh, service, banquet, dish, catering, tasty, gourmet, decorative, luxury, prepared, gourmet food, appetizer, 133411649",
+     "duration": 17,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 11610,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_small.jpg",
+     "page": "https://pixabay.com/videos/id-11610/",
+     "tags": "slice, chinese, cabbage, food, cuisine, vegetable, healthy, meal, asian, dish, restaurant, delicious, meat, china, dinner, crispy, sweet, oriental, beijing, peking, herb, fried",
+     "duration": 19,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 11620,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_small.jpg",
+     "page": "https://pixabay.com/videos/id-11620/",
+     "tags": "roast, pork, meat, food, roasted, dinner, meal, grilled, lunch, barbecue, cooked, bbq, gourmet, cuisine, delicious, cooking, steak, restaurant, dish, baked, hot, cook, loin, fillet",
+     "duration": 20,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 227128,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227128_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227128_small.jpg",
+     "page": "https://pixabay.com/videos/id-227128/",
+     "tags": "lunch, food, dinner, meal, cooking, restaurant, breakfast, sandwich, delicious, dish",
+     "duration": 6,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 10878,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10878-226635359_small.jpg",
+     "page": "https://pixabay.com/videos/id-10878/",
+     "tags": "discussion, restaurant, people, talk, communication, lunch, dinner, together",
+     "duration": 20,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 3625,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3625-172488382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3625-172488382_small.jpg",
+     "page": "https://pixabay.com/videos/id-3625/",
+     "tags": "running sushi, sushi, japanese food, food, fish, asian, meal, restaurant, rice, seafood, cuisine, sashimi, traditional, salmon, dish, dinner, rolls, gourmet, diet, wasabi, culture, ginger, culinary, healthy, eat, tradition, sauce, shrimp, tuna, raw",
+     "duration": 17,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 14127,
+     "url": "https://cdn.pixabay.com/video/2018/02/05/14127-254487714_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/05/14127-254487714_small.jpg",
+     "page": "https://pixabay.com/videos/id-14127/",
+     "tags": "food, kitchen, meat, cooking, nutrition, a restaurant, knife, dinner",
+     "duration": 17,
+     "query": "restaurant dinner"
+    },
+    {
+     "pixabay_id": 227131,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227131_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227131_small.jpg",
+     "page": "https://pixabay.com/videos/id-227131/",
+     "tags": "fried chicken, chicken, food, fried, meal, rooster, lunch, dinner, meat, restaurant, delicious",
+     "duration": 10,
+     "query": "restaurant dinner"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Two chocolates? Even bigger tips.",
+   "candidates": [
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 32387,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_small.jpg",
+     "page": "https://pixabay.com/videos/id-32387/",
+     "tags": "woman, young, beautiful, expression, style, modeling, experience, exclusive, the best, interesting, exotic, people, queen, top, options, black, blue, skin, chocolate",
+     "duration": 44,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 33711,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_small.jpg",
+     "page": "https://pixabay.com/videos/id-33711/",
+     "tags": "martabak, manis, indonesia, food, makanan, coklat, chocolate, cheese, sweet, jajanan, pasar, traditional, cheap",
+     "duration": 9,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 153806,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153806-806178180_small.jpg",
+     "page": "https://pixabay.com/videos/id-153806/",
+     "tags": "flower, pastry shop, tasty, breakfast, kitchen, sweet, cream, to eat, floret, chocolate",
+     "duration": 11,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 288053,
+     "url": "https://cdn.pixabay.com/video/2025/06/26/288053_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/26/288053_small.jpg",
+     "page": "https://pixabay.com/videos/id-288053/",
+     "tags": "chocolate hills, bohol, rice fields, landscape, drone view, philippines, farmland, tropical, agriculture, hills, nature, rural, southeast asia, green mountains, countryside, aerial photo, rice paddies, eco-tourism, farming, coconut trees, cultivation, lush terrain, vegetation, exotic, rice farm",
+     "duration": 16,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 33435,
+     "url": "https://cdn.pixabay.com/video/2020/03/09/33435-397128388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/09/33435-397128388_small.jpg",
+     "page": "https://pixabay.com/videos/id-33435/",
+     "tags": "latte, art, chocolate",
+     "duration": 51,
+     "query": "chocolates"
+    },
+    {
+     "pixabay_id": 36703,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36703-412858358_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36703-412858358_small.jpg",
+     "page": "https://pixabay.com/videos/id-36703/",
+     "tags": "coffee, pouring, serving, breakfast, food and drink, chocolate",
+     "duration": 7,
+     "query": "chocolates"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "But the biggest came when the waiter walked away, turned back,",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 7795,
+     "url": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_small.jpg",
+     "page": "https://pixabay.com/videos/id-7795/",
+     "tags": "spider, arachnid, insect, octapod, animal, walking spider, wood trunk",
+     "duration": 11,
+     "query": "waiter walking"
+    },
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "waiter walking"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "and offered one more, just for you.",
+   "candidates": [
+    {
+     "pixabay_id": 35005,
+     "url": "https://cdn.pixabay.com/video/2020/04/04/35005-405620753_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/04/35005-405620753_small.jpg",
+     "page": "https://pixabay.com/videos/id-35005/",
+     "tags": "hand sanitizer, sanitizer, hygiene, washing, hand",
+     "duration": 23,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 51807,
+     "url": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/08/51807-466305685_small.jpg",
+     "page": "https://pixabay.com/videos/id-51807/",
+     "tags": "hand washing, washing, hand, hygiene, soap, bathroom",
+     "duration": 51,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 129422,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129422-744370591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129422-744370591_small.jpg",
+     "page": "https://pixabay.com/videos/id-129422/",
+     "tags": "hand, help, company partner, modern style, offer friendship, partnership agreement, peace negotiations, polite reaching, positive, professional respect, society occupation, staff acquaintance, student hire, success arrangement, beautiful wallpaper, successful business, support representative, team communication, trust gesture, background, support, kindness",
+     "duration": 8,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 11606,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11606-231571862_small.jpg",
+     "page": "https://pixabay.com/videos/id-11606/",
+     "tags": "chopping, cutting, ingredients, mortar, garlic, prepare, grind, add, food, kitchen, cooking, adding, cook, making, fresh, table, healthy, preparing, homemade, chef, preparation, hand, organic, vegetarian, vegan",
+     "duration": 38,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 26771,
+     "url": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_small.jpg",
+     "page": "https://pixabay.com/videos/id-26771/",
+     "tags": "letter, writting, pen, book, office, poem, message, hand, man",
+     "duration": 41,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 131615,
+     "url": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_small.jpg",
+     "page": "https://pixabay.com/videos/id-131615/",
+     "tags": "hand, field, grass, running through crops, relax, green, beautiful, nature",
+     "duration": 20,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 33742,
+     "url": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_small.jpg",
+     "page": "https://pixabay.com/videos/id-33742/",
+     "tags": "wash your hands, water, soap, water tap, hygiene, hand, clean, hand washing, bathroom sink, coronavirus",
+     "duration": 32,
+     "query": "hand offering chocolate"
+    },
+    {
+     "pixabay_id": 107242,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_small.jpg",
+     "page": "https://pixabay.com/videos/id-107242/",
+     "tags": "ink, pen, retro, nostalgia, typewriter, book, paris, antique, hand writing",
+     "duration": 9,
+     "query": "hand offering chocolate"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Free feels like a gift, and your brain wants to pay it back.",
+   "candidates": [
+    {
+     "pixabay_id": 33256,
+     "url": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_small.jpg",
+     "page": "https://pixabay.com/videos/id-33256/",
+     "tags": "pasta, food, pastas, eat, nutrition, spaghetti, noodles, italian, cooker, restaurant, lunch, tomato, italy, vegetarian, ingredient, carbs, delicious, recipes, yummy, healthy",
+     "duration": 10,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 80024,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80024-572853488_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80024-572853488_small.jpg",
+     "page": "https://pixabay.com/videos/id-80024/",
+     "tags": "bird, flamingo, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 8,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 80027,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80027-572853496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80027-572853496_small.jpg",
+     "page": "https://pixabay.com/videos/id-80027/",
+     "tags": "bird, vulture, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 9,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 138566,
+     "url": "https://cdn.pixabay.com/video/2022/11/11/138566-769988162_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/11/138566-769988162_small.jpg",
+     "page": "https://pixabay.com/videos/id-138566/",
+     "tags": "nile goose, water bird, animal, feather, bill, wing flapping, flock, water, pond",
+     "duration": 17,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 80028,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80028-572853499_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80028-572853499_small.jpg",
+     "page": "https://pixabay.com/videos/id-80028/",
+     "tags": "bird, eagle, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 8,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 137868,
+     "url": "https://cdn.pixabay.com/video/2022/11/05/137868-767696342_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/05/137868-767696342_small.jpg",
+     "page": "https://pixabay.com/videos/id-137868/",
+     "tags": "egyptian goose, water bird, wildlife, animal, feather, bill, eye, water",
+     "duration": 11,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 80158,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80158-572853517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80158-572853517_small.jpg",
+     "page": "https://pixabay.com/videos/id-80158/",
+     "tags": "bird, branch, beak, bill, wings, wildlife, animal, wild, ornithology, nature",
+     "duration": 9,
+     "query": "paying bill restaurant"
+    },
+    {
+     "pixabay_id": 80025,
+     "url": "https://cdn.pixabay.com/video/2021/07/03/80025-572853491_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/03/80025-572853491_small.jpg",
+     "page": "https://pixabay.com/videos/id-80025/",
+     "tags": "bird, pelicans, beak, bill, feathers, plumage, animal, wildlife, wild, nature",
+     "duration": 10,
+     "query": "paying bill restaurant"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why",
+   "candidates": [
+    {
+     "pixabay_id": 146605,
+     "url": "https://cdn.pixabay.com/video/2023/01/15/146605-789534234_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/15/146605-789534234_small.jpg",
+     "page": "https://pixabay.com/videos/id-146605/",
+     "tags": "donut, sweet, dessert, food, food decoration, hand, kitchen, homemade, baking, cooking, cook, chocolate",
+     "duration": 11,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 256918,
+     "url": "https://cdn.pixabay.com/video/2025/02/06/256918_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/06/256918_small.jpg",
+     "page": "https://pixabay.com/videos/id-256918/",
+     "tags": "ice cream, coffee, iced coffee, wood, chocolate, yummy, food, cute, glass",
+     "duration": 16,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 146604,
+     "url": "https://cdn.pixabay.com/video/2023/01/15/146604-789534230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/15/146604-789534230_small.jpg",
+     "page": "https://pixabay.com/videos/id-146604/",
+     "tags": "donut, dessert, sweet, decoration, celebration, sugary, chocolate, food",
+     "duration": 11,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 241306,
+     "url": "https://cdn.pixabay.com/video/2024/11/14/241306_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/14/241306_small.jpg",
+     "page": "https://pixabay.com/videos/id-241306/",
+     "tags": "chocolate, food, dessert, delicious, sweet, cocoa, confectionery, sting",
+     "duration": 14,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 138494,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138494-769724698_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138494-769724698_small.jpg",
+     "page": "https://pixabay.com/videos/id-138494/",
+     "tags": "ice cream, cold, ice, delicious, healthy, nutrition, strawberry, chocolate, food, desset",
+     "duration": 35,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 243472,
+     "url": "https://cdn.pixabay.com/video/2024/11/26/243472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/26/243472_small.jpg",
+     "page": "https://pixabay.com/videos/id-243472/",
+     "tags": "cereal, breakfast, healthy, vital, meal, milk, sugar, chocolate, oats, table",
+     "duration": 13,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 138491,
+     "url": "https://cdn.pixabay.com/video/2022/11/10/138491-769724686_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/10/138491-769724686_small.jpg",
+     "page": "https://pixabay.com/videos/id-138491/",
+     "tags": "ice cream, dessert, chocolate, food, sweet, summer",
+     "duration": 12,
+     "query": "chocolate"
+    },
+    {
+     "pixabay_id": 9189,
+     "url": "https://cdn.pixabay.com/video/2017/05/16/9189-217754049_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/16/9189-217754049_small.jpg",
+     "page": "https://pixabay.com/videos/id-9189/",
+     "tags": "coffee, cup, chocolate, hot, drink",
+     "duration": 5,
+     "query": "chocolate"
+    }
+   ]
+  }
+ ]
+}

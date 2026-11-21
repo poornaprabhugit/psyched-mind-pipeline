@@ -1,0 +1,551 @@
+{
+ "id": "p07",
+ "lines": [
+  {
+   "n": 1,
+   "text": "The moment you own something, it feels worth twice as much.",
+   "candidates": [
+    {
+     "pixabay_id": 133988,
+     "url": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/08/133988-758552232_small.jpg",
+     "page": "https://pixabay.com/videos/id-133988/",
+     "tags": "coffee, cup, mug, drink",
+     "duration": 21,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 133319,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_small.jpg",
+     "page": "https://pixabay.com/videos/id-133319/",
+     "tags": "coffee, coffee mug, office, desk",
+     "duration": 21,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 142370,
+     "url": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_small.jpg",
+     "page": "https://pixabay.com/videos/id-142370/",
+     "tags": "coffee, drink, cup, mug, desk, computer",
+     "duration": 33,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 3595,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3595-172488292_small.jpg",
+     "page": "https://pixabay.com/videos/id-3595/",
+     "tags": "cup of coffee, hot, beverage, morning, aroma, steam, coffee, cup, drink, cafe, cappuccino, tea, espresso, mug, mocha, caffeine",
+     "duration": 44,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 69435,
+     "url": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/30/69435-531102111_small.jpg",
+     "page": "https://pixabay.com/videos/id-69435/",
+     "tags": "cup, coffee, caffeine, drink, cafe, espresso, morning, mug, cappuccino",
+     "duration": 10,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 3158,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3158-166338872_small.jpg",
+     "page": "https://pixabay.com/videos/id-3158/",
+     "tags": "cup of coffee, hot, steaming, coffee, cup, drink, espresso, coffee cup, beverage, caffeine, mug, morning, fresh, cafe, breakfast, warm, aroma, brewed, liquid, cappuccino, table",
+     "duration": 50,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 32246,
+     "url": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_small.jpg",
+     "page": "https://pixabay.com/videos/id-32246/",
+     "tags": "coffee, coffee shop, cafe, drink, espresso, mug, tea, cup, people, shop, beverage, barista, meeting, communication, restaurant, starbucks, business, store",
+     "duration": 19,
+     "query": "coffee mug"
+    },
+    {
+     "pixabay_id": 75823,
+     "url": "https://cdn.pixabay.com/video/2021/05/30/75823-557029957_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/30/75823-557029957_small.jpg",
+     "page": "https://pixabay.com/videos/id-75823/",
+     "tags": "coffee, mug, cup, drink, caffeine, espresso, cafe, breakfast, cappuccino",
+     "duration": 38,
+     "query": "coffee mug"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Half a class got a coffee mug. The other half could buy one.",
+   "candidates": [
+    {
+     "pixabay_id": 215475,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215475_small.jpg",
+     "page": "https://pixabay.com/videos/id-215475/",
+     "tags": "students, class, classroom, education, school, study, knowledge, learn",
+     "duration": 10,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 215471,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215471_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215471_small.jpg",
+     "page": "https://pixabay.com/videos/id-215471/",
+     "tags": "students, classroom, education, school, learning, children, books",
+     "duration": 9,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 215470,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215470_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215470_small.jpg",
+     "page": "https://pixabay.com/videos/id-215470/",
+     "tags": "teacher, students, classroom, teach, school, study, education, knowledge",
+     "duration": 11,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 36888,
+     "url": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_small.jpg",
+     "page": "https://pixabay.com/videos/id-36888/",
+     "tags": "hand writing, school, training, write, hand, education, knowledge, classroom, learn, student, teaching, study, handwriting, mediation, pen",
+     "duration": 13,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 33632,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33632-398856307_small.jpg",
+     "page": "https://pixabay.com/videos/id-33632/",
+     "tags": "class room, class, classroom, seminar, training, room, learning, school, meeting, education, teacher, coaching, introduction, teaching, students",
+     "duration": 15,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 114945,
+     "url": "https://cdn.pixabay.com/video/2022/04/24/114945-702640230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/24/114945-702640230_small.jpg",
+     "page": "https://pixabay.com/videos/id-114945/",
+     "tags": "male, person, friends, people, girl, group, together, school, boy, students, happy, young, student, education, class, sitting, fun, student group, outdoors, students in classroom, outdoor, cheerful, asian, studying",
+     "duration": 11,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 106705,
+     "url": "https://cdn.pixabay.com/video/2022/02/04/106705-673786412_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/04/106705-673786412_small.jpg",
+     "page": "https://pixabay.com/videos/id-106705/",
+     "tags": "school, kids, the teacher, lesson, class, desks, textbooks, students, girls, boys, woman, education, elementary school, children, teacher, classroom, pupils",
+     "duration": 21,
+     "query": "classroom students"
+    },
+    {
+     "pixabay_id": 132048,
+     "url": "https://cdn.pixabay.com/video/2022/09/21/132048-752333809_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/21/132048-752333809_small.jpg",
+     "page": "https://pixabay.com/videos/id-132048/",
+     "tags": "lesson, class, education, classroom, kindergarten, learning, listening, color, colour, attentive, sitting, elementary, teacher, group, smiling, childhood, boy, paying, adult, student, library, occupation, child, happy, cheerful",
+     "duration": 15,
+     "query": "classroom students"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Owners wanted about seven dollars to sell.",
+   "candidates": [
+    {
+     "pixabay_id": 46930,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46930-449295319_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46930-449295319_small.jpg",
+     "page": "https://pixabay.com/videos/id-46930/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 25,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46933,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46933-449295348_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46933-449295348_small.jpg",
+     "page": "https://pixabay.com/videos/id-46933/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 25,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 225947,
+     "url": "https://cdn.pixabay.com/video/2024/08/11/225947_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/11/225947_small.jpg",
+     "page": "https://pixabay.com/videos/id-225947/",
+     "tags": "cash, money, salary, earnings, savings, euros, dollars, success, business, wealth, family, together, currency, finance, bank, bills, investment, loan, credit, income, growth, economy",
+     "duration": 10,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46928,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46928-449295289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46928-449295289_small.jpg",
+     "page": "https://pixabay.com/videos/id-46928/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 46926,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46926-449295274_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46926-449295274_small.jpg",
+     "page": "https://pixabay.com/videos/id-46926/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 25,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 172891,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_small.jpg",
+     "page": "https://pixabay.com/videos/id-172891/",
+     "tags": "money, currency, dollar, cash, finance",
+     "duration": 9,
+     "query": "dollar bills"
+    },
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "dollar bills"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Buyers would pay under three.",
+   "candidates": [
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, monetary, luck, waving, animal, mascot, wealth, prosperity, feng shui, pet, finance, profit, coins",
+     "duration": 9,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 74778,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74778-554220624_small.jpg",
+     "page": "https://pixabay.com/videos/id-74778/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 8,
+     "query": "coins"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "coins"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Same mug.",
+   "candidates": [
+    {
+     "pixabay_id": 243728,
+     "url": "https://cdn.pixabay.com/video/2024/11/28/243728_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/28/243728_small.jpg",
+     "page": "https://pixabay.com/videos/id-243728/",
+     "tags": "coffee, caffeine, cup, food, drink, beverage, man, cafe, hot, beans, table, aroma, mug, breakfast, cappuccino, sugar, drinks, roasted, morning, porcelain",
+     "duration": 44,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10422,
+     "url": "https://cdn.pixabay.com/video/2017/07/02/10422-224677291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/02/10422-224677291_small.jpg",
+     "page": "https://pixabay.com/videos/id-10422/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 10,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10391,
+     "url": "https://cdn.pixabay.com/video/2017/06/30/10391-224677287_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/30/10391-224677287_small.jpg",
+     "page": "https://pixabay.com/videos/id-10391/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 13,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 10418,
+     "url": "https://cdn.pixabay.com/video/2017/07/02/10418-224677286_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/02/10418-224677286_small.jpg",
+     "page": "https://pixabay.com/videos/id-10418/",
+     "tags": "two cups of tea, a cup of tea, tea, drink, cup, mug, table, a spoon, welding, boiling water, boiling, water, hot, the morning breakfast, breakfast, fragrant, scent, glass, glassware, food, nutrition, fresh, leaves, pleasant smell, ingredient",
+     "duration": 12,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 243727,
+     "url": "https://cdn.pixabay.com/video/2024/11/28/243727_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/28/243727_small.jpg",
+     "page": "https://pixabay.com/videos/id-243727/",
+     "tags": "coffee, caffeine, cup, food, beverage, drink, mug, cafe, hot, beans, table, cappuccino, aroma, sugar, drinks, roasted, espresso, morning",
+     "duration": 15,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 126431,
+     "url": "https://cdn.pixabay.com/video/2022/08/02/126431-735976914_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/02/126431-735976914_small.jpg",
+     "page": "https://pixabay.com/videos/id-126431/",
+     "tags": "coffee, coffee mug, coffee cup, table, americano",
+     "duration": 8,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 180222,
+     "url": "https://cdn.pixabay.com/video/2023/09/12/180222-864245218_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/12/180222-864245218_small.jpg",
+     "page": "https://pixabay.com/videos/id-180222/",
+     "tags": "tea, cup, table, mug, drink",
+     "duration": 8,
+     "query": "mug table"
+    },
+    {
+     "pixabay_id": 172686,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_small.jpg",
+     "page": "https://pixabay.com/videos/id-172686/",
+     "tags": "dining table, table, eat, dinner, family, family dinner",
+     "duration": 12,
+     "query": "mug table"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Owning it made it feel like part of you.",
+   "candidates": [
+    {
+     "pixabay_id": 9830,
+     "url": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/11/9830-221467913_small.jpg",
+     "page": "https://pixabay.com/videos/id-9830/",
+     "tags": "tea, drink, morning, woman, cup, hot, people, female, mug, lifestyle, drinking, person, beverage, home, breakfast, adult, holding, healthy, portrait, relaxation, white, relax, sitting, food, casual, warm, herbal, indoors, reflection, reflective, alone, thinking, contemplation",
+     "duration": 50,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 233024,
+     "url": "https://cdn.pixabay.com/video/2024/09/24/233024_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/24/233024_small.jpg",
+     "page": "https://pixabay.com/videos/id-233024/",
+     "tags": "pie, fruit pie, dessert, coffee, cup",
+     "duration": 12,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 203260,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_small.jpg",
+     "page": "https://pixabay.com/videos/id-203260/",
+     "tags": "woman, computer, laptop, typing, work, desk, business, marketing, communication, texting, cup, espresso, coffee, professional",
+     "duration": 5,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 552,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/552-137115422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/552-137115422_small.jpg",
+     "page": "https://pixabay.com/videos/id-552/",
+     "tags": "hands, support, marriage, love, romance, together, romantic, touch, fingers, husband, wife, man, woman, couple, gentle, holding hands, 124022428",
+     "duration": 4,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 47551,
+     "url": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/18/47551-451623797_small.jpg",
+     "page": "https://pixabay.com/videos/id-47551/",
+     "tags": "pot, flowers, hand, woman, garden, nature, gardening, holding, smelling flowers, springtime, green, natural, flower pot, environment, plant, earth",
+     "duration": 10,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "woman holding cup"
+    },
+    {
+     "pixabay_id": 31673,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31673-387972326_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31673-387972326_small.jpg",
+     "page": "https://pixabay.com/videos/id-31673/",
+     "tags": "cup of coffee, cup, beverage, caffeine",
+     "duration": 12,
+     "query": "woman holding cup"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why selling your old stuff is so hard, and why",
+   "candidates": [
+    {
+     "pixabay_id": 210783,
+     "url": "https://cdn.pixabay.com/video/2024/05/05/210783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/05/210783_small.jpg",
+     "page": "https://pixabay.com/videos/id-210783/",
+     "tags": "market, fair, sale, garage sale, people, together, community, old, business",
+     "duration": 24,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 210785,
+     "url": "https://cdn.pixabay.com/video/2024/05/05/210785_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/05/210785_small.jpg",
+     "page": "https://pixabay.com/videos/id-210785/",
+     "tags": "market, fair, sale, garage sale, people, together, community, old, business",
+     "duration": 23,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 210784,
+     "url": "https://cdn.pixabay.com/video/2024/05/05/210784_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/05/210784_small.jpg",
+     "page": "https://pixabay.com/videos/id-210784/",
+     "tags": "market, fair, sale, garage sale, people, together, community, old, business",
+     "duration": 23,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 200276,
+     "url": "https://cdn.pixabay.com/video/2024/02/12/200276-912384794_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/12/200276-912384794_small.jpg",
+     "page": "https://pixabay.com/videos/id-200276/",
+     "tags": "garage, vehicle, truck, repair",
+     "duration": 10,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 198888,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_small.jpg",
+     "page": "https://pixabay.com/videos/id-198888/",
+     "tags": "business, real estate, home, department, attorney, legal, balance, sale, market",
+     "duration": 10,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 127295,
+     "url": "https://cdn.pixabay.com/video/2022/08/09/127295-738093725_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/09/127295-738093725_small.jpg",
+     "page": "https://pixabay.com/videos/id-127295/",
+     "tags": "garage, ice, icicles, snow, outdoor, winter, season, cold, frozen, water, weather, nature",
+     "duration": 15,
+     "query": "garage sale"
+    },
+    {
+     "pixabay_id": 198898,
+     "url": "https://cdn.pixabay.com/video/2024/02/02/198898-909564555_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/02/198898-909564555_small.jpg",
+     "page": "https://pixabay.com/videos/id-198898/",
+     "tags": "attorney, law, justice, legal, face, judgment, right, apartment, money, property, home, bank, sale, department, real estate, planning, divorce",
+     "duration": 28,
+     "query": "garage sale"
+    }
+   ]
+  }
+ ]
+}

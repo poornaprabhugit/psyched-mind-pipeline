@@ -1,0 +1,473 @@
+{
+ "id": "p06",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Two in three men chose an electric shock over sitting alone with their thoughts.",
+   "candidates": [
+    {
+     "pixabay_id": 164788,
+     "url": "https://cdn.pixabay.com/video/2023/05/28/164788-831084872_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/28/164788-831084872_small.jpg",
+     "page": "https://pixabay.com/videos/id-164788/",
+     "tags": "man, bench, sunset, afternoon, trees, forest, netherlands, drenthe, hoogeveen, scenery, drone, aerial, alone, sitting, nature",
+     "duration": 43,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 123168,
+     "url": "https://cdn.pixabay.com/video/2022/07/05/123168-727221430_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/05/123168-727221430_small.jpg",
+     "page": "https://pixabay.com/videos/id-123168/",
+     "tags": "man, think, alone, emotion, lonely, quiet, to sit, nature, person",
+     "duration": 12,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 289138,
+     "url": "https://cdn.pixabay.com/video/2025/07/03/289138_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/03/289138_small.jpg",
+     "page": "https://pixabay.com/videos/id-289138/",
+     "tags": "man, alone, nature, sitting, waiting, relaxing, river, landscape, waterfall, water, spiritual, meditation, yoga, faith, thinking, relax",
+     "duration": 49,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 91065,
+     "url": "https://cdn.pixabay.com/video/2021/10/06/91065-629483774_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/06/91065-629483774_small.jpg",
+     "page": "https://pixabay.com/videos/id-91065/",
+     "tags": "field, nature, countryside, car, alone, vibes, relax, chill, isolated, sitting, trees, vegetation, man, drone, aerial, aesthetic, surreal",
+     "duration": 26,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 202753,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_small.jpg",
+     "page": "https://pixabay.com/videos/id-202753/",
+     "tags": "man, path, walking, sunrise, netherlands, drenthe, alone",
+     "duration": 26,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 212476,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212476_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212476_small.jpg",
+     "page": "https://pixabay.com/videos/id-212476/",
+     "tags": "man, walking, forest, alone, trees, nature, netherlands, landscape",
+     "duration": 12,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 191159,
+     "url": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/28/191159-889246512_small.jpg",
+     "page": "https://pixabay.com/videos/id-191159/",
+     "tags": "gull, bird, snow, plumage, sitting, winter, wildlife",
+     "duration": 10,
+     "query": "man sitting alone"
+    },
+    {
+     "pixabay_id": 212477,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212477_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212477_small.jpg",
+     "page": "https://pixabay.com/videos/id-212477/",
+     "tags": "man, walking, trees, forest, alone, nature, netherlands, landscape",
+     "duration": 15,
+     "query": "man sitting alone"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Fifteen minutes in an empty room.",
+   "candidates": [
+    {
+     "pixabay_id": 1191,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1191-143842658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1191-143842658_small.jpg",
+     "page": "https://pixabay.com/videos/id-1191/",
+     "tags": "conference room, furniture, modern, equipment, conference, business, chair, table, interior, boardroom, workplace, board, contemporary, elegant, meetings, place, room, empty, 133411649",
+     "duration": 17,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 16399,
+     "url": "https://cdn.pixabay.com/video/2018/05/23/16399-271607423_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/23/16399-271607423_small.jpg",
+     "page": "https://pixabay.com/videos/id-16399/",
+     "tags": "abandoned, room, empty, building, pan, interior, house, structure, industrial, city, abandon, decay, inside, indoor",
+     "duration": 17,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 16401,
+     "url": "https://cdn.pixabay.com/video/2018/05/23/16401-271607433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/05/23/16401-271607433_small.jpg",
+     "page": "https://pixabay.com/videos/id-16401/",
+     "tags": "pan, empty, room, abandoned, building, steamy, steam",
+     "duration": 34,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 268569,
+     "url": "https://cdn.pixabay.com/video/2025/03/29/268569_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/29/268569_small.jpg",
+     "page": "https://pixabay.com/videos/id-268569/",
+     "tags": "wall, texture, building, green, nature, red, white, architecture, antibes, stone, orca, room, painting, mountains, house, interior, empty, pattern, concrete, sea, masonry, door, bench, brick",
+     "duration": 67,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 846,
+     "url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_small.jpg",
+     "page": "https://pixabay.com/videos/id-846/",
+     "tags": "library, books, the corridor, window, rack, the culture, reading, classic, new items, reading room, society, shelves, education, studies, school",
+     "duration": 13,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 37417,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_small.jpg",
+     "page": "https://pixabay.com/videos/id-37417/",
+     "tags": "swing, empty, playground, lonely, abandoned, rocking chair, emotional, rest, quiet",
+     "duration": 12,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 63749,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_small.jpg",
+     "page": "https://pixabay.com/videos/id-63749/",
+     "tags": "abandoned, building, ruins, old, decay, architecture, destruction, barricaded, empty",
+     "duration": 17,
+     "query": "empty room"
+    },
+    {
+     "pixabay_id": 86867,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86867-594991237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86867-594991237_small.jpg",
+     "page": "https://pixabay.com/videos/id-86867/",
+     "tags": "woman, coffe, tea, drink, room, comfortable, working, business",
+     "duration": 12,
+     "query": "empty room"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "No phone.",
+   "candidates": [
+    {
+     "pixabay_id": 4973,
+     "url": "https://cdn.pixabay.com/video/2016/09/06/4973-181688494_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/06/4973-181688494_small.jpg",
+     "page": "https://pixabay.com/videos/id-4973/",
+     "tags": "jigsaw, board, construction, repair, square, pencil, to nag, saw, sawdust, cut off, close-up, carpenter, work",
+     "duration": 17,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 4975,
+     "url": "https://cdn.pixabay.com/video/2016/09/06/4975-181688501_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/06/4975-181688501_small.jpg",
+     "page": "https://pixabay.com/videos/id-4975/",
+     "tags": "power socket, electricity, fork, wire, turn on, switch off, button, extension, close-up, hands",
+     "duration": 13,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 1295,
+     "url": "https://cdn.pixabay.com/video/2015/11/09/1295-145209438_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/09/1295-145209438_small.jpg",
+     "page": "https://pixabay.com/videos/id-1295/",
+     "tags": "rallye, car race, rally, drifting, dirt, dust, curve, speed, action, stunt, stunt man, wild, crazy, motor sports, motor, car, sports car, vehicle, race, dirt race, off-road, 145040340",
+     "duration": 10,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 277,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/277-135878779_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/277-135878779_small.jpg",
+     "page": "https://pixabay.com/videos/id-277/",
+     "tags": "hammer, nail, carpentry, carpenter, wood, woodworker, craft, build, construct, create, hammering, swaging, beating, pounding, failure, off target, off the mark, wrong",
+     "duration": 27,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 217279,
+     "url": "https://cdn.pixabay.com/video/2024/06/19/217279_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/19/217279_small.jpg",
+     "page": "https://pixabay.com/videos/id-217279/",
+     "tags": "truck, military, unimog, mercedes-benz, off-road",
+     "duration": 13,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 4929,
+     "url": "https://cdn.pixabay.com/video/2016/09/04/4929-181466720_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/04/4929-181466720_small.jpg",
+     "page": "https://pixabay.com/videos/id-4929/",
+     "tags": "candles, a heart, flame, fire, love, spark off, burns, symbol, red, combustion, valentine",
+     "duration": 9,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 20536,
+     "url": "https://cdn.pixabay.com/video/2019/01/08/20536-310204884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/08/20536-310204884_small.jpg",
+     "page": "https://pixabay.com/videos/id-20536/",
+     "tags": "sunrise, nature, take-off airplane, landscape",
+     "duration": 44,
+     "query": "phone turned off"
+    },
+    {
+     "pixabay_id": 217278,
+     "url": "https://cdn.pixabay.com/video/2024/06/19/217278_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/19/217278_small.jpg",
+     "page": "https://pixabay.com/videos/id-217278/",
+     "tags": "unimog, mercedes-benz, off-road, military, truck",
+     "duration": 10,
+     "query": "phone turned off"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Just a button for a mild shock they'd said they'd pay to avoid.",
+   "candidates": [
+    {
+     "pixabay_id": 1048,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_small.jpg",
+     "page": "https://pixabay.com/videos/id-1048/",
+     "tags": "keyboard, button, press, push, keypress, keys, computer, hand, finger, key, pc, click, selective, technology, communication, network, service, information",
+     "duration": 15,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 175,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_small.jpg",
+     "page": "https://pixabay.com/videos/id-175/",
+     "tags": "gas station, fuel, petrol station, buttons, pressing button, hand, touch, select, choice, octane",
+     "duration": 8,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 224252,
+     "url": "https://cdn.pixabay.com/video/2024/08/01/224252_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/01/224252_small.jpg",
+     "page": "https://pixabay.com/videos/id-224252/",
+     "tags": "keyboard, button, computer, concept, internet, key, sign, symbol, business, close, office, pc, press, blue, push, technology, handwritten, message, design, text, device",
+     "duration": 7,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 369802,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369802_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369802_small.jpg",
+     "page": "https://pixabay.com/videos/id-369802/",
+     "tags": "audio, button, visual, neon, bright, lighting, control room, control panel, trigger, contrast, controller, editing, changing, hand, press, light up buttons, slider, auto, increase",
+     "duration": 8,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258355,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258355_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258355_small.jpg",
+     "page": "https://pixabay.com/videos/id-258355/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, technology, text, type, user, delete, eliminate",
+     "duration": 34,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 369811,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369811_small.jpg",
+     "page": "https://pixabay.com/videos/id-369811/",
+     "tags": "audio, button, visual, neon, bright, lighting, control room, control panel, trigger, contrast, controller, editing, changing, hand, press, light up buttons",
+     "duration": 26,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258351,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258351_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258351_small.jpg",
+     "page": "https://pixabay.com/videos/id-258351/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, text, type, user, ctrl, control",
+     "duration": 31,
+     "query": "pressing button"
+    },
+    {
+     "pixabay_id": 258368,
+     "url": "https://cdn.pixabay.com/video/2025/02/15/258368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/15/258368_small.jpg",
+     "page": "https://pixabay.com/videos/id-258368/",
+     "tags": "key, keyboard, black, button, character, close up, communication, computer, finger, human, get into, portable, lyrics, number, pc, press, symbol, technology, text, type, user, space",
+     "duration": 32,
+     "query": "pressing button"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Two in three men pressed it. One in four women too.",
+   "candidates": [
+    {
+     "pixabay_id": 44637,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44637-439413041_small.jpg",
+     "page": "https://pixabay.com/videos/id-44637/",
+     "tags": "stress, woman, face, depression, trouble, sadness, will be bored, quarantine, hair, portrait, coronavirus, sad, expression, young, adult, anxiety, people, worried, concern, migraine, girl, despair, person, emotion, loneliness",
+     "duration": 29,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 47139,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47139-450995618_small.jpg",
+     "page": "https://pixabay.com/videos/id-47139/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress",
+     "duration": 18,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 44638,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44638-439413046_small.jpg",
+     "page": "https://pixabay.com/videos/id-44638/",
+     "tags": "coronavirus, quarantine, mask, woman, girl, portrait, will be bored, depression, health, virus, infection, epidemic, flu, beautiful, isolation, disease, hospital, nurse, help, clinical, protection, stress",
+     "duration": 11,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 47159,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47159-450995591_small.jpg",
+     "page": "https://pixabay.com/videos/id-47159/",
+     "tags": "coronavirus, mask, quarantine, epidemic, health, infection, covid-19, virus, woman, isolation, girl, covid, flu, hygiene, protection, disease, portrait, depression, will be bored, sad, stress, sleep, insomnia, night",
+     "duration": 22,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 44641,
+     "url": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/14/44641-439940283_small.jpg",
+     "page": "https://pixabay.com/videos/id-44641/",
+     "tags": "woman, coronavirus, mask, quarantine, will be bored, depression, stress, home, virus, health, epidemic, infection, protection, covid, flu, disease, portrait, beautiful, isolation, girl, covid-19, hygiene, model, pose",
+     "duration": 16,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man bored"
+    },
+    {
+     "pixabay_id": 203252,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_small.jpg",
+     "page": "https://pixabay.com/videos/id-203252/",
+     "tags": "man, think, guess, expression, face, reflection",
+     "duration": 8,
+     "query": "man bored"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Being alone with your mind is harder than it sounds. In fact,",
+   "candidates": [
+    {
+     "pixabay_id": 44438,
+     "url": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_small.jpg",
+     "page": "https://pixabay.com/videos/id-44438/",
+     "tags": "emotions, men staring, human, person, facial expressions, head, adult, people, young man, brown man, expression, men, one, facial",
+     "duration": 12,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 199127,
+     "url": "https://cdn.pixabay.com/video/2024/02/03/199127-909835479_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/03/199127-909835479_small.jpg",
+     "page": "https://pixabay.com/videos/id-199127/",
+     "tags": "great wall, wall, ruins, tower, mountains, summit, peak, trees, sky, futuyu, bricks, ancient, old, architecture, rural, turret, beijing, asia, drone, nature, china, landscape",
+     "duration": 48,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 62595,
+     "url": "https://cdn.pixabay.com/video/2021/01/21/62595-504654720_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/21/62595-504654720_small.jpg",
+     "page": "https://pixabay.com/videos/id-62595/",
+     "tags": "wolf, tongue, licking, predator, canine, zoo, outdoor, forest, wolves, pack, yellow eyes, staring, cautious",
+     "duration": 27,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 26170,
+     "url": "https://cdn.pixabay.com/video/2019/08/20/26170-357512340_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/08/20/26170-357512340_small.jpg",
+     "page": "https://pixabay.com/videos/id-26170/",
+     "tags": "wolf, animal, wildlife, predator, wolves, nature, wild, canine, grey, hunter, atmosphere, atmospheric, carnivores, fur, mammal, staring",
+     "duration": 42,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 62911,
+     "url": "https://cdn.pixabay.com/video/2021/01/25/62911-505080489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/25/62911-505080489_small.jpg",
+     "page": "https://pixabay.com/videos/id-62911/",
+     "tags": "wolf, carnivore, canine, pet, predator, dog, staring, stare, wild, wildlife, mammal, looking, scared, wilderness, hunter, fur, animal, head, eyes, netherlands, forest",
+     "duration": 13,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 62781,
+     "url": "https://cdn.pixabay.com/video/2021/01/24/62781-505080239_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/24/62781-505080239_small.jpg",
+     "page": "https://pixabay.com/videos/id-62781/",
+     "tags": "wolves, pack, predator, nature, landscape, mammal, winter, forest, wild, wildlife, zoo, animal, creature, canine, dog, pet, greenery, stare, staring, walking, observing",
+     "duration": 22,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 15230,
+     "url": "https://cdn.pixabay.com/video/2018/03/28/15230-262569937_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/28/15230-262569937_small.jpg",
+     "page": "https://pixabay.com/videos/id-15230/",
+     "tags": "israel, jerusalem, western wall, wailing wall, wall, religion, fanatism",
+     "duration": 58,
+     "query": "man staring wall"
+    },
+    {
+     "pixabay_id": 24333,
+     "url": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/10/24333-341474163_small.jpg",
+     "page": "https://pixabay.com/videos/id-24333/",
+     "tags": "walking, street, city, people, urban, road, walk, person, wall, town, lonely, shoes, style, woman, man, architecture, lifestyle",
+     "duration": 18,
+     "query": "man staring wall"
+    }
+   ]
+  }
+ ]
+}

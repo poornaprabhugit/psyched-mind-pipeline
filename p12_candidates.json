@@ -1,0 +1,473 @@
+{
+ "id": "p12",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Say one word for fifteen seconds, and it starts to lose its meaning.",
+   "candidates": [
+    {
+     "pixabay_id": 370,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_small.jpg",
+     "page": "https://pixabay.com/videos/id-370/",
+     "tags": "sea, beach, ocean, back light, surfer, man, woman, pair, happy, holiday, talking, waves, sparkle, glitter, water, coast, 9311383",
+     "duration": 10,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 127943,
+     "url": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_small.jpg",
+     "page": "https://pixabay.com/videos/id-127943/",
+     "tags": "people, old, seniors, man, woman, bank, talk, enjoy, relax, lake, landscape",
+     "duration": 18,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 130212,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130212-748134203_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130212-748134203_small.jpg",
+     "page": "https://pixabay.com/videos/id-130212/",
+     "tags": "woman, young, walking, happy, lifestyle, smile, female, adult, girl, person, communication, technology, online, internet, chatting, phone, connection, home, smartphone, mobile, social media, chat, conversation",
+     "duration": 14,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 143376,
+     "url": "https://cdn.pixabay.com/video/2022/12/17/143376-782178665_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/17/143376-782178665_small.jpg",
+     "page": "https://pixabay.com/videos/id-143376/",
+     "tags": "medical, hospital, health, doctor, clinic, asian, advice, woman, service, patient, medicine, healthcare, care, work, professional, nurse, talk, insurance, uniform, support, senior, recovery, old, disease, illness",
+     "duration": 18,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 130213,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130213-748134209_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130213-748134209_small.jpg",
+     "page": "https://pixabay.com/videos/id-130213/",
+     "tags": "woman, young, walking, happy, lifestyle, smile, female, adult, girl, person, communication, technology, online, internet, chatting, phone, connection, home, smartphone, mobile, social media, chat, conversation",
+     "duration": 18,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 143379,
+     "url": "https://cdn.pixabay.com/video/2022/12/17/143379-782178675_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/17/143379-782178675_small.jpg",
+     "page": "https://pixabay.com/videos/id-143379/",
+     "tags": "medical, hospital, health, doctor, clinic, asian, advice, woman, service, patient, medicine, healthcare, care, work, professional, nurse, talk, insurance, uniform, support, senior, recovery, old, disease, illness",
+     "duration": 34,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 143382,
+     "url": "https://cdn.pixabay.com/video/2022/12/17/143382-782178681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/17/143382-782178681_small.jpg",
+     "page": "https://pixabay.com/videos/id-143382/",
+     "tags": "medical, hospital, health, doctor, clinic, asian, advice, woman, service, patient, medicine, healthcare, care, work, professional, nurse, talk, insurance, uniform, support, senior, recovery, old, disease, illness",
+     "duration": 10,
+     "query": "woman talking"
+    },
+    {
+     "pixabay_id": 143381,
+     "url": "https://cdn.pixabay.com/video/2022/12/17/143381-782178679_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/17/143381-782178679_small.jpg",
+     "page": "https://pixabay.com/videos/id-143381/",
+     "tags": "medical, hospital, health, doctor, clinic, asian, advice, woman, service, patient, medicine, healthcare, care, work, professional, nurse, talk, insurance, uniform, support, senior, recovery, old, disease, illness",
+     "duration": 15,
+     "query": "woman talking"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "People repeated a word out loud, two or three times a second.",
+   "candidates": [
+    {
+     "pixabay_id": 39025,
+     "url": "https://cdn.pixabay.com/video/2020/05/14/39025-420236784_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/14/39025-420236784_small.jpg",
+     "page": "https://pixabay.com/videos/id-39025/",
+     "tags": "face, lips, smile, speaking, women, young, girl",
+     "duration": 11,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 9519,
+     "url": "https://cdn.pixabay.com/video/2017/06/03/9519-220204071_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/03/9519-220204071_small.jpg",
+     "page": "https://pixabay.com/videos/id-9519/",
+     "tags": "mouth, speak, lips, teeth, language, white, red, open, expression, smile, human, skin, one, young, people, health, anatomy",
+     "duration": 10,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 58299,
+     "url": "https://cdn.pixabay.com/video/2020/12/04/58299-488224754_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/04/58299-488224754_small.jpg",
+     "page": "https://pixabay.com/videos/id-58299/",
+     "tags": "sign language, people, inclusion, perception, welcome, thoughts, speak, connection",
+     "duration": 12,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 58301,
+     "url": "https://cdn.pixabay.com/video/2020/12/04/58301-488224759_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/04/58301-488224759_small.jpg",
+     "page": "https://pixabay.com/videos/id-58301/",
+     "tags": "sign language, people, welcome, inclusion, perception, thoughts, speak, connection",
+     "duration": 9,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 58302,
+     "url": "https://cdn.pixabay.com/video/2020/12/04/58302-488224762_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/04/58302-488224762_small.jpg",
+     "page": "https://pixabay.com/videos/id-58302/",
+     "tags": "sign language, people, inclusion, perception, thoughts, speak, welcome, connection",
+     "duration": 22,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 58303,
+     "url": "https://cdn.pixabay.com/video/2020/12/04/58303-488224765_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/04/58303-488224765_small.jpg",
+     "page": "https://pixabay.com/videos/id-58303/",
+     "tags": "sign language, welcome, people, inclusion, perception, thoughts, speak, connection",
+     "duration": 16,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 58300,
+     "url": "https://cdn.pixabay.com/video/2020/12/04/58300-488224756_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/04/58300-488224756_small.jpg",
+     "page": "https://pixabay.com/videos/id-58300/",
+     "tags": "sign language, welcome, people, inclusion, perception, thoughts, speak, connection",
+     "duration": 18,
+     "query": "speaking"
+    },
+    {
+     "pixabay_id": 369818,
+     "url": "https://cdn.pixabay.com/video/2026/08/10/369818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/10/369818_small.jpg",
+     "page": "https://pixabay.com/videos/id-369818/",
+     "tags": "academic, university, education, adult, business, meeting, collaboration, communication, presentation, marketing, technology, company meeting, office, computer, coworkers, team, explaining, speaking, group discussion, people, information, instruction, listening, powerpoint, workspace",
+     "duration": 22,
+     "query": "speaking"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Afterward, the word felt less meaningful.",
+   "candidates": [
+    {
+     "pixabay_id": 134507,
+     "url": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_small.jpg",
+     "page": "https://pixabay.com/videos/id-134507/",
+     "tags": "windmill, green electricity, electricity, confused pinwheel, windmill turns, energy transition, climate neutral, no electricity, confused",
+     "duration": 18,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 117690,
+     "url": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_small.jpg",
+     "page": "https://pixabay.com/videos/id-117690/",
+     "tags": "clouds, cumulus, heaven, sinister, mood, fall, bottomless, lost, hopeless, cold, alone, confused, upset, darkness, afraid, dark, grim",
+     "duration": 15,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 58142,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_small.jpg",
+     "page": "https://pixabay.com/videos/id-58142/",
+     "tags": "woman, flowers, plants, field, garden, nature, gardening, petals, floral, flora, blossom, blooming, fresh, spring, park, outdoors",
+     "duration": 13,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 275498,
+     "url": "https://cdn.pixabay.com/video/2025/04/29/275498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/29/275498_small.jpg",
+     "page": "https://pixabay.com/videos/id-275498/",
+     "tags": "woman, young, skater, skate, skateboard, sport, skateboarding, style, street, lifestyle, urban, extreme, skateboarder, board",
+     "duration": 13,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 169589,
+     "url": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_small.jpg",
+     "page": "https://pixabay.com/videos/id-169589/",
+     "tags": "woman, pregnant, pregnant woman, baby",
+     "duration": 20,
+     "query": "confused woman"
+    },
+    {
+     "pixabay_id": 445,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_small.jpg",
+     "page": "https://pixabay.com/videos/id-445/",
+     "tags": "yoga, health, exercise, woman, mountain, stretching, outdoor, girl, fitness, sport, female, lifestyle, healthy, body, person, concentration",
+     "duration": 14,
+     "query": "confused woman"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Milk. Milk. Milk. Milk.",
+   "candidates": [
+    {
+     "pixabay_id": 4315,
+     "url": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/08/4315-178218581_small.jpg",
+     "page": "https://pixabay.com/videos/id-4315/",
+     "tags": "milk, bottle, pouring, organic milk, almond milk, drink, white, glass, dairy, calcium, product, fresh, liquid, natural, indoors, ingredient, breakfast",
+     "duration": 27,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 129723,
+     "url": "https://cdn.pixabay.com/video/2022/08/31/129723-745175013_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/31/129723-745175013_small.jpg",
+     "page": "https://pixabay.com/videos/id-129723/",
+     "tags": "milk, making milk, drink, glass",
+     "duration": 21,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 172811,
+     "url": "https://cdn.pixabay.com/video/2023/07/22/172811-847869846_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/22/172811-847869846_small.jpg",
+     "page": "https://pixabay.com/videos/id-172811/",
+     "tags": "milk, drink, glass, healthy",
+     "duration": 44,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 118772,
+     "url": "https://cdn.pixabay.com/video/2022/05/31/118772-715736089_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/31/118772-715736089_small.jpg",
+     "page": "https://pixabay.com/videos/id-118772/",
+     "tags": "cow, pasture, cowbells, milk cow, cow udder, milk production",
+     "duration": 31,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 209423,
+     "url": "https://cdn.pixabay.com/video/2024/04/25/209423_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/25/209423_small.jpg",
+     "page": "https://pixabay.com/videos/id-209423/",
+     "tags": "buttermilk, condensed milk, sweet, food, processing, preparation, mix butter and milk",
+     "duration": 12,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 141836,
+     "url": "https://cdn.pixabay.com/video/2022/12/06/141836-778906834_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/06/141836-778906834_small.jpg",
+     "page": "https://pixabay.com/videos/id-141836/",
+     "tags": "donut, sweet, dessert, sparkles, baked, creamy, milk",
+     "duration": 7,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 299583,
+     "url": "https://cdn.pixabay.com/video/2025/08/25/299583_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/25/299583_small.jpg",
+     "page": "https://pixabay.com/videos/id-299583/",
+     "tags": "nature, green, pie, milk, landscape, insect, flower",
+     "duration": 21,
+     "query": "milk"
+    },
+    {
+     "pixabay_id": 109115,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109115-683060513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109115-683060513_small.jpg",
+     "page": "https://pixabay.com/videos/id-109115/",
+     "tags": "cow, beef, milk cow, calf, drink, pasture, meadow, agriculture, wildlife",
+     "duration": 24,
+     "query": "milk"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Scientists think your brain's response to it simply gets tired.",
+   "candidates": [
+    {
+     "pixabay_id": 141998,
+     "url": "https://cdn.pixabay.com/video/2022/12/07/141998-778907257_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/07/141998-778907257_small.jpg",
+     "page": "https://pixabay.com/videos/id-141998/",
+     "tags": "cat, feline, whiskers, cute, domestic, house, tired, sleepy, fur, eyes, head, furry, pet, calm, mammal, animal, portrait",
+     "duration": 17,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 94580,
+     "url": "https://cdn.pixabay.com/video/2021/11/04/94580-644694405_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/04/94580-644694405_small.jpg",
+     "page": "https://pixabay.com/videos/id-94580/",
+     "tags": "cat, kitty, paw, portrait, animal, fur, nose, eyelash, mammal, beautiful, claw, daytime, wild, out, table, sleep, pet, tired, pets, relax",
+     "duration": 60,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 272617,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272617_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272617_small.jpg",
+     "page": "https://pixabay.com/videos/id-272617/",
+     "tags": "woman, fatigue, environment, tired, crying",
+     "duration": 10,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 94110,
+     "url": "https://cdn.pixabay.com/video/2021/10/31/94110-643067548_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/31/94110-643067548_small.jpg",
+     "page": "https://pixabay.com/videos/id-94110/",
+     "tags": "car, road, speed, drift, machine, tires, movement",
+     "duration": 19,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 187521,
+     "url": "https://cdn.pixabay.com/video/2023/11/02/187521-880681741_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/02/187521-880681741_small.jpg",
+     "page": "https://pixabay.com/videos/id-187521/",
+     "tags": "heartbroken, upset, sorrow, looking aside, unhappy, anxious, insecure, hopeless, shame, frustration, nervous, tired, breakup, alone, depressed, hurt, stress, worry, trouble, mental breakdown, negative emotions",
+     "duration": 15,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 272212,
+     "url": "https://cdn.pixabay.com/video/2025/04/15/272212_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/15/272212_small.jpg",
+     "page": "https://pixabay.com/videos/id-272212/",
+     "tags": "tired, control, adolescent, tv",
+     "duration": 33,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 36656,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36656-411363929_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36656-411363929_small.jpg",
+     "page": "https://pixabay.com/videos/id-36656/",
+     "tags": "wheels, auto, automotive, tire service",
+     "duration": 10,
+     "query": "tired"
+    },
+    {
+     "pixabay_id": 63025,
+     "url": "https://cdn.pixabay.com/video/2021/01/26/63025-505506945_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/26/63025-505506945_small.jpg",
+     "page": "https://pixabay.com/videos/id-63025/",
+     "tags": "cats, sleep, animals, cute, fur, sweet, lazy, tired, family, nature",
+     "duration": 26,
+     "query": "tired"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Try it now:",
+   "candidates": [
+    {
+     "pixabay_id": 10122,
+     "url": "https://cdn.pixabay.com/video/2017/06/20/10122-222371352_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/20/10122-222371352_small.jpg",
+     "page": "https://pixabay.com/videos/id-10122/",
+     "tags": "blue, bottles, bird, yellow, eurasian, feeder, milk, funnels",
+     "duration": 6,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 8201,
+     "url": "https://cdn.pixabay.com/video/2017/03/06/8201-207209267_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/06/8201-207209267_small.jpg",
+     "page": "https://pixabay.com/videos/id-8201/",
+     "tags": "blue tit, bird, garden bird, milk bottles, glass bottles, nature, yellow, wild, wildlife, blue, garden, white, small, feather, songbird, colorful, winter, environment, outdoor, europe, cute, one",
+     "duration": 9,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 347805,
+     "url": "https://cdn.pixabay.com/video/2026/04/20/347805_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/20/347805_small.jpg",
+     "page": "https://pixabay.com/videos/id-347805/",
+     "tags": "baby drinking milk, cute baby, infant feeding, baby bottle, newborn baby, toddler milk, happy baby, baby nutrition, feeding time, little baby, adorable infant, healthy baby, milk time, baby care, parenting, baby drinking bottle, child nutrition, cute toddler, smiling baby, baby routine, milk bottle",
+     "duration": 9,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 9997,
+     "url": "https://cdn.pixabay.com/video/2017/06/16/9997-222013861_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/16/9997-222013861_small.jpg",
+     "page": "https://pixabay.com/videos/id-9997/",
+     "tags": "beach, bottle, contamination, sand",
+     "duration": 21,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 19258,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19258-300109082_small.jpg",
+     "page": "https://pixabay.com/videos/id-19258/",
+     "tags": "water, young, bottle, woman, person, drink, beautiful, portrait, sed",
+     "duration": 9,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 108077,
+     "url": "https://cdn.pixabay.com/video/2022/02/18/108077-679386057_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/18/108077-679386057_small.jpg",
+     "page": "https://pixabay.com/videos/id-108077/",
+     "tags": "cow, pasture, milk cow, meadow, agriculture, beef, domestic cattle, farm animal, wildlife",
+     "duration": 15,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 133507,
+     "url": "https://cdn.pixabay.com/video/2022/10/04/133507-756991150_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/04/133507-756991150_small.jpg",
+     "page": "https://pixabay.com/videos/id-133507/",
+     "tags": "cup, bottle, drink, beverage, water, lake, ocean, sea, vertical video",
+     "duration": 40,
+     "query": "milk bottle"
+    },
+    {
+     "pixabay_id": 19543,
+     "url": "https://cdn.pixabay.com/video/2018/11/24/19543-302628044_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/24/19543-302628044_small.jpg",
+     "page": "https://pixabay.com/videos/id-19543/",
+     "tags": "bottle, garbage, waste, beach, recycling, trash, environment, ecology, sea, water",
+     "duration": 22,
+     "query": "milk bottle"
+    }
+   ]
+  }
+ ]
+}

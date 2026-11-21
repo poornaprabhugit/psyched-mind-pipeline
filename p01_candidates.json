@@ -1,0 +1,551 @@
+{
+ "id": "p01",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You just felt your phone buzz, and nothing was there.",
+   "candidates": [
+    {
+     "pixabay_id": 202987,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_small.jpg",
+     "page": "https://pixabay.com/videos/id-202987/",
+     "tags": "phone, smartphone, mobile, portable, screen, digital, communication, texting, business, work",
+     "duration": 15,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 47743,
+     "url": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/21/47743-452143732_small.jpg",
+     "page": "https://pixabay.com/videos/id-47743/",
+     "tags": "phone, hands, screen touch, smart phone, message",
+     "duration": 7,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 6590,
+     "url": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_small.jpg",
+     "page": "https://pixabay.com/videos/id-6590/",
+     "tags": "guy, phone, city, street, mobile phone, wait, italy",
+     "duration": 9,
+     "query": "phone vibrating table"
+    },
+    {
+     "pixabay_id": 142641,
+     "url": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/12/142641-780599369_small.jpg",
+     "page": "https://pixabay.com/videos/id-142641/",
+     "tags": "man, phone, smartphone, mobile",
+     "duration": 8,
+     "query": "phone vibrating table"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Two out of three hospital workers said this happens to them.",
+   "candidates": [
+    {
+     "pixabay_id": 49809,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49809-458438857_small.jpg",
+     "page": "https://pixabay.com/videos/id-49809/",
+     "tags": "doctor, x-ray, hospital, nurse, medicine, dentistry, diagnosis, medical, nursing, clinic, health, patient, healthcare",
+     "duration": 17,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 49815,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49815-458438877_small.jpg",
+     "page": "https://pixabay.com/videos/id-49815/",
+     "tags": "blood pressure, doctor, health, hospital, heart, stethoscope, nurse, medical, investigation, disease, medicine, electrocardiogram",
+     "duration": 21,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 49808,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49808-458438856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49808-458438856_small.jpg",
+     "page": "https://pixabay.com/videos/id-49808/",
+     "tags": "female doctor, hospital, doctor, nurse, clinic, female, medical, healthcare, health, woman, patient",
+     "duration": 14,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 26732,
+     "url": "https://cdn.pixabay.com/video/2019/09/09/26732-360259372_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/09/26732-360259372_small.jpg",
+     "page": "https://pixabay.com/videos/id-26732/",
+     "tags": "doctor, health, hospital, professions, confidence, healthy, woman, psychoanalysis, character, secretary, physical therapy, nurse, healing",
+     "duration": 25,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 49811,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49811-458438860_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49811-458438860_small.jpg",
+     "page": "https://pixabay.com/videos/id-49811/",
+     "tags": "doctor, tablet, hospital, nurse, pharmacy, medicine, medical, health, pharmaceutical, heartbeat, tablets, clinic",
+     "duration": 10,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 49812,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49812-458438865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49812-458438865_small.jpg",
+     "page": "https://pixabay.com/videos/id-49812/",
+     "tags": "doctor, x-ray, hospital, nurse, medicine, diagnosis, clinic, health, patient, healthcare",
+     "duration": 18,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 66598,
+     "url": "https://cdn.pixabay.com/video/2021/02/28/66598-518836673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/28/66598-518836673_small.jpg",
+     "page": "https://pixabay.com/videos/id-66598/",
+     "tags": "nurse, hospital, clinic, medicine, doctors, health care, diagnostics, baby, dnieper, healthcare, child",
+     "duration": 19,
+     "query": "nurse hospital corridor"
+    },
+    {
+     "pixabay_id": 49816,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49816-458438881_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49816-458438881_small.jpg",
+     "page": "https://pixabay.com/videos/id-49816/",
+     "tags": "pregnancy, gynecologist, medicine, health, medical, doctor, healthcare, hospital, pharmacy, medication, nurse, science, disease, treatment, surgery",
+     "duration": 15,
+     "query": "nurse hospital corridor"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Their brains learned to expect the buzz, so they guess.",
+   "candidates": [
+    {
+     "pixabay_id": 83866,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83866-584870618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83866-584870618_small.jpg",
+     "page": "https://pixabay.com/videos/id-83866/",
+     "tags": "woman, communication, smartphone, phone, office, business, computer, female, hand, home, job, looking, mobile, sitting, lifestyle",
+     "duration": 20,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 83870,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83870-584870615_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83870-584870615_small.jpg",
+     "page": "https://pixabay.com/videos/id-83870/",
+     "tags": "woman, communication, smartphone, phone, office, business, computer, exhausted, fatigue, female, hand, home, job, looking, mobile, sitting, lifestyle",
+     "duration": 21,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 14869,
+     "url": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_small.jpg",
+     "page": "https://pixabay.com/videos/id-14869/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, outdoors, brown, looking, look, posing",
+     "duration": 19,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 15305,
+     "url": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_small.jpg",
+     "page": "https://pixabay.com/videos/id-15305/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, brown, looking, look, posing, adorable, portrait, tense, calm",
+     "duration": 15,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 88686,
+     "url": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/15/88686-607824521_small.jpg",
+     "page": "https://pixabay.com/videos/id-88686/",
+     "tags": "phone, scrolling phone, woman, picnic, hands, girl, summer, nature",
+     "duration": 5,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 119283,
+     "url": "https://cdn.pixabay.com/video/2022/06/04/119283-717347146_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/04/119283-717347146_small.jpg",
+     "page": "https://pixabay.com/videos/id-119283/",
+     "tags": "turtle, wild, jungle, lake, look back, sunbathing, green, looking at me, watching, rotten tree, hungary",
+     "duration": 11,
+     "query": "woman looking at phone"
+    },
+    {
+     "pixabay_id": 345244,
+     "url": "https://cdn.pixabay.com/video/2026/04/08/345244_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/08/345244_small.jpg",
+     "page": "https://pixabay.com/videos/id-345244/",
+     "tags": "kingfisher, bird, fauna, river, plugged, at the water's edge, colorful, beak, plumage",
+     "duration": 10,
+     "query": "woman looking at phone"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "A shirt moves, a muscle twitches,",
+   "candidates": [
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 26493,
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.jpg",
+     "page": "https://pixabay.com/videos/id-26493/",
+     "tags": "colours, pattern, texture, abstract, macro, close-up",
+     "duration": 74,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 240531,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240531_small.jpg",
+     "page": "https://pixabay.com/videos/id-240531/",
+     "tags": "bacon, pan, hot, belly bacon, meal, food, close up",
+     "duration": 7,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 30470,
+     "url": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_small.jpg",
+     "page": "https://pixabay.com/videos/id-30470/",
+     "tags": "bee, honey bee, insect, pollen, close up, live wallpaper",
+     "duration": 6,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "shirt fabric close up"
+    },
+    {
+     "pixabay_id": 199545,
+     "url": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_small.jpg",
+     "page": "https://pixabay.com/videos/id-199545/",
+     "tags": "beef, patty, hamburger, burger, grill, electric grill, meal, flesh, tasty, close up, food",
+     "duration": 7,
+     "query": "shirt fabric close up"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "and your brain says: message.",
+   "candidates": [
+    {
+     "pixabay_id": 204527,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204527-924780715_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204527-924780715_small.jpg",
+     "page": "https://pixabay.com/videos/id-204527/",
+     "tags": "smartphone, cellphone, text, message, woman, discuss, technology",
+     "duration": 8,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 204526,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204526-924780709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204526-924780709_small.jpg",
+     "page": "https://pixabay.com/videos/id-204526/",
+     "tags": "smartphone, cellphone, text, message, woman, discuss, technology",
+     "duration": 9,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 131161,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_small.jpg",
+     "page": "https://pixabay.com/videos/id-131161/",
+     "tags": "mobile, cellular, technology, communications, iphone, talk, friends, message, conversation, smartphone",
+     "duration": 24,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 168343,
+     "url": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/22/168343-838892838_small.jpg",
+     "page": "https://pixabay.com/videos/id-168343/",
+     "tags": "message, smartphone, mobile, lifestyle, technology, phone, communication, connection, gadget",
+     "duration": 11,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 9490,
+     "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_small.jpg",
+     "page": "https://pixabay.com/videos/id-9490/",
+     "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
+     "duration": 9,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 3172,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3172-166338958_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3172-166338958_small.jpg",
+     "page": "https://pixabay.com/videos/id-3172/",
+     "tags": "smartphone, scroll, emails, messages, app, mobile, device, modern, communication, internet, wireless, touchscreen, technology, digital, cellphone, gadget, telephone, using, equipment, hand, cellular, multimedia, smart phone, communicator, screen",
+     "duration": 11,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 169446,
+     "url": "https://cdn.pixabay.com/video/2023/06/30/169446-841382825_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/30/169446-841382825_small.jpg",
+     "page": "https://pixabay.com/videos/id-169446/",
+     "tags": "smartphone, keyboard, typing, message, messenger, communication, mobile phone, cellphone, phone, hand, finger, online, social media, internet, app, screen",
+     "duration": 16,
+     "query": "smartphone message"
+    },
+    {
+     "pixabay_id": 79336,
+     "url": "https://cdn.pixabay.com/video/2021/06/28/79336-569096048_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/28/79336-569096048_small.jpg",
+     "page": "https://pixabay.com/videos/id-79336/",
+     "tags": "smartphone, girl, hands, phone, chat, sms, message, communication, mobile, contact, internet, gadget, digital, technology",
+     "duration": 12,
+     "query": "smartphone message"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "It's not broken. It's trained.",
+   "candidates": [
+    {
+     "pixabay_id": 86866,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_small.jpg",
+     "page": "https://pixabay.com/videos/id-86866/",
+     "tags": "man, home office, laptop, call, phone, comfortable, relax, home",
+     "duration": 10,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 19706,
+     "url": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_small.jpg",
+     "page": "https://pixabay.com/videos/id-19706/",
+     "tags": "pair, trust, conversation, talk, discussion, few, people, taking photos, friendship, man, woman, romantic, happy, romance, lovers, photographer, look at pictures, tourists",
+     "duration": 10,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 7686,
+     "url": "https://cdn.pixabay.com/video/2017/02/06/7686-202893456_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/06/7686-202893456_small.jpg",
+     "page": "https://pixabay.com/videos/id-7686/",
+     "tags": "man, sahara, desert, adventure, laughed at, storm dune, sand",
+     "duration": 35,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 61298,
+     "url": "https://cdn.pixabay.com/video/2021/01/06/61298-498228506_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/06/61298-498228506_small.jpg",
+     "page": "https://pixabay.com/videos/id-61298/",
+     "tags": "man, phone, camera, selfie, smart phone, mobile phone, male, model, human, portrait, expression, adult, face, person, contact, internet",
+     "duration": 28,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 129426,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129426-744370614_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129426-744370614_small.jpg",
+     "page": "https://pixabay.com/videos/id-129426/",
+     "tags": "girl, phone, text, cheerful, confident, face, gesture, happy, idea, lady, looking, model, portrait, smile, surprise, teenage",
+     "duration": 16,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 397,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_small.jpg",
+     "page": "https://pixabay.com/videos/id-397/",
+     "tags": "woodhouse's toad, animal, frog, amphibian, toad, water, slimy, eyes, looking, nostrils",
+     "duration": 7,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 213945,
+     "url": "https://cdn.pixabay.com/video/2024/05/27/213945_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/27/213945_small.jpg",
+     "page": "https://pixabay.com/videos/id-213945/",
+     "tags": "man, statue, sculpture, looking, gaze, gazing, binoculars, viewpoint, scene, sky",
+     "duration": 18,
+     "query": "man looking at phone confused"
+    },
+    {
+     "pixabay_id": 12127,
+     "url": "https://cdn.pixabay.com/video/2017/09/20/12127-235051444_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/20/12127-235051444_small.jpg",
+     "page": "https://pixabay.com/videos/id-12127/",
+     "tags": "footage, dawn, city, sunrise, sun, beach, sky, river, nature, water, early morning, clouds, landscape, morning, at dawn",
+     "duration": 7,
+     "query": "man looking at phone confused"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "That's why",
+   "candidates": [
+    {
+     "pixabay_id": 148493,
+     "url": "https://cdn.pixabay.com/video/2023/01/29/148493-794343997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/29/148493-794343997_small.jpg",
+     "page": "https://pixabay.com/videos/id-148493/",
+     "tags": "cell phone, internet, technology",
+     "duration": 9,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 168485,
+     "url": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_small.jpg",
+     "page": "https://pixabay.com/videos/id-168485/",
+     "tags": "phone, artificial intelligence, chat gpt, technology, bot",
+     "duration": 19,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 214736,
+     "url": "https://cdn.pixabay.com/video/2024/05/31/214736_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/31/214736_small.jpg",
+     "page": "https://pixabay.com/videos/id-214736/",
+     "tags": "phone, mobile security, authentication, encryption, wireless, technology",
+     "duration": 11,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 208770,
+     "url": "https://cdn.pixabay.com/video/2024/04/20/208770_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/20/208770_small.jpg",
+     "page": "https://pixabay.com/videos/id-208770/",
+     "tags": "woman, curly hair, phone, text, mobile, internet, technology",
+     "duration": 9,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 83868,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83868-584870601_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83868-584870601_small.jpg",
+     "page": "https://pixabay.com/videos/id-83868/",
+     "tags": "woman, phone, communication, joyful, model, happy, park, tourist, lifestyle",
+     "duration": 20,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 736,
+     "url": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/09/736-138808023_small.jpg",
+     "page": "https://pixabay.com/videos/id-736/",
+     "tags": "iphone, smartphone, scrolling, mobile, device, technology, cellphone, smart phone, mobile device, mobile phones, digital technology, screen",
+     "duration": 14,
+     "query": "phone vibrating"
+    },
+    {
+     "pixabay_id": 233390,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233390_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233390_small.jpg",
+     "page": "https://pixabay.com/videos/id-233390/",
+     "tags": "woman, female, room, phone, candle, pose, modeling, bed, tired, relax, resting, night",
+     "duration": 13,
+     "query": "phone vibrating"
+    }
+   ]
+  }
+ ]
+}
