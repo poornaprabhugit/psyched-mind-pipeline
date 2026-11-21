@@ -77,3 +77,20 @@ _Independent final review, 21 Nov 2026. File: `C – Sun 22 Nov 18-00 – Why Yo
 | Length vs 13–15 min target | PASS (note, target missed) | 11:46, about 1:15–3:15 under the brief. The approved script (~2,000 words) reads faster than estimated. Don't pad it; a tight 11:46 is better than filler | Note for the playbook: estimate ~170 words/min after pause trimming, so 13 min ≈ 2,250 words |
 
 **Long video result: FIX.** It is one story, the numbers are correct and the tech is clean. It does not pass the bar yet because of (1) ~20 mood clips that don't match their lines, including the hook shot, (2) logos/brand text at 0:17, 0:42, 2:52, 7:46 and foreign text at 10:48, (3) a near-white flat stretch at 10:22–10:30, (4) Thumb C's text, and (5) the facts.md lines for the spoken study details. The script and audio don't need to change (unless "seventy-five days" can't be confirmed).
+
+## Round 3 (B11)
+
+_Independent re-review, 21 Nov 2026. Same bar. Opened p11_grid.jpg plus fresh check.py grids for both files (deleted afterwards), card-zone crops at 13.6/13.8/13.95 s, and a scene-cut list. Ran check.py and flat.py on both files. Frame-hash comparison (2 fps) of B11 against the other 13 YT Shorts. Read upload-sheet.md §B11 and the facts.md "Self-tickle" row. Opened the scilit record with WebFetch (curl was blocked by the proxy)._
+
+| Item | Verdict | Notes |
+|---|---|---|
+| Robot shot (7.2–10.0 s) | PASS | Now a centered blue robotic hand and forearm on a teal background. It reads as a robot right away on "tickled themselves through a robot". No text or logo |
+| Source link | PASS | `scilit.com/publications/3006701e…` opens the record "Spatio-Temporal Prediction Modulates the Perception of Self-Produced Stimuli", J Cogn Neurosci 11(5):551–559, 1999, DOI 10.1162/089892999563607. The record page did not list authors, but title, journal, issue, pages and DOI all match Blakemore, Frith & Wolpert (1999) |
+| Facts | PASS | "a fifth of a second" = 200 ms, within the 200–300 ms in facts.md; the rest of the description matches the row |
+| Footage reuse | PASS | No clip shared with any other Short. The closest frame-hash match (B11 13.5 s vs B08 6.5 s) is a false match: baby on grass vs hands on a keyboard |
+| Clip order | PASS | Belly tickle (0–1.5) → smiling baby → hand/baby hand → woman touching her own leg (4.4–7.2) → robot hand (7.2–10) → clocks on "fifth of a second" (10–13) → laughing baby (13–15.3) → boy with leaf (15.3–16.3, loop) |
+| Cards | PASS | YT: "Full video: tap the link below" starts at ~13.9 s (2.4 s before the end), no subscribe card (arm B). IG-FB: no card |
+| Tech (both files) | PASS | 1080×1920, 30 fps · video 16.300 s / audio 16.276 s (Δ 0.024 s) · −16.7 LUFS · no black frames, no silences · flat.py min sd 35.9 |
+| Minor | note | Tiny brand patch on the baby's overalls (~13–15 s), unreadable at phone size. The laughing-baby clip holds ~2.3 s, fine |
+
+**Round 3 result: B11 PASS.** Both round-2 blockers are fixed (clear robot hand, correct paper). Ready to upload.
