@@ -153,6 +153,55 @@ def D10(p, d):  # retrieval practice
             if q > 0.9: ctext(d, (x + 85, 770 - hh - 35), f"{v}%", 42, Y if col == Y else WHITE)
         ctext(d, (x0 + 195, 270), lab, 40, Y if g == 1 else WHITE)
 
+def D11(p, d):  # the day cut into scenes
+    scenes = [("Bedroom", "I need my keys"), ("Hallway", ""), ("Kitchen", "?")]
+    x0, w, y = 160, 520, 360
+    for i, (lab, note) in enumerate(scenes):
+        q = ease(p * 1.6 - i * 0.3)
+        if q <= 0: continue
+        x = x0 + i * (w + 20)
+        col = tuple(int(c * q + b * (1 - q)) for c, b in zip((60, 60, 68), BG))
+        d.rounded_rectangle((x, y, x + w, y + 260), 18, fill=col)
+        ctext(d, (x + w / 2, y + 70), lab, 52, WHITE)
+        if note: ctext(d, (x + w / 2, y + 170), note, 38, Y if note != "?" else RED)
+        if i > 0: d.line((x - 10, y - 30, x - 10, y + 290), fill=Y, width=8)
+    if p > 0.8: ctext(d, (W // 2, 780), "Each doorway = a cut between scenes", 42, Y)
+
+def D12(p, d):  # seen once fades, seen again stays
+    ctext(d, (W // 2, 210), "What your brain keeps", 48)
+    for i, (lab, keep) in enumerate([("seen once", False), ("seen once", False), ("comes back again and again", True), ("seen once", False)]):
+        y = 320 + i * 120
+        a = 1.0 if keep else max(0.15, 1 - ease(p * 1.4))
+        col = tuple(int(c * a + b * (1 - a)) for c, b in zip(Y if keep else WHITE, BG))
+        d.rounded_rectangle((440, y, 1480, y + 90), 16, outline=col, width=5)
+        ctext(d, (960, y + 45), lab + ("  ✓ kept" if keep and p > 0.6 else ""), 40, col)
+
+def D13(p, d):  # remembering = rebuilding
+    parts = [("bits you kept", 420), ("what you know", 960), ("what someone just said", 1500)]
+    for i, (lab, x) in enumerate(parts):
+        q = ease(p * 1.6 - i * 0.2)
+        if q <= 0: continue
+        d.rounded_rectangle((x - 255, 260, x + 255, 380), 18, fill=(60, 60, 68))
+        ctext(d, (x, 320), lab, 34, WHITE)
+        ex, ey = x + (960 - x) * ease(p * 1.3 - 0.4), 380 + 220 * ease(p * 1.3 - 0.4)
+        d.line((x, 380, ex, ey), fill=Y, width=6)
+    if p > 0.75:
+        d.rounded_rectangle((660, 620, 1260, 740), 20, fill=Y)
+        ctext(d, (960, 680), "the memory, rebuilt", 46, BG)
+
+def D14(p, d):  # keep the pattern, drop the noise
+    import random
+    rnd = random.Random(7)
+    pts = [(300 + i * 60, 780 - i * 14 + rnd.randint(-90, 90)) for i in range(23)]
+    a = 1 - 0.85 * ease(p * 1.5 - 0.3)
+    for x, y in pts:
+        col = tuple(int(c * a + b * (1 - a)) for c, b in zip(WHITE, BG))
+        d.ellipse((x - 9, y - 9, x + 9, y + 9), fill=col)
+    q = ease(p * 1.5 - 0.2)
+    d.line((300, 780, 300 + (1320 * q), 780 - (308 * q)), fill=Y, width=10)
+    if p > 0.8:
+        ctext(d, (W // 2, 250), "Keep the pattern. Drop the noise.", 50, Y)
+
 SPECS = {
     "d01_doorway_setup": ("The doorway test", "Radvansky et al. (2011)", D1),
     "d02_doorway_result": ("The doorway test", "Radvansky et al. (2011)", D2),
@@ -167,6 +216,10 @@ SPECS = {
     "d11_speed": ("One word changed the memory", "Loftus & Palmer (1974)", D8),
     "d12_glass": ("Glass that never existed", "Loftus & Palmer (1974)", D9),
     "d13_retrieval": ("Rereading vs testing yourself", "Roediger & Karpicke (2006)", D10),
+    "d14_scenes": ("Your day, cut into scenes", "Radvansky et al. (2011)", D11),
+    "d15_keep": ("Your brain waits for proof", "Murre & Dros (2015)", D12),
+    "d16_rebuild": ("Remembering = rebuilding", "Loftus & Palmer (1974)", D13),
+    "d17_pattern": ("Why your brain lets go", "Richards & Frankland (2017)", D14),
 }
 
 def render(name, outdir):
@@ -186,4 +239,4 @@ def render(name, outdir):
 
 if __name__ == "__main__":
     od = sys.argv[1]; os.makedirs(od, exist_ok=True)
-    for k in SPECS: print(render(k, od))
+    for k in (sys.argv[2:] or SPECS): print(render(k, od))
