@@ -24,3 +24,23 @@ _Reviewed 21 Nov 2026 against: "Would Psych2Go / Zack D. Films / The School of L
 | B14 Wandering | PASS | Window-gazer on line 1; phone pings; reader on "even reading this" | – |
 
 **Sameness (batch):** no footage is reused except B03/B11 (fixed above). Five of 14 end with "That's why ↻" (B01, B03, B04, B07, B13), and all 14 use the same hook variant (result-first line + contrast card). The scripts are approved, so this is not a FIX. Next batch: vary the loop words and at least 3 hook structures, because YPP's "templated" rule (§1.1) is aimed at this.
+
+## Round 2 (independent re-review, 21 Nov 2026)
+
+_Same bar. Opened p03/p07/p10/p11 grids, extra frames at B03 10–14 s and B11 6.5–10.5 s, the check.py grids for the 4 IG-FB re-renders, and the end frames of IG-FB B07/B10. Read upload-sheet.md (B03, B11, B13) and igfb-captions.md (B12). Ran check.py and flat.py on the 8 re-rendered files. Ran a frame-hash check across all 14 YT files for reused footage, and a card-position scan on all 28 files._
+
+**Tech (8 re-renders):** 1080×1920 · A/V end within 0.027 s · −16.5 to −16.8 LUFS · no black frames, no silences · flat.py min sd 12.5 (B03) / ≥ 34.8 (others) · no logos or letterbox seen. **Cards (all 28):** the "Full video" card starts exactly 2.4–2.5 s before the end in all 14 YT files and is in none of the 14 IG-FB files. B03, B07, B10 and B11 have no subscribe or follow card. **Reuse:** the dad-and-child clip is gone from both files. The frame-hash check found no footage shared between any two Shorts (the one hit, B05/B06, was a false match between two dark frames).
+
+| Item | Verdict | Notes |
+|---|---|---|
+| B03 shared clip | PASS | The dad-and-child clip is replaced with a woman stretching awake in bed (~12–13.5 s), then a yawning cat. It is not used in any other Short. It's a stretch, not a yawn, so it's an OK match, not a strong one. Note: the white cat stays on screen for ~5.5 s (≈12–17.5 s), which is long for a Short. |
+| B03 source link | PASS (note) | The link is present: `cir.nii.ac.jp/crid/1360292621459430784`. The page loaded empty here, so I could not confirm it shows Provine (1986). The DOI could not be checked either: the proxy blocked it. Better: use the DOI `https://doi.org/10.1111/j.1439-0310.1986.tb00611.x` once someone opens it in a browser and confirms it is Provine 1986. |
+| B11 shared clip | PASS | The hook is now a baby being tickled on the belly (0–1.5 s), then a smiling baby. No shared footage. |
+| B11 robot shot (~7.5–10.5 s) | **FIX** | The new shot is factory or lab machinery, with no robot or robot arm visible. On "tickled themselves through a robot" it doesn't read as a robot. Swap it for a clear robot arm or robot hand. |
+| B11 source link | **FIX** | The link `wolpertlab…/BlaWolFri99.pdf` opens a **different paper**: Blakemore, Wolpert & Frith (1999), *NeuroImage* 10, 448–459, an fMRI study. It only mentions the robot-delay study in its introduction. The description cites J Cogn Neurosci 11(5). Replace it with `https://doi.org/10.1162/089892999563607` (J Cogn Neurosci 11(5):551–559), after someone opens it in a browser to confirm. The proxy blocked it here. |
+| B07 foreign coins | PASS | No coins left. A US $1 bill is on screen at ~7.5–10 s, and a mug is on "under three". |
+| B10 early childhood | PASS | Toddlers on a carousel land on "childhood" (~12 s). No adult couple. |
+| B13 title | PASS | "Why losing money hurts you twice as much 💸" |
+| B12 IG caption | PASS | "Scientists think your brain's response simply gets tired." |
+
+**Round 2 result:** B11 is still **FIX**: wrong-paper source link and robot shot. Everything else passes. B03's link is a note, not a blocker.

@@ -126,18 +126,6 @@ Follow for one real psychology study a day 🧠
 #psychology #memory #brain #smell
 ```
 
-## Sat 28 Nov · 12:00 · Can't tickle yourself  (B11, follow card no)
-**File:** `IG-FB – Sat 28 Nov 12-00 – Can't tickle yourself.mp4`
-```
-Why can't you tickle yourself? 🪶
-
-Your brain predicts your own touch and turns it down. Through a robot with a fifth-of-a-second delay, people's own touch tickled like someone else's hand.
-
-Source: Blakemore, Frith & Wolpert (1999)
-Follow for one real psychology study a day 🧠
-#psychology #brain #neuroscience #brainfacts
-```
-
 ## Sat 28 Nov · 16:00 · Word stops making sense  (B12, follow card yes)
 **File:** `IG-FB – Sat 28 Nov 16-00 – Word stops making sense.mp4`
 ```

@@ -1,4 +1,5 @@
 from content import S
+HELD = {"B11"}
 L = []
 L.append("# Upload sheet – batch 2026-11-21 · 14 Shorts (Mon 23 – Sun 29 Nov) + long video (Sun 22 Nov 18:00)\n")
 L.append("_Scripts approved by the user on 20 Nov; built exactly as approved. Shorts part delivered first; the long-video part is at the end._\n")
@@ -19,6 +20,9 @@ Angle mix (user, 17 Nov): 8 brain & memory · 4 brain & money · 2 brain & healt
 """)
 L.append("---\n")
 for s in S:
+    if s['b'] in HELD:
+        L.append(f"## {s['b']} · {s['day']} {s['slot']} · HELD BACK – not delivered\nFailed the independent review twice (robot shot did not read as a robot; source link opened a different paper). Per the rule (max 2 fix rounds, then drop) it is not in this delivery. The Sat 28 Nov 12:00 slot stays empty unless you want to fill it. P1 arm B now has 6 Shorts (3 memory, 2 money, 1 health) vs arm A 7.\n\n---\n")
+        continue
     L.append(f"## {s['b']} · {s['day']} {s['slot']} · {s['angle']} · P1 arm {s['arm']} (follow_card {'yes' if s['arm']=='A' else 'no'}) · predicted: {s['pred']}")
     L.append(f"**File:** `{s['b']} – {s['day']} {s['slot'].replace(':','-')} – {s['short']}.mp4` · **Hook card:** {s['hook']} · **Hook variant:** result-first line 1 + contrast card · **Ending:** loop")
     L.append(f"**Title:** {s['title']}")
@@ -31,6 +35,7 @@ C = ["# Instagram + Facebook Reels – captions for 23–29 Nov (14 Reels, 2 per
      "Use the **IG-FB** files (no \"Full video\" card; arm-A Reels show \"Follow for a new brain fact every day\" at the end instead of \"Subscribe…\"). Schedule each Reel in **Meta Business Suite → Create reel** (NOT \"Create post\") with **Instagram + Facebook both ticked**, same day and time as on YouTube (Amsterdam), at least 20 min ahead.\n",
      "**For every Reel:** paste the caption block as it is · cover = a frame with the yellow hook card (~0:01) · Audio: the video's own sound · AI label: off (real footage/photos + standard narrator) · max 5 hashtags.\n", "---\n"]
 for s in S:
+    if s['b'] in HELD: continue
     C.append(f"## {s['day']} · {s['slot']} · {s['short']}  ({s['b']}, follow card {'yes' if s['arm']=='A' else 'no'})")
     C.append(f"**File:** `IG-FB – {s['day']} {s['slot'].replace(':','-')} – {s['short']}.mp4`")
     C.append("```\n" + s['ig_hook'] + "\n\n" + s['ig_body'] + "\n\nSource: " + s['ig_src'] + "\nFollow for one real psychology study a day 🧠\n" + s['ig_tags'] + "\n```\n")
