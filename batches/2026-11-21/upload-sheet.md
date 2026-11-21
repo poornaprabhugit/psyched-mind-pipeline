@@ -4,6 +4,57 @@ _Scripts approved by the user on 20 Nov; built exactly as approved. Shorts part 
 
 **Upload:** manual in YouTube Studio this week (automatic upload stays off until the new YT_REFRESH_TOKEN with youtube.upload is confirmed; weekly compliance check 21 Nov = OK).
 
+## Related video – what to set on every YouTube video (set after the long video is uploaded, Sun 22 Nov)
+
+Related video is a Shorts-only setting (Studio → video → Details → Related video). Long videos have no Related video; they use the end screen instead.
+
+| Video | Goes live | Related video |
+|---|---|---|
+| B01 Why you feel your phone buzz when it didn't 📳 | Mon 23 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B02 Why losing a ticket feels worse than losing cash 🎟️ | Mon 23 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B03 Why you yawn when someone else yawns 🥱 | Tue 24 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B04 Why a FREE chocolate with the bill makes you tip more 🍬 | Tue 24 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B05 Why taking a photo makes you forget it 📸 | Wed 25 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B06 Why sitting alone with your thoughts feels so hard 🧠 | Wed 25 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B07 Why you price your old stuff too high 🏷️ | Thu 26 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B08 How to get a song out of your head 🎵 | Thu 26 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B09 Why 20 minutes in nature lowers your stress 🌳 | Fri 27 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B10 Why a smell brings back memories you forgot 👃 | Fri 27 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B11 Why you can't tickle yourself 🪶 | Sat 28 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B12 Why a word sounds weird when you repeat it 🔁 | Sat 28 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| B13 Why losing money hurts you twice as much 💸 | Sun 29 Nov 12:00 | Why Your Brain Forgets Things On Purpose |
+| B14 Why your mind wanders so much 💭 | Sun 29 Nov 16:00 | Why Your Brain Forgets Things On Purpose |
+| **C – long video** Why Your Brain Forgets Things On Purpose | Sun 22 Nov 18:00 | – (no Related video on long videos) · end screen: "You'd defend a choice you never made 🤯" + Subscribe |
+
+**Already-public Shorts (recommended, optional):** switch their Related video to the new long video too, so every Short points to the newest one:
+
+| Short | Current Related video (likely) | Set to |
+|---|---|---|
+| You don't like it. You've just seen it a lot 🎧 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why your wobbly shelf feels priceless 🔨 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why “I’ll start Monday” actually works 📅 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| The favor trick that makes people like you 📖 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why your brain remembers the ending most 🧠 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why you spend more with a card than cash 💳 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why making mistakes makes people like you more ☕ | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Can't sleep? Write this down before bed 🌙 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why you forget why you walked into a room 🚪 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| People like you more than you think 🧠 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Everyone noticed your mistake? Science says no 😳 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why winning millions wouldn't make you happier 💰 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why your best ideas come when you walk 🚶 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| The one word that makes people say yes to you 🤝 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why you can't let go of money you already spent 🎿 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| You'd defend a choice you never made 🤯 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why prices end in 9 – and why it works on you 🏷️ | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why FREE makes you choose worse 🍫 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why your coffee card comes with free stamps ☕ | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Why you get angry after a bad night's sleep 😴 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Half of people miss this gorilla. Would you? 🦍 | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose |
+| Scheduled Shorts of 21–22 Nov (coins vs bills, hear your name, $40 on time, $75K myth) | The Psychology of Looking Rich | Why Your Brain Forgets Things On Purpose (after it is public) |
+
+---
+
 ## Schedule at a glance (Amsterdam time)
 
 | Day | 12:00 | 16:00 |
@@ -269,10 +320,10 @@ Science-backed psychology · Sources in description · Not medical or financial 
 
 # C · LONG VIDEO · Sun 22 Nov 18:00 Amsterdam
 
-**File:** `C – Sun 22 Nov 18-00 – Why Your Brain Forgets Things On Purpose.mp4` (11:46, 1920×1080, −14 LUFS)
+**File:** `C – Long video – Why Your Brain Forgets Things On Purpose.mp4` (11:44, 1920×1080, −14 LUFS)
 **Thumbnails (Test & compare, all 3):** `Thumb A – Forgot why.jpg` · `Thumb B – His name.jpg` · `Thumb C – On purpose.jpg`
 **Title (Test & compare, title + thumbnail):** A "Why Your Brain Forgets Things On Purpose" (main) · B "Why You Forget Things You Just Heard" · C "Your Brain Deletes Memories. Here's Why"
-**Settings:** Playlist "The Psyched Mind – Weekly Psychology" · Education · Not made for kids · English video + audio language · Altered/synthetic content: **No** (real stock footage, code-drawn diagrams, standard AI narrator) · Schedule **Sun 22 Nov 18:00** (Amsterdam).
+**Settings:** Playlist "The Psyched Mind – Weekly Psychology" · Education · Not made for kids · English video + audio language · Altered/synthetic content: **No** (real stock footage, code-drawn diagrams, standard AI narrator) · Publish **today, Sat 21 Nov, ~18:00 Amsterdam** (user choice; any time today is fine).
 **Description:**
 ```
 Why do you forget why you walked into a room, a name seconds after hearing it, and most of what you reread? Your brain forgets on purpose. Follow one ordinary day – morning to night – and see the memory experiments behind each moment: the doorway effect, the next-in-line effect, the forgetting curve, the peak-end rule, false memories and sleep. At the end: the one study-backed way to remember more (testing yourself beats rereading).
@@ -282,7 +333,7 @@ Why do you forget why you walked into a room, a name seconds after hearing it, a
 02:52 Work: the name you lost
 04:51 Lunch: why rereading fails
 06:48 Evening: the day you remember
-09:16 Night: sleep, and the answer
+09:15 Night: sleep, and the answer
 
 Studies in this video:
 Doorway effect – Radvansky, Krawietz & Tamplin (2011), Quarterly Journal of Experimental Psychology: https://doi.org/10.1080/17470218.2011.571267
@@ -299,6 +350,6 @@ Science-backed psychology · Sources above · Not medical advice.
 #psychology #memory #brain
 ```
 **Tags:** why do we forget things, doorway effect, why do I forget why I walked into a room, forgetting curve, how to remember names, peak end rule, false memories, sleep and memory, retrieval practice, how to remember what you read, memory psychology, brain facts
-**End screen (last ~10 s, from ~11:36):** 1 video = "You'd defend a choice you never made 🤯" (choice blindness Short, already public – the voiceover points to it) + Subscribe. Add to playlist.
+**End screen (11:30–11:44):** 1 video = "You'd defend a choice you never made 🤯" (choice blindness Short, already public – the voiceover points to it) + Subscribe. Add to playlist.
 **Pinned comment:** What do you forget most: names, why you walked into a room, or what you just read?
 **After it is public:** set Related video = this video on all 14 Shorts of 23–29 Nov (and on last week's Shorts if you like); start Test & compare (title + thumbnail) once it is public.

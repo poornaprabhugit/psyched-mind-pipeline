@@ -94,3 +94,29 @@ _Independent re-review, 21 Nov 2026. Same bar. Opened p11_grid.jpg plus fresh ch
 | Minor | note | Tiny brand patch on the baby's overalls (~13–15 s), unreadable at phone size. The laughing-baby clip holds ~2.3 s, fine |
 
 **Round 3 result: B11 PASS.** Both round-2 blockers are fixed (clear robot hand, correct paper). Ready to upload.
+
+## Long video – round 2
+
+_Independent re-review, 21 Nov 2026. File: `/home/claude/out/long2/final.mp4`. Same bar. Opened sheet_1–3, a new sheet for 9:00–11:44 (every 6 s), full-size frames at 0:12, 0:19, 3:18, 3:48, 9:42, 10:19, 10:48, 11:43, and all 3 thumbnails. Ran ffprobe, ebur128, silencedetect (−35 dB, 0.5 s), blackdetect, and an RMS envelope (±2 s) at every join. Checked the spoken study details against memory/facts.md._
+
+**Tech:** 1920×1080, 30 fps · video 704.24 s / audio 704.42 s · **−14.0 LUFS**, LRA 2.3 · no silence longer than 0.65 s · blackdetect only finds the moon shot (9:42.1–9:42.6) and the dark start of the "pattern" diagram (10:18.9–10:19.8). Both are fine: they are content, not empty frames.
+
+| Item | Verdict | Reason | Exact fix |
+|---|---|---|---|
+| Logos / brand text (new footage) | **FIX** | ~3:18–3:20.5 ("students sat around a table…"): **two HP logos** on the laptop lids, centered, clearly readable, plus "FON…" brand text on the green sweater. This is a new clip. Round-1 logos (0:17 Apple, 0:42 SAVOCA, 2:52 Apple/Google, 7:46 OLYMPUS, 10:48 Spanish page) are all gone. 3:48 laptop logo is already patched (dark square) | Swap ~3:18.0–3:20.5 for another group/table clip with no logos, or blur both lids plus the sweater text (as at 3:48) |
+| Deliverable file | **FIX** | `deliver/long/C – … On Purpose.mp4` (10:28) is **not** the same file as `out/long2/final.mp4` (cmp differs). The upload folder still holds the old round-1 cut | After the 3:18 fix, copy the new final.mp4 over the deliver file and recheck the duration (11:44) |
+| Flat / white frames | PASS | 10:22–10:30 is now the dark "Why your brain lets go" diagram. 10:48 notebook page has visible lines/spiral (sd 71). 11:34 OK | – |
+| Cold open hook 0:00 | PASS | Doorway into a kitchen, on "You walk into the kitchen" | – |
+| Footage vs lines (14 swaps) | PASS (note) | Main mismatches fixed (1:04 still respirator lab, 3:12 cliff, 6:06 dandelion, 9:06 watering can, 10:06 leaves, 10:18 highway are still mood shots). Acceptable for the bar; not a blocker | Optional next time: 1:04 a person putting an object down |
+| New diagrams (2:06, ~6:10, 8:42, 10:24) | PASS | Clean, dark, source tags top right, readable | – |
+| Facts vs facts.md | PASS | "more than a hundred years ago", "~70 h over 75 days", "young researcher" → row 79 (Murre & Dros, read 21 Nov). "read a short text four times" → row 67. 9 in 10 / 2/3 / 69% / 40.8–31.8 mph / 14%–32% / 83–71 / 40–61 all match. "students learned new vocabulary words" (Gais) and "sat around a table" (Brenner) are fine, but the rows don't spell them out | Optional: add "vocabulary pairs" to row 65 |
+| Chapter joins (0:39, 2:52, 4:51, 6:48, 9:15) | PASS | Each is a 0.2–0.4 s fade to silence, the same as normal sentence pauses. No click (max sample step ≈0.5, the same as in speech), no level jump | – |
+| Chapter labels | PASS | Visible at 0:42, 2:54, 4:54, 6:48, 9:18 | – |
+| Ending pointer | PASS (note) | "…how easily your brain can be fooled about your own choices – watch this one next" → choice-blindness Short (public). The voice ends ~0.4 s before the file ends, so the end screen must overlap content (11:24–11:44). Last shot is still a tulip | End screen element 11:30–11:44, placed so it doesn't cover the captions |
+| Thumbnails A/B/C | PASS | 1280×720. C is now only "ON PURPOSE" (2 words, yellow box), adds to the title. A and B unchanged | – |
+
+**Round 2 result: FIX (small).** One blocker in the video: the HP logos at ~3:18–3:20.5. One delivery blocker: the deliver folder still has the old cut. Everything else from round 1 is resolved. After the 3:18 swap or blur and the copy to deliver/, it is ready to publish.
+
+### Long video – round 2 fix (maker, 21 Nov)
+- 3:14.9–3:18.45 HP-logo laptops + sweater text replaced by a slow push-in still of the reading clip that follows (no logos). Subtitle for the same sentence shows ~0.6 s early during the still; voice and audio untouched (no gaps, −14 LUFS). Final file: 11:44.
+- Delivered file replaced with this final cut.
