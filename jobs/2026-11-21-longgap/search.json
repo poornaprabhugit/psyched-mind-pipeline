@@ -1,0 +1,333 @@
+{
+ "videos": [
+  {
+   "id": "lg1",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L0-3",
+     "queries": [
+      "business people shaking hands",
+      "name tag",
+      "introduction meeting"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L0-5",
+     "queries": [
+      "woman remembering",
+      "looking at old photos",
+      "thoughtful woman window"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L0-6",
+     "queries": [
+      "brain",
+      "human brain model",
+      "woman thinking"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L0-7",
+     "queries": [
+      "woman smiling thinking",
+      "man thinking",
+      "pensive"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L1-1",
+     "queries": [
+      "woman waking up",
+      "bedroom morning",
+      "woman getting dressed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lg2",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L1-2",
+     "queries": [
+      "woman walking hallway",
+      "walking into kitchen",
+      "home hallway"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L1-3",
+     "queries": [
+      "confused man",
+      "forgetful",
+      "scratching head"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L1-4",
+     "queries": [
+      "psychology laboratory",
+      "researcher",
+      "scientists"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L1-10",
+     "queries": [
+      "woman finds keys",
+      "keys",
+      "house keys"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L1-15",
+     "queries": [
+      "door opening",
+      "opening door",
+      "doorway light"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lg3",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L1-19",
+     "queries": [
+      "woman focused",
+      "concentration",
+      "working focused"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L2-2",
+     "queries": [
+      "introducing yourself",
+      "meeting handshake",
+      "business meeting talk"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L2-3",
+     "queries": [
+      "awkward moment",
+      "embarrassed woman",
+      "forgot"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L2-5",
+     "queries": [
+      "students reading aloud",
+      "classroom reading",
+      "students table"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L2-11",
+     "queries": [
+      "people talking office",
+      "colleagues talking",
+      "conversation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lg4",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L2-18",
+     "queries": [
+      "handshake",
+      "greeting",
+      "smiling introduction"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L3-10",
+     "queries": [
+      "crowd street",
+      "busy city",
+      "pedestrians"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L3-17",
+     "queries": [
+      "writing notebook",
+      "woman writing",
+      "pen paper"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "L4-13",
+     "queries": [
+      "questionnaire",
+      "filling form",
+      "survey"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "L4-14",
+     "queries": [
+      "woman thinking",
+      "memory",
+      "pensive man"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lg5",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L5-1",
+     "queries": [
+      "going to bed",
+      "turning off lamp",
+      "woman bed night"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "L5-6",
+     "queries": [
+      "tired student",
+      "tired",
+      "yawning"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "L5-11",
+     "queries": [
+      "old photos",
+      "photo album",
+      "archive"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lp1",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L0-3 photo",
+     "queries": [
+      "name tag",
+      "handshake meeting",
+      "introduction"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "L1-1 photo",
+     "queries": [
+      "woman waking up",
+      "bedroom morning",
+      "woman bed morning"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "L1-2 photo",
+     "queries": [
+      "hallway home",
+      "kitchen doorway",
+      "walking into kitchen"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "L1-3 photo",
+     "queries": [
+      "confused man",
+      "forgetful woman",
+      "thinking puzzled"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "L2-3 photo",
+     "queries": [
+      "awkward conversation",
+      "embarrassed",
+      "forgot name"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "lp2",
+   "aspect": "16:9",
+   "lines": [
+    {
+     "n": 1,
+     "text": "L4-13 photo",
+     "queries": [
+      "questionnaire",
+      "survey form",
+      "filling form"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "L5-1 photo",
+     "queries": [
+      "going to bed",
+      "bedside lamp",
+      "woman sleeping"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "L5-6 photo",
+     "queries": [
+      "tired student",
+      "exhausted student night",
+      "studying late"
+     ],
+     "photos": true
+    }
+   ]
+  }
+ ]
+}
