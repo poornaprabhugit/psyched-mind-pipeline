@@ -1,0 +1,428 @@
+[32m2026-11-21 09:44:27.913[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36mload_config[0m:[36m571[0m - [1mload config from file: /home/runner/work/psyched-mind-pipeline/psyched-mind-pipeline/mpt/config.toml[0m
+[32m2026-11-21 09:44:27.921[0m | [1mINFO    [0m | [36mapp.config.config[0m:[36m<module>[0m:[36m729[0m - [1mMoneyPrinterTurbo v1.3.10[0m
+[32m2026-11-21 09:44:27[0m | [1mINFO[0m | "./main.py:7":[34m <module>[0m - [1mstart server, docs: http://127.0.0.1:8080/docs[0m
+[32m2026-11-21 09:44:30[0m | [1mINFO[0m | "./app/asgi.py:183":[34m configure_cors[0m - [1mbrowser cross-origin API access is disabled; set CORS_ALLOWED_ORIGINS to enable trusted origins[0m
+[32m2026-11-21 09:44:30[0m | [1mINFO[0m | "./app/asgi.py:26":[34m application_lifespan[0m - [1mstartup event[0m
+[32m2026-11-21 09:44:30[0m | [33m[1mWARNING[0m | "./app/asgi.py:30":[34m application_lifespan[0m - [33m[1mAPI key authentication is disabled; keep the API on a trusted network[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/controllers/manager/base_manager.py:57":[34m add_task[0m - [1madd task: start, current_tasks: 0[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/task.py:1562":[34m _run_pipeline[0m - [1mstart task: f8846d19-2356-4e1b-a478-fc24b6677be4, stop_at: video[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=preparing, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:54[0m | [32m[1mSUCCESS[0m | "./app/controllers/v1/video.py:277":[34m create_task[0m - [32m[1mTask created: {
+    "task_id": "f8846d19-2356-4e1b-a478-fc24b6677be4",
+    "request_id": "fc864796-bf88-4392-8d99-0461eb9dd333",
+    "params": {
+        "video_subject": "Morning: the doorway",
+        "video_script": "It starts in the morning. You're in the bedroom, and you think: I need my keys. You walk into the hallway, then the kitchen. And the thought is gone. You've done this. Almost everyone has. And for years it looked like simple absent-mindedness. Then a team of memory researchers decided to test it. They set up rooms in a lab. People picked up an object at one table, carried it, and put it down at another table. Sometimes the second table was in the same big room. Sometimes it was through a door, in a new room. The walking distance was the same. Then, right after they put it down, they were asked a simple question: what did you just put down? The people who had walked through a doorway forgot more. Same time. Same distance. The only difference was the door. The researchers then tried something else. If the memory was left behind in the first room, maybe going back would bring it back. That's what we all do, right? Walk back to the bedroom and suddenly remember. In a virtual version of the test, people who walked back into the first room did not do any better. What mattered was how many new rooms they had entered. Each new room made the forgetting a little worse. So what's going on? The best explanation is that your brain doesn't record your day as one long video. It cuts it into scenes, a bit like a film editor. A doorway is a strong signal that a scene has ended. When the scene ends, your brain files the old scene away and gets ready for the new one. The plan you made in the bedroom gets filed with the bedroom. That's not a bug. Think about how much you do in a day. If every plan from every room stayed active, your head would be full of old, finished business. Closing the scene keeps your attention on where you are now. The cost is small: sometimes you lose a plan you still needed. And this is the first clue to our question. Your brain isn't trying to keep everything. It's trying to keep what fits the moment you're in. But the next part of your day is harder on memory, because now there are other people in the room.",
+        "video_terms": [
+            "psychology"
+        ],
+        "video_aspect": "16:9",
+        "video_fit_mode": "cover",
+        "image_motion": "zoom",
+        "video_concat_mode": "sequential",
+        "video_transition_mode": null,
+        "video_clip_duration": 4,
+        "video_clip_speed": 1.0,
+        "match_materials_to_script": false,
+        "video_count": 1,
+        "video_source": "local",
+        "video_materials": [
+            {
+                "provider": "local",
+                "url": "L1_001.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_002.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_009.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_010.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_011.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_012.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_013.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_014.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_015.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_016.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_017.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_018.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_019.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_020.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_021.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_023.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_024.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_025.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_026.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_027.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_028.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_029.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_030.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_031.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_032.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_033.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_034.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_035.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_036.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_037.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_038.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_039.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_040.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_041.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_042.mp4",
+                "duration": 0,
+                "source_info": null
+            },
+            {
+                "provider": "local",
+                "url": "L1_043.mp4",
+                "duration": 0,
+                "source_info": null
+            }
+        ],
+        "custom_audio_file": null,
+        "video_language": "",
+        "voice_name": "en-US-ChristopherNeural-Male",
+        "voice_volume": 1.4,
+        "voice_rate": 0.92,
+        "bgm_type": "",
+        "bgm_file": "",
+        "bgm_volume": 0.0,
+        "video_music_prompt": "",
+        "sonilo_bgm_prompt": "",
+        "subtitle_enabled": true,
+        "subtitle_position": "bottom",
+        "subtitle_display_mode": "sentence",
+        "subtitle_animation": "none",
+        "custom_position": 70.0,
+        "font_name": "MicrosoftYaHeiBold.ttc",
+        "text_fore_color": "#FFE600",
+        "text_background_color": false,
+        "rounded_subtitle_background": false,
+        "font_size": 64,
+        "stroke_color": "#000000",
+        "stroke_width": 4.0,
+        "n_threads": 2,
+        "paragraph_number": 1,
+        "video_script_prompt": "",
+        "custom_system_prompt": ""
+    }
+}[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/utils/utils.py:243":[34m check_ffmpeg_ready[0m - [1mffmpeg check passed, using: /usr/bin/ffmpeg[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=script, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/task.py:365":[34m generate_script[0m - [1m
+
+## generating video script[0m
+[32m2026-11-21 09:44:54[0m | [34m[1mDEBUG[0m | "./app/services/task.py:376":[34m generate_script[0m - [34m[1mvideo script: 
+It starts in the morning. You're in the bedroom, and you think: I need my keys. You walk into the hallway, then the kitchen. And the thought is gone. You've done this. Almost everyone has. And for years it looked like simple absent-mindedness. Then a team of memory researchers decided to test it. They set up rooms in a lab. People picked up an object at one table, carried it, and put it down at another table. Sometimes the second table was in the same big room. Sometimes it was through a door, in a new room. The walking distance was the same. Then, right after they put it down, they were asked a simple question: what did you just put down? The people who had walked through a doorway forgot more. Same time. Same distance. The only difference was the door. The researchers then tried something else. If the memory was left behind in the first room, maybe going back would bring it back. That's what we all do, right? Walk back to the bedroom and suddenly remember. In a virtual version of the test, people who walked back into the first room did not do any better. What mattered was how many new rooms they had entered. Each new room made the forgetting a little worse. So what's going on? The best explanation is that your brain doesn't record your day as one long video. It cuts it into scenes, a bit like a film editor. A doorway is a strong signal that a scene has ended. When the scene ends, your brain files the old scene away and gets ready for the new one. The plan you made in the bedroom gets filed with the bedroom. That's not a bug. Think about how much you do in a day. If every plan from every room stayed active, your head would be full of old, finished business. Closing the scene keeps your attention on where you are now. The cost is small: sometimes you lose a plan you still needed. And this is the first clue to our question. Your brain isn't trying to keep everything. It's trying to keep what fits the moment you're in. But the next part of your day is harder on memory, because now there are other people in the room.[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=terms, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=audio, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/task.py:578":[34m generate_audio[0m - [1m
+
+## generating audio[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/task.py:606":[34m generate_audio[0m - [1mno custom audio file provided, using TTS to generate audio.[0m
+[32m2026-11-21 09:44:54[0m | [1mINFO[0m | "./app/services/voice.py:1599":[34m azure_tts_v1[0m - [1mstart, voice name: en-US-ChristopherNeural, try: 1[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/voice.py:1643":[34m azure_tts_v1[0m - [1mcompleted, output file: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/audio.mp3[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=subtitle, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/task.py:663":[34m generate_subtitle[0m - [1m
+
+## generating subtitle[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/task.py:669":[34m generate_subtitle[0m - [1m
+
+## generating subtitle, provider: edge[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/voice.py:3577":[34m _write_subtitle_items[0m - [1mcompleted, subtitle file created: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/.subtitle-wb0km9ue.srt, duration: 152.242[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=materials, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:44:56[0m | [1mINFO[0m | "./app/services/task.py:739":[34m get_video_materials[0m - [1m
+
+## preprocess local materials[0m
+[32m2026-11-21 09:45:09[0m | [1mINFO[0m | "./app/services/generation_progress.py:45":[34m publish[0m - [1mgeneration activity: phase=rendering, provider=, remote_id=, elapsed=0s[0m
+[32m2026-11-21 09:45:09[0m | [1mINFO[0m | "./app/services/task.py:1058":[34m generate_final_videos[0m - [1m
+
+## combining video: 1 => ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/combined-1.mp4[0m
+[32m2026-11-21 09:45:09[0m | [1mINFO[0m | "./app/services/video.py:1007":[34m combine_videos[0m - [1maudio duration: 153.19 seconds[0m
+[32m2026-11-21 09:45:09[0m | [1mINFO[0m | "./app/services/video.py:1008":[34m combine_videos[0m - [1mmaximum clip duration: 4 seconds[0m
+[32m2026-11-21 09:45:09[0m | [1mINFO[0m | "./app/services/video.py:1010":[34m combine_videos[0m - [1mrequired video duration: 153.29 seconds (audio duration + 0.10s safety margin)[0m
+[32m2026-11-21 09:45:21[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1108":[34m combine_videos[0m - [34m[1mtotal subclipped items: 154[0m
+[32m2026-11-21 09:45:21[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 1: 1920x1080, source: L1_001.mp4[0m
+[32m2026-11-21 09:45:29[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 2: 3840x2160, source: L1_002.mp4[0m
+[32m2026-11-21 09:45:29[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 1: 4.0 of 153.3s covered[0m
+[32m2026-11-21 09:45:29[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:45:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 3: 2560x1440, source: L1_009.mp4[0m
+[32m2026-11-21 09:45:51[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 2: 8.0 of 153.3s covered[0m
+[32m2026-11-21 09:45:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:46:06[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 4: 4096x2160, source: L1_010.mp4[0m
+[32m2026-11-21 09:46:06[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 3: 12.0 of 153.3s covered[0m
+[32m2026-11-21 09:46:07[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 4096x2160, ratio: 1.90, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:46:31[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 5: 3840x2160, source: L1_011.mp4[0m
+[32m2026-11-21 09:46:31[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 4: 16.0 of 153.3s covered[0m
+[32m2026-11-21 09:46:32[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:46:54[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 6: 3840x2160, source: L1_012.mp4[0m
+[32m2026-11-21 09:46:54[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 5: 20.0 of 153.3s covered[0m
+[32m2026-11-21 09:46:55[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:47:21[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 7: 1920x1080, source: L1_013.mp4[0m
+[32m2026-11-21 09:47:21[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 6: 24.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:26[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 8: 1920x1080, source: L1_014.mp4[0m
+[32m2026-11-21 09:47:26[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 7: 28.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 9: 1920x1080, source: L1_015.mp4[0m
+[32m2026-11-21 09:47:35[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 8: 32.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:38[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 10: 1920x1080, source: L1_016.mp4[0m
+[32m2026-11-21 09:47:38[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 9: 36.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:45[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 11: 1920x1080, source: L1_017.mp4[0m
+[32m2026-11-21 09:47:45[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 10: 40.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:47[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 12: 1920x1080, source: L1_018.mp4[0m
+[32m2026-11-21 09:47:47[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 11: 44.0 of 153.3s covered[0m
+[32m2026-11-21 09:47:55[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 13: 1920x1080, source: L1_019.mp4[0m
+[32m2026-11-21 09:47:55[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 12: 48.0 of 153.3s covered[0m
+[32m2026-11-21 09:48:05[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 14: 1920x1080, source: L1_020.mp4[0m
+[32m2026-11-21 09:48:05[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 13: 52.0 of 153.3s covered[0m
+[32m2026-11-21 09:48:15[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 15: 3840x2160, source: L1_021.mp4[0m
+[32m2026-11-21 09:48:15[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 14: 56.0 of 153.3s covered[0m
+[32m2026-11-21 09:48:16[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:48:40[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 16: 1920x1080, source: L1_023.mp4[0m
+[32m2026-11-21 09:48:40[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 15: 60.0 of 153.3s covered[0m
+[32m2026-11-21 09:48:49[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 17: 1920x1080, source: L1_024.mp4[0m
+[32m2026-11-21 09:48:49[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 16: 64.0 of 153.3s covered[0m
+[32m2026-11-21 09:48:58[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 18: 1920x1080, source: L1_025.mp4[0m
+[32m2026-11-21 09:48:58[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 17: 68.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:07[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 19: 1920x1080, source: L1_026.mp4[0m
+[32m2026-11-21 09:49:07[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 18: 72.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:10[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 20: 1920x1080, source: L1_027.mp4[0m
+[32m2026-11-21 09:49:10[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 19: 76.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:17[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 21: 1920x1080, source: L1_028.mp4[0m
+[32m2026-11-21 09:49:17[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 20: 80.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:24[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 22: 1920x1080, source: L1_029.mp4[0m
+[32m2026-11-21 09:49:24[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 21: 84.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:27[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 23: 1920x1080, source: L1_030.mp4[0m
+[32m2026-11-21 09:49:27[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 22: 88.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 24: 720x1280, source: L1_031.mp4[0m
+[32m2026-11-21 09:49:35[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 23: 92.0 of 153.3s covered[0m
+[32m2026-11-21 09:49:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 720x1280, ratio: 0.56, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:49:53[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 25: 1920x1080, source: L1_032.mp4[0m
+[32m2026-11-21 09:49:53[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 24: 96.0 of 153.3s covered[0m
+[32m2026-11-21 09:50:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 26: 2560x1440, source: L1_033.mp4[0m
+[32m2026-11-21 09:50:00[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 25: 100.0 of 153.3s covered[0m
+[32m2026-11-21 09:50:00[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:50:18[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 27: 1920x1080, source: L1_034.mp4[0m
+[32m2026-11-21 09:50:18[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 26: 104.0 of 153.3s covered[0m
+[32m2026-11-21 09:50:25[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 28: 1920x1080, source: L1_035.mp4[0m
+[32m2026-11-21 09:50:25[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 27: 108.0 of 153.3s covered[0m
+[32m2026-11-21 09:50:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 29: 3840x2160, source: L1_036.mp4[0m
+[32m2026-11-21 09:50:35[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 28: 112.0 of 153.3s covered[0m
+[32m2026-11-21 09:50:35[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:50:58[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 30: 1920x1080, source: L1_037.mp4[0m
+[32m2026-11-21 09:50:58[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 29: 116.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:05[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 31: 1920x1080, source: L1_038.mp4[0m
+[32m2026-11-21 09:51:05[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 30: 120.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:11[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 32: 3840x2160, source: L1_039.mp4[0m
+[32m2026-11-21 09:51:11[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 31: 124.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:12[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:51:32[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 33: 1920x1080, source: L1_040.mp4[0m
+[32m2026-11-21 09:51:32[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 32: 128.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:40[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 34: 1920x1080, source: L1_041.mp4[0m
+[32m2026-11-21 09:51:40[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 33: 132.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:45[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 35: 1920x1080, source: L1_042.mp4[0m
+[32m2026-11-21 09:51:45[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 34: 136.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:51[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 36: 1920x1080, source: L1_043.mp4[0m
+[32m2026-11-21 09:51:51[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 35: 140.0 of 153.3s covered[0m
+[32m2026-11-21 09:51:57[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 37: 1920x1080, source: L1_001.mp4[0m
+[32m2026-11-21 09:51:57[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 36: 144.0 of 153.3s covered[0m
+[32m2026-11-21 09:52:04[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 38: 3840x2160, source: L1_002.mp4[0m
+[32m2026-11-21 09:52:04[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 37: 148.0 of 153.3s covered[0m
+[32m2026-11-21 09:52:07[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 3840x2160, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:52:30[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1118":[34m process_one_clip[0m - [34m[1mprocessing clip 39: 2560x1440, source: L1_009.mp4[0m
+[32m2026-11-21 09:52:30[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 38: 152.0 of 153.3s covered[0m
+[32m2026-11-21 09:52:31[0m | [34m[1mDEBUG[0m | "./app/services/video.py:1138":[34m process_one_clip[0m - [34m[1mresizing clip, source: 2560x1440, ratio: 1.78, target: 1920x1080, ratio: 1.78, fit_mode: cover[0m
+[32m2026-11-21 09:52:45[0m | [1mINFO[0m | "./app/services/video.py:1267":[34m combine_videos[0m - [1mprocessed clip 39: 156.0 of 153.3s covered[0m
+[32m2026-11-21 09:52:45[0m | [1mINFO[0m | "./app/services/video.py:1295":[34m combine_videos[0m - [1mstarting clip merging process[0m
+[32m2026-11-21 09:52:45[0m | [1mINFO[0m | "./app/services/video.py:1303":[34m combine_videos[0m - [1mconcatenating 39 clips with ffmpeg[0m
+[32m2026-11-21 09:53:15[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=30s, output size: 5.25 MB[0m
+[32m2026-11-21 09:53:45[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=60s, output size: 12.25 MB[0m
+[32m2026-11-21 09:54:15[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=90s, output size: 22.00 MB[0m
+[32m2026-11-21 09:54:45[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=120s, output size: 31.00 MB[0m
+[32m2026-11-21 09:55:15[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=150s, output size: 38.75 MB[0m
+[32m2026-11-21 09:55:45[0m | [1mINFO[0m | "./app/services/video.py:582":[34m log_heartbeat[0m - [1mffmpeg concat still running: elapsed=180s, output size: 44.50 MB[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1325":[34m combine_videos[0m - [1mvideo combining completed[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/task.py:1143":[34m generate_final_videos[0m - [1m
+
+## generating video: 1 => ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/final-1.mp4[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1653":[34m generate_video[0m - [1mgenerating video: 1920 x 1080[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1654":[34m generate_video[0m - [1m  ① video: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/combined-1.mp4[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1655":[34m generate_video[0m - [1m  ② audio: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/audio.mp3[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1656":[34m generate_video[0m - [1m  ③ subtitle: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/subtitle.srt[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1657":[34m generate_video[0m - [1m  ④ output: ./storage/tasks/f8846d19-2356-4e1b-a478-fc24b6677be4/final-1.mp4[0m
+[32m2026-11-21 09:56:07[0m | [1mINFO[0m | "./app/services/video.py:1677":[34m generate_video[0m - [1m  ⑤ font: ./resource/fonts/MicrosoftYaHeiBold.ttc[0m
+[32m2026-11-21 09:56:37[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=30s[0m
+[32m2026-11-21 09:57:07[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=60s[0m
+[32m2026-11-21 09:57:37[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=90s[0m
+[32m2026-11-21 09:58:07[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=120s[0m
+[32m2026-11-21 09:58:37[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=150s[0m
+[32m2026-11-21 09:59:07[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=180s[0m
+[32m2026-11-21 09:59:37[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=210s[0m
+[32m2026-11-21 10:00:07[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=240s[0m
+[32m2026-11-21 10:00:37[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=270s[0m
+[32m2026-11-21 10:01:07[0m | [1mINFO[0m | "./app/services/video.py:532":[34m log_heartbeat[0m - [1mfinal video render still running: elapsed=300s[0m
+[32m2026-11-21 10:01:19[0m | [32m[1mSUCCESS[0m | "./app/services/task.py:1920":[34m _run_pipeline[0m - [32m[1mtask f8846d19-2356-4e1b-a478-fc24b6677be4 finished, generated 1 videos.[0m
