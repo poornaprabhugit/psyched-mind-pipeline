@@ -1,0 +1,254 @@
+{
+ "L0": [
+  {
+   "n": 1,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_medium.mp4",
+    "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4"
+   ],
+   "note": "woman baking in home kitchen; spare: walking feet (WEAK: no one entering a kitchen)"
+  },
+  {
+   "n": 2,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/10/267-135875613_large.mp4",
+    "https://cdn.pixabay.com/video/2023/02/07/149665-796691048_large.mp4"
+   ],
+   "note": "steam rising off pot (thought evaporating), chopping vegetables"
+  },
+  {
+   "n": 3,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/11/25/318026_large.mp4",
+    "https://cdn.pixabay.com/video/2024/05/08/211204_large.mp4"
+   ],
+   "note": "two men shaking hands on rooftop / meeting by window"
+  },
+  {
+   "n": 4,
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+    "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4"
+   ],
+   "note": "open book beside coffee cup, open book on sand (no person rereading)"
+  },
+  {
+   "n": 5,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4"
+   ],
+   "note": "hands assembling puzzle pieces, man reflecting"
+  },
+  {
+   "n": 6,
+   "clips": [
+    "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+    "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+    "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4"
+   ],
+   "note": "thoughtful man outdoors, hands solving Rubik cube, older man looking aside"
+  },
+  {
+   "n": 7,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+    "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4"
+   ],
+   "note": "man thinking hand on chin, man reflecting, woman smiling close-up"
+  },
+  {
+   "n": 8,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/02/29/2337-157269912_large.mp4",
+    "https://cdn.pixabay.com/video/2021/07/08/80724-573496156_medium.mp4"
+   ],
+   "note": "city sunrise skyline, sunrise over city and hills"
+  }
+ ],
+ "L1": [
+  {
+   "n": 1,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+    "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4"
+   ],
+   "note": "woman waking in bright bedroom, woman lying in bed (only 2 usable)"
+  },
+  {
+   "n": 2,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/10/297-135883516_medium.mp4",
+    "https://cdn.pixabay.com/video/2016/05/12/3139-166335921_large.mp4"
+   ],
+   "note": "feet stepping through a doorway/entry, people passing an entrance (no kitchen)"
+  },
+  {
+   "n": 3,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/06/08/284347_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4"
+   ],
+   "note": "man shrugging puzzled, older man in city at night"
+  },
+  {
+   "n": 4,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+    "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4"
+   ],
+   "note": "two scientists with tablet in lab, researcher working in lab"
+  },
+  {
+   "n": 5,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/06/11/216232_large.mp4",
+    "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
+    "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_large.mp4"
+   ],
+   "note": "researcher in lab, hand placing down on table, lab worker (WEAK: no one carrying object between tables)"
+  },
+  {
+   "n": 6,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+    "https://cdn.pixabay.com/video/2021/06/06/76621-559757958_medium.mp4",
+    "https://cdn.pixabay.com/video/2025/06/01/282995_medium.mp4"
+   ],
+   "note": "man walking through glass office, man walking a path, walking in woods (WEAK: no doorway)"
+  },
+  {
+   "n": 7,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/08/28/129427-744370618_large.mp4",
+    "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4"
+   ],
+   "note": "woman puzzled touching temples, woman sitting on bed, woman checking phone"
+  },
+  {
+   "n": 8,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/06/01/214855_medium.mp4",
+    "https://cdn.pixabay.com/video/2019/01/04/20459-309694545_large.mp4",
+    "https://cdn.pixabay.com/video/2022/07/14/124170-730515125_medium.mp4"
+   ],
+   "note": "wooden door in stone wall, old locked door, arched gateway"
+  },
+  {
+   "n": 9,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/07/14/221151_large.mp4",
+    "https://cdn.pixabay.com/video/2017/06/20/10120-222371347_large.mp4",
+    "https://cdn.pixabay.com/video/2019/05/20/23796-337668530_large.mp4"
+   ],
+   "note": "woman walking away down road, woman walking back view, legs walking"
+  },
+  {
+   "n": 10,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/04/17/272619_large.mp4",
+    "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4"
+   ],
+   "note": "woman lying in bed in bedroom, woman hair in wind"
+  },
+  {
+   "n": 11,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/08/27/129289-743827387_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/27/129288-743827388_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/27/129291-743827393_large.mp4"
+   ],
+   "note": "woman using tablet, woman with tablet at window (WEAK: no VR)"
+  },
+  {
+   "n": 12,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_large.mp4",
+    "https://cdn.pixabay.com/video/2024/05/28/214082_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/08/18/128321-741195841_large.mp4"
+   ],
+   "note": "man walking corridor past rooms, fortress gate door, curtains at patio door"
+  },
+  {
+   "n": 13,
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/06/17/24499-344562763_large.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/992-142621119_large.mp4",
+    "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_large.mp4"
+   ],
+   "note": "video camera on tripod, camera monitor recording, camcorder close-up"
+  },
+  {
+   "n": 14,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_medium.mp4",
+    "https://cdn.pixabay.com/video/2019/07/08/25058-347958039_large.mp4"
+   ],
+   "note": "woman editing video on laptop, editor at desk with monitors"
+  },
+  {
+   "n": 15,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+    "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+    "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4"
+   ],
+   "note": "office corridor with glass doors, hand flipping through files, binders, girl at desk in study"
+  },
+  {
+   "n": 16,
+   "clips": [
+    "https://cdn.pixabay.com/video/2026/07/11/363408_large.mp4",
+    "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_large.mp4"
+   ],
+   "note": "unmade bed, man silhouette at bedroom window"
+  },
+  {
+   "n": 17,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_large.mp4",
+    "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4"
+   ],
+   "note": "busy street crowd walking, clock ticking"
+  },
+  {
+   "n": 18,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+    "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4"
+   ],
+   "note": "busy office desk work, woman typing on laptop, hands typing"
+  },
+  {
+   "n": 19,
+   "clips": [
+    "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+    "https://cdn.pixabay.com/video/2025/04/06/270065_large.mp4",
+    "https://cdn.pixabay.com/video/2025/07/23/293074_large.mp4"
+   ],
+   "note": "woman focused at desk, woman concentrating, woman eating at table"
+  },
+  {
+   "n": 20,
+   "clips": [
+    "https://cdn.pixabay.com/video/2017/04/15/8702-213454554_large.mp4",
+    "https://cdn.pixabay.com/video/2017/05/29/9395-219552658_large.mp4",
+    "https://cdn.pixabay.com/video/2017/08/29/11638-231758689_large.mp4"
+   ],
+   "note": "cooking pancakes in kitchen, chopping herbs, chopping greens"
+  },
+  {
+   "n": 21,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_large.mp4",
+    "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_large.mp4"
+   ],
+   "note": "people in open office lounge, team at table, blurred office people"
+  }
+ ]
+}

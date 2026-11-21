@@ -1,0 +1,341 @@
+{
+ "L2": [
+  {
+   "n": 1,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/31/137264-766326227_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/31/137265-766326232_medium.mp4"
+   ],
+   "note": "team at meeting table with laptops; man and woman talking; colleagues at whiteboard"
+  },
+  {
+   "n": 2,
+   "clips": [
+    "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+    "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4"
+   ],
+   "note": "man introducing himself to a woman; small group seated talking"
+  },
+  {
+   "n": 3,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/03/06/203252-920308104_large.mp4",
+    "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+    "https://cdn.pixabay.com/video/2024/06/13/216597_large.mp4"
+   ],
+   "note": "same man puzzled/thinking hard; man pausing over coffee"
+  },
+  {
+   "n": 4,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+    "https://cdn.pixabay.com/video/2019/01/09/20564-310898376_medium.mp4"
+   ],
+   "note": "WEAK: friends sitting together with laptop; woman reflecting by lake"
+  },
+  {
+   "n": 5,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/02/04/256411_large.mp4",
+    "https://cdn.pixabay.com/video/2017/09/08/11862-233049431_large.mp4"
+   ],
+   "note": "students around a table with laptops; teacher in classroom (no reading aloud)"
+  },
+  {
+   "n": 6,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/06/27/122233-724743712_medium.mp4",
+    "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4"
+   ],
+   "note": "student reading in library; open book on table"
+  },
+  {
+   "n": 7,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/08/08/296169_large.mp4",
+    "https://cdn.pixabay.com/video/2023/01/05/145428-787039445_large.mp4"
+   ],
+   "note": "students studying at table; student writing at desk"
+  },
+  {
+   "n": 8,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/11/20/139802-773444492_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/06/06/215474_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/28/140804-776043750_medium.mp4"
+   ],
+   "note": "student reading at library table; girl reading"
+  },
+  {
+   "n": 9,
+   "clips": [
+    "https://cdn.pixabay.com/video/2018/11/21/19456-303877307_large.mp4",
+    "https://cdn.pixabay.com/video/2020/08/13/47064-450094991_large.mp4",
+    "https://cdn.pixabay.com/video/2016/11/29/6590-193729460_large.mp4"
+   ],
+   "note": "WEAK: nervous fidgeting foot; boy waiting; man waiting on phone"
+  },
+  {
+   "n": 10,
+   "clips": [
+    "https://cdn.pixabay.com/video/2020/12/19/59686-493894242_medium.mp4",
+    "https://cdn.pixabay.com/video/2023/11/02/187516-880665394_large.mp4",
+    "https://cdn.pixabay.com/video/2016/05/12/3161-166338902_large.mp4"
+   ],
+   "note": "nervous hands before interview; anxious woman; hand at whiteboard"
+  },
+  {
+   "n": 11,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_large.mp4",
+    "https://cdn.pixabay.com/video/2022/06/09/119698-719298399_large.mp4"
+   ],
+   "note": "people talking in restaurant; two boys in conversation"
+  },
+  {
+   "n": 12,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_medium.mp4",
+    "https://cdn.pixabay.com/video/2023/01/26/148048-793525179_large.mp4"
+   ],
+   "note": "man talking and laughing on phone; woman calming, eyes closed"
+  },
+  {
+   "n": 13,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/03/28/205889_large.mp4",
+    "https://cdn.pixabay.com/video/2021/02/15/65278-514138802_large.mp4",
+    "https://cdn.pixabay.com/video/2020/06/14/42040-431422845_large.mp4",
+    "https://cdn.pixabay.com/video/2024/03/28/205890_large.mp4"
+   ],
+   "note": "baker kneading/rolling dough, flour, dough balls (borrowed from line 14 pool)"
+  },
+  {
+   "n": 14,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/11/29/140931-776453915_medium.mp4",
+    "https://cdn.pixabay.com/video/2025/02/16/258562_medium.mp4"
+   ],
+   "note": "hands in flour; baker decorating cake"
+  },
+  {
+   "n": 15,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/01/27/63066-505518648_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/04/15/207994_medium.mp4",
+    "https://cdn.pixabay.com/video/2018/02/10/14239-255658087_large.mp4"
+   ],
+   "note": "cutting fresh bread; bread roll; sliced loaf"
+  },
+  {
+   "n": 16,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/03/12/67763-523386873_large.mp4",
+    "https://cdn.pixabay.com/video/2016/05/12/3173-166338972_large.mp4"
+   ],
+   "note": "blank white sheets; wiping a blank whiteboard (abstract 'empty label')"
+  },
+  {
+   "n": 17,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/04/16/159245-818219773_large.mp4",
+    "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4"
+   ],
+   "note": "friends talking on a hillside; book pages"
+  },
+  {
+   "n": 18,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/01/17/62216-502889164_large.mp4",
+    "https://cdn.pixabay.com/video/2022/09/08/130648-747868373_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/15/127943-739712358_medium.mp4",
+    "https://cdn.pixabay.com/video/2023/04/16/159243-818219768_large.mp4"
+   ],
+   "note": "WEAK: handshake; woman waving hello; seniors chatting; friends hugging"
+  },
+  {
+   "n": 19,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/06/28/79392-569653284_medium.mp4",
+    "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_medium.mp4"
+   ],
+   "note": "woman's face, calm, thoughtful"
+  },
+  {
+   "n": 20,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/08/24/177474-857714980_large.mp4",
+    "https://cdn.pixabay.com/video/2018/10/14/18713-295718392_large.mp4",
+    "https://cdn.pixabay.com/video/2020/07/04/43843-437611786_large.mp4"
+   ],
+   "note": "WEAK abstract: gull alone on post; walking through leaves; garden"
+  },
+  {
+   "n": 21,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/04/15/159029-818026300_large.mp4",
+    "https://cdn.pixabay.com/video/2021/03/31/69625-531621058_large.mp4",
+    "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_large.mp4"
+   ],
+   "note": "students studying hard; writing notes; woman reading notebook"
+  }
+ ],
+ "L3": [
+  {
+   "n": 1,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+    "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+    "https://cdn.pixabay.com/video/2022/09/08/130649-747868380_large.mp4"
+   ],
+   "note": "lunch at table; woman rereading notebook; woman reading notes"
+  },
+  {
+   "n": 2,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/02/08/107189-678129960_large.mp4",
+    "https://cdn.pixabay.com/video/2022/02/26/108947-683077032_large.mp4"
+   ],
+   "note": "candlelit desk with quill writing; antique clock"
+  },
+  {
+   "n": 3,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/05/26/213746_large.mp4",
+    "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_large.mp4"
+   ],
+   "note": "hand writing lists; ink pen by candle; old handwritten notebook"
+  },
+  {
+   "n": 4,
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/09/01/26452-358778857_large.mp4",
+    "https://cdn.pixabay.com/video/2019/02/20/21549-318711490_medium.mp4",
+    "https://cdn.pixabay.com/video/2021/02/27/66519-517685720_large.mp4"
+   ],
+   "note": "hourglasses running"
+  },
+  {
+   "n": 5,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/11/28/140805-776043754_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/28/140809-776043767_large.mp4"
+   ],
+   "note": "young student studying in library; writing"
+  },
+  {
+   "n": 6,
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/02/01/148867-794951490_large.mp4",
+    "https://cdn.pixabay.com/video/2026/04/26/349089_large.mp4"
+   ],
+   "note": "WEAK: charts on desk; man reviewing charts on laptop"
+  },
+  {
+   "n": 7,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/08/12/84844-586995581_medium.mp4",
+    "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_large.mp4"
+   ],
+   "note": "clock hands moving; table clocks"
+  },
+  {
+   "n": 8,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/08/02/224421_medium.mp4",
+    "https://cdn.pixabay.com/video/2021/08/12/84842-586995573_large.mp4"
+   ],
+   "note": "WEAK: alarm clock by pillow; clock face (calendar clips all had text)"
+  },
+  {
+   "n": 9,
+   "clips": [
+    "https://cdn.pixabay.com/video/2024/10/25/238231_large.mp4",
+    "https://cdn.pixabay.com/video/2021/02/27/66523-517685729_large.mp4",
+    "https://cdn.pixabay.com/video/2025/05/08/277521_medium.mp4"
+   ],
+   "note": "hourglasses draining"
+  },
+  {
+   "n": 10,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_large.mp4",
+    "https://cdn.pixabay.com/video/2020/05/22/39837-424360872_medium.mp4",
+    "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_large.mp4"
+   ],
+   "note": "busy crosswalk crowd; people walking; street"
+  },
+  {
+   "n": 11,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/05/28/118418-714804804_medium.mp4",
+    "https://cdn.pixabay.com/video/2019/05/03/23263-334228232_medium.mp4"
+   ],
+   "note": "dandelion seed heads fading"
+  },
+  {
+   "n": 12,
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/06/05/24216-340670744_large.mp4",
+    "https://cdn.pixabay.com/video/2016/07/26/4006-176282263_large.mp4"
+   ],
+   "note": "waves returning to shore"
+  },
+  {
+   "n": 13,
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+    "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
+    "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4"
+   ],
+   "note": "busy city traffic from above"
+  },
+  {
+   "n": 14,
+   "clips": [
+    "https://cdn.pixabay.com/video/2016/09/05/4953-181545195_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_large.mp4"
+   ],
+   "note": "people rereading books"
+  },
+  {
+   "n": 15,
+   "clips": [
+    "https://cdn.pixabay.com/video/2025/04/23/273927_large.mp4",
+    "https://cdn.pixabay.com/video/2024/06/06/215472_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/05/84007-584870927_large.mp4"
+   ],
+   "note": "man reading at laptop; students reading; book pages"
+  },
+  {
+   "n": 16,
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/06/07/76775-560201196_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/05/84006-584870923_large.mp4"
+   ],
+   "note": "page of a book; open book close-up"
+  },
+  {
+   "n": 17,
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+    "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_large.mp4",
+    "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_large.mp4"
+   ],
+   "note": "WEAK: hands typing (no literal 'signal')"
+  },
+  {
+   "n": 18,
+   "clips": [
+    "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/09/07/230247_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/09/14/231405_large.mp4"
+   ],
+   "note": "city at sunset/evening"
+  }
+ ]
+}

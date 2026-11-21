@@ -1,0 +1,971 @@
+{
+ "videos": [
+  {
+   "id": "L0",
+   "subject": "Why does your brain drop things?",
+   "chapter": "Why does your brain drop things?",
+   "lines": [
+    {
+     "text": "You walk into the kitchen. You stop. Why are you here?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_medium.mp4"
+     ]
+    },
+    {
+     "text": "You had a reason. Three seconds ago it was right there. Now it's gone.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/08/10/267-135875613_large.mp4",
+      "https://cdn.pixabay.com/video/2023/02/07/149665-796691048_large.mp4"
+     ]
+    },
+    {
+     "text": "Later today you'll forget a name a few seconds after hearing it.",
+     "clips": [
+      "https://pixabay.com/get/ge0e7a99962d9565629880815f419e8be96ec51834048a7f5f74786a0f27d56fc6e06a9303c8b7a71cf354f582af560573474cc711a76e5f4334e10ae8f8a08f3_1280.jpg",
+      "https://pixabay.com/get/g9fc51c159294060da538363cb934b8def14d0f8be4ee40c4193180735a17668ac626cd96e7ff10b07aca5f735b50ec643f05b37e9f944aa72c6724108cccaa62_1280.jpg"
+     ]
+    },
+    {
+     "text": "You'll reread something and lose most of it by tonight.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+      "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4"
+     ]
+    },
+    {
+     "text": "And you'll remember parts of today that never happened the way you think.",
+     "clips": [
+      "https://pixabay.com/get/ge3df80a5bf09081ad59640f473448d2eebe89d648112e151f76a81686b911fc65b0d7b89708d620ca73c5231caa52d84fc9c17467d19b04f07be763f399deb5a_1280.jpg",
+      "https://cdn.pixabay.com/video/2020/06/01/40797-426939500_medium.mp4"
+     ]
+    },
+    {
+     "text": "So here's the question for this video. If your brain is so powerful, why does it keep dropping things?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/01/06/61290-498228525_large.mp4",
+      "https://pixabay.com/get/g7ec40b26894282f60b8cbe279706facccfc365c49226b3c3b19d8715f41d19e7c0239febdd06f65fd435c4fee17fb19df9cbfa25babbebc2ff32c9cf75bf77cb_1280.jpg"
+     ]
+    },
+    {
+     "text": "The answer is not what you'd expect. Your brain isn't failing. A lot of this forgetting is on purpose.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/12/28/249399_large.mp4",
+      "https://pixabay.com/get/g2c8631626a306399154c891f9f300a2d215a3f181472d1496046647a469266ac619d91e6cbb8c4487fca87b69906c02acd2cf28e05bcb392144aa56a836123df_1280.jpg"
+     ]
+    },
+    {
+     "text": "Let's follow one ordinary day and catch your brain in the act.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/02/29/2337-157269912_large.mp4",
+      "https://cdn.pixabay.com/video/2021/07/08/80724-573496156_medium.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   }
+  },
+  {
+   "id": "L1",
+   "subject": "Morning: the doorway",
+   "chapter": "Morning: the doorway",
+   "lines": [
+    {
+     "text": "It starts in the morning. You're in the bedroom, and you think: I need my keys.",
+     "clips": [
+      "https://pixabay.com/get/g954d0b1a40522f16fc7ea509bed6fccdbe11c6675e44516766e0e1dc05670e033b75dccdef1b0e12ef517337b7a1ecd41698ab0bff6b4cebf825e1145f909473_1280.jpg",
+      "https://pixabay.com/get/g464d456657c56f15494ca9cdfadfe098ecb69604574ba63ee77532891f2fb3f76bc9e47975b32b9c35c273bbfd9faa81d3f1a30371392a1d4ad1daa1af6511a1_1280.jpg"
+     ]
+    },
+    {
+     "text": "You walk into the hallway, then the kitchen. And the thought is gone.",
+     "clips": [
+      "https://pixabay.com/get/ga48572ef1062477efa5b1633e8bd13565628924e9ce22389e972baacd2e3abdacc9ba238bb6bec06670a5ba8e4dec73d1520279c99c2b795e039ec43f61348ac_1280.jpg",
+      "https://pixabay.com/get/g951e7df4b0bc59c42bad3812b7e8cd85556f586547248b7469bb1555ad36c6baf06289055e21e3b38cc30b7cc8c5676a7d7102977ad52ba104610ae759d97017_1280.jpg",
+      "https://pixabay.com/get/g268c212e1f1a60e5042425aae57cb2d9bed5623510018aafa09742844883cd1ad367a9f8ccf679bd0496c93d9f6fbd170455da9fdd27f5cb8c3176027a208e51_1280.jpg"
+     ]
+    },
+    {
+     "text": "You've done this. Almost everyone has. And for years it looked like simple absent-mindedness.",
+     "clips": [
+      "https://pixabay.com/get/gef023c5596564818bdf084ba6e98150f7d9d34c9e7a8e4330daa83c71d79774392aa3dbb2838c2ec1ecf7b3ee64db5cbf33e395c15522ee08658f3da71071141_1280.jpg",
+      "https://pixabay.com/get/g5876b374644928771c0e8d69b24afee139990f0a41e1858716605dd710d134b2b740c1648f314c00d06a0942375a8d255a3e8c2dbe30dbc8f6ae5952331e14b1_1280.jpg",
+      "https://pixabay.com/get/g076a074334c6726c467268ee055c3eb3da1af4b4799fe255a76b06a91a09f70ec0adcd6508643ac34413ccbe25a5ce3a856b3746c0fdb1987aa88c82916d9285_1280.jpg"
+     ]
+    },
+    {
+     "text": "Then a team of memory researchers decided to test it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/01/20/197489-905015030_medium.mp4",
+      "https://cdn.pixabay.com/video/2025/03/03/262187_large.mp4",
+      "https://cdn.pixabay.com/video/2024/01/20/197483-905015011_large.mp4"
+     ]
+    },
+    {
+     "text": "They set up rooms in a lab. People picked up an object at one table, carried it, and put it down at another table.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/06/11/216232_large.mp4",
+      "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
+      "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_large.mp4"
+     ]
+    },
+    {
+     "text": "Sometimes the second table was in the same big room. Sometimes it was through a door, in a new room. The walking distance was the same.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d01_doorway_setup.mp4"
+     ]
+    },
+    {
+     "text": "Then, right after they put it down, they were asked a simple question: what did you just put down?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/08/28/129427-744370618_large.mp4"
+     ]
+    },
+    {
+     "text": "The people who had walked through a doorway forgot more. Same time. Same distance. The only difference was the door.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d02_doorway_result.mp4"
+     ]
+    },
+    {
+     "text": "The researchers then tried something else. If the memory was left behind in the first room, maybe going back would bring it back.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/07/14/221151_large.mp4",
+      "https://cdn.pixabay.com/video/2017/06/20/10120-222371347_large.mp4"
+     ]
+    },
+    {
+     "text": "That's what we all do, right? Walk back to the bedroom and suddenly remember.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+      "https://cdn.pixabay.com/video/2022/07/27/125777-735656057_large.mp4",
+      "https://pixabay.com/get/gc2157a7cf415b911af8ce5f5ec9089f8c0ac55384055c1738cbef17566f1b07235f064c389f61677910874c1f132d6942df7811161fbe0ebf092ae20392a6ca9_1280.jpg"
+     ]
+    },
+    {
+     "text": "In a virtual version of the test, people who walked back into the first room did not do any better.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/08/27/129289-743827387_large.mp4",
+      "https://cdn.pixabay.com/video/2022/08/27/129288-743827388_large.mp4",
+      "https://cdn.pixabay.com/video/2022/08/27/129291-743827393_large.mp4"
+     ]
+    },
+    {
+     "text": "What mattered was how many new rooms they had entered. Each new room made the forgetting a little worse.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d03_rooms.mp4"
+     ]
+    },
+    {
+     "text": "So what's going on? The best explanation is that your brain doesn't record your day as one long video.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/06/17/24499-344562763_large.mp4",
+      "https://cdn.pixabay.com/video/2015/10/16/992-142621119_large.mp4"
+     ]
+    },
+    {
+     "text": "It cuts it into scenes, a bit like a film editor.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_medium.mp4",
+      "https://cdn.pixabay.com/video/2019/07/08/25058-347958039_large.mp4"
+     ]
+    },
+    {
+     "text": "A doorway is a strong signal that a scene has ended. When the scene ends, your brain files the old scene away and gets ready for the new one.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_large.mp4",
+      "https://cdn.pixabay.com/video/2025/05/28/282141_medium.mp4",
+      "https://cdn.pixabay.com/video/2021/05/13/74016-550033213_large.mp4",
+      "https://cdn.pixabay.com/video/2018/11/13/19316-300877530_large.mp4"
+     ]
+    },
+    {
+     "text": "The plan you made in the bedroom gets filed with the bedroom.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2026/07/11/363408_large.mp4"
+     ]
+    },
+    {
+     "text": "That's not a bug. Think about how much you do in a day.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_large.mp4"
+     ]
+    },
+    {
+     "text": "If every plan from every room stayed active, your head would be full of old, finished business.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+      "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4"
+     ]
+    },
+    {
+     "text": "Closing the scene keeps your attention on where you are now. The cost is small: sometimes you lose a plan you still needed.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/07/23/293074_large.mp4",
+      "https://cdn.pixabay.com/video/2023/04/14/158961-818020185_large.mp4",
+      "https://cdn.pixabay.com/video/2021/02/23/66121-516532113_large.mp4"
+     ]
+    },
+    {
+     "text": "And this is the first clue to our question. Your brain isn't trying to keep everything. It's trying to keep what fits the moment you're in.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2017/04/15/8702-213454554_large.mp4",
+      "https://cdn.pixabay.com/video/2017/05/29/9395-219552658_large.mp4",
+      "https://cdn.pixabay.com/video/2017/08/29/11638-231758689_large.mp4"
+     ]
+    },
+    {
+     "text": "But the next part of your day is harder on memory, because now there are other people in the room.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_large.mp4",
+      "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_large.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   },
+   "title_card": "Morning: the doorway"
+  },
+  {
+   "id": "L2",
+   "subject": "Work: the name you lost",
+   "chapter": "Work: the name you lost",
+   "lines": [
+    {
+     "text": "Nine o'clock. A meeting with new people. Everyone goes around the table and says their name and their role.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_large.mp4",
+      "https://cdn.pixabay.com/video/2022/10/31/137264-766326227_large.mp4"
+     ]
+    },
+    {
+     "text": "The person next to you says their name. Then it's your turn. You say yours.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+      "https://pixabay.com/get/gd829820519bccf7509a9cfcd32c682589a36497fdaef5adaca7174dce802e396c72b07c63f30484d6cca7631117257fe82774ab4ed7cbebbc196427b40a4e12e_1280.jpg"
+     ]
+    },
+    {
+     "text": "And by the end of the meeting, you have no idea what the person next to you was called. They were right next to you.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/06/13/216597_large.mp4",
+      "https://pixabay.com/get/g698edd24a56b7dc4d618118e5884ab79a6eb96a2bc4025cf83eeb003741ab6b506cbd1f5ef517d5e53aeef9c3df0585dd29493b74351d481d5ee4af9542d6d22_1280.jpg",
+      "https://pixabay.com/get/g321622843547447f52957c2b0003036385bdb36e126cb1c20f164843e505a117ce2d51ca1a6f2d748117fa074a09c0d071d259e657db7380b810dcf34ba7148a_1280.jpg"
+     ]
+    },
+    {
+     "text": "This has a name: the next-in-line effect.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/01/09/20564-310898376_medium.mp4"
+     ]
+    },
+    {
+     "text": "In one study, students sat around a table and took turns reading words out loud.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/02/04/256411_large.mp4",
+      "https://cdn.pixabay.com/video/2024/06/06/215474_large.mp4"
+     ]
+    },
+    {
+     "text": "Later they had to remember every word they had heard.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/06/27/122233-724743712_medium.mp4",
+      "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4"
+     ]
+    },
+    {
+     "text": "They remembered their own words very well, nearly nine in ten.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d04_nextinline_a.mp4"
+     ]
+    },
+    {
+     "text": "But the words read just before their turn, and just after it, were remembered worst of all.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d05_nextinline_b.mp4"
+     ]
+    },
+    {
+     "text": "The closer a word came to their own turn, the more likely it was to vanish.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/11/21/19456-303877307_large.mp4",
+      "https://cdn.pixabay.com/video/2020/08/13/47064-450094991_large.mp4"
+     ]
+    },
+    {
+     "text": "Here's why. When your turn is coming, your brain is busy getting ready. What will I say? How will I sound?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/11/02/187516-880665394_large.mp4",
+      "https://cdn.pixabay.com/video/2016/05/12/3161-166338902_large.mp4"
+     ]
+    },
+    {
+     "text": "There isn't room left to store what the person next to you is saying.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/11/08/95122-645704287_medium.mp4",
+      "https://cdn.pixabay.com/video/2021/11/08/95126-645704295_large.mp4"
+     ]
+    },
+    {
+     "text": "Then, while you speak and calm down afterward, the same thing happens again.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/03/16/204420-924209370_medium.mp4",
+      "https://cdn.pixabay.com/video/2023/01/26/148048-793525179_large.mp4"
+     ]
+    },
+    {
+     "text": "And names have a second problem. Researchers have found that it is much harder to remember that a person's name is Baker than to remember that a person is a baker.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/03/28/205889_large.mp4",
+      "https://cdn.pixabay.com/video/2021/02/15/65278-514138802_large.mp4",
+      "https://cdn.pixabay.com/video/2020/06/14/42040-431422845_large.mp4",
+      "https://cdn.pixabay.com/video/2024/03/28/205890_large.mp4"
+     ]
+    },
+    {
+     "text": "It's the same word.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/11/29/140931-776453915_medium.mp4",
+      "https://cdn.pixabay.com/video/2025/02/16/258562_medium.mp4"
+     ]
+    },
+    {
+     "text": "The reason is meaning. A baker connects to a hundred things you already know: bread, early mornings, flour on their hands.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/01/27/63066-505518648_medium.mp4",
+      "https://cdn.pixabay.com/video/2024/04/15/207994_medium.mp4",
+      "https://cdn.pixabay.com/video/2018/02/10/14239-255658087_large.mp4"
+     ]
+    },
+    {
+     "text": "Mr. Baker connects to almost nothing. A name is a label with no story attached.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/03/12/67763-523386873_large.mp4",
+      "https://cdn.pixabay.com/video/2016/05/12/3173-166338972_large.mp4"
+     ]
+    },
+    {
+     "text": "Your brain is built to keep stories.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/04/16/159245-818219773_large.mp4",
+      "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4"
+     ]
+    },
+    {
+     "text": "So if you want to keep a name, give it a story. Link it to something. Say it back once, out loud, after your own turn is over.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/09/08/130648-747868373_large.mp4",
+      "https://cdn.pixabay.com/video/2023/04/16/159243-818219768_large.mp4",
+      "https://cdn.pixabay.com/video/2023/07/11/171044-844787782_large.mp4"
+     ]
+    },
+    {
+     "text": "Again, notice what your brain is doing. It isn't broken.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/06/28/79387-569653286_medium.mp4"
+     ]
+    },
+    {
+     "text": "It's protecting what matters most to it in that moment: your own turn, and things that connect to what you already know.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/08/24/177474-857714980_large.mp4",
+      "https://cdn.pixabay.com/video/2018/10/14/18713-295718392_large.mp4",
+      "https://cdn.pixabay.com/video/2020/07/04/43843-437611786_large.mp4"
+     ]
+    },
+    {
+     "text": "But what about the things you work hard to learn? Surely those stay. Not so fast.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/03/31/69625-531621058_large.mp4",
+      "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_large.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   },
+   "title_card": "Work: the name you lost"
+  },
+  {
+   "id": "L3",
+   "subject": "Lunch: why rereading fails",
+   "chapter": "Lunch: why rereading fails",
+   "lines": [
+    {
+     "text": "Lunch break. You reread some notes for later. A report, a lesson, a recipe. You feel like you've got it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+      "https://cdn.pixabay.com/video/2022/09/08/130649-747868380_large.mp4"
+     ]
+    },
+    {
+     "text": "More than a hundred years ago, one researcher tested his own memory in a strange way.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/02/08/107189-678129960_large.mp4",
+      "https://cdn.pixabay.com/video/2022/02/26/108947-683077032_large.mp4"
+     ]
+    },
+    {
+     "text": "He learned long lists of nonsense syllables, then measured how much work it took to learn them again after different delays.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/05/26/213746_large.mp4",
+      "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_medium.mp4",
+      "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_large.mp4"
+     ]
+    },
+    {
+     "text": "If relearning was fast, the memory was still partly there. If it was slow, it was mostly gone.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/09/01/26452-358778857_large.mp4",
+      "https://cdn.pixabay.com/video/2019/02/20/21549-318711490_medium.mp4",
+      "https://cdn.pixabay.com/video/2021/02/27/66519-517685720_large.mp4"
+     ]
+    },
+    {
+     "text": "In 2015, two researchers repeated this experiment. One of them, a young student, spent about seventy hours over seventy-five days learning and relearning lists.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/11/28/140805-776043754_medium.mp4",
+      "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_large.mp4",
+      "https://cdn.pixabay.com/video/2022/11/28/140809-776043767_large.mp4"
+     ]
+    },
+    {
+     "text": "The pattern came back almost the same as before.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/02/01/148867-794951490_large.mp4",
+      "https://cdn.pixabay.com/video/2026/04/26/349089_large.mp4"
+     ]
+    },
+    {
+     "text": "Twenty minutes after learning a list, relearning it already took about half the original effort.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d06_curve_a.mp4"
+     ]
+    },
+    {
+     "text": "After one day, about two-thirds. After a month, almost the whole effort again.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d07_curve_b.mp4"
+     ]
+    },
+    {
+     "text": "This is the forgetting curve. Most of the loss happens early, in the first hours. Then it slows down.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/10/25/238231_large.mp4",
+      "https://cdn.pixabay.com/video/2021/02/27/66523-517685729_large.mp4",
+      "https://cdn.pixabay.com/video/2025/05/08/277521_medium.mp4"
+     ]
+    },
+    {
+     "text": "That sounds bad. But think about what it means. Your brain doesn't treat everything you see as worth keeping.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_large.mp4",
+      "https://cdn.pixabay.com/video/2017/07/23/10831-226624994_large.mp4",
+      "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_medium.mp4",
+      "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4"
+     ]
+    },
+    {
+     "text": "It waits for proof. Something you meet once and never use again fades fast.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/05/28/118418-714804804_medium.mp4",
+      "https://cdn.pixabay.com/video/2019/05/03/23263-334228232_medium.mp4"
+     ]
+    },
+    {
+     "text": "Something that keeps coming back gets kept.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/06/05/24216-340670744_large.mp4",
+      "https://cdn.pixabay.com/video/2016/07/26/4006-176282263_large.mp4"
+     ]
+    },
+    {
+     "text": "That's a smart rule for a brain that sees thousands of things a day. Most of them really don't matter.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+      "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4"
+     ]
+    },
+    {
+     "text": "And here is where most of us get it wrong. We try to prove something matters by rereading it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_medium.mp4",
+      "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_large.mp4"
+     ]
+    },
+    {
+     "text": "But rereading is a weak signal. The words look familiar, so it feels like you know them.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/04/23/273927_large.mp4",
+      "https://cdn.pixabay.com/video/2024/06/06/215472_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/05/84007-584870927_large.mp4"
+     ]
+    },
+    {
+     "text": "Your brain is mostly recognizing the page, not storing anything new.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/06/07/76775-560201196_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/05/84006-584870923_large.mp4"
+     ]
+    },
+    {
+     "text": "There's a much stronger signal, and we'll come back to it at the end, because it's the one thing in this video you can use today.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_large.mp4",
+      "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4"
+     ]
+    },
+    {
+     "text": "First, let's get to the evening. Because the strangest part of memory isn't what you forget. It's what you remember that isn't true.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_medium.mp4",
+      "https://cdn.pixabay.com/video/2024/09/07/230247_medium.mp4",
+      "https://cdn.pixabay.com/video/2024/09/14/231405_large.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   },
+   "title_card": "Lunch: why rereading fails"
+  },
+  {
+   "id": "L4",
+   "subject": "Evening: the day you remember",
+   "chapter": "Evening: the day you remember",
+   "lines": [
+    {
+     "text": "Evening. Someone asks you: how was your day?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_large.mp4"
+     ]
+    },
+    {
+     "text": "You don't replay the whole day. You can't. Instead you reach for a few moments. Usually the best or worst moment, and how it ended.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/08/09/180-135788610_large.mp4",
+      "https://cdn.pixabay.com/video/2022/07/07/123441-727986669_large.mp4"
+     ]
+    },
+    {
+     "text": "In one experiment, people put one hand in cold water, cold enough to hurt, for sixty seconds.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d08_cold_a.mp4"
+     ]
+    },
+    {
+     "text": "In another trial, they did the same sixty seconds, then kept their hand in for thirty more seconds while the water got about one degree warmer.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d09_cold_b.mp4"
+     ]
+    },
+    {
+     "text": "Still cold. Still uncomfortable. Just a little less so at the end.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2015/08/07/21-135711412_medium.mp4",
+      "https://cdn.pixabay.com/video/2023/03/14/154726-808562497_large.mp4"
+     ]
+    },
+    {
+     "text": "The second trial was longer. It was strictly more pain.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/08/04/83875-584870588_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/04/83874-584870586_large.mp4"
+     ]
+    },
+    {
+     "text": "But when they were asked which one they'd rather repeat, sixty-nine percent chose the longer one.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d10_cold_result.mp4"
+     ]
+    },
+    {
+     "text": "Their memory didn't add up the pain minute by minute. It kept the worst moment and the end.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/11/06/19179-299997261_large.mp4",
+      "https://cdn.pixabay.com/video/2022/09/13/131160-749706756_large.mp4",
+      "https://cdn.pixabay.com/video/2016/09/05/4933-181466740_large.mp4"
+     ]
+    },
+    {
+     "text": "A better ending made the whole thing feel better, even though it lasted longer.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/12/05/141750-778319480_large.mp4",
+      "https://cdn.pixabay.com/video/2022/05/08/116388-707604365_large.mp4"
+     ]
+    },
+    {
+     "text": "So the day you describe tonight is already an edit. But it gets stranger.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_large.mp4",
+      "https://cdn.pixabay.com/video/2023/10/08/184132-872701396_large.mp4"
+     ]
+    },
+    {
+     "text": "In a classic study, people watched short films of car crashes.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2025/05/01/275954_medium.mp4"
+     ]
+    },
+    {
+     "text": "Afterward they were asked one question: about how fast were the cars going when they hit each other?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/04/05/35124-404782768_medium.mp4",
+      "https://cdn.pixabay.com/video/2016/01/11/1900-151662242_medium.mp4",
+      "https://cdn.pixabay.com/video/2016/07/28/4053-176749018_large.mp4"
+     ]
+    },
+    {
+     "text": "For other people, one word was changed. Instead of hit, the question said smashed.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+      "https://pixabay.com/get/g782a984eb2e1a8e8624cafecd1d154674c8f2601b04081b75da074fdf7f61e8e0a0dcddd1b5bb61c31c39f341eed3a160573a3471bb69fc1bef09f7c4fe5c336_1280.jpg",
+      "https://pixabay.com/get/g9b3c13801a406a9eca36f86510388d3b2478e13331ec59545794e42568d91d73712d5cc326e4be24bd2bc8b1ae359b09d09e8bead283e0bb4db34101fab0054d_1280.jpg"
+     ]
+    },
+    {
+     "text": "That one word changed what people remembered.",
+     "clips": [
+      "https://pixabay.com/get/gd1d344452daa843634ddd1879189054fe1ce4d06b8ae9ca78150bbca3dcf4155e114983d8a761ee84521ca3a7729b29b4e124c10068284ec65ab801d56c1cdb5_1280.jpg"
+     ]
+    },
+    {
+     "text": "With smashed, the average guess was almost forty-one miles per hour. With hit, it was thirty-four. With contacted, under thirty-two.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d11_speed.mp4"
+     ]
+    },
+    {
+     "text": "And a week later, everyone was asked: did you see any broken glass?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/07/02/219140_large.mp4",
+      "https://cdn.pixabay.com/video/2021/02/01/63747-507811831_large.mp4",
+      "https://cdn.pixabay.com/video/2023/06/22/168313-838656609_medium.mp4"
+     ]
+    },
+    {
+     "text": "There was no broken glass in the film.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/06/28/218543_medium.mp4"
+     ]
+    },
+    {
+     "text": "Of the people who heard hit, fourteen percent said yes. Of the people who heard smashed, thirty-two percent said yes.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d12_glass.mp4"
+     ]
+    },
+    {
+     "text": "Almost one in three remembered glass that never existed.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/11/05/94680-643084362_medium.mp4",
+      "https://cdn.pixabay.com/video/2023/11/15/189189-884961175_medium.mp4"
+     ]
+    },
+    {
+     "text": "This is what memory really is. Every time you remember something, you don't play back a recording. You rebuild it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/09/15/50043-459915483_large.mp4",
+      "https://cdn.pixabay.com/video/2020/09/15/50044-459915485_large.mp4",
+      "https://cdn.pixabay.com/video/2024/01/28/198369-907598222_large.mp4"
+     ]
+    },
+    {
+     "text": "You use the bits you kept, plus what you know, plus what someone just said to you. Then you store it again, slightly changed.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_large.mp4",
+      "https://cdn.pixabay.com/video/2020/04/18/36500-411342229_large.mp4",
+      "https://cdn.pixabay.com/video/2018/11/27/19598-303873067_large.mp4"
+     ]
+    },
+    {
+     "text": "So when you tell your friend about your day tonight, the story you tell becomes part of the memory.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/02/15/2174-155747455_large.mp4",
+      "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4"
+     ]
+    },
+    {
+     "text": "The words you choose, the parts you skip, the ending you give it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/10/31/137251-766326171_large.mp4",
+      "https://cdn.pixabay.com/video/2022/10/31/137249-766326159_large.mp4"
+     ]
+    },
+    {
+     "text": "That sounds scary. But it's the same reason you can update what you know. A memory that can change is a memory that can learn.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_large.mp4",
+      "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_large.mp4",
+      "https://cdn.pixabay.com/video/2019/09/07/26637-360259342_medium.mp4"
+     ]
+    },
+    {
+     "text": "And that brings us to the night, and to the answer.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/05/24/164339-830461201_large.mp4",
+      "https://cdn.pixabay.com/video/2024/06/04/215246_large.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   },
+   "title_card": "Evening: the day you remember"
+  },
+  {
+   "id": "L5",
+   "subject": "Night: sleep, and the answer",
+   "chapter": "Night: sleep, and the answer",
+   "lines": [
+    {
+     "text": "You go to bed. For you, the day is over. For your brain, there's still work to do.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/03/28/34473-402606909_large.mp4",
+      "https://pixabay.com/get/g627fe347697c7bad9a71ac9300e295984edb2a5bc14a0c50ebfa08bbd771331331fd93005edc396bb399fc33b40d5464e3720d4e2c13bb4868b37f3b95b507de_1280.jpg",
+      "https://pixabay.com/get/gc15753b9f4a54a317bc437f03a20a85f3b5d3cfbf27aad4b269913346e45b3679da31cf26f6de64c95dbbc66c362ce7dead22131ddc33041f11c76483347226c_1280.jpg"
+     ]
+    },
+    {
+     "text": "In one study, high-school students learned pairs of English and German words.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/04/15/159027-818026298_large.mp4",
+      "https://cdn.pixabay.com/video/2015/08/08/84-135733336_large.mp4"
+     ]
+    },
+    {
+     "text": "Some learned them in the evening, shortly before sleep. Others learned them in the morning and stayed awake all day.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/04/01/22518-328624723_large.mp4",
+      "https://cdn.pixabay.com/video/2017/08/06/11186-228573647_large.mp4",
+      "https://cdn.pixabay.com/video/2025/11/28/318540_large.mp4"
+     ]
+    },
+    {
+     "text": "The students who slept soon after learning forgot much less.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2023/08/19/176776-856056376_large.mp4"
+     ]
+    },
+    {
+     "text": "In a second test, students learned the words and then stayed awake all night.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+      "https://cdn.pixabay.com/video/2017/01/07/7093-198553482_large.mp4"
+     ]
+    },
+    {
+     "text": "Even after a full night of recovery sleep, two days later they remembered less than students who had slept.",
+     "clips": [
+      "https://pixabay.com/get/g261bf72f0757eda9a44d817d7f8d715b6fa678f8475da80e8bf72d816624cd85d698fbba08ceada41ccdef4b5d3df0a5c681c367ef27f2447c0365aa0af63c55_1280.jpg",
+      "https://pixabay.com/get/gc488a21fd15b2bf05f47b6a61797875d5afeb8a812b25dd34cff0dafd92b96e4ede03fceab36b06a7a38490492e08363_1280.jpg",
+      "https://cdn.pixabay.com/video/2022/11/28/140807-776043760_large.mp4"
+     ]
+    },
+    {
+     "text": "Sleep isn't just rest. It's when your brain sorts the day.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/06/23/42966-434316747_large.mp4",
+      "https://cdn.pixabay.com/video/2022/08/11/127621-739144659_large.mp4"
+     ]
+    },
+    {
+     "text": "Some of it gets kept and linked to what you already know. A lot of it gets let go.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/04/11/15522-264715974_large.mp4",
+      "https://cdn.pixabay.com/video/2017/08/16/11414-230268465_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/06/84086-584871133_large.mp4"
+     ]
+    },
+    {
+     "text": "So, the question we started with. If your brain is so powerful, why does it keep dropping things?",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/08/29/129472-744385475_medium.mp4",
+      "https://cdn.pixabay.com/video/2026/04/02/344025_large.mp4"
+     ]
+    },
+    {
+     "text": "Because dropping things is part of how it works.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/10/09/51961-467132005_large.mp4",
+      "https://cdn.pixabay.com/video/2023/12/10/192790-893446945_large.mp4"
+     ]
+    },
+    {
+     "text": "Brain scientists have argued that the goal of memory is not to keep a perfect record of the past.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/04/27/115324-704347593_large.mp4",
+      "https://cdn.pixabay.com/video/2015/11/11/1310-145386665_large.mp4"
+     ]
+    },
+    {
+     "text": "The goal is to help you make good decisions in a world that keeps changing.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2024/12/05/245028_medium.mp4",
+      "https://cdn.pixabay.com/video/2021/01/19/62368-504238671_medium.mp4"
+     ]
+    },
+    {
+     "text": "To do that, your brain actively weakens old connections. It lets go of details that don't repeat. It keeps the pattern and drops the noise.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/03/15/110879-689510470_large.mp4",
+      "https://cdn.pixabay.com/video/2018/12/17/20072-307163785_medium.mp4",
+      "https://cdn.pixabay.com/video/2021/10/06/91069-628462649_large.mp4"
+     ]
+    },
+    {
+     "text": "A brain that kept everything would get stuck in the past.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2018/04/16/15629-265015278_large.mp4"
+     ]
+    },
+    {
+     "text": "It would remember last year's password, last month's parking spot, the exact words of every conversation, and struggle to see what's new.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/07/25/45535-443134283_large.mp4",
+      "https://cdn.pixabay.com/video/2021/08/17/85428-588675541_large.mp4",
+      "https://cdn.pixabay.com/video/2025/09/24/306053_large.mp4"
+     ]
+    },
+    {
+     "text": "The doorway clears finished plans. The name fades because it had no meaning attached.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/09/10/130783-748347211_large.mp4",
+      "https://cdn.pixabay.com/video/2020/07/24/45471-443133954_large.mp4"
+     ]
+    },
+    {
+     "text": "The notes fade because nothing told your brain they mattered. Even the false glass is the price of a memory that can update.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+      "https://cdn.pixabay.com/video/2017/04/25/8851-215589092_large.mp4",
+      "https://cdn.pixabay.com/video/2019/08/10/25922-353764102_large.mp4"
+     ]
+    },
+    {
+     "text": "So your brain forgets on purpose. But you can tell it what matters.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/04/05/22597-328624850_large.mp4"
+     ]
+    },
+    {
+     "text": "Here's the one thing to try today. Instead of rereading something, close it and test yourself. Try to write down or say what you remember.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/10/22/136081-764371377_large.mp4",
+      "https://cdn.pixabay.com/video/2022/07/08/123514-728292574_large.mp4",
+      "https://cdn.pixabay.com/video/2022/10/21/135877-764362178_large.mp4"
+     ]
+    },
+    {
+     "text": "In one experiment, students either read a short science text four times, or read it once and then tried to recall it three times.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/06/27/122231-724743698_large.mp4",
+      "https://cdn.pixabay.com/video/2023/04/15/159024-818026294_large.mp4",
+      "https://cdn.pixabay.com/video/2021/03/31/69628-531621074_large.mp4"
+     ]
+    },
+    {
+     "text": "Five minutes later, the rereaders did better.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2021/04/06/70216-533814725_medium.mp4",
+      "https://cdn.pixabay.com/video/2024/06/06/215471_large.mp4"
+     ]
+    },
+    {
+     "text": "But one week later, the people who tested themselves remembered sixty-one percent. The rereaders remembered forty percent.",
+     "clips": [
+      "repo:assets/2026-11-21-long/d13_retrieval.mp4"
+     ]
+    },
+    {
+     "text": "And the rereaders were the ones who felt more confident.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/09/04/130211-748134196_large.mp4"
+     ]
+    },
+    {
+     "text": "Trying to remember is the signal your brain is waiting for. It says: this one matters. Keep it.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_large.mp4",
+      "https://cdn.pixabay.com/video/2022/04/22/114728-702458129_medium.mp4",
+      "https://cdn.pixabay.com/video/2016/05/12/3160-166338886_large.mp4"
+     ]
+    },
+    {
+     "text": "And if you want to see how easily your brain can be fooled about your own choices, watch this one next.",
+     "clips": [
+      "https://cdn.pixabay.com/video/2022/04/27/115228-703815245_large.mp4",
+      "https://cdn.pixabay.com/video/2024/02/01/198791-908857545_large.mp4",
+      "https://cdn.pixabay.com/video/2025/11/12/315575_large.mp4"
+     ]
+    }
+   ],
+   "settings": {
+    "video_aspect": "16:9",
+    "video_clip_duration": 4,
+    "subtitle_position": "bottom",
+    "font_size": 64,
+    "bgm_type": "",
+    "bgm_volume": 0.0,
+    "voice_rate": 0.92,
+    "subtitle_display_mode": "sentence",
+    "subtitle_animation": "none"
+   },
+   "title_card": "Night: sleep, and the answer"
+  }
+ ],
+ "tighten": true,
+ "tighten_gap": 0.6,
+ "long": {
+  "id": "long03",
+  "segments": [
+   "L0",
+   "L1",
+   "L2",
+   "L3",
+   "L4",
+   "L5"
+  ]
+ }
+}
