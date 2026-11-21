@@ -1,0 +1,52 @@
+{
+ "videos": [
+  {
+   "id": "bv",
+   "lines": [
+    {
+     "n": 1,
+     "text": "robot hand",
+     "queries": [
+      "robot hand",
+      "robotic hand",
+      "robot arm moving"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "robot2",
+     "queries": [
+      "humanoid robot",
+      "robot arm close up",
+      "industrial robot arm"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bp",
+   "lines": [
+    {
+     "n": 1,
+     "text": "robot photo",
+     "queries": [
+      "robot hand",
+      "robotic arm",
+      "robot"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "tickle photo",
+     "queries": [
+      "tickling",
+      "tickle feet",
+      "child laughing tickle"
+     ],
+     "photos": true
+    }
+   ]
+  }
+ ]
+}
