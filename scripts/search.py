@@ -46,6 +46,14 @@ def search(q):
     return (data or {}).get("hits", [])
 
 
+def search_photos(q):
+    """Pixabay photos (line option "photos": true) - render.py turns them into slow push-in clips."""
+    params = urllib.parse.urlencode({"key": KEY, "q": q[:100], "image_type": "photo",
+                                     "per_page": 30, "safesearch": "true"})
+    data = get(f"https://pixabay.com/api/?{params}")
+    return (data or {}).get("hits", [])
+
+
 def ok(hit):
     text = (hit.get("tags", "") + " " + hit.get("pageURL", "")).lower()
     return hit.get("duration", 0) >= 3 and not any(b in text for b in BAD)
@@ -94,18 +102,33 @@ def main(job_path, outdir):
         result = {"id": vid, "lines": []}
         for line in video["lines"]:
             cands = []
-            for q in line["queries"]:
-                for hit in search(q):
-                    if hit["id"] in used or any(c["pixabay_id"] == hit["id"] for c in cands) or not ok(hit):
-                        continue
-                    url, th = pick_url(hit["videos"]), thumb(hit["videos"])
-                    if url and th:
-                        used.add(hit["id"])  # never offer the same clip twice in one job
-                        cands.append({"pixabay_id": hit["id"], "url": url, "thumb": th,
-                                      "page": hit.get("pageURL"), "tags": hit.get("tags"),
-                                      "duration": hit.get("duration"), "query": q})
-                    if len(cands) >= PER_LINE:
-                        break
+            qs = line["queries"]
+            share = -(-PER_LINE // max(len(qs), 1))  # round-robin: every query gets a fair share of the 8 cells
+            for rnd in range(2):
+                for q in qs:
+                    taken = 0
+                    hits = search_photos(q) if line.get("photos") else search(q)
+                    for hit in hits:
+                        if len(cands) >= PER_LINE or (rnd == 0 and taken >= share):
+                            break
+                        if hit["id"] in used or any(c["pixabay_id"] == hit["id"] for c in cands):
+                            continue
+                        if line.get("photos"):
+                            text = (hit.get("tags", "") + " " + hit.get("pageURL", "")).lower()
+                            if any(b in text for b in BAD):
+                                continue
+                            url, th = hit.get("largeImageURL"), hit.get("webformatURL")
+                        else:
+                            if not ok(hit):
+                                continue
+                            url, th = pick_url(hit["videos"]), thumb(hit["videos"])
+                        if url and th:
+                            used.add(hit["id"])  # never offer the same clip twice in one job
+                            taken += 1
+                            cands.append({"pixabay_id": hit["id"], "url": url, "thumb": th,
+                                          "page": hit.get("pageURL"), "tags": hit.get("tags"),
+                                          "duration": hit.get("duration", 0), "query": q,
+                                          "kind": "photo" if line.get("photos") else "video"})
                 if len(cands) >= PER_LINE:
                     break
             result["lines"].append({"n": line["n"], "text": line["text"], "candidates": cands})

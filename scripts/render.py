@@ -156,6 +156,31 @@ def pad_to_audio(path):
     return a - v
 
 
+def params_aspect(job, video):
+    return video.get("settings", {}).get("video_aspect") or job.get("settings", {}).get("video_aspect") \
+        or DEFAULTS["video_aspect"]
+
+
+def photo_to_clip(path, aspect="9:16", seconds=4.0):
+    """A Pixabay photo (search line option "photos": true) becomes a slow push-in clip, so MPT can use it.
+    Detects JPEG/PNG/WebP by magic bytes; leaves real videos untouched."""
+    import subprocess
+    head = open(path, "rb").read(12)
+    if not (head[:3] == b"\xff\xd8\xff" or head[:8] == b"\x89PNG\r\n\x1a\n" or head[8:12] == b"WEBP"):
+        return False
+    w, h = (1080, 1920) if aspect == "9:16" else (1920, 1080)
+    frames = int(seconds * 30)
+    img = path + ".img"
+    os.replace(path, img)
+    vf = (f"scale={w * 2}:{h * 2}:force_original_aspect_ratio=increase,crop={w * 2}:{h * 2},"
+          f"zoompan=z='min(zoom+0.0010,1.15)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps=30,"
+          "format=yuv420p,setsar=1")
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-loop", "1", "-i", img, "-t", f"{seconds:.2f}", "-vf", vf,
+                    "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", path], check=True)
+    os.remove(img)
+    return True
+
+
 def main(job_path, vid, mpt_dir, outdir):
     os.makedirs(outdir, exist_ok=True)
     job = json.load(open(job_path, encoding="utf-8"))
@@ -184,6 +209,7 @@ def main(job_path, vid, mpt_dir, outdir):
         for i, url in enumerate(video["clips"], 1):
             name = f"{vid}_{i:02d}.mp4"
             download(url, os.path.join(local, name))
+            photo_to_clip(os.path.join(local, name), params_aspect(job, video))
             names.append(name)
     print(f"downloaded {len(names)} clips", flush=True)
     fast = video.get("fast_open", job.get("fast_open", 0))  # e.g. {"clips": 3, "seconds": 1.5}

@@ -1,0 +1,394 @@
+{
+ "videos": [
+  {
+   "id": "ph1",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P01L1 phone buzz",
+     "queries": [
+      "phone vibrating",
+      "man checking phone",
+      "phone in pocket"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "P01L4 shirt",
+     "queries": [
+      "shirt fabric",
+      "man shirt",
+      "arm muscle"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "P02L1 dropped money",
+     "queries": [
+      "dollar bill on ground",
+      "lost money",
+      "ten dollar bill"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "P02L2 ticket",
+     "queries": [
+      "movie ticket",
+      "theater ticket",
+      "ticket hand"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "P02L3 theater",
+     "queries": [
+      "theater building",
+      "theater entrance",
+      "theater night"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "ph2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P02L4 box office",
+     "queries": [
+      "box office",
+      "ticket counter",
+      "ticket booth"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "P02L5 searching",
+     "queries": [
+      "searching handbag",
+      "empty pockets",
+      "woman looking in bag"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "P02L7 stage",
+     "queries": [
+      "theater stage",
+      "theater audience",
+      "red curtain stage"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "P03 yawn",
+     "queries": [
+      "yawning",
+      "man yawning",
+      "yawning woman"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "P04L1 bill",
+     "queries": [
+      "restaurant bill",
+      "restaurant check",
+      "bill payment restaurant"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "ph3",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P04L2 restaurant",
+     "queries": [
+      "restaurant interior",
+      "restaurant dinner",
+      "restaurant guests"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "P04L4 waiter",
+     "queries": [
+      "waiter",
+      "waitress serving",
+      "waiter restaurant"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "P04L5 chocolates",
+     "queries": [
+      "chocolates",
+      "chocolate candy",
+      "giving chocolate"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "P04L6 tip",
+     "queries": [
+      "tip restaurant",
+      "paying bill",
+      "cash on table"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "P05L2 museum",
+     "queries": [
+      "museum visitors",
+      "museum",
+      "people museum"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "ph4",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P06L4 button",
+     "queries": [
+      "red button",
+      "pressing button",
+      "button finger"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "P08 gum",
+     "queries": [
+      "chewing gum",
+      "bubble gum",
+      "gum"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "P08L5 tapping",
+     "queries": [
+      "tapping fingers",
+      "drumming fingers",
+      "finger table"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "P10L1 smell",
+     "queries": [
+      "smelling flowers",
+      "woman smelling",
+      "smelling"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "P10L3 grandma",
+     "queries": [
+      "grandmother",
+      "elderly woman smiling",
+      "old man smiling"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "ph5",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P11 tickle",
+     "queries": [
+      "tickling",
+      "tickling child",
+      "tickle"
+     ],
+     "photos": true
+    },
+    {
+     "n": 2,
+     "text": "P11L5 feet",
+     "queries": [
+      "tickling feet",
+      "feather",
+      "laughing child"
+     ],
+     "photos": true
+    },
+    {
+     "n": 3,
+     "text": "P12L2 mouth",
+     "queries": [
+      "mouth speaking",
+      "woman talking",
+      "lips"
+     ],
+     "photos": true
+    },
+    {
+     "n": 4,
+     "text": "P13L2 coin",
+     "queries": [
+      "coin toss",
+      "coin flip",
+      "coin"
+     ],
+     "photos": true
+    },
+    {
+     "n": 5,
+     "text": "P13L4 no",
+     "queries": [
+      "shaking head",
+      "saying no",
+      "no gesture"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "ph6",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P14L1 daydream",
+     "queries": [
+      "daydreaming",
+      "woman staring window",
+      "man daydreaming"
+     ],
+     "photos": true
+    }
+   ]
+  },
+  {
+   "id": "vd1",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P03 yawn v",
+     "queries": [
+      "yawn",
+      "yawning",
+      "sleepy"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P04 waiter v",
+     "queries": [
+      "waiter",
+      "waitress",
+      "restaurant waiter"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P08 gum v",
+     "queries": [
+      "chewing gum",
+      "bubble gum",
+      "chewing"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P11 tickle v",
+     "queries": [
+      "tickle",
+      "tickling",
+      "laughing child"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P13 coin v",
+     "queries": [
+      "coin flip",
+      "coin toss",
+      "flipping coin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vd2",
+   "lines": [
+    {
+     "n": 1,
+     "text": "P10 smell v",
+     "queries": [
+      "smelling flower",
+      "smelling",
+      "smell"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "P02 cinema v",
+     "queries": [
+      "cinema",
+      "movie theater",
+      "theater"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "P12 talk v",
+     "queries": [
+      "woman talking",
+      "talking to camera",
+      "speaking"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "P14 daydream v",
+     "queries": [
+      "daydreaming",
+      "staring out window",
+      "lost in thought"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "P04 restaurant v",
+     "queries": [
+      "restaurant",
+      "restaurant dinner",
+      "dining"
+     ]
+    }
+   ]
+  }
+ ]
+}
