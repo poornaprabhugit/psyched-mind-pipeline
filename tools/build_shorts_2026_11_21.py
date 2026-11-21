@@ -1,6 +1,6 @@
 import json,re,glob
 R='/home/claude/res/'
-SRC={'S':R+'2026-11-21-search/{v}_candidates.json','G':R+'gap/{v}_candidates.json','P':R+'gap2/{v}_candidates.json'}
+SRC={'S':R+'2026-11-21-search/{v}_candidates.json','G':R+'gap/{v}_candidates.json','P':R+'gap2/{v}_candidates.json','X':R+'b11/{v}_candidates.json'}
 def url(spec):
     src,v,ln,k=spec.split(); ln=int(ln);k=int(k)
     d=json.load(open(SRC[src].format(v=v)))

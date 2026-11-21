@@ -1,0 +1,28 @@
+{
+ "tighten": true,
+ "clean_variant": true,
+ "videos": [
+  {
+   "id": "p11",
+   "subject": "Why you can't tickle yourself \ud83e\udeb6",
+   "script": "You can't tickle yourself because your brain sees it coming. When you move, your brain predicts the touch and turns it down. People tickled themselves through a robot. Add a delay of a fifth of a second, and it tickled like someone else's hand. Your brain lost the timing. It's simple:",
+   "hook_text": "Your hand vs a robot's",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://pixabay.com/get/g29a38cf6a71c02ec7430882f7ee10c9c683388aa8bcfff8c65c03e17f2168843aeb7156fc25763d334d59c2a6e97d3fccedc1ecc3ac7052ce5f6e87198ba2bdc_1280.jpg",
+    "https://pixabay.com/get/g98757b0fb561e0a0c3617eb8b4a61832d0c1d27c8bd6785379f3447cd00d72f7aae42198c3e35b3a2588bee5060137b4384463ac8b76ac0fa933f1b511dff064_1280.jpg",
+    "https://pixabay.com/get/g45754b21878169e43e4dd50f341b861a94d0c9afee91eaafafbbdaab1fc9a36d7430ac95067b41b6df283d6e4ca2447528c026e00652721f5808d8dba1d4af56_1280.jpg",
+    "https://cdn.pixabay.com/video/2024/09/26/233400_medium.mp4",
+    "https://pixabay.com/get/ga66233637e2771e71b77276fe526337d7cf48b0a4a3c21d20f2539e3326afc221cfef378df6fe1205588eb15487231bf52dd5301be4122342f65d3fbb9ac775f_1280.jpg",
+    "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_large.mp4",
+    "https://pixabay.com/get/g65f5bd69d53bd4b141ee19f3ce8c10ebd6eb7875fdd548661d70bb3ad03e5c3208facd4e7d01d176a839262a5bbfe3ed10257035ded87eb07cadb1ab0c4d2dff_1280.jpg",
+    "https://pixabay.com/get/g2520011e710e4176fe387bb474e4bd9fb24e40a2879353bb22755c60d01af575fd94dd87bdc6481e918e19a263338eb376be5950dc6dd549f13a484f1eb33eb3_1280.jpg",
+    "https://cdn.pixabay.com/video/2020/08/22/47813-452143783_large.mp4"
+   ]
+  }
+ ]
+}
