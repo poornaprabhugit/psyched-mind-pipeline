@@ -36,6 +36,9 @@ def http(method, path, body=None):
 
 
 def download(url, target):
+    if url.startswith("repo:"):  # a file committed in this repo (e.g. code-drawn diagrams for long videos)
+        shutil.copy(url[5:], target)
+        return
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     for i in range(4):
         try:
