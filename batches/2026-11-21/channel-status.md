@@ -37,7 +37,7 @@ Priority: **1. United States · 2. India · 3. United Kingdom** (focus on these 
 ## This week's batch (21 Nov)
 - **14 Shorts for 23–29 Nov delivered** (B01–B14 + IG-FB files + captions + upload sheet). All passed the independent review (B11 needed 3 rounds: robot shot + source link).
 - **P1 subscribe-card test running:** arm A (card) B01, B04, B05, B08, B09, B12, B13 · arm B the other 7. Verdict ~6 Dec.
-- **Long video 03 "Why Your Brain Forgets Things On Purpose"** – one story over one day, 5 chapters, 17 code-drawn experiment diagrams; ~11:46 (shorter than the 13–15 min target: the approved script is ~1,950 words; next long scripts ~2,300 words). Sun 22 Nov 18:00; Test & compare with 3 title/thumbnail pairs.
+- **Long video 03 "Why Your Brain Forgets Things On Purpose"** – one story over one day, 5 chapters, 17 code-drawn experiment diagrams; 11:44 (shorter than the 13–15 min target: the approved script is ~1,950 words; next long scripts ~2,300 words). delivered; user posts it Sat 21 Nov ~18:00; Test & compare with 3 title/thumbnail pairs.
 - Pipeline fixes: caption/voice desync in all earlier Shorts fixed (tighten step), clips now timed to the spoken line, Pixabay photos usable, round-robin search.
 - Upload compliance check 21 Nov: OK (low confidence – canonical API pages not readable); manual upload until the new YT_REFRESH_TOKEN is set.
 
