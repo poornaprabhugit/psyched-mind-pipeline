@@ -1,0 +1,30 @@
+{
+ "tighten": true,
+ "clean_variant": true,
+ "videos": [
+  {
+   "id": "p13",
+   "subject": "Why losing money hurts twice as much \ud83d\udcb8",
+   "script": "A loss hurts about twice as much as the same win feels good. Flip a coin: lose a hundred dollars, or win a hundred and fifty. Many people say no. Across a hundred and fifty studies, the win had to be about twice the loss. Your brain guards what you have more than what you could get. That's why",
+   "hook_text": "Lose $100 or win $150?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://pixabay.com/get/geaa5c56ef76f308f190843cabe4448188cd51351c46a26e75227912261113afc8a24e7d1e3ecfb5824fcf84e2c93f08f5ee2bf63e7a8c38571039f7908207720_1280.jpg",
+    "https://cdn.pixabay.com/video/2017/11/04/12751-241674238_large.mp4",
+    "https://pixabay.com/get/gc7fd63d27f69908c90db9c465228b0aec33d8d0d6a74fc0d8221547fa704dfbfc1072e10d17bd8707ab852351a039237_1280.jpg",
+    "https://cdn.pixabay.com/video/2021/07/19/82130-577017520_large.mp4",
+    "https://cdn.pixabay.com/video/2024/01/20/197486-905015022_large.mp4",
+    "https://cdn.pixabay.com/video/2024/05/18/212509_large.mp4",
+    "https://pixabay.com/get/ga1d62a5a47f0a1cdcdb19dca714f504d48b99ccccbf6544fd1007ee338b40cd5447a519bcdafdfec713ece62efdc57f902c070bd201259864dacc73b03464d42_1280.jpg",
+    "https://cdn.pixabay.com/video/2020/03/26/34312-400974342_large.mp4",
+    "https://pixabay.com/get/g1f9e88fea444e04ebff55aba3678cbface6a029248a563d3f43c76c31489c7ac78d7d3f855da2c4465b688027b2a9efec744219f1583c29d3bbff2d6a8b4bf63_1280.jpg"
+   ],
+   "follow_text": "Subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  }
+ ]
+}
