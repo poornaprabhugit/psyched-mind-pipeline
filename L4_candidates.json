@@ -1,0 +1,1955 @@
+{
+ "id": "L4",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Evening. Someone asks you: how was your day?",
+   "candidates": [
+    {
+     "pixabay_id": 245932,
+     "url": "https://cdn.pixabay.com/video/2024/12/09/245932_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/09/245932_small.jpg",
+     "page": "https://pixabay.com/videos/id-245932/",
+     "tags": "couple, love, lovers, together, relationship, romance, romantic",
+     "duration": 7,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 203196,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203196-920181430_small.jpg",
+     "page": "https://pixabay.com/videos/id-203196/",
+     "tags": "sunset, seagulls, birds, gulls, silhouette, sky, sun, wildlife, seabirds, couple, nature, eearhday",
+     "duration": 49,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 172686,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172686-849651729_small.jpg",
+     "page": "https://pixabay.com/videos/id-172686/",
+     "tags": "dining table, table, eat, dinner, family, family dinner",
+     "duration": 12,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 5278,
+     "url": "https://cdn.pixabay.com/video/2016/09/14/5278-182817488_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/14/5278-182817488_small.jpg",
+     "page": "https://pixabay.com/videos/id-5278/",
+     "tags": "rainy, rain, night, summer, colorful, reflection, wet, weather, road, puddles, street, couple, live wallpaper",
+     "duration": 61,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 172681,
+     "url": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/21/172681-849651720_small.jpg",
+     "page": "https://pixabay.com/videos/id-172681/",
+     "tags": "married couple, old couple, happy couple, music, headphones",
+     "duration": 11,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 11610,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11610-231571879_small.jpg",
+     "page": "https://pixabay.com/videos/id-11610/",
+     "tags": "slice, chinese, cabbage, food, cuisine, vegetable, healthy, meal, asian, dish, restaurant, delicious, meat, china, dinner, crispy, sweet, oriental, beijing, peking, herb, fried",
+     "duration": 19,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 227137,
+     "url": "https://cdn.pixabay.com/video/2024/08/18/227137_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/18/227137_small.jpg",
+     "page": "https://pixabay.com/videos/id-227137/",
+     "tags": "seafood, food, meal, table, dinner",
+     "duration": 66,
+     "query": "couple talking dinner"
+    },
+    {
+     "pixabay_id": 1330,
+     "url": "https://cdn.pixabay.com/video/2015/11/11/1330-147084829_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/11/1330-147084829_small.jpg",
+     "page": "https://pixabay.com/videos/id-1330/",
+     "tags": "marriage, wedding, love, celebration, bride, couple, groom, romantic, wedding couple, ceremony, romance, couple in love, bride and groom, anniversary",
+     "duration": 22,
+     "query": "couple talking dinner"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "You don't replay the whole day. You can't. Instead you reach for a few moments. Usually the best or worst moment, and how it ended.",
+   "candidates": [
+    {
+     "pixabay_id": 370,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/370-136082628_small.jpg",
+     "page": "https://pixabay.com/videos/id-370/",
+     "tags": "sea, beach, ocean, back light, surfer, man, woman, pair, happy, holiday, talking, waves, sparkle, glitter, water, coast, 9311383",
+     "duration": 10,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 129543,
+     "url": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/29/129543-744385658_small.jpg",
+     "page": "https://pixabay.com/videos/id-129543/",
+     "tags": "cat, pet, house, home, sofa, cute, adorable, animal",
+     "duration": 15,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 309668,
+     "url": "https://cdn.pixabay.com/video/2025/10/13/309668_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/10/13/309668_small.jpg",
+     "page": "https://pixabay.com/videos/id-309668/",
+     "tags": "grackle, bird, windy, perched, talking, plumage, feathers, highkey",
+     "duration": 12,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 180,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/180-135788610_small.jpg",
+     "page": "https://pixabay.com/videos/id-180/",
+     "tags": "conversation, talk, dialogue, coffee, colleagues, discussion, discuss",
+     "duration": 6,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 229071,
+     "url": "https://cdn.pixabay.com/video/2024/08/31/229071_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/31/229071_small.jpg",
+     "page": "https://pixabay.com/videos/id-229071/",
+     "tags": "nurse, elderly, wheelchair, garden, outdoor, walk, retirement, care, happy, knee, pain, discussing, senior, talking, smiling, helping, friendly, rehabilitation, compassion, patience, listening",
+     "duration": 22,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 229069,
+     "url": "https://cdn.pixabay.com/video/2024/08/31/229069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/31/229069_small.jpg",
+     "page": "https://pixabay.com/videos/id-229069/",
+     "tags": "nurse, elderly, wheelchair, garden, outdoor, walk, retirement, care, happy, knee, pain, discussing, senior, talking, smiling, helping, friendly, rehabilitation, compassion, patience, listening",
+     "duration": 18,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 19706,
+     "url": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/03/19706-304086900_small.jpg",
+     "page": "https://pixabay.com/videos/id-19706/",
+     "tags": "pair, trust, conversation, talk, discussion, few, people, taking photos, friendship, man, woman, romantic, happy, romance, lovers, photographer, look at pictures, tourists",
+     "duration": 10,
+     "query": "woman talking sofa"
+    },
+    {
+     "pixabay_id": 123441,
+     "url": "https://cdn.pixabay.com/video/2022/07/07/123441-727986669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/07/123441-727986669_small.jpg",
+     "page": "https://pixabay.com/videos/id-123441/",
+     "tags": "cat, pet, home, house, comfort, fluffy, soft, sofa, living room, interior, couch, relax, relaxation, lazy, animal",
+     "duration": 32,
+     "query": "woman talking sofa"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "In one experiment, people put one hand in cold water, cold enough to hurt, for sixty seconds.",
+   "candidates": [
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 27803,
+     "url": "https://cdn.pixabay.com/video/2019/10/11/27803-365891137_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/11/27803-365891137_small.jpg",
+     "page": "https://pixabay.com/videos/id-27803/",
+     "tags": "yellow, liquid, paint, space, motion paint, macro, abstract, slow, ink, ink in water, fluid, flow, water, arts, acrylic, beautiful wallpaper, watercolor, parallax, lines, forms, backdrop, background, colors, live wallpaper",
+     "duration": 24,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 111280,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_small.jpg",
+     "page": "https://pixabay.com/videos/id-111280/",
+     "tags": "antique book, book opening, book scrolling, books, candlelight, compass, gold ring in hand",
+     "duration": 12,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 120522,
+     "url": "https://cdn.pixabay.com/video/2022/06/16/120522-721287010_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/16/120522-721287010_small.jpg",
+     "page": "https://pixabay.com/videos/id-120522/",
+     "tags": "golden retriever, dog, animal, water, playing in the water, canine, pet, swimming, outdoors",
+     "duration": 16,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 33742,
+     "url": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/15/33742-398256907_small.jpg",
+     "page": "https://pixabay.com/videos/id-33742/",
+     "tags": "wash your hands, water, soap, water tap, hygiene, hand, clean, hand washing, bathroom sink, coronavirus",
+     "duration": 32,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 181541,
+     "url": "https://cdn.pixabay.com/video/2023/09/21/181541-866914085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/21/181541-866914085_small.jpg",
+     "page": "https://pixabay.com/videos/id-181541/",
+     "tags": "water, water tap, drinking water, fountain, water pipe, water splashes, slow motion, people in the background",
+     "duration": 31,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 14293,
+     "url": "https://cdn.pixabay.com/video/2018/02/13/14293-255658165_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/13/14293-255658165_small.jpg",
+     "page": "https://pixabay.com/videos/id-14293/",
+     "tags": "ice, spring in the valley, winter landscapes, water",
+     "duration": 31,
+     "query": "hand in water"
+    },
+    {
+     "pixabay_id": 68056,
+     "url": "https://cdn.pixabay.com/video/2021/03/15/68056-524689309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/15/68056-524689309_small.jpg",
+     "page": "https://pixabay.com/videos/id-68056/",
+     "tags": "hand, woman, model, beach, sea, ocean, water, nature, seascape, travel, sand, vacation, memory",
+     "duration": 11,
+     "query": "hand in water"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "In another trial, they did the same sixty seconds, then kept their hand in for thirty more seconds while the water got about one degree warmer.",
+   "candidates": [
+    {
+     "pixabay_id": 244839,
+     "url": "https://cdn.pixabay.com/video/2024/12/04/244839_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/04/244839_small.jpg",
+     "page": "https://pixabay.com/videos/id-244839/",
+     "tags": "waves, lake, darkness, water, nature",
+     "duration": 46,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 233867,
+     "url": "https://cdn.pixabay.com/video/2024/09/29/233867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/29/233867_small.jpg",
+     "page": "https://pixabay.com/videos/id-233867/",
+     "tags": "ocean, sea, wave, water, sunset, reflection, gold, shiny, splashing, rippled, flowing, water surface, ripple, seascape",
+     "duration": 23,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 286278,
+     "url": "https://cdn.pixabay.com/video/2025/06/17/286278_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/17/286278_small.jpg",
+     "page": "https://pixabay.com/videos/id-286278/",
+     "tags": "waves, water, sea, seascape, ocean, horizon, peaceful, tranquil, water surface, calmness, liquid, surface, dreamy, vibrant, mood",
+     "duration": 30,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 35427,
+     "url": "https://cdn.pixabay.com/video/2020/04/08/35427-407130886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/08/35427-407130886_small.jpg",
+     "page": "https://pixabay.com/videos/id-35427/",
+     "tags": "turtle, ocean, sea, animal, caretta caretta, water, swimming, under water, diving",
+     "duration": 6,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 31953,
+     "url": "https://cdn.pixabay.com/video/2020/02/05/31953-389724688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/05/31953-389724688_small.jpg",
+     "page": "https://pixabay.com/videos/id-31953/",
+     "tags": "flower, sunset, watering, water, plant",
+     "duration": 30,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 112722,
+     "url": "https://cdn.pixabay.com/video/2022/04/02/112722-695433093_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/02/112722-695433093_small.jpg",
+     "page": "https://pixabay.com/videos/id-112722/",
+     "tags": "live wallpaper, sea, water, waves, ocean",
+     "duration": 30,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 158229,
+     "url": "https://cdn.pixabay.com/video/2023/04/10/158229-816359520_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/10/158229-816359520_small.jpg",
+     "page": "https://pixabay.com/videos/id-158229/",
+     "tags": "waterfall, river, water, drone, nature, ulba, ecuador, earth day",
+     "duration": 20,
+     "query": "water"
+    },
+    {
+     "pixabay_id": 287510,
+     "url": "https://cdn.pixabay.com/video/2025/06/24/287510_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/24/287510_small.jpg",
+     "page": "https://pixabay.com/videos/id-287510/",
+     "tags": "forest, nature, moss, trees, woods, path, landscape, environment, stream, water",
+     "duration": 16,
+     "query": "water"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Still cold. Still uncomfortable. Just a little less so at the end.",
+   "candidates": [
+    {
+     "pixabay_id": 1409,
+     "url": "https://cdn.pixabay.com/video/2015/11/27/1409-147170113_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/27/1409-147170113_small.jpg",
+     "page": "https://pixabay.com/videos/id-1409/",
+     "tags": "mountaineering, ice climbing, ice climber, ice, himalaya, clouds, mountain, ice pick, ice axe, falling, shock, adventure, climbing, extreme, mountain range, sports, cold, altitude, height, crampons, spurs, 145271222",
+     "duration": 19,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 21,
+     "url": "https://cdn.pixabay.com/video/2015/08/07/21-135711412_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/07/21-135711412_small.jpg",
+     "page": "https://pixabay.com/videos/id-21/",
+     "tags": "ice, cold, winter, frozen, river, water, shore, lake, icy, icicles, ice floes, sheets of ice, floating, freezing, romantic, sunset, beautiful, atmosphere, setting sun, evening, outdoors",
+     "duration": 45,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 154726,
+     "url": "https://cdn.pixabay.com/video/2023/03/14/154726-808562497_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/14/154726-808562497_small.jpg",
+     "page": "https://pixabay.com/videos/id-154726/",
+     "tags": "waterfall, ice, water, melting, cold, spring, landscape, nature",
+     "duration": 8,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 7141,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7141-198606872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7141-198606872_small.jpg",
+     "page": "https://pixabay.com/videos/id-7141/",
+     "tags": "soap bubble, freeze, winter, cold, freezing, ice cream, frozen, frozen soap bubble, blue, wintry, ice crystals",
+     "duration": 40,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 345020,
+     "url": "https://cdn.pixabay.com/video/2026/04/07/345020_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/07/345020_small.jpg",
+     "page": "https://pixabay.com/videos/id-345020/",
+     "tags": "cold, winter, snow, nature, ice, cliff, landscape, rural, blowing, wind, windy, snowstorm",
+     "duration": 8,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 206294,
+     "url": "https://cdn.pixabay.com/video/2024/03/31/206294_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/31/206294_small.jpg",
+     "page": "https://pixabay.com/videos/id-206294/",
+     "tags": "horses, animals, wildlife, running, ice, nature",
+     "duration": 15,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 385077,
+     "url": "https://cdn.pixabay.com/video/2026/10/25/385077_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/25/385077_small.jpg",
+     "page": "https://pixabay.com/videos/id-385077/",
+     "tags": "glacier, landscape, ice, water, iceland, climate, earth, arctic, melting, warming, planet, nature, winter, rural, icelandic",
+     "duration": 12,
+     "query": "ice"
+    },
+    {
+     "pixabay_id": 7105,
+     "url": "https://cdn.pixabay.com/video/2017/01/07/7105-198553615_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/01/07/7105-198553615_small.jpg",
+     "page": "https://pixabay.com/videos/id-7105/",
+     "tags": "soap bubble, freeze, crystal formation, crystals, ice crystals, cold, bubble, backlighting, winter, bullet, wintry, frozen, frost, spherical shape, spherical, icy, icy cold, ice flowers, crystal growth, crystalline, snow, ice cream, the winter's tale, winter magic, fairytale, magical, magic, frozen bubble, double bubble",
+     "duration": 16,
+     "query": "ice"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "The second trial was longer. It was strictly more pain.",
+   "candidates": [
+    {
+     "pixabay_id": 83875,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83875-584870588_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83875-584870588_small.jpg",
+     "page": "https://pixabay.com/videos/id-83875/",
+     "tags": "woman, office, notebook, overworked, pain, people, person, preparation suffer, problem, professional, sad, sitting, stress, stressed, success, technology, tired, trouble, work, workplace, lifestyle",
+     "duration": 15,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 115473,
+     "url": "https://cdn.pixabay.com/video/2022/04/29/115473-704747962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/29/115473-704747962_small.jpg",
+     "page": "https://pixabay.com/videos/id-115473/",
+     "tags": "abandoned, grass, nature, rubble, destroyed, daylight, house, destruction, decay, war, gone, pain, suffering, peaceful, horror, 4k",
+     "duration": 59,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 105686,
+     "url": "https://cdn.pixabay.com/video/2022/01/26/105686-670934807_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/26/105686-670934807_small.jpg",
+     "page": "https://pixabay.com/videos/id-105686/",
+     "tags": "tablet, glass, pain, disease, healthy, pharmacy, doctor, prescription, fall, acidic, soda, calcium, object",
+     "duration": 46,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 83874,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83874-584870586_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83874-584870586_small.jpg",
+     "page": "https://pixabay.com/videos/id-83874/",
+     "tags": "woman, office, notebook, overworked, pain, people, person, preparation suffer, problem, professional, sad, sitting, stress, stressed, success, technology, tired, trouble, work, workplace, lifestyle",
+     "duration": 16,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 22704,
+     "url": "https://cdn.pixabay.com/video/2019/04/09/22704-329952760_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/09/22704-329952760_small.jpg",
+     "page": "https://pixabay.com/videos/id-22704/",
+     "tags": "doctor, tablet, compter, online, research, man, treatment, health, diagnosis, hospital, therapy, medicine, healthcare, disease, medical, clinic, healing, pharma, ill, recipe, pharmacy, recreation, stethoscope, pain",
+     "duration": 24,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 122368,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122368-725894238_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122368-725894238_small.jpg",
+     "page": "https://pixabay.com/videos/id-122368/",
+     "tags": "stomachache, pain, intestine, intestinal pain, human being",
+     "duration": 19,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 38220,
+     "url": "https://cdn.pixabay.com/video/2020/05/05/38220-415950840_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/05/38220-415950840_small.jpg",
+     "page": "https://pixabay.com/videos/id-38220/",
+     "tags": "health, pain, that, glass, antibiotics, chemical, pill, patient, chemistry, maintenance, hypertension, laboratory, dose, chemist, pharmacist, pharmacy, disease, treatment, vitamin, prescription, doctor, medicine, medical",
+     "duration": 60,
+     "query": "pain"
+    },
+    {
+     "pixabay_id": 45286,
+     "url": "https://cdn.pixabay.com/video/2020/07/22/45286-442643079_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/22/45286-442643079_small.jpg",
+     "page": "https://pixabay.com/videos/id-45286/",
+     "tags": "yawn, woman, relax, back, shoulder, ache, pain, disease, bone, spine, healthy, morning, wake, stress, exercise, joint, model, girl, portrait, pose, human, young, beauty, beautiful",
+     "duration": 21,
+     "query": "pain"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "But when they were asked which one they'd rather repeat, sixty-nine percent chose the longer one.",
+   "candidates": [
+    {
+     "pixabay_id": 12802,
+     "url": "https://cdn.pixabay.com/video/2017/11/07/12802-241717782_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/07/12802-241717782_small.jpg",
+     "page": "https://pixabay.com/videos/id-12802/",
+     "tags": "close-up, books, choice",
+     "duration": 6,
+     "query": "choice"
+    },
+    {
+     "pixabay_id": 60721,
+     "url": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/30/60721-499068724_small.jpg",
+     "page": "https://pixabay.com/videos/id-60721/",
+     "tags": "can you solve this, solve it, quiz, puzzle, riddle, puzzles, game, question, answer, challenge, choices, solve, apply, application, demo, demonstrate, deduction, enigmas, level, teach, teacher, teaching, school, test, skill",
+     "duration": 10,
+     "query": "choice"
+    },
+    {
+     "pixabay_id": 175,
+     "url": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/09/175-135788388_small.jpg",
+     "page": "https://pixabay.com/videos/id-175/",
+     "tags": "gas station, fuel, petrol station, buttons, pressing button, hand, touch, select, choice, octane",
+     "duration": 8,
+     "query": "choice"
+    },
+    {
+     "pixabay_id": 4644,
+     "url": "https://cdn.pixabay.com/video/2016/08/20/4644-179631276_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/20/4644-179631276_small.jpg",
+     "page": "https://pixabay.com/videos/id-4644/",
+     "tags": "us flag, trump, clinton, choice, flag, banner, woman, usa, president, united states, dissolve, election campaign, artmatic",
+     "duration": 16,
+     "query": "choice"
+    },
+    {
+     "pixabay_id": 65403,
+     "url": "https://cdn.pixabay.com/video/2021/02/16/65403-514139065_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/16/65403-514139065_small.jpg",
+     "page": "https://pixabay.com/videos/id-65403/",
+     "tags": "plaques, direction, arrow, choice, pointer, alternative, banner, navigation, plates",
+     "duration": 12,
+     "query": "choice"
+    },
+    {
+     "pixabay_id": 124257,
+     "url": "https://cdn.pixabay.com/video/2022/07/15/124257-730503332_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/15/124257-730503332_small.jpg",
+     "page": "https://pixabay.com/videos/id-124257/",
+     "tags": "woman, mirror, young, caucasian, dress, room, home, adult, reflection, trying, person, indoors, fashion, hair, portrait, fitting, clothing, lifestyle, choosing, beauty",
+     "duration": 15,
+     "query": "choosing"
+    },
+    {
+     "pixabay_id": 146058,
+     "url": "https://cdn.pixabay.com/video/2023/01/10/146058-788094886_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/10/146058-788094886_small.jpg",
+     "page": "https://pixabay.com/videos/id-146058/",
+     "tags": "buy, traders, craft, woman, muslim, veil, market, traditional, choose, festival",
+     "duration": 5,
+     "query": "choosing"
+    },
+    {
+     "pixabay_id": 146050,
+     "url": "https://cdn.pixabay.com/video/2023/01/10/146050-788094849_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/10/146050-788094849_small.jpg",
+     "page": "https://pixabay.com/videos/id-146050/",
+     "tags": "woman, craft, choose, buyer, hand, knit, mannequin",
+     "duration": 8,
+     "query": "choosing"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Their memory didn't add up the pain minute by minute. It kept the worst moment and the end.",
+   "candidates": [
+    {
+     "pixabay_id": 19179,
+     "url": "https://cdn.pixabay.com/video/2018/11/06/19179-299997261_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/06/19179-299997261_small.jpg",
+     "page": "https://pixabay.com/videos/id-19179/",
+     "tags": "hdd, technology, computing, hardware, unit, memory",
+     "duration": 19,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 111939,
+     "url": "https://cdn.pixabay.com/video/2022/03/25/111939-692613275_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/25/111939-692613275_small.jpg",
+     "page": "https://pixabay.com/videos/id-111939/",
+     "tags": "stone bridge, stream, in may, nature, landscape, country, memory",
+     "duration": 38,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 4933,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4933-181466740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4933-181466740_small.jpg",
+     "page": "https://pixabay.com/videos/id-4933/",
+     "tags": "aflame, alight, background, banner, bright, burn, candle, closeup, combustion, energy, festive, fire, flame, flaming, flare, beautiful wallpaper, flick, flickering, glow, glowing, heat, hot, ignite, ignited, illuminated, illumination, lit, luminosity, luminous, memory, orange, religious, sacred, shine, tribute, worship",
+     "duration": 33,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 53781,
+     "url": "https://cdn.pixabay.com/video/2020/10/30/53781-476539830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/30/53781-476539830_small.jpg",
+     "page": "https://pixabay.com/videos/id-53781/",
+     "tags": "usb, flash drive, hand, memory, flash, portable, device",
+     "duration": 5,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 111940,
+     "url": "https://cdn.pixabay.com/video/2022/03/25/111940-692613278_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/25/111940-692613278_small.jpg",
+     "page": "https://pixabay.com/videos/id-111940/",
+     "tags": "waterfall, stream, in may, nature, landscape, country, memory, river",
+     "duration": 30,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 3648,
+     "url": "https://cdn.pixabay.com/video/2016/06/28/3648-173062422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/28/3648-173062422_small.jpg",
+     "page": "https://pixabay.com/videos/id-3648/",
+     "tags": "graveyard, graves, rain, cemetery, tombstone, monument, memory, gravestone, old, religion, grave yard, religious, headstone, storm",
+     "duration": 11,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 77855,
+     "url": "https://cdn.pixabay.com/video/2021/06/15/77855-563974316_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/15/77855-563974316_small.jpg",
+     "page": "https://pixabay.com/videos/id-77855/",
+     "tags": "trees, leaves, rays, flare, tree tops, sun rays, romantic, forest, branch, sky, solitude, wilderness, spin, dream, memory, romance, love, meditation, peace, calm, relax, relaxation, aspiration, enlightenment",
+     "duration": 18,
+     "query": "memory"
+    },
+    {
+     "pixabay_id": 131160,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131160-749706756_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131160-749706756_small.jpg",
+     "page": "https://pixabay.com/videos/id-131160/",
+     "tags": "camera, memory card, photographer, photography, memory, dslr, digital, technology",
+     "duration": 13,
+     "query": "memory"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "A better ending made the whole thing feel better, even though it lasted longer.",
+   "candidates": [
+    {
+     "pixabay_id": 116388,
+     "url": "https://cdn.pixabay.com/video/2022/05/08/116388-707604365_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/08/116388-707604365_small.jpg",
+     "page": "https://pixabay.com/videos/id-116388/",
+     "tags": "sunset, sky, nature, happy ending, clouds, sun",
+     "duration": 12,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 141750,
+     "url": "https://cdn.pixabay.com/video/2022/12/05/141750-778319480_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/05/141750-778319480_small.jpg",
+     "page": "https://pixabay.com/videos/id-141750/",
+     "tags": "girl, happy, run, peace, nature, relaxing",
+     "duration": 13,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 233399,
+     "url": "https://cdn.pixabay.com/video/2024/09/26/233399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/26/233399_small.jpg",
+     "page": "https://pixabay.com/videos/id-233399/",
+     "tags": "couple, lovers, love, romantic, relationship, romance, together, happy, valentine, happiness, connectedness, friendship",
+     "duration": 22,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 137460,
+     "url": "https://cdn.pixabay.com/video/2022/11/02/137460-766532463_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/02/137460-766532463_small.jpg",
+     "page": "https://pixabay.com/videos/id-137460/",
+     "tags": "light, blur, christmas, bright, night light, joy, happy, happiness",
+     "duration": 9,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 167889,
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167889-837765454_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/19/167889-837765454_small.jpg",
+     "page": "https://pixabay.com/videos/id-167889/",
+     "tags": "couple, young, happy, running, smoke, sea, sunset",
+     "duration": 9,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 29313,
+     "url": "https://cdn.pixabay.com/video/2019/11/21/29313-374747478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/21/29313-374747478_small.jpg",
+     "page": "https://pixabay.com/videos/id-29313/",
+     "tags": "girl, to dance, music, festival, light, lighting, mood, dance, woman, elegant, ease, happy, happiness, ballerina",
+     "duration": 21,
+     "query": "happy ending"
+    },
+    {
+     "pixabay_id": 167888,
+     "url": "https://cdn.pixabay.com/video/2023/06/19/167888-837765453_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/19/167888-837765453_small.jpg",
+     "page": "https://pixabay.com/videos/id-167888/",
+     "tags": "couple, young, happy, running, smoke, sea, sunset",
+     "duration": 9,
+     "query": "happy ending"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "So the day you describe tonight is already an edit. But it gets stranger.",
+   "candidates": [
+    {
+     "pixabay_id": 42967,
+     "url": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_small.jpg",
+     "page": "https://pixabay.com/videos/id-42967/",
+     "tags": "photoshop, editing, ipad, pimples, portrait, composing, face, bearded, man",
+     "duration": 12,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 275417,
+     "url": "https://cdn.pixabay.com/video/2025/04/28/275417_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/28/275417_small.jpg",
+     "page": "https://pixabay.com/videos/id-275417/",
+     "tags": "low altitude flight, video production, nature documentary, spring photos, landscape shots, video aesthetics, natural wonders, field, plant world, bird's eye view, video quality, film sequence, color contrasts, nature experience, film recording, landscape film, video impression, natural scenery, spring landscape, film project, video art",
+     "duration": 19,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 119519,
+     "url": "https://cdn.pixabay.com/video/2022/06/07/119519-718118149_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/07/119519-718118149_small.jpg",
+     "page": "https://pixabay.com/videos/id-119519/",
+     "tags": "park, lake, natural, drone, film, landscape",
+     "duration": 26,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 184133,
+     "url": "https://cdn.pixabay.com/video/2023/10/08/184133-872701402_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/08/184133-872701402_small.jpg",
+     "page": "https://pixabay.com/videos/id-184133/",
+     "tags": "camera, lens, photography, film, photographer, flash, vintage, retro, concept, art",
+     "duration": 6,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 184132,
+     "url": "https://cdn.pixabay.com/video/2023/10/08/184132-872701396_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/08/184132-872701396_small.jpg",
+     "page": "https://pixabay.com/videos/id-184132/",
+     "tags": "camera, lens, photography, film, photographer, flash, vintage, retro, concept, art",
+     "duration": 5,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 184146,
+     "url": "https://cdn.pixabay.com/video/2023/10/08/184146-872701469_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/08/184146-872701469_small.jpg",
+     "page": "https://pixabay.com/videos/id-184146/",
+     "tags": "camera, lens, photography, film, photographer, flash, vintage, retro, concept, art",
+     "duration": 18,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 130060,
+     "url": "https://cdn.pixabay.com/video/2022/09/03/130060-746139766_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/03/130060-746139766_small.jpg",
+     "page": "https://pixabay.com/videos/id-130060/",
+     "tags": "park, sunset, drone, dji, teal, film, sun, cloud, city, people, magic, chiapas, tourism, fly, mexico",
+     "duration": 15,
+     "query": "film editing"
+    },
+    {
+     "pixabay_id": 262635,
+     "url": "https://cdn.pixabay.com/video/2025/03/05/262635_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/05/262635_small.jpg",
+     "page": "https://pixabay.com/videos/id-262635/",
+     "tags": "lake, garda, nature, landscape, sky, sun, island, camera, water, film, footage, movie, drone",
+     "duration": 26,
+     "query": "film editing"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "In a classic study, people watched short films of car crashes.",
+   "candidates": [
+    {
+     "pixabay_id": 275954,
+     "url": "https://cdn.pixabay.com/video/2025/05/01/275954_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/01/275954_small.jpg",
+     "page": "https://pixabay.com/videos/id-275954/",
+     "tags": "aerial view, abandoned car, salt lake, sand, landscape, deserted, crashed car, vehicle, automobile, auto, car, wreck, drone video",
+     "duration": 22,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 201766,
+     "url": "https://cdn.pixabay.com/video/2024/02/24/201766-916357972_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/24/201766-916357972_small.jpg",
+     "page": "https://pixabay.com/videos/id-201766/",
+     "tags": "ocean, sea, waves, crash, coast, coastline, seashore, beach, water, storm, sky, foam",
+     "duration": 18,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 214592,
+     "url": "https://cdn.pixabay.com/video/2024/05/31/214592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/31/214592_small.jpg",
+     "page": "https://pixabay.com/videos/id-214592/",
+     "tags": "waves, breaking, blue, aqua, force, ocean, sea, coast, water, coastal, seaside, power, powerful, spray, foam, crash, crashing, surf, surfing, nature",
+     "duration": 28,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 353078,
+     "url": "https://cdn.pixabay.com/video/2026/05/16/353078_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/05/16/353078_small.jpg",
+     "page": "https://pixabay.com/videos/id-353078/",
+     "tags": "wave, rock, splash, sunset, sea, shore, seascape, coastline, splashing, coast, beach, spray, ocean, rocky, stone, crash, dramatic, sunrise, crashing, shoreline, rolling, stormy, storm, power",
+     "duration": 16,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 182970,
+     "url": "https://cdn.pixabay.com/video/2023/09/30/182970-869947284_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/30/182970-869947284_small.jpg",
+     "page": "https://pixabay.com/videos/id-182970/",
+     "tags": "sea, waves, water, crash, beach, shore, splash, spray, coastline, wind, coast, rocks, stone, rough, foam, coastal, slow motion",
+     "duration": 32,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 2165,
+     "url": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_small.jpg",
+     "page": "https://pixabay.com/videos/id-2165/",
+     "tags": "car, road, transportation, vehicle, driving, car on road, transport, drive, highway, speed, car driving, traffic, auto, car road, automobile, journey, blurred, motor, motion, modern, driving car, wheel, street, time lapse, time, lapse",
+     "duration": 60,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 348904,
+     "url": "https://cdn.pixabay.com/video/2026/04/25/348904_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/25/348904_small.jpg",
+     "page": "https://pixabay.com/videos/id-348904/",
+     "tags": "wave, rock, horizon, ocean, sun, beach, sea, shore, coast, coastline, stone, seascape, sunset, peaceful, foam, coastal, cliff, shoreline, island, splash, rock texture, crash, remote, textured",
+     "duration": 42,
+     "query": "car crash"
+    },
+    {
+     "pixabay_id": 184734,
+     "url": "https://cdn.pixabay.com/video/2023/10/12/184734-873923034_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/12/184734-873923034_small.jpg",
+     "page": "https://pixabay.com/videos/id-184734/",
+     "tags": "car, desert, driving, drone, sand, arial, tajikistan",
+     "duration": 10,
+     "query": "car crash"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "Afterward they were asked one question: about how fast were the cars going when they hit each other?",
+   "candidates": [
+    {
+     "pixabay_id": 35124,
+     "url": "https://cdn.pixabay.com/video/2020/04/05/35124-404782768_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/05/35124-404782768_small.jpg",
+     "page": "https://pixabay.com/videos/id-35124/",
+     "tags": "car ride, 300 km h, ride, acceleration, highway, speed, move, quickly, speedometer, drive, speed record, record, nissan gt-r prestige edition, nissan gtr, nissan gt-r prestige, nissan gt-r, gt-r, nissan, vehicle, 200 km h, Aichelberg, Germany, Baden-W\u00fcrttemberg",
+     "duration": 30,
+     "query": "speedometer"
+    },
+    {
+     "pixabay_id": 4053,
+     "url": "https://cdn.pixabay.com/video/2016/07/28/4053-176749018_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/28/4053-176749018_small.jpg",
+     "page": "https://pixabay.com/videos/id-4053/",
+     "tags": "car, interior, vehicle, automobile, transport, dashboard, speed, control, transportation, leather, steering, car interior, wheel, design, drive, luxury, technology, modern, gear, equipment, speedometer, car dashboard, automatic, transmission, auto, cockpit, automotive, motor, power, sat nav, race, motor way, road, electric",
+     "duration": 31,
+     "query": "speedometer"
+    },
+    {
+     "pixabay_id": 113321,
+     "url": "https://cdn.pixabay.com/video/2022/04/08/113321-697585650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/08/113321-697585650_small.jpg",
+     "page": "https://pixabay.com/videos/id-113321/",
+     "tags": "bike, dashboard, speedometer, vehicle, motorcycle, motorbike, sportsbike, yamaha",
+     "duration": 6,
+     "query": "speedometer"
+    },
+    {
+     "pixabay_id": 252242,
+     "url": "https://cdn.pixabay.com/video/2025/01/12/252242_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/12/252242_small.jpg",
+     "page": "https://pixabay.com/videos/id-252242/",
+     "tags": "motorcycle, drive, driving, road, highway, bike, biker, travel, transportation, sedona, arizona, desert, fun, recreation, speedometer, harley-davidson",
+     "duration": 18,
+     "query": "speedometer"
+    },
+    {
+     "pixabay_id": 1295,
+     "url": "https://cdn.pixabay.com/video/2015/11/09/1295-145209438_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/09/1295-145209438_small.jpg",
+     "page": "https://pixabay.com/videos/id-1295/",
+     "tags": "rallye, car race, rally, drifting, dirt, dust, curve, speed, action, stunt, stunt man, wild, crazy, motor sports, motor, car, sports car, vehicle, race, dirt race, off-road, 145040340",
+     "duration": 10,
+     "query": "car speed"
+    },
+    {
+     "pixabay_id": 94110,
+     "url": "https://cdn.pixabay.com/video/2021/10/31/94110-643067548_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/31/94110-643067548_small.jpg",
+     "page": "https://pixabay.com/videos/id-94110/",
+     "tags": "car, road, speed, drift, machine, tires, movement",
+     "duration": 19,
+     "query": "car speed"
+    },
+    {
+     "pixabay_id": 1900,
+     "url": "https://cdn.pixabay.com/video/2016/01/11/1900-151662242_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/11/1900-151662242_small.jpg",
+     "page": "https://pixabay.com/videos/id-1900/",
+     "tags": "cars, motorway, speed, motion, traffic, highway, vehicle, auto, transport, car on road, automobile, fast, race, red car, road",
+     "duration": 60,
+     "query": "car speed"
+    },
+    {
+     "pixabay_id": 187050,
+     "url": "https://cdn.pixabay.com/video/2023/10/29/187050-879581117_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/29/187050-879581117_small.jpg",
+     "page": "https://pixabay.com/videos/id-187050/",
+     "tags": "sunrise, road, car, speed, traffic, netherlands, limburg, maastricht, drone",
+     "duration": 18,
+     "query": "car speed"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "For other people, one word was changed. Instead of hit, the question said smashed.",
+   "candidates": [
+    {
+     "pixabay_id": 10378,
+     "url": "https://cdn.pixabay.com/video/2017/06/29/10378-224234522_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/29/10378-224234522_small.jpg",
+     "page": "https://pixabay.com/videos/id-10378/",
+     "tags": "calligraphy, writing brush, ink",
+     "duration": 19,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 13053,
+     "url": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/22/13053-244747066_small.jpg",
+     "page": "https://pixabay.com/videos/id-13053/",
+     "tags": "write, writing, calligraphy, letters, paper, lettering, old script, nostalgia, old paper, read, text, font, china, chinese, graphically, art",
+     "duration": 40,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 141525,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141525-777930401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141525-777930401_small.jpg",
+     "page": "https://pixabay.com/videos/id-141525/",
+     "tags": "book, reading, literature, poetry, prose, novel, wind, pages, writing, seaside, by the sea, shoreline, coastal, coast",
+     "duration": 24,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 1656,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1656-148614494_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1656-148614494_small.jpg",
+     "page": "https://pixabay.com/videos/id-1656/",
+     "tags": "fast typing, fingers, hand, wireless, modern, writing, keyboard, computer, technology, typing, internet, office, fast",
+     "duration": 10,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 3145,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3145-166335957_small.jpg",
+     "page": "https://pixabay.com/videos/id-3145/",
+     "tags": "laptop, keyboard, typing, writing, notebook, developer, user, using, study, work, top view, working, computer, technology, communication",
+     "duration": 43,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 24527,
+     "url": "https://cdn.pixabay.com/video/2019/06/18/24527-343454446_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/18/24527-343454446_small.jpg",
+     "page": "https://pixabay.com/videos/id-24527/",
+     "tags": "keyboard, mechanical, writer, blogger, secretary, newspaper, journalist, writing, author, typing, type",
+     "duration": 25,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "writing question"
+    },
+    {
+     "pixabay_id": 117,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/117-135736418_small.jpg",
+     "page": "https://pixabay.com/videos/id-117/",
+     "tags": "notebook, laptop, blur, home office, typing, writing, programming, developer, programmer, fingers, hands, mobile, electronics, device",
+     "duration": 13,
+     "query": "writing question"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "That one word changed what people remembered.",
+   "candidates": [
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 15283,
+     "url": "https://cdn.pixabay.com/video/2018/03/30/15283-262921822_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/30/15283-262921822_small.jpg",
+     "page": "https://pixabay.com/videos/id-15283/",
+     "tags": "curious, curiosity, observing, netherlands, the netherlands, beach, sea, holland, north sea, thinking, think, prospects, prospect, zeeland, benelux",
+     "duration": 7,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 20557,
+     "url": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_small.jpg",
+     "page": "https://pixabay.com/videos/id-20557/",
+     "tags": "man, nature, viewpoint, viewing, male, emotions, thinking, adventure, freedom, landscape, outdoor, lake, nature background, relaxing",
+     "duration": 19,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 122,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/122-135736555_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/122-135736555_small.jpg",
+     "page": "https://pixabay.com/videos/id-122/",
+     "tags": "idea, light bulb, electricity, light, shine, glowing, darkness, electric lights, filament, glow wire, heat wire, bridge wire, thinking",
+     "duration": 13,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 218504,
+     "url": "https://cdn.pixabay.com/video/2024/06/27/218504_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/27/218504_small.jpg",
+     "page": "https://pixabay.com/videos/id-218504/",
+     "tags": "man, sunset, beach, ocean, sea, alone, thinking, relax, loneliness, lonely, water, silhouette, golden hour, solitude, meditation, yoga, zen, spiritual, calm, clouds, peaceful, relaxation",
+     "duration": 49,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 286552,
+     "url": "https://cdn.pixabay.com/video/2025/06/18/286552_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/18/286552_small.jpg",
+     "page": "https://pixabay.com/videos/id-286552/",
+     "tags": "sunset, nature, landscape, sky, dusk, sun, twilight, beach, dark, sea, ocean, clouds, horizon, seagull, bird, light, spiritual, relaxing, meditation, relax, thinking, resting, yoga, relaxation, calm",
+     "duration": 50,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 120033,
+     "url": "https://cdn.pixabay.com/video/2022/06/12/120033-719686489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/12/120033-719686489_small.jpg",
+     "page": "https://pixabay.com/videos/id-120033/",
+     "tags": "man, male, sad, alone, depression, thinking, think, idea",
+     "duration": 14,
+     "query": "thinking"
+    },
+    {
+     "pixabay_id": 82130,
+     "url": "https://cdn.pixabay.com/video/2021/07/19/82130-577017520_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/19/82130-577017520_small.jpg",
+     "page": "https://pixabay.com/videos/id-82130/",
+     "tags": "thinking, think, idea, man, person, surprised",
+     "duration": 15,
+     "query": "thinking"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "text": "With smashed, the average guess was almost forty-one miles per hour. With hit, it was thirty-four. With contacted, under thirty-two.",
+   "candidates": [
+    {
+     "pixabay_id": 4993,
+     "url": "https://cdn.pixabay.com/video/2016/09/07/4993-181785119_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/07/4993-181785119_small.jpg",
+     "page": "https://pixabay.com/videos/id-4993/",
+     "tags": "the dashboard, church, monastery, refuge, cloister, convent, italy, architecture, masonry, sky, clouds, fog, wind, bell tower, rock, sassi, horizon, monument, abbey, val badia, alta badia, south tyrol, s\u00fcdtirol, sanctuary, hermitage, time-lapse",
+     "duration": 10,
+     "query": "dashboard"
+    },
+    {
+     "pixabay_id": 26544,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26544-358041189_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26544-358041189_small.jpg",
+     "page": "https://pixabay.com/videos/id-26544/",
+     "tags": "dashboard, speed, city",
+     "duration": 20,
+     "query": "dashboard"
+    },
+    {
+     "pixabay_id": 376988,
+     "url": "https://cdn.pixabay.com/video/2026/09/17/376988_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/17/376988_small.jpg",
+     "page": "https://pixabay.com/videos/id-376988/",
+     "tags": "browser, interface, search, business, analytics, research, website, digital, chart, target, strategy, data, document, marketing, technology, management, statistics, planning, navigation, dashboard, performance, analysis, online, productivity, software",
+     "duration": 12,
+     "query": "dashboard"
+    },
+    {
+     "pixabay_id": 11490,
+     "url": "https://cdn.pixabay.com/video/2017/08/20/11490-230853032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/20/11490-230853032_small.jpg",
+     "page": "https://pixabay.com/videos/id-11490/",
+     "tags": "car, driving, sunset, sunlight, lens, flare, drone, aerial, above, top view, travel, croatia, island, forest, road, street, transportation, vehicle, drive, journey, cinematic, smooth, motion, lifestyle, freedom, countryside, adventure, summer, trip, vacation, landscape",
+     "duration": 11,
+     "query": "car driving"
+    },
+    {
+     "pixabay_id": 800,
+     "url": "https://cdn.pixabay.com/video/2015/09/20/800-139832676_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/20/800-139832676_small.jpg",
+     "page": "https://pixabay.com/videos/id-800/",
+     "tags": "driving, car, car driving, road, motion, countryside",
+     "duration": 43,
+     "query": "car driving"
+    },
+    {
+     "pixabay_id": 1406,
+     "url": "https://cdn.pixabay.com/video/2015/11/27/1406-147169807_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/27/1406-147169807_small.jpg",
+     "page": "https://pixabay.com/videos/id-1406/",
+     "tags": "mercedes glk, car, test, offroad, suv, 4wd, auto, design, new, automotive, transport, driving, vehicle, 4x4, transportation, automobile, model, benz, modern, style, test drive, 130654496",
+     "duration": 18,
+     "query": "car driving"
+    },
+    {
+     "pixabay_id": 1906,
+     "url": "https://cdn.pixabay.com/video/2016/01/12/1906-151662326_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/12/1906-151662326_small.jpg",
+     "page": "https://pixabay.com/videos/id-1906/",
+     "tags": "car, road, auto, transportation, car on road, drive, transport, automobile, highway, speed, car driving, driving, fast, motion, sky, driving car, wheel, fast car, landscape, journey, time lapse, time, lapse",
+     "duration": 47,
+     "query": "car driving"
+    },
+    {
+     "pixabay_id": 2269,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2269-157183423_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2269-157183423_small.jpg",
+     "page": "https://pixabay.com/videos/id-2269/",
+     "tags": "cars, traffic, street, road, movement, bokeh, blur, vehicles, transport, drive, car driving, driving car, insurance, automobile",
+     "duration": 18,
+     "query": "car driving"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "text": "And a week later, everyone was asked: did you see any broken glass?",
+   "candidates": [
+    {
+     "pixabay_id": 63747,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63747-507811831_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63747-507811831_small.jpg",
+     "page": "https://pixabay.com/videos/id-63747/",
+     "tags": "abandoned, building, old, decay, architecture, destruction, ruins, barricaded, closed, empty, glass, broken",
+     "duration": 28,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 68946,
+     "url": "https://cdn.pixabay.com/video/2021/03/25/68946-529817076_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/25/68946-529817076_small.jpg",
+     "page": "https://pixabay.com/videos/id-68946/",
+     "tags": "glass, smoke, syringe, medicine, vaccine, injection, health, vaccination, hospital, needle, pharmacy, disease, inject, clinic, coronavirus, virus, dark, lights, broken",
+     "duration": 26,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 219140,
+     "url": "https://cdn.pixabay.com/video/2024/07/02/219140_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/02/219140_small.jpg",
+     "page": "https://pixabay.com/videos/id-219140/",
+     "tags": "glass, broken window, rain window, rainy day, wet glass, water drops, auto glass, car glass",
+     "duration": 12,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 3612,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3612-172488334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3612-172488334_small.jpg",
+     "page": "https://pixabay.com/videos/id-3612/",
+     "tags": "glass maker, glass blower, melting, making, molten, hot, glow, warm, glowing, material, heat, work, glass, blower, worker, temperature, fire, flame, tube",
+     "duration": 13,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 136780,
+     "url": "https://cdn.pixabay.com/video/2022/10/28/136780-764955546_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/28/136780-764955546_small.jpg",
+     "page": "https://pixabay.com/videos/id-136780/",
+     "tags": "trees, broken, dead, fallen, nature, forest",
+     "duration": 14,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 189290,
+     "url": "https://cdn.pixabay.com/video/2023/11/16/189290-885321799_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/16/189290-885321799_small.jpg",
+     "page": "https://pixabay.com/videos/id-189290/",
+     "tags": "raindrop, drops, rain, window, window glass, wet, glass",
+     "duration": 27,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 168313,
+     "url": "https://cdn.pixabay.com/video/2023/06/22/168313-838656609_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/22/168313-838656609_small.jpg",
+     "page": "https://pixabay.com/videos/id-168313/",
+     "tags": "rain, raindrop, glass, window glass, trees, wind, bad weather, stormy, nature",
+     "duration": 30,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 42057,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42057-431422943_small.jpg",
+     "page": "https://pixabay.com/videos/id-42057/",
+     "tags": "abandoned, house, empty, building, old, mood, decay, architecture, ruin, lapsed, broken",
+     "duration": 26,
+     "query": "broken glass"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "text": "There was no broken glass in the film.",
+   "candidates": [
+    {
+     "pixabay_id": 28544,
+     "url": "https://cdn.pixabay.com/video/2019/10/31/28544-370332703_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/31/28544-370332703_small.jpg",
+     "page": "https://pixabay.com/videos/id-28544/",
+     "tags": "porsche, vintage speedster, speedster, classic, classic cars",
+     "duration": 50,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 325502,
+     "url": "https://cdn.pixabay.com/video/2026/01/02/325502_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/02/325502_small.jpg",
+     "page": "https://pixabay.com/videos/id-325502/",
+     "tags": "winter, snow, nature, cold, frost, landscape, wonderland, forest, fairytale, road, drive, vehicle, car, travel, trees, outdoors",
+     "duration": 20,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 218543,
+     "url": "https://cdn.pixabay.com/video/2024/06/28/218543_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/28/218543_small.jpg",
+     "page": "https://pixabay.com/videos/id-218543/",
+     "tags": "car, road, highway, journey, dodge, durango, nature",
+     "duration": 16,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 22609,
+     "url": "https://cdn.pixabay.com/video/2019/04/05/22609-328810354_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/05/22609-328810354_small.jpg",
+     "page": "https://pixabay.com/videos/id-22609/",
+     "tags": "sunrise, viewpoint, landscape, nature, water, outdoor, river, road, car, view",
+     "duration": 15,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 197898,
+     "url": "https://cdn.pixabay.com/video/2024/01/23/197898-905833761_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/23/197898-905833761_small.jpg",
+     "page": "https://pixabay.com/videos/id-197898/",
+     "tags": "desert, landrover, offroad, sand, adventure, travel, tour, 4x4, cars",
+     "duration": 17,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 134312,
+     "url": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/10/134312-759212642_small.jpg",
+     "page": "https://pixabay.com/videos/id-134312/",
+     "tags": "car, mirror, reflection, forest, trees",
+     "duration": 10,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 24125,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24125-340670601_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24125-340670601_small.jpg",
+     "page": "https://pixabay.com/videos/id-24125/",
+     "tags": "bmw, amsterdam, interior, light stripes, car interior, night, car, road",
+     "duration": 5,
+     "query": "car"
+    },
+    {
+     "pixabay_id": 13596,
+     "url": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/29/13596-249252833_small.jpg",
+     "page": "https://pixabay.com/videos/id-13596/",
+     "tags": "jaguar, xj, antique car, old car, big cat, wildcat, elegant, automobile, limousine, luxury, vehicle, classic, luxury car, car, restored, expensive, aerial view, landscape, sea, lake, road, driven, retro, newly restored, nobelkrosse, brand, dream car, historical, rarity, nostalgia",
+     "duration": 12,
+     "query": "car"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "text": "Of the people who heard hit, fourteen percent said yes. Of the people who heard smashed, thirty-two percent said yes.",
+   "candidates": [
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 19600,
+     "url": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/27/19600-303877318_small.jpg",
+     "page": "https://pixabay.com/videos/id-19600/",
+     "tags": "chess, chess board, strategy, play, board game, chess pieces, think, challenge, game board, chess game, king, springer, tower, runners, leadership, decisions, people, hands",
+     "duration": 6,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 368039,
+     "url": "https://cdn.pixabay.com/video/2026/08/02/368039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/02/368039_small.jpg",
+     "page": "https://pixabay.com/videos/id-368039/",
+     "tags": "bird, red-flanked bluetail, scalpel, raising children, japan",
+     "duration": 10,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 48968,
+     "url": "https://cdn.pixabay.com/video/2020/09/03/48968-459186304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/03/48968-459186304_small.jpg",
+     "page": "https://pixabay.com/videos/id-48968/",
+     "tags": "barber, barbershop, hairstyle, hand, human hand, man, males, lifestyles, people, skill, work, beauty, care, hair, cutting, stylist, hairdresser, barber shop, slow",
+     "duration": 8,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 225519,
+     "url": "https://cdn.pixabay.com/video/2024/08/08/225519_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/08/225519_small.jpg",
+     "page": "https://pixabay.com/videos/id-225519/",
+     "tags": "cows, cattle raising, salamanca, villarino, framontanos, water, pond, nature, animals",
+     "duration": 10,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 36510,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36510-411342239_small.jpg",
+     "page": "https://pixabay.com/videos/id-36510/",
+     "tags": "airport, people, crowd, busy, live wallpaper, welcome, hello",
+     "duration": 11,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 48969,
+     "url": "https://cdn.pixabay.com/video/2020/09/03/48969-459186305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/03/48969-459186305_small.jpg",
+     "page": "https://pixabay.com/videos/id-48969/",
+     "tags": "young, dryer, lifestyle, hand, human hand, man, males, lifestyles, people, skill, work, barbershop, beauty, care, hair, cutting, hairstyle, stylist, hairdresser, barber, barber shop, slow",
+     "duration": 14,
+     "query": "people raising hands"
+    },
+    {
+     "pixabay_id": 9090,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9090-217582224_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9090-217582224_small.jpg",
+     "page": "https://pixabay.com/videos/id-9090/",
+     "tags": "calf, heifer, mammal, farm, pasture, herb, animal, livestock, mammalian animal, field, cattle raising, food, cow, bovine",
+     "duration": 30,
+     "query": "people raising hands"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "text": "Almost one in three remembered glass that never existed.",
+   "candidates": [
+    {
+     "pixabay_id": 189189,
+     "url": "https://cdn.pixabay.com/video/2023/11/15/189189-884961175_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/15/189189-884961175_small.jpg",
+     "page": "https://pixabay.com/videos/id-189189/",
+     "tags": "raindrops, drops, rain, window, window glass, wet, glass",
+     "duration": 15,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 20270,
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20270-308335575_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/26/20270-308335575_small.jpg",
+     "page": "https://pixabay.com/videos/id-20270/",
+     "tags": "ruins, house, burnt, burned, building, water, wall, broken",
+     "duration": 7,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 94680,
+     "url": "https://cdn.pixabay.com/video/2021/11/05/94680-643084362_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/05/94680-643084362_small.jpg",
+     "page": "https://pixabay.com/videos/id-94680/",
+     "tags": "rain, glass, window glass, water, raindrop, rainy weather, wet, drops, drips, rainy",
+     "duration": 25,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 95186,
+     "url": "https://cdn.pixabay.com/video/2021/11/09/95186-644716846_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/09/95186-644716846_small.jpg",
+     "page": "https://pixabay.com/videos/id-95186/",
+     "tags": "marbles, glass sphere, multicoloured, toy, game, child's play, glass, balls, glass marbles, fun, leisure time",
+     "duration": 11,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 79872,
+     "url": "https://cdn.pixabay.com/video/2021/07/02/79872-570708324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/02/79872-570708324_small.jpg",
+     "page": "https://pixabay.com/videos/id-79872/",
+     "tags": "glass, mineral water, blow, vitamins, fresh, water, healthy, water glass, refreshment, slow motion",
+     "duration": 23,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 42065,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42065-431422983_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42065-431422983_small.jpg",
+     "page": "https://pixabay.com/videos/id-42065/",
+     "tags": "abandoned, rust, telescope, old, broken, rusted, ruin",
+     "duration": 19,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 49346,
+     "url": "https://cdn.pixabay.com/video/2020/09/07/49346-459436707_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/07/49346-459436707_small.jpg",
+     "page": "https://pixabay.com/videos/id-49346/",
+     "tags": "shed, building, abandoned, decay, old, broken, empty, weathered, urban, scary, dirty, brick",
+     "duration": 23,
+     "query": "broken glass"
+    },
+    {
+     "pixabay_id": 80133,
+     "url": "https://cdn.pixabay.com/video/2021/07/04/80133-572367416_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/04/80133-572367416_small.jpg",
+     "page": "https://pixabay.com/videos/id-80133/",
+     "tags": "beer, drink, beverage, foam, alcohol, glass, refreshment, beer glass",
+     "duration": 44,
+     "query": "broken glass"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "text": "This is what memory really is. Every time you remember something, you don't play back a recording. You rebuild it.",
+   "candidates": [
+    {
+     "pixabay_id": 216021,
+     "url": "https://cdn.pixabay.com/video/2024/06/09/216021_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/09/216021_small.jpg",
+     "page": "https://pixabay.com/videos/id-216021/",
+     "tags": "buildings, street, architecture, brutalism, concrete, city, urban, landmark, block, traffic, residential, scenery, 70s, retro, serbia, belgrade",
+     "duration": 38,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 50043,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50043-459915483_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50043-459915483_small.jpg",
+     "page": "https://pixabay.com/videos/id-50043/",
+     "tags": "building, apartment, construction, tower crane, tower, crane, residential, architecture, safety, growth, development, property, urban, modern, progress, arm, housing, flat, asset, block",
+     "duration": 11,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 50044,
+     "url": "https://cdn.pixabay.com/video/2020/09/15/50044-459915485_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/15/50044-459915485_small.jpg",
+     "page": "https://pixabay.com/videos/id-50044/",
+     "tags": "building, apartment, construction, tower crane, tower, crane, residential, architecture, safety, growth, development, property, urban, modern, progress, arm, housing, flat, asset, block",
+     "duration": 12,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 15834,
+     "url": "https://cdn.pixabay.com/video/2018/04/26/15834-266811450_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/26/15834-266811450_small.jpg",
+     "page": "https://pixabay.com/videos/id-15834/",
+     "tags": "brick, wall, brick wall, brick wall background, old, aged, texture, dirty, backdrop, brickwork, building, grunge, pattern, brown, block, cement, concrete, house, construction, weathered, surface, architecture, stone, red, brickwall, rough, wall background, material, exterior, grungy, ancient, brick background, urban, masonry, structure, home",
+     "duration": 30,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 248140,
+     "url": "https://cdn.pixabay.com/video/2024/12/21/248140_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/21/248140_small.jpg",
+     "page": "https://pixabay.com/videos/id-248140/",
+     "tags": "aerial, architecture, baku drone, baku flame towers, baku night, baku old city, block, blue, bridge, building, business, capital, caspian sea, city, cityscape, cloud, color, construction, cop29, crane, cumulus, day, dense",
+     "duration": 34,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 198369,
+     "url": "https://cdn.pixabay.com/video/2024/01/28/198369-907598222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/28/198369-907598222_small.jpg",
+     "page": "https://pixabay.com/videos/id-198369/",
+     "tags": "buildings, architecture, city, urban, blocks, concrete, belgrade, serbia",
+     "duration": 12,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 248141,
+     "url": "https://cdn.pixabay.com/video/2024/12/21/248141_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/21/248141_small.jpg",
+     "page": "https://pixabay.com/videos/id-248141/",
+     "tags": "aerial, architecture, baku drone, baku flame towers, baku night, baku old city, block, blue, bridge, building, business, capital, caspian sea, city, cityscape, cloud, color, construction, cop29",
+     "duration": 28,
+     "query": "building blocks"
+    },
+    {
+     "pixabay_id": 90091,
+     "url": "https://cdn.pixabay.com/video/2021/09/28/90091-620258416_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/28/90091-620258416_small.jpg",
+     "page": "https://pixabay.com/videos/id-90091/",
+     "tags": "foxtail, road, holofin, see also block, concrete, loneliness, fear",
+     "duration": 39,
+     "query": "building blocks"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "text": "You use the bits you kept, plus what you know, plus what someone just said to you. Then you store it again, slightly changed.",
+   "candidates": [
+    {
+     "pixabay_id": 36500,
+     "url": "https://cdn.pixabay.com/video/2020/04/18/36500-411342229_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/18/36500-411342229_small.jpg",
+     "page": "https://pixabay.com/videos/id-36500/",
+     "tags": "jigsaw, puzzle, partnership, piece, brain, solved",
+     "duration": 8,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 131159,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131159-749706751_small.jpg",
+     "page": "https://pixabay.com/videos/id-131159/",
+     "tags": "lego, build up, puzzle, play, architecture, think",
+     "duration": 21,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 8639,
+     "url": "https://cdn.pixabay.com/video/2017/04/11/8639-212794817_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/11/8639-212794817_small.jpg",
+     "page": "https://pixabay.com/videos/id-8639/",
+     "tags": "fire, campfire, log, flames, piece of wood, wood, glow, embers, heat, endless loop",
+     "duration": 20,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 19598,
+     "url": "https://cdn.pixabay.com/video/2018/11/27/19598-303873067_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/27/19598-303873067_small.jpg",
+     "page": "https://pixabay.com/videos/id-19598/",
+     "tags": "chess, chess pieces, chess board, strategy, game board, chess game, playing field, characters, planning, checkmate, challenge, think, chess piece, decisions, leadership, strategy game, springer, move",
+     "duration": 11,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 85632,
+     "url": "https://cdn.pixabay.com/video/2021/08/19/85632-591865283_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/19/85632-591865283_small.jpg",
+     "page": "https://pixabay.com/videos/id-85632/",
+     "tags": "fountain, water, wet, splash, flow, drops, tap, the middle ages, piece",
+     "duration": 21,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 11603,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11603-231571844_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11603-231571844_small.jpg",
+     "page": "https://pixabay.com/videos/id-11603/",
+     "tags": "pork, cook, meat, food, cooking, dinner, steak, barbecue, delicious, ingredient, cut, hot, nutrition, menu, preparation, piece, red, kitchen, meal, restaurant",
+     "duration": 55,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 1368,
+     "url": "https://cdn.pixabay.com/video/2015/11/25/1368-147055452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/25/1368-147055452_small.jpg",
+     "page": "https://pixabay.com/videos/id-1368/",
+     "tags": "buddha, slow motion, sky, meditation, spritualism, peace, religious, spritual, faith, icon, belief, religion, monastary, asian, budda, buddhism, buddhist, dalai, eastern, figure, great, hands, tradition, meditate, wisdom, mongolia, peaceful, philosophy, piece, power, quiet, rock, saint, sculpture, serenity, solid, spirit, spiritual, statue, tao",
+     "duration": 15,
+     "query": "puzzle pieces"
+    },
+    {
+     "pixabay_id": 11718,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11718-231759052_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11718-231759052_small.jpg",
+     "page": "https://pixabay.com/videos/id-11718/",
+     "tags": "spicy, chicken legs, chicken, food, meat, dish, leg, dinner, lunch, meal, delicious, tasty, cuisine, hot, white, top, recipe, sauce, gourmet, indian, piece, wooden, fry, spice, red, healthy, pepper, tomato, asian, chili, chilli, cilantro, cooking, curry, kadai",
+     "duration": 14,
+     "query": "puzzle pieces"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "text": "So when you tell your friend about your day tonight, the story you tell becomes part of the memory.",
+   "candidates": [
+    {
+     "pixabay_id": 22728,
+     "url": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/10/22728-329691509_small.jpg",
+     "page": "https://pixabay.com/videos/id-22728/",
+     "tags": "caf\u00e9, coffee, drink, porcelain, cafe, smoke, caffeine, cup, ceramic",
+     "duration": 30,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 236256,
+     "url": "https://cdn.pixabay.com/video/2024/10/13/236256_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/13/236256_small.jpg",
+     "page": "https://pixabay.com/videos/id-236256/",
+     "tags": "coffee, cup, cafe, caffeine, colombia, drink, smell, breakfast, clock, hot, cappuccino, magazine, roast, beans, process",
+     "duration": 7,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, water, pet, animal, friend, nature",
+     "duration": 10,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 77626,
+     "url": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/14/77626-562965806_small.jpg",
+     "page": "https://pixabay.com/videos/id-77626/",
+     "tags": "dog, puppy, pet, field, friend, playing, animal, freedom, playful, nature, outdoors",
+     "duration": 8,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 132355,
+     "url": "https://cdn.pixabay.com/video/2022/09/24/132355-753435444_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/24/132355-753435444_small.jpg",
+     "page": "https://pixabay.com/videos/id-132355/",
+     "tags": "spitz, dog, friend, morning, pet, animal, muzzle, wool",
+     "duration": 20,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 77623,
+     "url": "https://cdn.pixabay.com/video/2021/06/14/77623-562965796_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/14/77623-562965796_small.jpg",
+     "page": "https://pixabay.com/videos/id-77623/",
+     "tags": "dog, puppy, field, playing, running, friend, pet, animal, playful, nature, outdoors",
+     "duration": 24,
+     "query": "friends talking cafe"
+    },
+    {
+     "pixabay_id": 2174,
+     "url": "https://cdn.pixabay.com/video/2016/02/15/2174-155747455_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/15/2174-155747455_small.jpg",
+     "page": "https://pixabay.com/videos/id-2174/",
+     "tags": "paris, street, france, traffic, center, city, cafe",
+     "duration": 50,
+     "query": "friends talking cafe"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "text": "The words you choose, the parts you skip, the ending you give it.",
+   "candidates": [
+    {
+     "pixabay_id": 137254,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137254-766326184_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137254-766326184_small.jpg",
+     "page": "https://pixabay.com/videos/id-137254/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 11,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137257,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137257-766326197_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137257-766326197_small.jpg",
+     "page": "https://pixabay.com/videos/id-137257/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 6,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137249,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137249-766326159_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137249-766326159_small.jpg",
+     "page": "https://pixabay.com/videos/id-137249/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 13,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137251,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137251-766326171_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137251-766326171_small.jpg",
+     "page": "https://pixabay.com/videos/id-137251/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 8,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137258,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137258-766326202_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137258-766326202_small.jpg",
+     "page": "https://pixabay.com/videos/id-137258/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 7,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137248,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137248-766326155_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137248-766326155_small.jpg",
+     "page": "https://pixabay.com/videos/id-137248/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 11,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137259,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137259-766326205_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137259-766326205_small.jpg",
+     "page": "https://pixabay.com/videos/id-137259/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 5,
+     "query": "talking"
+    },
+    {
+     "pixabay_id": 137262,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137262-766326220_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137262-766326220_small.jpg",
+     "page": "https://pixabay.com/videos/id-137262/",
+     "tags": "office, business, contemporary, computer, work, desk, table, technology, specialist, internet, meeting, group, professional, teamwork, brainstorming, strategy, team, laptop, communication, businessman, discussion, success, indoors, talking, executive",
+     "duration": 8,
+     "query": "talking"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "text": "That sounds scary. But it's the same reason you can update what you know. A memory that can change is a memory that can learn.",
+   "candidates": [
+    {
+     "pixabay_id": 283924,
+     "url": "https://cdn.pixabay.com/video/2025/06/06/283924_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/06/283924_small.jpg",
+     "page": "https://pixabay.com/videos/id-283924/",
+     "tags": "houseleek, growth, plant growth, plant, nature, sempervivum hybrids",
+     "duration": 39,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 276058,
+     "url": "https://cdn.pixabay.com/video/2025/05/01/276058_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/01/276058_small.jpg",
+     "page": "https://pixabay.com/videos/id-276058/",
+     "tags": "fern, worm fern, plant, plant growth, nature, flora, grow, growth",
+     "duration": 41,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 5635,
+     "url": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/22/5635-183850259_small.jpg",
+     "page": "https://pixabay.com/videos/id-5635/",
+     "tags": "plant, watering, grow, gardening, ewer, watering can, watering pot, water, nature, green, care, garden, spring, ecology, growth, environment, growing, summer, young, agriculture",
+     "duration": 14,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 7924,
+     "url": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/24/7924-205529295_small.jpg",
+     "page": "https://pixabay.com/videos/id-7924/",
+     "tags": "flowers, nature, time, blossom, leaf, petal, plant, summer, green, lapse, blooming, growth, botany, gardening, season, stem, head, new, garden, bud, floral, single, stamen, life, springtime",
+     "duration": 10,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 265050,
+     "url": "https://cdn.pixabay.com/video/2025/03/15/265050_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/15/265050_small.jpg",
+     "page": "https://pixabay.com/videos/id-265050/",
+     "tags": "seeds, growth, plant growth, germinate, seedlings, nature, plants, sprouts, sunflower sprouts, side salad, healthy",
+     "duration": 60,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 153780,
+     "url": "https://cdn.pixabay.com/video/2023/03/08/153780-806526692_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/08/153780-806526692_small.jpg",
+     "page": "https://pixabay.com/videos/id-153780/",
+     "tags": "flower, lily, growth, white, nature",
+     "duration": 21,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 26637,
+     "url": "https://cdn.pixabay.com/video/2019/09/07/26637-360259342_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/07/26637-360259342_small.jpg",
+     "page": "https://pixabay.com/videos/id-26637/",
+     "tags": "herb, leaf, wind, nature, macro, close, background, colour, tissue, beautiful wallpaper, natural, environment, summer, garden, season, botanical, spring, pattern, plants, growth, autumn, seasons, flora, agriculture, area, rural, live wallpaper",
+     "duration": 59,
+     "query": "growth"
+    },
+    {
+     "pixabay_id": 218181,
+     "url": "https://cdn.pixabay.com/video/2024/06/25/218181_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/25/218181_small.jpg",
+     "page": "https://pixabay.com/videos/id-218181/",
+     "tags": "field, food, grain, growth, agriculture, harvest, rural, nature",
+     "duration": 7,
+     "query": "growth"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "text": "And that brings us to the night, and to the answer.",
+   "candidates": [
+    {
+     "pixabay_id": 212404,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212404_small.jpg",
+     "page": "https://pixabay.com/videos/id-212404/",
+     "tags": "shanghai, tall buildings, the bund, night view, city, lights, night, landscape",
+     "duration": 12,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 28860,
+     "url": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/08/28860-372055467_small.jpg",
+     "page": "https://pixabay.com/videos/id-28860/",
+     "tags": "night, city, city lights, lights, blurry, blur, background, backdrop, colorful, traffic, cars, red, close up, macro, detail, outside, bokeh, circles, road, midnight, black, cinematic, beautiful wallpaper, dark",
+     "duration": 14,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 225661,
+     "url": "https://cdn.pixabay.com/video/2024/08/09/225661_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/09/225661_small.jpg",
+     "page": "https://pixabay.com/videos/id-225661/",
+     "tags": "lake, fireworks, night view, city, lake biwa, summer events, colorful, japan",
+     "duration": 37,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 180386,
+     "url": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/13/180386-864121573_small.jpg",
+     "page": "https://pixabay.com/videos/id-180386/",
+     "tags": "intersection, cars, pedestrian, night, urban, osaka, japan",
+     "duration": 31,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 233983,
+     "url": "https://cdn.pixabay.com/video/2024/09/30/233983_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/30/233983_small.jpg",
+     "page": "https://pixabay.com/videos/id-233983/",
+     "tags": "buildings, city, night, lights, drone, technology, quadcopter, night city, panorama",
+     "duration": 20,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 164339,
+     "url": "https://cdn.pixabay.com/video/2023/05/24/164339-830461201_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/24/164339-830461201_small.jpg",
+     "page": "https://pixabay.com/videos/id-164339/",
+     "tags": "traffic, urban, night lights, city, night",
+     "duration": 9,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 215246,
+     "url": "https://cdn.pixabay.com/video/2024/06/04/215246_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/04/215246_small.jpg",
+     "page": "https://pixabay.com/videos/id-215246/",
+     "tags": "city, night, australia",
+     "duration": 5,
+     "query": "night city"
+    },
+    {
+     "pixabay_id": 206521,
+     "url": "https://cdn.pixabay.com/video/2024/04/02/206521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/02/206521_small.jpg",
+     "page": "https://pixabay.com/videos/id-206521/",
+     "tags": "traffic flow, night view, urban, city",
+     "duration": 7,
+     "query": "night city"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,629 @@
+{
+ "id": "L0",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You walk into the kitchen. You stop. Why are you here?",
+   "candidates": [
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 1261,
+     "url": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/03/1261-144566598_small.jpg",
+     "page": "https://pixabay.com/videos/id-1261/",
+     "tags": "croissants, baking, kitchen, pastry, french, woman, preparation, dough, bakery, food, sweet, breakfast, fresh, tasty, homemade, rustic, golden, dish, delicious, 1444282655",
+     "duration": 61,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 3627,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3627-172488393_small.jpg",
+     "page": "https://pixabay.com/videos/id-3627/",
+     "tags": "shoes, walking, feet, legs, many, crowd, people, city, town",
+     "duration": 16,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 3166,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3166-166338935_small.jpg",
+     "page": "https://pixabay.com/videos/id-3166/",
+     "tags": "walking the dog, border-collie, dog, pet, animal, woman, canine, walk, walking dog",
+     "duration": 15,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 21782,
+     "url": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/04/21782-321298091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21782/",
+     "tags": "walking, busy, people, pace, step, bike, way, street, legs, live wallpaper",
+     "duration": 44,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 21557,
+     "url": "https://cdn.pixabay.com/video/2019/02/21/21557-321866799_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/21/21557-321866799_small.jpg",
+     "page": "https://pixabay.com/videos/id-21557/",
+     "tags": "snow, woman, person, steps, wind turbines, coat, walking",
+     "duration": 6,
+     "query": "woman walking into kitchen"
+    },
+    {
+     "pixabay_id": 329674,
+     "url": "https://cdn.pixabay.com/video/2026/01/23/329674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/01/23/329674_small.jpg",
+     "page": "https://pixabay.com/videos/id-329674/",
+     "tags": "snow, winter, nature, river, wharf, dock, girl, walking, snowy, cold, landscape",
+     "duration": 10,
+     "query": "woman walking into kitchen"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "You had a reason. Three seconds ago it was right there. Now it's gone.",
+   "candidates": [
+    {
+     "pixabay_id": 148542,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148542-794355635_small.jpg",
+     "page": "https://pixabay.com/videos/id-148542/",
+     "tags": "woman, cook, kitchen, traditional, java, indonesia, rural, village, poverty",
+     "duration": 14,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 134507,
+     "url": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/12/134507-759723633_small.jpg",
+     "page": "https://pixabay.com/videos/id-134507/",
+     "tags": "windmill, green electricity, electricity, confused pinwheel, windmill turns, energy transition, climate neutral, no electricity, confused",
+     "duration": 18,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 267,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_small.jpg",
+     "page": "https://pixabay.com/videos/id-267/",
+     "tags": "pot, cooking, steam, steaming, hot, food, kettle, preparation, kitchen, sepia, cook, heat, warm",
+     "duration": 25,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 117690,
+     "url": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/21/117690-713035933_small.jpg",
+     "page": "https://pixabay.com/videos/id-117690/",
+     "tags": "clouds, cumulus, heaven, sinister, mood, fall, bottomless, lost, hopeless, cold, alone, confused, upset, darkness, afraid, dark, grim",
+     "duration": 15,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 43653,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43653-436237688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43653-436237688_small.jpg",
+     "page": "https://pixabay.com/videos/id-43653/",
+     "tags": "dough, woman, working, equipment, loaf, manufacture, meal, tasty, bake, baker, bakery, bread, closeup, cook, cooking, flour, food, fresh, ingredient, kitchen, kneading, pastry, white",
+     "duration": 13,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 213748,
+     "url": "https://cdn.pixabay.com/video/2024/05/26/213748_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/26/213748_small.jpg",
+     "page": "https://pixabay.com/videos/id-213748/",
+     "tags": "egg, food, protein, breakfast, healthy, kitchen",
+     "duration": 10,
+     "query": "woman confused kitchen"
+    },
+    {
+     "pixabay_id": 149665,
+     "url": "https://cdn.pixabay.com/video/2023/02/07/149665-796691048_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/07/149665-796691048_small.jpg",
+     "page": "https://pixabay.com/videos/id-149665/",
+     "tags": "chili, vegetables, ingredients, kitchen, cook",
+     "duration": 17,
+     "query": "woman confused kitchen"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Later today you'll forget a name a few seconds after hearing it.",
+   "candidates": [
+    {
+     "pixabay_id": 211204,
+     "url": "https://cdn.pixabay.com/video/2024/05/08/211204_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/08/211204_small.jpg",
+     "page": "https://pixabay.com/videos/id-211204/",
+     "tags": "meeting, business, office, people, hello, handshake, partnership",
+     "duration": 11,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 318026,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318026_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318026_small.jpg",
+     "page": "https://pixabay.com/videos/id-318026/",
+     "tags": "handshake, business, meeting, corporate, finance, city, rooftop, hello, building",
+     "duration": 10,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 318027,
+     "url": "https://cdn.pixabay.com/video/2025/11/25/318027_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/25/318027_small.jpg",
+     "page": "https://pixabay.com/videos/id-318027/",
+     "tags": "handshake, business, meeting, hello, corporate, finance, city, rooftop, building",
+     "duration": 16,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 46284,
+     "url": "https://cdn.pixabay.com/video/2020/08/03/46284-446732347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/03/46284-446732347_small.jpg",
+     "page": "https://pixabay.com/videos/id-46284/",
+     "tags": "business, cooperation, communicate",
+     "duration": 7,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 202987,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_small.jpg",
+     "page": "https://pixabay.com/videos/id-202987/",
+     "tags": "phone, smartphone, mobile, portable, screen, digital, communication, texting, business, work",
+     "duration": 15,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 46285,
+     "url": "https://cdn.pixabay.com/video/2020/08/03/46285-446732353_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/03/46285-446732353_small.jpg",
+     "page": "https://pixabay.com/videos/id-46285/",
+     "tags": "business, cooperation, communicate",
+     "duration": 7,
+     "query": "business handshake"
+    },
+    {
+     "pixabay_id": 3134,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3134-166335905_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3134-166335905_small.jpg",
+     "page": "https://pixabay.com/videos/id-3134/",
+     "tags": "city, night, lights, urban, cityscape, skyline, architecture, skyscraper, downtown, business, metropolitan, evening, america, dark, live wallpaper",
+     "duration": 54,
+     "query": "business handshake"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "You'll reread something and lose most of it by tonight.",
+   "candidates": [
+    {
+     "pixabay_id": 846,
+     "url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_small.jpg",
+     "page": "https://pixabay.com/videos/id-846/",
+     "tags": "library, books, the corridor, window, rack, the culture, reading, classic, new items, reading room, society, shelves, education, studies, school",
+     "duration": 13,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 263961,
+     "url": "https://cdn.pixabay.com/video/2025/03/11/263961_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/11/263961_small.jpg",
+     "page": "https://pixabay.com/videos/id-263961/",
+     "tags": "woman, quran, read, book reading, quranic verse, verses, truth, islamic, religion, mosque, forgiveness, islam, quran reading, muslim, woman reading quran",
+     "duration": 13,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 185092,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_small.jpg",
+     "page": "https://pixabay.com/videos/id-185092/",
+     "tags": "book, wind, literature, education, writing, reading, poetry, novel, author",
+     "duration": 19,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 818,
+     "url": "https://cdn.pixabay.com/video/2015/09/22/818-140182080_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/22/818-140182080_small.jpg",
+     "page": "https://pixabay.com/videos/id-818/",
+     "tags": "library, young woman, book, is reading, education, rack, shelves, the culture, reading",
+     "duration": 11,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 185096,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_small.jpg",
+     "page": "https://pixabay.com/videos/id-185096/",
+     "tags": "book, pages, literature, beach, ocean, education, reading, study, school, learning, poet, writer",
+     "duration": 13,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 261978,
+     "url": "https://cdn.pixabay.com/video/2025/03/02/261978_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/02/261978_small.jpg",
+     "page": "https://pixabay.com/videos/id-261978/",
+     "tags": "holy quran reading, mosque, quran, book reading, islamic, muslim, islam, girl, woman, arabic book, book arabic, islamic book, islamic quran book",
+     "duration": 27,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "woman reading notes"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "woman reading notes"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "And you'll remember parts of today that never happened the way you think.",
+   "candidates": [
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 46230,
+     "url": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/02/46230-447422850_small.jpg",
+     "page": "https://pixabay.com/videos/id-46230/",
+     "tags": "cat, pet, window, waiting, looking, animal, white cat",
+     "duration": 7,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 14869,
+     "url": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/07/14869-259623308_small.jpg",
+     "page": "https://pixabay.com/videos/id-14869/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, outdoors, brown, looking, look, posing",
+     "duration": 19,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 3068,
+     "url": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_small.jpg",
+     "page": "https://pixabay.com/videos/id-3068/",
+     "tags": "smoke, ascending, haze, blue, step out",
+     "duration": 10,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 15305,
+     "url": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/31/15305-262921865_small.jpg",
+     "page": "https://pixabay.com/videos/id-15305/",
+     "tags": "dog, pet, animal, small, furry, cute, fur, brown, looking, look, posing, adorable, portrait, tense, calm",
+     "duration": 15,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 22761,
+     "url": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/11/22761-330176876_small.jpg",
+     "page": "https://pixabay.com/videos/id-22761/",
+     "tags": "bud, leaf, sprout, rise up, time lapse, leaf bud, eye, set out, branch, spring awakening, drive out, summit bud",
+     "duration": 47,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "woman looking out window thinking"
+    },
+    {
+     "pixabay_id": 397,
+     "url": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/12/397-136134968_small.jpg",
+     "page": "https://pixabay.com/videos/id-397/",
+     "tags": "woodhouse's toad, animal, frog, amphibian, toad, water, slimy, eyes, looking, nostrils",
+     "duration": 7,
+     "query": "woman looking out window thinking"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "So here's the question for this video. If your brain is so powerful, why does it keep dropping things?",
+   "candidates": [
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 4122,
+     "url": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/01/4122-177145595_small.jpg",
+     "page": "https://pixabay.com/videos/id-4122/",
+     "tags": "skull, cat scan, medical, anatomy, x-ray, human, head, brain, patient, examination, cranium, ct, scan, healthcare, body, exam, skeleton",
+     "duration": 3,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 564,
+     "url": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/24/564-137190744_small.jpg",
+     "page": "https://pixabay.com/videos/id-564/",
+     "tags": "emotion, feeling, dementia, alzheimer's, man, old, disease, brain, retirement home, old people's home, maintenance, care for the elderly, human, think, face, need of care, supply, constant, fear, health, seniors, care, calcification, ghost, forgetfulness, portrait",
+     "duration": 58,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314346,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314346_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314346_small.jpg",
+     "page": "https://pixabay.com/videos/id-314346/",
+     "tags": "synapse, neurons, neuron, brain, mind, biology, science, thinking",
+     "duration": 12,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 314351,
+     "url": "https://cdn.pixabay.com/video/2025/11/06/314351_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/11/06/314351_small.jpg",
+     "page": "https://pixabay.com/videos/id-314351/",
+     "tags": "neuron, brain, neurons, network, thinking, mind, entanglement",
+     "duration": 6,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 34723,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34723-403408239_small.jpg",
+     "page": "https://pixabay.com/videos/id-34723/",
+     "tags": "rubik's cube, arrange, cube, geometry, colorful, square, color, intelligence, puzzle, rubik, toy, games, brain, logic, problems",
+     "duration": 11,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 60078,
+     "url": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/23/60078-494026868_small.jpg",
+     "page": "https://pixabay.com/videos/id-60078/",
+     "tags": "rorschach, proof, ink, silhouette, abstract, psychology, psychiatry, ink stains, icon, brain, doctor, isolated, paper, black, white, hand, medicine, paint, splatter",
+     "duration": 20,
+     "query": "brain"
+    },
+    {
+     "pixabay_id": 11423,
+     "url": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/17/11423-230268475_small.jpg",
+     "page": "https://pixabay.com/videos/id-11423/",
+     "tags": "a guy with a rubik's cube, rubik's cube, cube, cubic, solid, puzzle, a task, color, colorful, intelligence, mind, mentality, brain, speed, temp, combination, formula, game, hobby, logics, master, hand, problem, education, illustrative, toy, the decision, creation, square, success, an object, clever, to think, to solve, keep, leisure, random, block, mysterious, to study, multicolor, bones, ideas, outstanding, young, inspiration, measurement",
+     "duration": 8,
+     "query": "brain"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "The answer is not what you'd expect. Your brain isn't failing. A lot of this forgetting is on purpose.",
+   "candidates": [
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 76888,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_small.jpg",
+     "page": "https://pixabay.com/videos/id-76888/",
+     "tags": "man, smiling, farmer, happy, young, culture, senior, woman, girl, happiness, lifestyle, people, portrait",
+     "duration": 13,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 76889,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_small.jpg",
+     "page": "https://pixabay.com/videos/id-76889/",
+     "tags": "family, smile, sweet, love, young, children, happiness, smiling, mom, woman, cheerful, lifestyle, parents, joy, father, people, happy, portrait, mothers day, mother's day, mum",
+     "duration": 28,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 33631,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_small.jpg",
+     "page": "https://pixabay.com/videos/id-33631/",
+     "tags": "child, child smiling, baby, kid, happy, smile, childhood, person, little, children, cheerful, girl, happiness, female, cute, family, smiling, laugh, playing",
+     "duration": 30,
+     "query": "woman smiling thinking"
+    },
+    {
+     "pixabay_id": 80314,
+     "url": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_small.jpg",
+     "page": "https://pixabay.com/videos/id-80314/",
+     "tags": "office, desk, team work, insurance, writing, facts, thinking",
+     "duration": 10,
+     "query": "woman smiling thinking"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "Let's follow one ordinary day and catch your brain in the act.",
+   "candidates": [
+    {
+     "pixabay_id": 2337,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2337-157269912_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2337-157269912_small.jpg",
+     "page": "https://pixabay.com/videos/id-2337/",
+     "tags": "metropole, morning, city, mist, sunrise, early, urban, america, usa, buildings, sunny",
+     "duration": 44,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 12127,
+     "url": "https://cdn.pixabay.com/video/2017/09/20/12127-235051444_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/20/12127-235051444_small.jpg",
+     "page": "https://pixabay.com/videos/id-12127/",
+     "tags": "footage, dawn, city, sunrise, sun, beach, sky, river, nature, water, early morning, clouds, landscape, morning, at dawn",
+     "duration": 7,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 296958,
+     "url": "https://cdn.pixabay.com/video/2025/08/12/296958_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/12/296958_small.jpg",
+     "page": "https://pixabay.com/videos/id-296958/",
+     "tags": "travel, burjkalifa, dubai, uae, emirate, arab, burj-al-arab, burj khalifa, tourists, architecture, building, modern, skyscraper, city, landmark, historical, sunrise, skyline, landscape, urban, cityscape",
+     "duration": 25,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 173137,
+     "url": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/25/173137-848555631_small.jpg",
+     "page": "https://pixabay.com/videos/id-173137/",
+     "tags": "city, sunset, buildings, skyscrapers, towers, moscow, sky, urban, moscow city, panorama",
+     "duration": 10,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 230248,
+     "url": "https://cdn.pixabay.com/video/2024/09/07/230248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/07/230248_small.jpg",
+     "page": "https://pixabay.com/videos/id-230248/",
+     "tags": "sunset, canal, city, light, afternoon, houses, urban, traffic",
+     "duration": 41,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 343478,
+     "url": "https://cdn.pixabay.com/video/2026/03/31/343478_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/03/31/343478_small.jpg",
+     "page": "https://pixabay.com/videos/id-343478/",
+     "tags": "aerial view, urban, cityscape, dusk, sunset, skyline, drone, city, evening, lights, architecture, urban landscape, modern city, travel, tourism, panorama, sky, buildings, metropolitan, downtown, scenic, horizon, nightfall, golden hour, urban life",
+     "duration": 38,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 53902,
+     "url": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/31/53902-476396222_small.jpg",
+     "page": "https://pixabay.com/videos/id-53902/",
+     "tags": "traffic, city traffic, drone, transportation, crowd, driving, megalopolis, city, street, urban, car, sun, evening, sunset, schaffhausen, switzerland, live wallpaper",
+     "duration": 5,
+     "query": "sunrise city"
+    },
+    {
+     "pixabay_id": 80724,
+     "url": "https://cdn.pixabay.com/video/2021/07/08/80724-573496156_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/08/80724-573496156_small.jpg",
+     "page": "https://pixabay.com/videos/id-80724/",
+     "tags": "skyscrapers, sunset, skyline, clouds, sky, metropolis, asia, city, taiwan, live wallpaper",
+     "duration": 19,
+     "query": "sunrise city"
+    }
+   ]
+  }
+ ]
+}

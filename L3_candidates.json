@@ -1,0 +1,1409 @@
+{
+ "id": "L3",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Lunch break. You reread some notes for later. A report, a lesson, a recipe. You feel like you've got it.",
+   "candidates": [
+    {
+     "pixabay_id": 95103,
+     "url": "https://cdn.pixabay.com/video/2021/11/08/95103-644716621_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/11/08/95103-644716621_small.jpg",
+     "page": "https://pixabay.com/videos/id-95103/",
+     "tags": "bench, sit, table, panorama, nature, mountains, break time, lunch, alps, relaxing",
+     "duration": 10,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 3834,
+     "url": "https://cdn.pixabay.com/video/2016/07/16/3834-175213527_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/16/3834-175213527_small.jpg",
+     "page": "https://pixabay.com/videos/id-3834/",
+     "tags": "fair, folk festival, break dance, carousel, fairground, ride, hype",
+     "duration": 48,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 46989,
+     "url": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_small.jpg",
+     "page": "https://pixabay.com/videos/id-46989/",
+     "tags": "coffee, hot drink, coffee pot, enjoyment, drink, coffee enjoyment, caffeine, motivation, coffee break, espresso, machine, coffee machine",
+     "duration": 35,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 33256,
+     "url": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/05/33256-396487978_small.jpg",
+     "page": "https://pixabay.com/videos/id-33256/",
+     "tags": "pasta, food, pastas, eat, nutrition, spaghetti, noodles, italian, cooker, restaurant, lunch, tomato, italy, vegetarian, ingredient, carbs, delicious, recipes, yummy, healthy",
+     "duration": 10,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 96,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/96-135735433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/96-135735433_small.jpg",
+     "page": "https://pixabay.com/videos/id-96/",
+     "tags": "legs up, desk, home office, relaxed, comfy, comfortable, comfortably, resting, pause, break, relaxing, home, jeans, casual",
+     "duration": 14,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 11620,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11620-231571928_small.jpg",
+     "page": "https://pixabay.com/videos/id-11620/",
+     "tags": "roast, pork, meat, food, roasted, dinner, meal, grilled, lunch, barbecue, cooked, bbq, gourmet, cuisine, delicious, cooking, steak, restaurant, dish, baked, hot, cook, loin, fillet",
+     "duration": 20,
+     "query": "lunch break office"
+    },
+    {
+     "pixabay_id": 3188,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_small.jpg",
+     "page": "https://pixabay.com/videos/id-3188/",
+     "tags": "computer keyboard, typing, white, keyboard, computer, technology, business, office, internet, communication, fingers, hands, fast, text, messaging",
+     "duration": 14,
+     "query": "lunch break office"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "More than a hundred years ago, one researcher tested his own memory in a strange way.",
+   "candidates": [
+    {
+     "pixabay_id": 207982,
+     "url": "https://cdn.pixabay.com/video/2024/04/14/207982_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/14/207982_small.jpg",
+     "page": "https://pixabay.com/videos/id-207982/",
+     "tags": "book, paper, old, pages, antique, vintage, wood, retro, bible, literature, leather, object, civilization",
+     "duration": 7,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 1334,
+     "url": "https://cdn.pixabay.com/video/2015/11/12/1334-145564293_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/12/1334-145564293_small.jpg",
+     "page": "https://pixabay.com/videos/id-1334/",
+     "tags": "typewriter top, typing, writing, author, book author, writer, pages, type, machine, font, print, printing, printmaking, vintage, old fashioned, composing",
+     "duration": 23,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 107189,
+     "url": "https://cdn.pixabay.com/video/2022/02/08/107189-678129960_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/08/107189-678129960_small.jpg",
+     "page": "https://pixabay.com/videos/id-107189/",
+     "tags": "writing, journal, book, vintage, letter, quill, feather, ink, historic, candle light, library, old",
+     "duration": 60,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 108947,
+     "url": "https://cdn.pixabay.com/video/2022/02/26/108947-683077032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/26/108947-683077032_small.jpg",
+     "page": "https://pixabay.com/videos/id-108947/",
+     "tags": "old, old book, candle, retro, literature, book, photography, cinema, cinematic",
+     "duration": 16,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 113407,
+     "url": "https://cdn.pixabay.com/video/2022/04/09/113407-698385778_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/04/09/113407-698385778_small.jpg",
+     "page": "https://pixabay.com/videos/id-113407/",
+     "tags": "old books, antique books, paper, gold, red, torn, religion, bible",
+     "duration": 14,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 8852,
+     "url": "https://cdn.pixabay.com/video/2017/04/25/8852-215589122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/25/8852-215589122_small.jpg",
+     "page": "https://pixabay.com/videos/id-8852/",
+     "tags": "book, to read, education, books, reading, knowledge, library, reading room, school, science, font, old book, writing, words, teach, culture",
+     "duration": 21,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 103787,
+     "url": "https://cdn.pixabay.com/video/2022/01/07/103787-664328469_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/07/103787-664328469_small.jpg",
+     "page": "https://pixabay.com/videos/id-103787/",
+     "tags": "candles, candle flame, candlelight, burning candle, light, yellow, 4k, old book, focus, tealight",
+     "duration": 23,
+     "query": "old book"
+    },
+    {
+     "pixabay_id": 272756,
+     "url": "https://cdn.pixabay.com/video/2025/04/18/272756_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/18/272756_small.jpg",
+     "page": "https://pixabay.com/videos/id-272756/",
+     "tags": "books, old books, education",
+     "duration": 7,
+     "query": "old book"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "He learned long lists of nonsense syllables, then measured how much work it took to learn them again after different delays.",
+   "candidates": [
+    {
+     "pixabay_id": 36888,
+     "url": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/22/36888-412873795_small.jpg",
+     "page": "https://pixabay.com/videos/id-36888/",
+     "tags": "hand writing, school, training, write, hand, education, knowledge, classroom, learn, student, teaching, study, handwriting, mediation, pen",
+     "duration": 13,
+     "query": "handwriting"
+    },
+    {
+     "pixabay_id": 213746,
+     "url": "https://cdn.pixabay.com/video/2024/05/26/213746_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/26/213746_small.jpg",
+     "page": "https://pixabay.com/videos/id-213746/",
+     "tags": "student, write, tasks, analog, pen, handwriting, letter, to learn, exercise",
+     "duration": 18,
+     "query": "handwriting"
+    },
+    {
+     "pixabay_id": 24095,
+     "url": "https://cdn.pixabay.com/video/2019/05/30/24095-339561937_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/30/24095-339561937_small.jpg",
+     "page": "https://pixabay.com/videos/id-24095/",
+     "tags": "handwriting, paint brush, letters, creative, text, banner, bluescreen, keying, like, share, lower third, social media, design, information, symbol, white, isolated, digital, internet",
+     "duration": 10,
+     "query": "handwriting"
+    },
+    {
+     "pixabay_id": 258536,
+     "url": "https://cdn.pixabay.com/video/2025/02/16/258536_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/02/16/258536_small.jpg",
+     "page": "https://pixabay.com/videos/id-258536/",
+     "tags": "handwriting, writing, calligraphy, journal, pencil, paper, scribe, book",
+     "duration": 21,
+     "query": "handwriting"
+    },
+    {
+     "pixabay_id": 122229,
+     "url": "https://cdn.pixabay.com/video/2022/06/27/122229-724743685_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/27/122229-724743685_small.jpg",
+     "page": "https://pixabay.com/videos/id-122229/",
+     "tags": "reading list at library, library, book, man, young, literary, read the book, read, learn, the student",
+     "duration": 7,
+     "query": "writing list"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "writing list"
+    },
+    {
+     "pixabay_id": 107243,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_small.jpg",
+     "page": "https://pixabay.com/videos/id-107243/",
+     "tags": "ink, pen, retro, nostalgic, writing, stale, candle, book",
+     "duration": 24,
+     "query": "writing list"
+    },
+    {
+     "pixabay_id": 180776,
+     "url": "https://cdn.pixabay.com/video/2023/09/15/180776-865216724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/15/180776-865216724_small.jpg",
+     "page": "https://pixabay.com/videos/id-180776/",
+     "tags": "keyboard, typing, writing, pc, mouse, gamer, gaming, gaming pc",
+     "duration": 13,
+     "query": "writing list"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "If relearning was fast, the memory was still partly there. If it was slow, it was mostly gone.",
+   "candidates": [
+    {
+     "pixabay_id": 26452,
+     "url": "https://cdn.pixabay.com/video/2019/09/01/26452-358778857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/01/26452-358778857_small.jpg",
+     "page": "https://pixabay.com/videos/id-26452/",
+     "tags": "hourglass, sand, time, clock, timer, glass, hour, minute, countdown",
+     "duration": 15,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 152183,
+     "url": "https://cdn.pixabay.com/video/2023/02/25/152183-802330879_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/25/152183-802330879_small.jpg",
+     "page": "https://pixabay.com/videos/id-152183/",
+     "tags": "hourglass, time, clock",
+     "duration": 11,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 201528,
+     "url": "https://cdn.pixabay.com/video/2024/02/22/201528-915698783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/22/201528-915698783_small.jpg",
+     "page": "https://pixabay.com/videos/id-201528/",
+     "tags": "time, hourglass, sand, clock, sea, seascape, beach, minute, waves, inspiration, ideas, watch, age, passing, sand glass, concepts, past, business, measuring, deadline, speed, phenomenon, landscape",
+     "duration": 25,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 2887,
+     "url": "https://cdn.pixabay.com/video/2016/04/23/2887-164025245_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/23/2887-164025245_small.jpg",
+     "page": "https://pixabay.com/videos/id-2887/",
+     "tags": "oil, water, emulsion, liquid, motion, timer, toy, beautiful wallpaper, spiral, spiraltimer, novelty, perpetual, abstract, background, plastic, levels, hourglass, color, blue",
+     "duration": 60,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 21549,
+     "url": "https://cdn.pixabay.com/video/2019/02/20/21549-318711490_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/20/21549-318711490_small.jpg",
+     "page": "https://pixabay.com/videos/id-21549/",
+     "tags": "hourglass, sand, time, hours, minutes, glass, antiquity, hour, clock",
+     "duration": 44,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 66519,
+     "url": "https://cdn.pixabay.com/video/2021/02/27/66519-517685720_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/27/66519-517685720_small.jpg",
+     "page": "https://pixabay.com/videos/id-66519/",
+     "tags": "hourglass, sand, time, watch, glass, concept, timer, minute, object, now, to measure",
+     "duration": 22,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 66522,
+     "url": "https://cdn.pixabay.com/video/2021/02/27/66522-517685727_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/27/66522-517685727_small.jpg",
+     "page": "https://pixabay.com/videos/id-66522/",
+     "tags": "hourglass, time, sand, beach, sea, watch, glass, concept, timer, minute, object, now, water",
+     "duration": 6,
+     "query": "hourglass"
+    },
+    {
+     "pixabay_id": 66520,
+     "url": "https://cdn.pixabay.com/video/2021/02/27/66520-517685723_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/27/66520-517685723_small.jpg",
+     "page": "https://pixabay.com/videos/id-66520/",
+     "tags": "hourglass, sand, watch, time, glass, concept, minute, object, now, deadline",
+     "duration": 23,
+     "query": "hourglass"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "In 2015, two researchers repeated this experiment. One of them, a young student, spent about seventy hours over seventy-five days learning and relearning lists.",
+   "candidates": [
+    {
+     "pixabay_id": 140805,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140805-776043754_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140805-776043754_small.jpg",
+     "page": "https://pixabay.com/videos/id-140805/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 19,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 140809,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140809-776043767_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140809-776043767_small.jpg",
+     "page": "https://pixabay.com/videos/id-140809/",
+     "tags": "student, read, book, study, write, library",
+     "duration": 10,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 131989,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131989-751915301_small.jpg",
+     "page": "https://pixabay.com/videos/id-131989/",
+     "tags": "to write, to study, work, desk, office, feel, men, task, issue, student, school",
+     "duration": 19,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 35449,
+     "url": "https://cdn.pixabay.com/video/2020/04/08/35449-407130915_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/08/35449-407130915_small.jpg",
+     "page": "https://pixabay.com/videos/id-35449/",
+     "tags": "education, school, kid, study, library, books, literature, student, children, research, write, science, play, math, teacher, class",
+     "duration": 14,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 215475,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215475_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215475_small.jpg",
+     "page": "https://pixabay.com/videos/id-215475/",
+     "tags": "students, class, classroom, education, school, study, knowledge, learn",
+     "duration": 10,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 89066,
+     "url": "https://cdn.pixabay.com/video/2021/09/19/89066-613200185_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/19/89066-613200185_small.jpg",
+     "page": "https://pixabay.com/videos/id-89066/",
+     "tags": "students, girls, globe, erth, class, geography, education, school, study",
+     "duration": 17,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 215470,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215470_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215470_small.jpg",
+     "page": "https://pixabay.com/videos/id-215470/",
+     "tags": "teacher, students, classroom, teach, school, study, education, knowledge",
+     "duration": 11,
+     "query": "student studying"
+    },
+    {
+     "pixabay_id": 131992,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131992-751915309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131992-751915309_small.jpg",
+     "page": "https://pixabay.com/videos/id-131992/",
+     "tags": "ballpoint, pen, to write, ink, work, study, students, office, take",
+     "duration": 9,
+     "query": "student studying"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "The pattern came back almost the same as before.",
+   "candidates": [
+    {
+     "pixabay_id": 349089,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349089_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349089_small.jpg",
+     "page": "https://pixabay.com/videos/id-349089/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 15,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 349091,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349091_small.jpg",
+     "page": "https://pixabay.com/videos/id-349091/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 17,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 148867,
+     "url": "https://cdn.pixabay.com/video/2023/02/01/148867-794951490_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/01/148867-794951490_small.jpg",
+     "page": "https://pixabay.com/videos/id-148867/",
+     "tags": "accounting, analyst, analyze, app, business, business people, call, chart, communication, computer, conference, corporate, desk, desktop, digital, document, email, finance, global, graph, home, home office, idea, indoor, information",
+     "duration": 14,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 221356,
+     "url": "https://cdn.pixabay.com/video/2024/07/15/221356_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/15/221356_small.jpg",
+     "page": "https://pixabay.com/videos/id-221356/",
+     "tags": "analysis, analytics, app, application, bitcoin, broker, btc, business, businessman, cellphone, chart, close-up, computer, crypto, cryptocurrency, digital, economy, exchange, finance, forex, freelance, graph, growth",
+     "duration": 35,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 38005,
+     "url": "https://cdn.pixabay.com/video/2020/05/03/38005-415950699_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/03/38005-415950699_small.jpg",
+     "page": "https://pixabay.com/videos/id-38005/",
+     "tags": "audio, volume, sound, meter, music, amplifier, equalizer, decibel, db, level, technology, needle, scale, graph, loud, indicator",
+     "duration": 20,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 349088,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349088_small.jpg",
+     "page": "https://pixabay.com/videos/id-349088/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 9,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 349086,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349086_small.jpg",
+     "page": "https://pixabay.com/videos/id-349086/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 8,
+     "query": "graph"
+    },
+    {
+     "pixabay_id": 349085,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349085_small.jpg",
+     "page": "https://pixabay.com/videos/id-349085/",
+     "tags": "finance, money, currency, growth, investment, success, financial, banking, accounting, bitcoin, forex, trading, crypto, trader, investor, chart, analysis, market, data, investing, cryptocurrency, stock, computer, graph",
+     "duration": 16,
+     "query": "graph"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Twenty minutes after learning a list, relearning it already took about half the original effort.",
+   "candidates": [
+    {
+     "pixabay_id": 68062,
+     "url": "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/15/68062-524689341_small.jpg",
+     "page": "https://pixabay.com/videos/id-68062/",
+     "tags": "clock, time, watch, dial, minutes, pointer, hour, antique, hours, alarm, retro, stopwatch, seconds",
+     "duration": 20,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 160342,
+     "url": "https://cdn.pixabay.com/video/2023/04/24/160342-820741249_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/24/160342-820741249_small.jpg",
+     "page": "https://pixabay.com/videos/id-160342/",
+     "tags": "time, minute, sea, wave, idea, concept, relaxation, second, stopwatch, date, sky, beautiful wallpaper, background",
+     "duration": 57,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 224421,
+     "url": "https://cdn.pixabay.com/video/2024/08/02/224421_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/02/224421_small.jpg",
+     "page": "https://pixabay.com/videos/id-224421/",
+     "tags": "alarm, time, to wake up, morning, bell, pillow, bed, room, red, minute, second, stopwatch, retro, nostalgia, analogue, chronograph, work, to go, sound, to sleep, sleep, tired, dream, have a rest",
+     "duration": 59,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 3019,
+     "url": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/05/3019-165457954_small.jpg",
+     "page": "https://pixabay.com/videos/id-3019/",
+     "tags": "clock, camera quick, passage of time, time, hour, schedule, minutes, hands, watches, whatch, man, sphere, time-lapse, belt, leather, background, seconds, stopwatch, chronograph, backstitch, crocodile, stitches, aluminium, bright, luxury, luxurious, needles, handles, titanium, white gold, crono, skin, buckle, fleeting, transience, such time lapse, timing, minute, date, career, machinery, precision, calendar, deadlines, blur, plot, texture, numbers, brand, logo, beautiful wallpaper, buttons, quartz, swiss",
+     "duration": 10,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84842,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84842-586995573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84842-586995573_small.jpg",
+     "page": "https://pixabay.com/videos/id-84842/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 30,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84843,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84843-586995578_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84843-586995578_small.jpg",
+     "page": "https://pixabay.com/videos/id-84843/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 16,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 84844,
+     "url": "https://cdn.pixabay.com/video/2021/08/12/84844-586995581_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/12/84844-586995581_small.jpg",
+     "page": "https://pixabay.com/videos/id-84844/",
+     "tags": "time, retro, old, stopwatch, mechanical, gear, steampunk, minutes, antique, classical, engineering, fantastic, analog, seconds, time machine",
+     "duration": 32,
+     "query": "stopwatch"
+    },
+    {
+     "pixabay_id": 224378,
+     "url": "https://cdn.pixabay.com/video/2024/08/02/224378_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/08/02/224378_small.jpg",
+     "page": "https://pixabay.com/videos/id-224378/",
+     "tags": "time, alarm, health, life, minute, second, fear, stopwatch, retro, date, analogue, conceptual, rhythm, pulse",
+     "duration": 59,
+     "query": "stopwatch"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "After one day, about two-thirds. After a month, almost the whole effort again.",
+   "candidates": [
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, beautiful wallpaper, happiness, night, celebration, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 181407,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181407-866575721_small.jpg",
+     "page": "https://pixabay.com/videos/id-181407/",
+     "tags": "candles, lights, new year, beautiful wallpaper, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, number, fun, background",
+     "duration": 59,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141487,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141487-778168858_small.jpg",
+     "page": "https://pixabay.com/videos/id-141487/",
+     "tags": "new year, 2023, celebration, calendar, date, time, sea, beach, holiday, wave, writing, sign, idea, note, to draw, trace, tourism, trip, island, tropical, ocean",
+     "duration": 26,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 141489,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141489-778168876_small.jpg",
+     "page": "https://pixabay.com/videos/id-141489/",
+     "tags": "new year, christmas, celebration, calendar, year, new, sea, beach, holiday, wave, annual, writing, sign, feelings, idea, note, to draw, trace, tourism, trip, island, tropical, view, ocean",
+     "duration": 54,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 102135,
+     "url": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/21/102135-659185641_small.jpg",
+     "page": "https://pixabay.com/videos/id-102135/",
+     "tags": "year, 2021, model, calendar, love",
+     "duration": 23,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 265467,
+     "url": "https://cdn.pixabay.com/video/2025/03/18/265467_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/18/265467_small.jpg",
+     "page": "https://pixabay.com/videos/id-265467/",
+     "tags": "sapa, taybac, vietnam, noodles, may, sapa vietnam, calendar",
+     "duration": 6,
+     "query": "calendar"
+    },
+    {
+     "pixabay_id": 185330,
+     "url": "https://cdn.pixabay.com/video/2023/10/16/185330-875406217_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/16/185330-875406217_small.jpg",
+     "page": "https://pixabay.com/videos/id-185330/",
+     "tags": "calendar, october, cookies, biscuits, pastries, pumpkin, autumn, ghost, pumpkins, night, decoration, season, decorative",
+     "duration": 6,
+     "query": "calendar"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "This is the forgetting curve. Most of the loss happens early, in the first hours. Then it slows down.",
+   "candidates": [
+    {
+     "pixabay_id": 66523,
+     "url": "https://cdn.pixabay.com/video/2021/02/27/66523-517685729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/27/66523-517685729_small.jpg",
+     "page": "https://pixabay.com/videos/id-66523/",
+     "tags": "hourglass, time, sand, beach, sea, watch, glass, concept, timer, minute, object, now, water",
+     "duration": 33,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 268044,
+     "url": "https://cdn.pixabay.com/video/2025/03/27/268044_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/27/268044_small.jpg",
+     "page": "https://pixabay.com/videos/id-268044/",
+     "tags": "time, river, hourglass, sand, passing",
+     "duration": 30,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 277521,
+     "url": "https://cdn.pixabay.com/video/2025/05/08/277521_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/08/277521_small.jpg",
+     "page": "https://pixabay.com/videos/id-277521/",
+     "tags": "time, hourglass, fog, foggy, mist, sands, patience, waiting, pastime",
+     "duration": 38,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 238231,
+     "url": "https://cdn.pixabay.com/video/2024/10/25/238231_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/10/25/238231_small.jpg",
+     "page": "https://pixabay.com/videos/id-238231/",
+     "tags": "sand, hourglass, red, close, up, time, clock",
+     "duration": 23,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 213026,
+     "url": "https://cdn.pixabay.com/video/2024/05/22/213026_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/22/213026_small.jpg",
+     "page": "https://pixabay.com/videos/id-213026/",
+     "tags": "ocean, waves, rocks, sand, coast",
+     "duration": 25,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 204565,
+     "url": "https://cdn.pixabay.com/video/2024/03/18/204565-924698132_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/18/204565-924698132_small.jpg",
+     "page": "https://pixabay.com/videos/id-204565/",
+     "tags": "ocean, sea, beach, sunset, sand, nature",
+     "duration": 33,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "sand hourglass"
+    },
+    {
+     "pixabay_id": 284566,
+     "url": "https://cdn.pixabay.com/video/2025/06/09/284566_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/09/284566_small.jpg",
+     "page": "https://pixabay.com/videos/id-284566/",
+     "tags": "desert, dunes, sand, namibia, nature, africa, drone",
+     "duration": 20,
+     "query": "sand hourglass"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "That sounds bad. But think about what it means. Your brain doesn't treat everything you see as worth keeping.",
+   "candidates": [
+    {
+     "pixabay_id": 23258,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23258-334228230_small.jpg",
+     "page": "https://pixabay.com/videos/id-23258/",
+     "tags": "seoul, people, night, city, illuminated, urban, market, tourism, crowd, street, evening, live wallpaper",
+     "duration": 18,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 1643,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1643-148614430_small.jpg",
+     "page": "https://pixabay.com/videos/id-1643/",
+     "tags": "india, people, asia, street, asian, person, culture, city, shiva, town, road, busy, crowd, alley, urban, men, women, market",
+     "duration": 14,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 41315,
+     "url": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/07/41315-429396382_small.jpg",
+     "page": "https://pixabay.com/videos/id-41315/",
+     "tags": "singapore, people, street, crowd, city, night",
+     "duration": 11,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 3630,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3630-172488409_small.jpg",
+     "page": "https://pixabay.com/videos/id-3630/",
+     "tags": "crosswalk, crowd, people, many, crowded, city, street, pedestrians, urban, busy, walking, rush hour",
+     "duration": 15,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 127690,
+     "url": "https://cdn.pixabay.com/video/2022/08/12/127690-739144743_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/12/127690-739144743_small.jpg",
+     "page": "https://pixabay.com/videos/id-127690/",
+     "tags": "road, street, crowd, people, urban, city",
+     "duration": 18,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 39837,
+     "url": "https://cdn.pixabay.com/video/2020/05/22/39837-424360872_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/22/39837-424360872_small.jpg",
+     "page": "https://pixabay.com/videos/id-39837/",
+     "tags": "alley, people, walk, street, ukraine, city, stroll, man, crowd, cover",
+     "duration": 34,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 1023,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1023-142621257_small.jpg",
+     "page": "https://pixabay.com/videos/id-1023/",
+     "tags": "pedestrians, road, city, cars, traffic, crowd, town, urban, street, people, walking, sidewalk, lifestyle",
+     "duration": 16,
+     "query": "crowd street"
+    },
+    {
+     "pixabay_id": 47085,
+     "url": "https://cdn.pixabay.com/video/2020/08/13/47085-450120521_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/13/47085-450120521_small.jpg",
+     "page": "https://pixabay.com/videos/id-47085/",
+     "tags": "street, people, tunnel, city, europe, architecture, urban, building, travel, tourism, crowd, walk, road",
+     "duration": 38,
+     "query": "crowd street"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "It waits for proof. Something you meet once and never use again fades fast.",
+   "candidates": [
+    {
+     "pixabay_id": 163333,
+     "url": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/05/16/163333-827461514_small.jpg",
+     "page": "https://pixabay.com/videos/id-163333/",
+     "tags": "dandelion, blossom, bloom, faded, flying seeds, seeds, seed stand, plant, nature, time lapse",
+     "duration": 41,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 23263,
+     "url": "https://cdn.pixabay.com/video/2019/05/03/23263-334228232_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/03/23263-334228232_small.jpg",
+     "page": "https://pixabay.com/videos/id-23263/",
+     "tags": "dandelion, faded, seeds, pointed flower, flying seeds, wildflower, umbrella, time lapse, timelapse",
+     "duration": 33,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 12866,
+     "url": "https://cdn.pixabay.com/video/2017/11/09/12866-242215707_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/09/12866-242215707_small.jpg",
+     "page": "https://pixabay.com/videos/id-12866/",
+     "tags": "dubrovnik, sunset, sea, city, timelapse, time lapse, summer, croatia, europe, on the water, lighting, artificial light, port, landscape, bay, ocean, hill, islands, by the sea, quickly, clouds, colored clouds, orange clouds, darkness, dusk, fading light, outlook, boats, ships, skyscraper, house, cars, fast movement, dark, darken, mood, vacation, recreation, quiet, eve, late, relaxation, happiness, satisfaction, play of colors, idyllic, colored sky, heaven, golden light, afterglow, 4k, 25fps, for film",
+     "duration": 7,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 383161,
+     "url": "https://cdn.pixabay.com/video/2026/10/17/383161_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/10/17/383161_small.jpg",
+     "page": "https://pixabay.com/videos/id-383161/",
+     "tags": "nightfall, dusk, blue hour, evening atmosphere, quitting time, quiet, melancholy, mystical, sihlsee, settle down, canton of schwyz, switzerland, lake, mountains, pier, hills, tree, clouded sky, passing clouds, light reflection, points of light, fading light, cloud cover",
+     "duration": 60,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 118418,
+     "url": "https://cdn.pixabay.com/video/2022/05/28/118418-714804804_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/28/118418-714804804_small.jpg",
+     "page": "https://pixabay.com/videos/id-118418/",
+     "tags": "dandelion, dandelion withered, flying seeds, faded",
+     "duration": 30,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 350980,
+     "url": "https://cdn.pixabay.com/video/2026/05/06/350980_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/05/06/350980_small.jpg",
+     "page": "https://pixabay.com/videos/id-350980/",
+     "tags": "dandelion, blossom, bloom, plant, faded, flying seeds, nature",
+     "duration": 51,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 208385,
+     "url": "https://cdn.pixabay.com/video/2024/04/17/208385_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/17/208385_small.jpg",
+     "page": "https://pixabay.com/videos/id-208385/",
+     "tags": "flower, coltsfoot, faded, seed stand, spring flower, early bloomer, nature",
+     "duration": 27,
+     "query": "fading"
+    },
+    {
+     "pixabay_id": 364731,
+     "url": "https://cdn.pixabay.com/video/2026/07/18/364731_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/18/364731_small.jpg",
+     "page": "https://pixabay.com/videos/id-364731/",
+     "tags": "wiesen-pippau, faded, flying seeds, wither, seed stand, nature, plant",
+     "duration": 51,
+     "query": "fading"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "Something that keeps coming back gets kept.",
+   "candidates": [
+    {
+     "pixabay_id": 15178,
+     "url": "https://cdn.pixabay.com/video/2018/03/24/15178-262146047_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/24/15178-262146047_small.jpg",
+     "page": "https://pixabay.com/videos/id-15178/",
+     "tags": "flare-up, warmth, chimney, hot, joy fire, campfire, conflagration, flammable, burn, darkness, smoke, fire, energy, money, danger, firewood, warm, light, fuel, matches, flames, lighter, match, candles, embers, make fire, glow, temperature, black, briquettes, wood, light properly, heat, steam, close up, combustion, to smoke, wood fire, smoking, flames wood fire, smoke fire, flames blaze, fireplace, mood, oven, furnace, wood stove fire, oven fire, detail shot, spark, repetition, 4k",
+     "duration": 64,
+     "query": "repetition"
+    },
+    {
+     "pixabay_id": 53031,
+     "url": "https://cdn.pixabay.com/video/2020/10/21/53031-471336865_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/21/53031-471336865_small.jpg",
+     "page": "https://pixabay.com/videos/id-53031/",
+     "tags": "ferris wheel, fair, carousel, oktoberfest, circuit, spinning in circles, repetition, folk festival, fun, fairground, amusement park, pleasure, leisure time, ride, multicoloured, lighting, cycle, hype, showman, lights, high, gondolas",
+     "duration": 11,
+     "query": "repetition"
+    },
+    {
+     "pixabay_id": 110718,
+     "url": "https://cdn.pixabay.com/video/2022/03/14/110718-688200229_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/14/110718-688200229_small.jpg",
+     "page": "https://pixabay.com/videos/id-110718/",
+     "tags": "grey, horizontal, copy space, rooftop, blue, house, outdoors, sky, day, colourful, colours, finance, lifestyles, minimal, minimalism, no people, property, residence, structure, suburb, window, canada, front view, photography, repetition",
+     "duration": 8,
+     "query": "repetition"
+    },
+    {
+     "pixabay_id": 283533,
+     "url": "https://cdn.pixabay.com/video/2025/06/03/283533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/03/283533_small.jpg",
+     "page": "https://pixabay.com/videos/id-283533/",
+     "tags": "wave, breaking, sea, ocean, water, coast, slow motion, slowmo",
+     "duration": 40,
+     "query": "waves"
+    },
+    {
+     "pixabay_id": 4006,
+     "url": "https://cdn.pixabay.com/video/2016/07/26/4006-176282263_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/26/4006-176282263_small.jpg",
+     "page": "https://pixabay.com/videos/id-4006/",
+     "tags": "sea, wave, golden, sand, sunrise, ocean, water, surf, beach, nature, summer, tropical, splash, ocean wave, clean, clear, day, spray, shore, motion, wet, foam, reflection",
+     "duration": 40,
+     "query": "waves"
+    },
+    {
+     "pixabay_id": 24216,
+     "url": "https://cdn.pixabay.com/video/2019/06/05/24216-340670744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/05/24216-340670744_small.jpg",
+     "page": "https://pixabay.com/videos/id-24216/",
+     "tags": "sea, ocean, wave, beach, blue, nature, pacific, sand, water, seashore, guatemala, shore, aerial, live wallpaper",
+     "duration": 31,
+     "query": "waves"
+    },
+    {
+     "pixabay_id": 304019,
+     "url": "https://cdn.pixabay.com/video/2025/09/14/304019_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/14/304019_small.jpg",
+     "page": "https://pixabay.com/videos/id-304019/",
+     "tags": "water, dark, background, sea, deep, beautiful wallpaper, blue, wave, liquid, seascape, ocean, surface, aquatic, flowing, water surface, wave - water, looping",
+     "duration": 16,
+     "query": "waves"
+    },
+    {
+     "pixabay_id": 19368,
+     "url": "https://cdn.pixabay.com/video/2018/11/16/19368-301525727_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/16/19368-301525727_small.jpg",
+     "page": "https://pixabay.com/videos/id-19368/",
+     "tags": "wave, lighthouse, ocean, coast, blue, landscape",
+     "duration": 46,
+     "query": "waves"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "That's a smart rule for a brain that sees thousands of things a day. Most of them really don't matter.",
+   "candidates": [
+    {
+     "pixabay_id": 21116,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21116-315137080_small.jpg",
+     "page": "https://pixabay.com/videos/id-21116/",
+     "tags": "seoul, street, night, neon, traffic, lights, road, cars, vehicles, people, movement, live wallpaper",
+     "duration": 7,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 19627,
+     "url": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/29/19627-304735769_small.jpg",
+     "page": "https://pixabay.com/videos/id-19627/",
+     "tags": "street, traffic, cars, city, night, view, car, skyscrapers, quick, vehicle, dynamics, transport, technology, speed, modern, luxury",
+     "duration": 17,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 21985,
+     "url": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/13/21985-323496013_small.jpg",
+     "page": "https://pixabay.com/videos/id-21985/",
+     "tags": "seoul, city, streets, road, night view, traffic, cars, transport, buildings, time-lapse, congestion, live wallpaper",
+     "duration": 14,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 22544,
+     "url": "https://cdn.pixabay.com/video/2019/04/02/22544-328624736_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/04/02/22544-328624736_small.jpg",
+     "page": "https://pixabay.com/videos/id-22544/",
+     "tags": "bridge, road, cars, traffic, sunset, clouds, water",
+     "duration": 15,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 336253,
+     "url": "https://cdn.pixabay.com/video/2026/02/23/336253_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/02/23/336253_small.jpg",
+     "page": "https://pixabay.com/videos/id-336253/",
+     "tags": "traffic, city, stop, road, car, bridge, river, urban",
+     "duration": 19,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 21115,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21115-315137069_small.jpg",
+     "page": "https://pixabay.com/videos/id-21115/",
+     "tags": "seoul, street, traffic, cars, speed, motorcycle, people, movement",
+     "duration": 6,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 21118,
+     "url": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/02/01/21118-315137091_small.jpg",
+     "page": "https://pixabay.com/videos/id-21118/",
+     "tags": "seoul, traffic, cars, city, speed, lights, south korea, night, outdoor, street, live wallpaper",
+     "duration": 6,
+     "query": "traffic"
+    },
+    {
+     "pixabay_id": 13441,
+     "url": "https://cdn.pixabay.com/video/2017/12/17/13441-247710869_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/12/17/13441-247710869_small.jpg",
+     "page": "https://pixabay.com/videos/id-13441/",
+     "tags": "lights, houses, streets, sissach, sissacher flue, snow, snow landscape, night, time lapse, timelapse, daybreak, move, vehicles, night shot, light traces, landscape, wintry, winter landscape, outlook, new zealand, traffic, strassem traffic, blue hour",
+     "duration": 27,
+     "query": "traffic"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "And here is where most of us get it wrong. We try to prove something matters by rereading it.",
+   "candidates": [
+    {
+     "pixabay_id": 4953,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4953-181545195_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4953-181545195_small.jpg",
+     "page": "https://pixabay.com/videos/id-4953/",
+     "tags": "reading, book, baby, education, literature, development, the culture, classic, to read, study",
+     "duration": 11,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 84005,
+     "url": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_small.jpg",
+     "page": "https://pixabay.com/videos/id-84005/",
+     "tags": "book, read, novel, literature, learning, pages, knowledge, information, bible, culture, stories, history, reading, vintage",
+     "duration": 18,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 84006,
+     "url": "https://cdn.pixabay.com/video/2021/08/05/84006-584870923_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/05/84006-584870923_small.jpg",
+     "page": "https://pixabay.com/videos/id-84006/",
+     "tags": "book, read, novel, literature, learning, pages, knowledge, information, bible, culture, stories, history, reading, vintage",
+     "duration": 18,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 140593,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_small.jpg",
+     "page": "https://pixabay.com/videos/id-140593/",
+     "tags": "books, book store, library, reading, knowledge, education, learning, berkley",
+     "duration": 7,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 140591,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_small.jpg",
+     "page": "https://pixabay.com/videos/id-140591/",
+     "tags": "books, book store, library, reading, knowledge, education, learning, berkley",
+     "duration": 12,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 141519,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_small.jpg",
+     "page": "https://pixabay.com/videos/id-141519/",
+     "tags": "book, reading, page, literature, education, read, nature, viewpoint, sea, seaside, wind, cloudy",
+     "duration": 15,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 263962,
+     "url": "https://cdn.pixabay.com/video/2025/03/11/263962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/11/263962_small.jpg",
+     "page": "https://pixabay.com/videos/id-263962/",
+     "tags": "quran, holy quran, islam, book reading, mosque, book, reading, knowledge, islamic, wisdom, muslim, learning, focus, girl",
+     "duration": 18,
+     "query": "reading book"
+    },
+    {
+     "pixabay_id": 137656,
+     "url": "https://cdn.pixabay.com/video/2022/11/04/137656-767484479_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/04/137656-767484479_small.jpg",
+     "page": "https://pixabay.com/videos/id-137656/",
+     "tags": "book, reading, lake, autumn, romance, vassilis lappas, nature",
+     "duration": 33,
+     "query": "reading book"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "text": "But rereading is a weak signal. The words look familiar, so it feels like you know them.",
+   "candidates": [
+    {
+     "pixabay_id": 38918,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38918-418897629_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38918-418897629_small.jpg",
+     "page": "https://pixabay.com/videos/id-38918/",
+     "tags": "library, books, reading, read, literature",
+     "duration": 7,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 215472,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215472_small.jpg",
+     "page": "https://pixabay.com/videos/id-215472/",
+     "tags": "students, education, school, reading, learning",
+     "duration": 7,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 273927,
+     "url": "https://cdn.pixabay.com/video/2025/04/23/273927_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/23/273927_small.jpg",
+     "page": "https://pixabay.com/videos/id-273927/",
+     "tags": "reading, education, laptop, technology, work, office, keyboard",
+     "duration": 18,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 39888,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39888-423345719_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39888-423345719_small.jpg",
+     "page": "https://pixabay.com/videos/id-39888/",
+     "tags": "book, shop, people, reading, tutorials, writer, education, read",
+     "duration": 10,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 38917,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38917-418897621_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38917-418897621_small.jpg",
+     "page": "https://pixabay.com/videos/id-38917/",
+     "tags": "books, library, to read, literature, reading, education",
+     "duration": 17,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 120,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/120-135736520_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/120-135736520_small.jpg",
+     "page": "https://pixabay.com/videos/id-120/",
+     "tags": "program, developing, programming language, programmer, display, monitor, notepad, syntax highlighting, syntax, startup, internet, c, sublime, beautiful wallpaper, unix, linux, console, blur, background",
+     "duration": 14,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 84007,
+     "url": "https://cdn.pixabay.com/video/2021/08/05/84007-584870927_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/05/84007-584870927_small.jpg",
+     "page": "https://pixabay.com/videos/id-84007/",
+     "tags": "book, read, novel, literature, learning, pages, knowledge, information, bible, culture, stories, history, reading, vintage",
+     "duration": 9,
+     "query": "reading highlighting"
+    },
+    {
+     "pixabay_id": 124062,
+     "url": "https://cdn.pixabay.com/video/2022/07/13/124062-729835809_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/13/124062-729835809_small.jpg",
+     "page": "https://pixabay.com/videos/id-124062/",
+     "tags": "islam, quran, islamic, arabic, koran, reading, pray, holybookquran, religion, religion islam, muslim, mosque",
+     "duration": 30,
+     "query": "reading highlighting"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "text": "Your brain is mostly recognizing the page, not storing anything new.",
+   "candidates": [
+    {
+     "pixabay_id": 76775,
+     "url": "https://cdn.pixabay.com/video/2021/06/07/76775-560201196_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/07/76775-560201196_small.jpg",
+     "page": "https://pixabay.com/videos/id-76775/",
+     "tags": "book, page, read, turn, paper",
+     "duration": 5,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 42696,
+     "url": "https://cdn.pixabay.com/video/2020/06/20/42696-432087106_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/20/42696-432087106_small.jpg",
+     "page": "https://pixabay.com/videos/id-42696/",
+     "tags": "alley, people, the park, human, walking, tourists, turning, nature, city, trees, crowd, urban, faces",
+     "duration": 9,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 3624,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3624-172488379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3624-172488379_small.jpg",
+     "page": "https://pixabay.com/videos/id-3624/",
+     "tags": "playground, carousel, turning, childhood, fun, play, outdoors, youth, teenagers, together, teamwork",
+     "duration": 13,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 133,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/133-135736917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/133-135736917_small.jpg",
+     "page": "https://pixabay.com/videos/id-133/",
+     "tags": "cars, road, traffic, driving, lanes, turning lane, blur, automobiles",
+     "duration": 13,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 10,
+     "url": "https://cdn.pixabay.com/video/2015/08/07/10-135702966_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/07/10-135702966_small.jpg",
+     "page": "https://pixabay.com/videos/id-10/",
+     "tags": "black hole, nasa, wormhole, circling, gravity, galaxy, gravity sink, hole, deep space, galaxies, space, stars, time travel, speed of light, universe, astronautics, space exploration, explore, science, extraterrestrial, starlight, endless, spiral, turning",
+     "duration": 14,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 3742,
+     "url": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/08/3742-174173818_small.jpg",
+     "page": "https://pixabay.com/videos/id-3742/",
+     "tags": "fire, calls, wood fire, hot, lena, burning, burn down, light, turn on, red, combustion",
+     "duration": 58,
+     "query": "turning pages"
+    },
+    {
+     "pixabay_id": 8821,
+     "url": "https://cdn.pixabay.com/video/2017/04/22/8821-215617442_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/22/8821-215617442_small.jpg",
+     "page": "https://pixabay.com/videos/id-8821/",
+     "tags": "cologne, excursion ship, colonia, turning manoeuvres, river cruise, shipping, excursion steamer, tour, rhine, rhine shipping, ship, water, flow, transport, waterway, inland shipping, traffic, rhine ship",
+     "duration": 46,
+     "query": "turning pages"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "text": "There's a much stronger signal, and we'll come back to it at the end, because it's the one thing in this video you can use today.",
+   "candidates": [
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 106379,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106379-673007964_small.jpg",
+     "page": "https://pixabay.com/videos/id-106379/",
+     "tags": "celebration, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, christmas, background, beautiful wallpaper, evening, birthday, coffee, tea, candle, writing, red, woman, women, romance",
+     "duration": 59,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 47158,
+     "url": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/14/47158-450995605_small.jpg",
+     "page": "https://pixabay.com/videos/id-47158/",
+     "tags": "computer, laptop, keyboard, to write, research, screen, keys, study, project, internet, technology, cafe, house, office, work, glasses, table, woman, girl, hands, fingers",
+     "duration": 23,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 44424,
+     "url": "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/11/44424-438662258_small.jpg",
+     "page": "https://pixabay.com/videos/id-44424/",
+     "tags": "woman, computer, technology, work, office, internet, to write, business, women, web, marketing, student, people, meeting, young, person, keyboard, startup, communication",
+     "duration": 14,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 34727,
+     "url": "https://cdn.pixabay.com/video/2020/04/01/34727-403432526_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/01/34727-403432526_small.jpg",
+     "page": "https://pixabay.com/videos/id-34727/",
+     "tags": "computer, keys, internet, keyboard, office, technology, web, job, team, to write, desk, business, students, iphone, screen, student, modern, macbook, portable, electronics, display, woman, people, pc",
+     "duration": 32,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 244231,
+     "url": "https://cdn.pixabay.com/video/2024/12/01/244231_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/01/244231_small.jpg",
+     "page": "https://pixabay.com/videos/id-244231/",
+     "tags": "batik, seller, market, selling, vendor, merchant, shop, culture, fabric, writing, bookstore, portrait, woman",
+     "duration": 32,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 8246,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8246-207598553_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8246-207598553_small.jpg",
+     "page": "https://pixabay.com/videos/id-8246/",
+     "tags": "keyboard, typing, computer, office, work, business, workplace, write, internet, writing, working, hands, workspace",
+     "duration": 16,
+     "query": "woman writing"
+    },
+    {
+     "pixabay_id": 107242,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107242-678130077_small.jpg",
+     "page": "https://pixabay.com/videos/id-107242/",
+     "tags": "ink, pen, retro, nostalgia, typewriter, book, paris, antique, hand writing",
+     "duration": 9,
+     "query": "woman writing"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "text": "First, let's get to the evening. Because the strangest part of memory isn't what you forget. It's what you remember that isn't true.",
+   "candidates": [
+    {
+     "pixabay_id": 24746,
+     "url": "https://cdn.pixabay.com/video/2019/06/26/24746-344986280_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/26/24746-344986280_small.jpg",
+     "page": "https://pixabay.com/videos/id-24746/",
+     "tags": "landscape, nature, sky, mountains, travel, clouds, sun, sunset, forest, city, view",
+     "duration": 34,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 3581,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3581-172488192_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3581-172488192_small.jpg",
+     "page": "https://pixabay.com/videos/id-3581/",
+     "tags": "coastline, beach, city, usa, sunset, aerial view, vacation, summer, sea, water, sand, travel, tourism, people, shore, lifestyle, coast, ocean, recreation, holiday",
+     "duration": 64,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 58580,
+     "url": "https://cdn.pixabay.com/video/2020/12/07/58580-493659853_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/07/58580-493659853_small.jpg",
+     "page": "https://pixabay.com/videos/id-58580/",
+     "tags": "beijing, city, timelapse, sunset",
+     "duration": 27,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 131195,
+     "url": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/13/131195-749706805_small.jpg",
+     "page": "https://pixabay.com/videos/id-131195/",
+     "tags": "sunset, sky, city, night, seoul, korea",
+     "duration": 64,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 210592,
+     "url": "https://cdn.pixabay.com/video/2024/05/04/210592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/04/210592_small.jpg",
+     "page": "https://pixabay.com/videos/id-210592/",
+     "tags": "sunset, night time, night lights, view, sky, clouds, city",
+     "duration": 14,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 231405,
+     "url": "https://cdn.pixabay.com/video/2024/09/14/231405_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/14/231405_small.jpg",
+     "page": "https://pixabay.com/videos/id-231405/",
+     "tags": "sunset, skyscraper, nyc, manhattan, city, architecture, skyline, buildings, urban",
+     "duration": 11,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 84970,
+     "url": "https://cdn.pixabay.com/video/2021/08/13/84970-587646749_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/13/84970-587646749_small.jpg",
+     "page": "https://pixabay.com/videos/id-84970/",
+     "tags": "road, movement, sunset, sun, moscow, horizon, sky, city, rays, skyscrapers, cars, evening, summer, traffic jams, moscow city, landscape, traffic",
+     "duration": 43,
+     "query": "sunset city"
+    },
+    {
+     "pixabay_id": 230247,
+     "url": "https://cdn.pixabay.com/video/2024/09/07/230247_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/07/230247_small.jpg",
+     "page": "https://pixabay.com/videos/id-230247/",
+     "tags": "sunset, canal, city, light, orange, afternoon, houses, urban, traffic",
+     "duration": 42,
+     "query": "sunset city"
+    }
+   ]
+  }
+ ]
+}

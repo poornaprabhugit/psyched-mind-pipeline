@@ -1,0 +1,1643 @@
+{
+ "id": "L1",
+ "lines": [
+  {
+   "n": 1,
+   "text": "It starts in the morning. You're in the bedroom, and you think: I need my keys.",
+   "candidates": [
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 151295,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151295-800360305_small.jpg",
+     "page": "https://pixabay.com/videos/id-151295/",
+     "tags": "woman, wake up, bed, sleep, pose, morning",
+     "duration": 21,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 173522,
+     "url": "https://cdn.pixabay.com/video/2023/07/27/173522-849651812_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/27/173522-849651812_small.jpg",
+     "page": "https://pixabay.com/videos/id-173522/",
+     "tags": "mount fuji, morning, clouds, japan, landscape",
+     "duration": 10,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 27111,
+     "url": "https://cdn.pixabay.com/video/2019/09/21/27111-361827499_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/21/27111-361827499_small.jpg",
+     "page": "https://pixabay.com/videos/id-27111/",
+     "tags": "morning mist, fog, nature, morning hour, south-tirol, italy, hill, mountains, time lapse, timelapse",
+     "duration": 41,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 158349,
+     "url": "https://cdn.pixabay.com/video/2023/04/11/158349-816637197_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/11/158349-816637197_small.jpg",
+     "page": "https://pixabay.com/videos/id-158349/",
+     "tags": "beach, waves, natural scenery, morning, tourism",
+     "duration": 16,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 189813,
+     "url": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/19/189813-887078786_small.jpg",
+     "page": "https://pixabay.com/videos/id-189813/",
+     "tags": "trees, forest, woods, sunrise, morning, rays, fog, netherlands, drenthe",
+     "duration": 23,
+     "query": "woman bedroom morning"
+    },
+    {
+     "pixabay_id": 202982,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202982-919365848_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202982-919365848_small.jpg",
+     "page": "https://pixabay.com/videos/id-202982/",
+     "tags": "mount fuji, morning, highway, mountains, winter, japan",
+     "duration": 15,
+     "query": "woman bedroom morning"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "You walk into the hallway, then the kitchen. And the thought is gone.",
+   "candidates": [
+    {
+     "pixabay_id": 71835,
+     "url": "https://cdn.pixabay.com/video/2021/04/21/71835-540475378_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/21/71835-540475378_small.jpg",
+     "page": "https://pixabay.com/videos/id-71835/",
+     "tags": "field, meadow, walk, grass, through, sun, mountain, summer, path, walking, trail, nature, recreation, hiking",
+     "duration": 27,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 297,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/297-135883516_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/297-135883516_small.jpg",
+     "page": "https://pixabay.com/videos/id-297/",
+     "tags": "doorstep, steps, stairs, entry, walk, pedestrians, walking, entering, people, busy, door",
+     "duration": 72,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 3139,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3139-166335921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3139-166335921_small.jpg",
+     "page": "https://pixabay.com/videos/id-3139/",
+     "tags": "entry, gateway, people, travelers, walking, busy, entrance, gate, door, entering",
+     "duration": 17,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 17285,
+     "url": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/07/14/17285-280038627_small.jpg",
+     "page": "https://pixabay.com/videos/id-17285/",
+     "tags": "wheat, wheat field, nature, agriculture, field, summer, grain, cereals, cornfield, spike, plant, close up, staple food, wheat grains, yellow, wind, wind blowing through wheat",
+     "duration": 28,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 131615,
+     "url": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/17/131615-750742396_small.jpg",
+     "page": "https://pixabay.com/videos/id-131615/",
+     "tags": "hand, field, grass, running through crops, relax, green, beautiful, nature",
+     "duration": 20,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 3171,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3171-166338953_small.jpg",
+     "page": "https://pixabay.com/videos/id-3171/",
+     "tags": "walking, sneakers, nike, shoes, walk, path, outdoors, lifestyle, young, boy, legs, foot, jeans, adult, summer, style, feet, person, step",
+     "duration": 10,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 7795,
+     "url": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/12/7795-204506406_small.jpg",
+     "page": "https://pixabay.com/videos/id-7795/",
+     "tags": "spider, arachnid, insect, octapod, animal, walking spider, wood trunk",
+     "duration": 11,
+     "query": "walking through door"
+    },
+    {
+     "pixabay_id": 4878,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_small.jpg",
+     "page": "https://pixabay.com/videos/id-4878/",
+     "tags": "book, reading, leaf through, pages, hands, literature, education, to read",
+     "duration": 11,
+     "query": "walking through door"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "You've done this. Almost everyone has. And for years it looked like simple absent-mindedness.",
+   "candidates": [
+    {
+     "pixabay_id": 284347,
+     "url": "https://cdn.pixabay.com/video/2025/06/08/284347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/08/284347_small.jpg",
+     "page": "https://pixabay.com/videos/id-284347/",
+     "tags": "man, thinking, confused, yellow background",
+     "duration": 18,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 181376,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181376-866506956_small.jpg",
+     "page": "https://pixabay.com/videos/id-181376/",
+     "tags": "boat, man, fishing boat, wooden boat, water, lake, mountains, landscape, zille, hallst\u00e4ttersee, hallstatt, austria",
+     "duration": 15,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 107635,
+     "url": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/13/107635-678971100_small.jpg",
+     "page": "https://pixabay.com/videos/id-107635/",
+     "tags": "rain, man, enjoy, man in rain, love, man raises his arms, heavy rain",
+     "duration": 32,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 135320,
+     "url": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/17/135320-761287316_small.jpg",
+     "page": "https://pixabay.com/videos/id-135320/",
+     "tags": "man, old man, old asian man, big city, asian, city night, old",
+     "duration": 10,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 253998,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253998_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253998_small.jpg",
+     "page": "https://pixabay.com/videos/id-253998/",
+     "tags": "tenderness, cute, fondness, father, family, baby, parent, child, love, dad, man, people, happy, play, girl, cold, winter, snow",
+     "duration": 9,
+     "query": "man confused"
+    },
+    {
+     "pixabay_id": 46637,
+     "url": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/07/46637-448480646_small.jpg",
+     "page": "https://pixabay.com/videos/id-46637/",
+     "tags": "alone, person, man, people, guitar, sing, lonely, child, love, guy, happy, young, river, life, freedom, streets, night, light, sky, outdoor",
+     "duration": 24,
+     "query": "man confused"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Then a team of memory researchers decided to test it.",
+   "candidates": [
+    {
+     "pixabay_id": 192281,
+     "url": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/06/192281-892475127_small.jpg",
+     "page": "https://pixabay.com/videos/id-192281/",
+     "tags": "scientist, laboratory, research, space, science, technology, discussion",
+     "duration": 15,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262464,
+     "url": "https://cdn.pixabay.com/video/2025/03/04/262464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/04/262464_small.jpg",
+     "page": "https://pixabay.com/videos/id-262464/",
+     "tags": "scientist, laboratory, lab, blue-collar",
+     "duration": 21,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 40353,
+     "url": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/27/40353-425442466_small.jpg",
+     "page": "https://pixabay.com/videos/id-40353/",
+     "tags": "medicine, doctor, the medicine, hospital, laboratory, medical, healthcare, scientist, clinic, health, disease, technician",
+     "duration": 16,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 81241,
+     "url": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/12/81241-576082910_small.jpg",
+     "page": "https://pixabay.com/videos/id-81241/",
+     "tags": "quality, test, control, industry, plant, lab, production, technician, technology, worker, factory, laboratory, analysis, equipment, research, agriculture, gmo, person, medical, scientist",
+     "duration": 9,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262188,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262188_small.jpg",
+     "page": "https://pixabay.com/videos/id-262188/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 14,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 262187,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262187_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262187_small.jpg",
+     "page": "https://pixabay.com/videos/id-262187/",
+     "tags": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe, visualization, gloves, analysis, education, innovation",
+     "duration": 12,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 4372,
+     "url": "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/11/4372-178617297_small.jpg",
+     "page": "https://pixabay.com/videos/id-4372/",
+     "tags": "laboratory, architecture, modern, science, technology, office, future, lab, machine, tool, engineering, architect, creative, scientist, technical",
+     "duration": 11,
+     "query": "scientist laboratory"
+    },
+    {
+     "pixabay_id": 216232,
+     "url": "https://cdn.pixabay.com/video/2024/06/11/216232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/11/216232_small.jpg",
+     "page": "https://pixabay.com/videos/id-216232/",
+     "tags": "chemistry, science, laboratory, physics, experiment, scientist, energy, equipment",
+     "duration": 16,
+     "query": "scientist laboratory"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "They set up rooms in a lab. People picked up an object at one table, carried it, and put it down at another table.",
+   "candidates": [
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 2775,
+     "url": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/10/2775-162345689_small.jpg",
+     "page": "https://pixabay.com/videos/id-2775/",
+     "tags": "blue tit, bird box, bird house, garden, nest, mate, bird, box, wildlife, nature, spring, small, nesting, ornithology, songbird, birdwatching",
+     "duration": 30,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 143884,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_small.jpg",
+     "page": "https://pixabay.com/videos/id-143884/",
+     "tags": "christmas, xmas, decoration, celebration, gifts, 25 december, christmas gifts, gifts boxes, box",
+     "duration": 7,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 65672,
+     "url": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/19/65672-515351571_small.jpg",
+     "page": "https://pixabay.com/videos/id-65672/",
+     "tags": "honey, honey bees, honey box, crate, farm",
+     "duration": 52,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 8686,
+     "url": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_small.jpg",
+     "page": "https://pixabay.com/videos/id-8686/",
+     "tags": "box, taper, industrial, production, packaging, cardboard, line, industry, postal service, logistics, package, packing, packing boxes",
+     "duration": 8,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 63834,
+     "url": "https://cdn.pixabay.com/video/2021/02/02/63834-508702441_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/02/63834-508702441_small.jpg",
+     "page": "https://pixabay.com/videos/id-63834/",
+     "tags": "honey bees, bees, beehive, honey bee farming, honey bee box",
+     "duration": 31,
+     "query": "carrying box"
+    },
+    {
+     "pixabay_id": 135086,
+     "url": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/16/135086-760812605_small.jpg",
+     "page": "https://pixabay.com/videos/id-135086/",
+     "tags": "rodent, box, nibble, wood, scratch, wild, zoo",
+     "duration": 14,
+     "query": "carrying box"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Sometimes the second table was in the same big room. Sometimes it was through a door, in a new room. The walking distance was the same.",
+   "candidates": [
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 282995,
+     "url": "https://cdn.pixabay.com/video/2025/06/01/282995_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/01/282995_small.jpg",
+     "page": "https://pixabay.com/videos/id-282995/",
+     "tags": "hiking, walking, trail, man, alone, single, middle-aged, adult, human, forest, landscape, path, environment, fog, winter, frost, woodlands, wood, mist, sunbeams",
+     "duration": 14,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 1383,
+     "url": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/26/1383-147055496_small.jpg",
+     "page": "https://pixabay.com/videos/id-1383/",
+     "tags": "airport, slide, slider, passengers, plane, gate, waiting, sitting, glass, reflection, walking, people, route, journey, trip, vacation, i waiting area",
+     "duration": 7,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 202743,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202743-918944206_small.jpg",
+     "page": "https://pixabay.com/videos/id-202743/",
+     "tags": "man, walking, path, netherlands, drenthe, alone, sunrise",
+     "duration": 31,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 4722,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4722-179738614_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4722-179738614_small.jpg",
+     "page": "https://pixabay.com/videos/id-4722/",
+     "tags": "beach, feet, sand, walking, vacation, holidays, summer, foot, travel, sea, water, tropical, barefoot, relaxation, relax, ocean, people, nature, leisure, coast, person, coastline, lifestyle, outdoor, legs, walk, seaside, footprint, seashore, landscape, surf",
+     "duration": 12,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 202753,
+     "url": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/03/202753-918944243_small.jpg",
+     "page": "https://pixabay.com/videos/id-202753/",
+     "tags": "man, path, walking, sunrise, netherlands, drenthe, alone",
+     "duration": 26,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 76621,
+     "url": "https://cdn.pixabay.com/video/2021/06/06/76621-559757958_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/06/76621-559757958_small.jpg",
+     "page": "https://pixabay.com/videos/id-76621/",
+     "tags": "man, adult, road, walking, walk, people",
+     "duration": 22,
+     "query": "walking through doorway"
+    },
+    {
+     "pixabay_id": 177254,
+     "url": "https://cdn.pixabay.com/video/2023/08/22/177254-857376654_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/22/177254-857376654_small.jpg",
+     "page": "https://pixabay.com/videos/id-177254/",
+     "tags": "couple, hands, love, walking",
+     "duration": 17,
+     "query": "walking through doorway"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Then, right after they put it down, they were asked a simple question: what did you just put down?",
+   "candidates": [
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 701,
+     "url": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/06/701-138504820_small.jpg",
+     "page": "https://pixabay.com/videos/id-701/",
+     "tags": "massage, wellness, recreation, spa, massage therapy, therapy, health, treatment, relaxation, body, care, massage woman, woman, relax, body care, luxury, wellbeing, skin, back, pampering, hands, 127789756",
+     "duration": 15,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 7826,
+     "url": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/17/7826-204516436_small.jpg",
+     "page": "https://pixabay.com/videos/id-7826/",
+     "tags": "woman, girl, shooting, photography, paint, color, creative, cinemagraphs",
+     "duration": 9,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "woman questioned"
+    },
+    {
+     "pixabay_id": 58142,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_small.jpg",
+     "page": "https://pixabay.com/videos/id-58142/",
+     "tags": "woman, flowers, plants, field, garden, nature, gardening, petals, floral, flora, blossom, blooming, fresh, spring, park, outdoors",
+     "duration": 13,
+     "query": "woman questioned"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "text": "The people who had walked through a doorway forgot more. Same time. Same distance. The only difference was the door.",
+   "candidates": [
+    {
+     "pixabay_id": 20459,
+     "url": "https://cdn.pixabay.com/video/2019/01/04/20459-309694545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/04/20459-309694545_small.jpg",
+     "page": "https://pixabay.com/videos/id-20459/",
+     "tags": "door, lock, old",
+     "duration": 11,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 20263,
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20263-308335545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/26/20263-308335545_small.jpg",
+     "page": "https://pixabay.com/videos/id-20263/",
+     "tags": "ruins, house, burnt, burned, building, door, windows",
+     "duration": 19,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 20458,
+     "url": "https://cdn.pixabay.com/video/2019/01/04/20458-309694541_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/04/20458-309694541_small.jpg",
+     "page": "https://pixabay.com/videos/id-20458/",
+     "tags": "door, wood, shed, old",
+     "duration": 5,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 20265,
+     "url": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/12/26/20265-308335549_small.jpg",
+     "page": "https://pixabay.com/videos/id-20265/",
+     "tags": "ruins, house, burnt, burned, building, door, nails, light, architecture, old",
+     "duration": 16,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 131988,
+     "url": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/20/131988-751915297_small.jpg",
+     "page": "https://pixabay.com/videos/id-131988/",
+     "tags": "key, take, open, key code, instrument, door",
+     "duration": 8,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 128321,
+     "url": "https://cdn.pixabay.com/video/2022/08/18/128321-741195841_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/18/128321-741195841_small.jpg",
+     "page": "https://pixabay.com/videos/id-128321/",
+     "tags": "curtains, door, window, patio, movement, air, wind, terrace, sun, bright, light, warm, tranquility, beauty, calm, summer",
+     "duration": 11,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 124170,
+     "url": "https://cdn.pixabay.com/video/2022/07/14/124170-730515125_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/14/124170-730515125_small.jpg",
+     "page": "https://pixabay.com/videos/id-124170/",
+     "tags": "gate, door, tunnel, view, old, ancient, vista, walk, passage, architecture, tower, fortress, castle, park, trees, city, cityscape",
+     "duration": 22,
+     "query": "door"
+    },
+    {
+     "pixabay_id": 214855,
+     "url": "https://cdn.pixabay.com/video/2024/06/01/214855_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/01/214855_small.jpg",
+     "page": "https://pixabay.com/videos/id-214855/",
+     "tags": "door, gate, castle, fortress, nexus, passage, wall, stone, wood, wooden, secret, dream, path, discovery, unknown, closed, locked",
+     "duration": 29,
+     "query": "door"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "text": "The researchers then tried something else. If the memory was left behind in the first room, maybe going back would bring it back.",
+   "candidates": [
+    {
+     "pixabay_id": 10120,
+     "url": "https://cdn.pixabay.com/video/2017/06/20/10120-222371347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/20/10120-222371347_small.jpg",
+     "page": "https://pixabay.com/videos/id-10120/",
+     "tags": "young woman, meadow, go, dress, robe, field, grass, clothes, walking, step, movement, village, countryside, wind, back, gait, developing hair, road",
+     "duration": 12,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 221151,
+     "url": "https://cdn.pixabay.com/video/2024/07/14/221151_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/07/14/221151_small.jpg",
+     "page": "https://pixabay.com/videos/id-221151/",
+     "tags": "girl, road, back view, autumn, beautiful, nature",
+     "duration": 14,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 2302,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2302-157183630_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2302-157183630_small.jpg",
+     "page": "https://pixabay.com/videos/id-2302/",
+     "tags": "walking away, feet, legs, walk, rain, pavement, going, raindrops",
+     "duration": 12,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 23796,
+     "url": "https://cdn.pixabay.com/video/2019/05/20/23796-337668530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/20/23796-337668530_small.jpg",
+     "page": "https://pixabay.com/videos/id-23796/",
+     "tags": "legs, walking, city, street, movement, people",
+     "duration": 10,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 39836,
+     "url": "https://cdn.pixabay.com/video/2020/05/22/39836-424360861_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/22/39836-424360861_small.jpg",
+     "page": "https://pixabay.com/videos/id-39836/",
+     "tags": "people, street, ukraine, pokrov, city, park, walking",
+     "duration": 24,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 263298,
+     "url": "https://cdn.pixabay.com/video/2025/03/08/263298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/08/263298_small.jpg",
+     "page": "https://pixabay.com/videos/id-263298/",
+     "tags": "walking, camping, climbing",
+     "duration": 10,
+     "query": "walking back hallway"
+    },
+    {
+     "pixabay_id": 20837,
+     "url": "https://cdn.pixabay.com/video/2019/01/19/20837-312432073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/19/20837-312432073_small.jpg",
+     "page": "https://pixabay.com/videos/id-20837/",
+     "tags": "hallway, dark, corridor, dim, mystery, scary, path, hall, old, walls, building, decay, broken, lights, flickering, flickering lights, abandoned",
+     "duration": 7,
+     "query": "walking back hallway"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "text": "That's what we all do, right? Walk back to the bedroom and suddenly remember.",
+   "candidates": [
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 275498,
+     "url": "https://cdn.pixabay.com/video/2025/04/29/275498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/29/275498_small.jpg",
+     "page": "https://pixabay.com/videos/id-275498/",
+     "tags": "woman, young, skater, skate, skateboard, sport, skateboarding, style, street, lifestyle, urban, extreme, skateboarder, board",
+     "duration": 13,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 169589,
+     "url": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/01/169589-841557039_small.jpg",
+     "page": "https://pixabay.com/videos/id-169589/",
+     "tags": "woman, pregnant, pregnant woman, baby",
+     "duration": 20,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 445,
+     "url": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/13/445-136216234_small.jpg",
+     "page": "https://pixabay.com/videos/id-445/",
+     "tags": "yoga, health, exercise, woman, mountain, stretching, outdoor, girl, fitness, sport, female, lifestyle, healthy, body, person, concentration",
+     "duration": 14,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 38909,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38909-418897579_small.jpg",
+     "page": "https://pixabay.com/videos/id-38909/",
+     "tags": "woman, sunset, nature, sunrise, wind, hair",
+     "duration": 29,
+     "query": "woman remembers"
+    },
+    {
+     "pixabay_id": 91,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/91-135735330_small.jpg",
+     "page": "https://pixabay.com/videos/id-91/",
+     "tags": "photographer, beach, photography, camera, woman, girl, people, coast, sea, ocean, vacation, holidays, tourism, tourist, view, photo, picture, viewpoint, female",
+     "duration": 15,
+     "query": "woman remembers"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "text": "In a virtual version of the test, people who walked back into the first room did not do any better.",
+   "candidates": [
+    {
+     "pixabay_id": 129288,
+     "url": "https://cdn.pixabay.com/video/2022/08/27/129288-743827388_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/27/129288-743827388_small.jpg",
+     "page": "https://pixabay.com/videos/id-129288/",
+     "tags": "device, technology, internet, smart, person, media relax, home wireless, social teen, user, buy one, using, social media, technology virtual, lifestyle",
+     "duration": 10,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 110927,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110927-689949655_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110927-689949655_small.jpg",
+     "page": "https://pixabay.com/videos/id-110927/",
+     "tags": "waves, sea, ocean, shore, coast, aerial view, wilderness, skyline, midtown, 4k, modern, virtual, gorgeous, cinematic, texture",
+     "duration": 15,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 110943,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110943-689510600_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110943-689510600_small.jpg",
+     "page": "https://pixabay.com/videos/id-110943/",
+     "tags": "aerial view, wilderness, land, skyline, midtown, 4k, modern, 360, virtual, cinematic, tech, textured, backgrounds, wide, degree, zoom, stadium, jungle, private, buildings, drone, footage, australia, ground",
+     "duration": 15,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 110942,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110942-689510603_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110942-689510603_small.jpg",
+     "page": "https://pixabay.com/videos/id-110942/",
+     "tags": "aerial view, wilderness, land, skyline, midtown, 4k, modern, 360, virtual, cinematic, tech, textured, backgrounds, wide, degree, zoom, stadium, jungle, private, buildings, drone, footage, australia, ground",
+     "duration": 12,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 129291,
+     "url": "https://cdn.pixabay.com/video/2022/08/27/129291-743827393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/27/129291-743827393_small.jpg",
+     "page": "https://pixabay.com/videos/id-129291/",
+     "tags": "internet, technology virtual, person, smart, media, relax, home wireless, technology, social teen, modern surfing, device, user, social media, smartphone, lifestyle",
+     "duration": 10,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 129289,
+     "url": "https://cdn.pixabay.com/video/2022/08/27/129289-743827387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/27/129289-743827387_small.jpg",
+     "page": "https://pixabay.com/videos/id-129289/",
+     "tags": "internet, media, messenger app, person, smart, relax, home wireless, technology, social teen, modern surfing, device user, social media, people, technology virtual, looking, lifestyle",
+     "duration": 10,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 110945,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110945-689949688_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110945-689949688_small.jpg",
+     "page": "https://pixabay.com/videos/id-110945/",
+     "tags": "aerial view, wilderness, land, skyline, 4k, modern, virtual, cinematic, tech, textured, backgrounds, wide, zoom, stadium, jungle, private, buildings, drone, footage, australia, ground, scenery, photo",
+     "duration": 16,
+     "query": "virtual reality"
+    },
+    {
+     "pixabay_id": 110941,
+     "url": "https://cdn.pixabay.com/video/2022/03/16/110941-689510597_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/16/110941-689510597_small.jpg",
+     "page": "https://pixabay.com/videos/id-110941/",
+     "tags": "aerial view, wilderness, land, skyline, midtown, 4k, modern, 360, virtual, cinematic, tech, textured, backgrounds, wide, degree, zoom, stadium, jungle, private, buildings, drone, footage, australia, ground",
+     "duration": 13,
+     "query": "virtual reality"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "text": "What mattered was how many new rooms they had entered. Each new room made the forgetting a little worse.",
+   "candidates": [
+    {
+     "pixabay_id": 73531,
+     "url": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/08/73531-548642354_small.jpg",
+     "page": "https://pixabay.com/videos/id-73531/",
+     "tags": "man, corridor, coffee, phone, break, business, work, team, people, office, employees, marketing, environment, conversation, mobile, communication",
+     "duration": 60,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 127358,
+     "url": "https://cdn.pixabay.com/video/2022/08/10/127358-738456872_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/10/127358-738456872_small.jpg",
+     "page": "https://pixabay.com/videos/id-127358/",
+     "tags": "station, highlands, rail, railroad, wilderness, nature, corrour, corridor station, lonely, quiet, united kingdom, scotland",
+     "duration": 11,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 110714,
+     "url": "https://cdn.pixabay.com/video/2022/03/14/110714-688200219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/14/110714-688200219_small.jpg",
+     "page": "https://pixabay.com/videos/id-110714/",
+     "tags": "inside, islam, interior, islamic, mosque, blue, architecture, landmark, entrance, hall, muslim, religion, religious, grand, east, dome, arab, arabia, arabian, at, carpet, corridor, dubai, emirates, illuminated",
+     "duration": 9,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 127359,
+     "url": "https://cdn.pixabay.com/video/2022/08/10/127359-738456881_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/10/127359-738456881_small.jpg",
+     "page": "https://pixabay.com/videos/id-127359/",
+     "tags": "highlands, rail, railroad, station, wilderness, corrour, corridor station, lonely, quiet, nature, united kingdom, scotland",
+     "duration": 17,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 42126,
+     "url": "https://cdn.pixabay.com/video/2020/06/15/42126-431423125_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/15/42126-431423125_small.jpg",
+     "page": "https://pixabay.com/videos/id-42126/",
+     "tags": "castle, church, wall, stone, ancient, europe, germany, cathedral, fort, knight, king, door, medieval, architecture",
+     "duration": 14,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 86008,
+     "url": "https://cdn.pixabay.com/video/2021/08/22/86008-593059149_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/22/86008-593059149_small.jpg",
+     "page": "https://pixabay.com/videos/id-86008/",
+     "tags": "boats, homes, river, floats, door, water, architecture, laguna, venice, horizon, wooden, buildings, trip",
+     "duration": 9,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 214082,
+     "url": "https://cdn.pixabay.com/video/2024/05/28/214082_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/28/214082_small.jpg",
+     "page": "https://pixabay.com/videos/id-214082/",
+     "tags": "fortress, castle, tower, old, ancient, history, building, stone, rock, ocean, waves, water, defence, knight, historical, spain, island, empire, spanish, bridge, gate, door",
+     "duration": 28,
+     "query": "corridor doors"
+    },
+    {
+     "pixabay_id": 47603,
+     "url": "https://cdn.pixabay.com/video/2020/08/19/47603-451772692_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/19/47603-451772692_small.jpg",
+     "page": "https://pixabay.com/videos/id-47603/",
+     "tags": "cloudy, sky, farm, field, peaceful, history, wind, building, landscape, old, culture, paddy, countryside, door, vietnam, wood, country, clouds, pass, time, vintage, nature, sunset",
+     "duration": 7,
+     "query": "corridor doors"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "text": "So what's going on? The best explanation is that your brain doesn't record your day as one long video.",
+   "candidates": [
+    {
+     "pixabay_id": 24496,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24496-344562743_small.jpg",
+     "page": "https://pixabay.com/videos/id-24496/",
+     "tags": "camera, the video camera, movie, cinema, photo, photographer, video, lens, shoot, cameraman, video camera, recording, digital",
+     "duration": 19,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 24497,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24497-344562750_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24497-344562750_small.jpg",
+     "page": "https://pixabay.com/videos/id-24497/",
+     "tags": "cam, camera, analog camera, camera equipment, camera man, digital camera, action camera, vintage camera, video recording, videographer, videotape, video production, filmmakers",
+     "duration": 41,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 26537,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_small.jpg",
+     "page": "https://pixabay.com/videos/id-26537/",
+     "tags": "video, recording, cinema, camera, image, the media, technology, monitoring, production, notebook, monitor, internet, computer, screen, laptop, people, digital, keyboard, pc",
+     "duration": 18,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 26533,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_small.jpg",
+     "page": "https://pixabay.com/videos/id-26533/",
+     "tags": "video production, camera, macbook, computer, laptop, technology, apple, screen, event, equipments, professional, focus, photo, lens, image, man, transmission, live, recording",
+     "duration": 9,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 992,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/992-142621119_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/992-142621119_small.jpg",
+     "page": "https://pixabay.com/videos/id-992/",
+     "tags": "director, movie, film, cinema, video maker, film producer, executive producer, recording, broadcasting, camera, cameraman, entertainment, executive, filming, film-making, footman, electronics",
+     "duration": 14,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 24499,
+     "url": "https://cdn.pixabay.com/video/2019/06/17/24499-344562763_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/17/24499-344562763_small.jpg",
+     "page": "https://pixabay.com/videos/id-24499/",
+     "tags": "cam, camera, analog camera, camera equipment, the camera's lens, camera man, digital camera, vintage camera, video recording, videotape, filmmakers",
+     "duration": 19,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 67823,
+     "url": "https://cdn.pixabay.com/video/2021/03/12/67823-523387001_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/12/67823-523387001_small.jpg",
+     "page": "https://pixabay.com/videos/id-67823/",
+     "tags": "camera, computer, video editing, edition, premiere, movie theater, recording, woman, person working",
+     "duration": 25,
+     "query": "video camera recording"
+    },
+    {
+     "pixabay_id": 166284,
+     "url": "https://cdn.pixabay.com/video/2023/06/08/166284-834580727_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/08/166284-834580727_small.jpg",
+     "page": "https://pixabay.com/videos/id-166284/",
+     "tags": "noise, vhs tape, tape, video recorder, camera, video, retro",
+     "duration": 18,
+     "query": "video camera recording"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "text": "It cuts it into scenes, a bit like a film editor.",
+   "candidates": [
+    {
+     "pixabay_id": 190002,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/190002-887067381_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/190002-887067381_small.jpg",
+     "page": "https://pixabay.com/videos/id-190002/",
+     "tags": "image editing, video editing, equipment, software, event, video edition, video effects, video production",
+     "duration": 10,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 189998,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/189998-887067364_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/189998-887067364_small.jpg",
+     "page": "https://pixabay.com/videos/id-189998/",
+     "tags": "image editing, video editing, equipment, software, event, video edition, video effects, video production",
+     "duration": 10,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 189997,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/189997-887078826_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/189997-887078826_small.jpg",
+     "page": "https://pixabay.com/videos/id-189997/",
+     "tags": "image editing, video editing, equipment, software, event, video edition, video effects, video production",
+     "duration": 8,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 67825,
+     "url": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_small.jpg",
+     "page": "https://pixabay.com/videos/id-67825/",
+     "tags": "video, camera, photo, movie, technology, digital, objects, computer, woman, image, macbook, the editing of the video, edition, premiere",
+     "duration": 26,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 189989,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/189989-887078813_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/189989-887078813_small.jpg",
+     "page": "https://pixabay.com/videos/id-189989/",
+     "tags": "headphones, equipment, image editing, video edition, computer",
+     "duration": 10,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 25059,
+     "url": "https://cdn.pixabay.com/video/2019/07/08/25059-347958040_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/08/25059-347958040_small.jpg",
+     "page": "https://pixabay.com/videos/id-25059/",
+     "tags": "the editing of the video, premiere, video, movie theater, dark, studio, video studio, videos, cameraman, the editor of the video, recording, the recording of the video",
+     "duration": 23,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 25058,
+     "url": "https://cdn.pixabay.com/video/2019/07/08/25058-347958039_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/08/25058-347958039_small.jpg",
+     "page": "https://pixabay.com/videos/id-25058/",
+     "tags": "the editing of the video, premiere, video, movie theater, dark, studio, video studio, videos, cameraman, the editor of the video, recording, the recording of the video",
+     "duration": 21,
+     "query": "video editing"
+    },
+    {
+     "pixabay_id": 189986,
+     "url": "https://cdn.pixabay.com/video/2023/11/21/189986-887067347_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/21/189986-887067347_small.jpg",
+     "page": "https://pixabay.com/videos/id-189986/",
+     "tags": "image editing, video editing, equipment, software, event, video edition, video effects, video production",
+     "duration": 15,
+     "query": "video editing"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "text": "A doorway is a strong signal that a scene has ended. When the scene ends, your brain files the old scene away and gets ready for the new one.",
+   "candidates": [
+    {
+     "pixabay_id": 349087,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349087_small.jpg",
+     "page": "https://pixabay.com/videos/id-349087/",
+     "tags": "file, folder, document, cabinet, archive, spreadsheet, paper, law, libra, justice, weigh, judge, paragraph, balance",
+     "duration": 17,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 14900,
+     "url": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_small.jpg",
+     "page": "https://pixabay.com/videos/id-14900/",
+     "tags": "network, internet, data, switch, router, cabinet, ethernet, equipment, connection, server, cable, rack, networking, lan, technology",
+     "duration": 24,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 12897,
+     "url": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/12/12897-242487545_small.jpg",
+     "page": "https://pixabay.com/videos/id-12897/",
+     "tags": "school, student, studies, to read, book, young woman, cabinet, think",
+     "duration": 10,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 14906,
+     "url": "https://cdn.pixabay.com/video/2018/03/09/14906-259623339_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/09/14906-259623339_small.jpg",
+     "page": "https://pixabay.com/videos/id-14906/",
+     "tags": "network, internet, data, switch, router, cabinet, ethernet, equipment, connection, server, cable, rack, networking, lan, technology",
+     "duration": 8,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 14907,
+     "url": "https://cdn.pixabay.com/video/2018/03/09/14907-259623341_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/09/14907-259623341_small.jpg",
+     "page": "https://pixabay.com/videos/id-14907/",
+     "tags": "network, internet, data, switch, router, cabinet, ethernet, equipment, connection, server, cable, rack, networking, lan, technology",
+     "duration": 15,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 87146,
+     "url": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/01/87146-601076915_small.jpg",
+     "page": "https://pixabay.com/videos/id-87146/",
+     "tags": "file, documents, office, paperwork",
+     "duration": 6,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 134,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_small.jpg",
+     "page": "https://pixabay.com/videos/id-134/",
+     "tags": "espresso, coffee, ristretto, hot beverage, cup, cappuccino, drink, glass, cafe, relax, brown, machine, filling",
+     "duration": 17,
+     "query": "filing cabinet"
+    },
+    {
+     "pixabay_id": 349094,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349094_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349094_small.jpg",
+     "page": "https://pixabay.com/videos/id-349094/",
+     "tags": "business, computer, working, report, marketing, information, office, data, statistics, facts, file, stationary, interview, loan, feedback, flag, credit, investment, think, idea, thinking, human, women, people",
+     "duration": 20,
+     "query": "filing cabinet"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "text": "The plan you made in the bedroom gets filed with the bedroom.",
+   "candidates": [
+    {
+     "pixabay_id": 39292,
+     "url": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/17/39292-422630811_small.jpg",
+     "page": "https://pixabay.com/videos/id-39292/",
+     "tags": "curtain, inside, house, room, weekend, bathrobe, windows, home, bedroom, quarantine, covid, lockdown, rest, calm, quiet, silence",
+     "duration": 13,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 107264,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107264-678173498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107264-678173498_small.jpg",
+     "page": "https://pixabay.com/videos/id-107264/",
+     "tags": "anxiety, stress, depression, sad, alone, sadness, bills, money, rent, sue, dough, lost, serious, angry, stressed, headache, depressed, man, checks, sweater, bedroom, man worried, man with anxiety, no money, cash",
+     "duration": 8,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 373338,
+     "url": "https://cdn.pixabay.com/video/2026/08/30/373338_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/30/373338_small.jpg",
+     "page": "https://pixabay.com/videos/id-373338/",
+     "tags": "cabin, night, rain, weather, water, couch, sofa, furniture, chair, interior, window, cozy, cushion, bedroom, indoors, white noise",
+     "duration": 55,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 375152,
+     "url": "https://cdn.pixabay.com/video/2026/09/09/375152_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/09/375152_small.jpg",
+     "page": "https://pixabay.com/videos/id-375152/",
+     "tags": "cabin, night, rain, weather, water, couch, sofa, furniture, chair, interior, window, cozy, cushion, bedroom, indoors, white noise",
+     "duration": 55,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 282329,
+     "url": "https://cdn.pixabay.com/video/2025/05/29/282329_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/29/282329_small.jpg",
+     "page": "https://pixabay.com/videos/id-282329/",
+     "tags": "man, window, silhouette, morning, cinematic, room, curtain, bedroom",
+     "duration": 5,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 363408,
+     "url": "https://cdn.pixabay.com/video/2026/07/11/363408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/11/363408_small.jpg",
+     "page": "https://pixabay.com/videos/id-363408/",
+     "tags": "bed, bedroom, sleep, room, home, cozy, mattress, rest, hotel, baby, moss, furniture, coffee, candle",
+     "duration": 9,
+     "query": "bedroom"
+    },
+    {
+     "pixabay_id": 37417,
+     "url": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/28/37417-414024531_small.jpg",
+     "page": "https://pixabay.com/videos/id-37417/",
+     "tags": "swing, empty, playground, lonely, abandoned, rocking chair, emotional, rest, quiet",
+     "duration": 12,
+     "query": "empty bedroom"
+    },
+    {
+     "pixabay_id": 63749,
+     "url": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/01/63749-507811827_small.jpg",
+     "page": "https://pixabay.com/videos/id-63749/",
+     "tags": "abandoned, building, ruins, old, decay, architecture, destruction, barricaded, empty",
+     "duration": 17,
+     "query": "empty bedroom"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "text": "That's not a bug. Think about how much you do in a day.",
+   "candidates": [
+    {
+     "pixabay_id": 1694,
+     "url": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/18/1694-149530466_small.jpg",
+     "page": "https://pixabay.com/videos/id-1694/",
+     "tags": "street, walking, crowd, people, urban, city, blurred, walking people, women, motion, life, travel, traffic, downtown, pedestrian, unrecognizable, urban city, bokeh, business, group, busy, blur, urban street, men, crowded, town, person, day, city street, rush, road, walk, scene, sidewalk, outdoors, lifestyle",
+     "duration": 20,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 15604,
+     "url": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/15/15604-265015199_small.jpg",
+     "page": "https://pixabay.com/videos/id-15604/",
+     "tags": "time, clock, watch, loop, hours, minutes, day, looping, deadline, countdown, business",
+     "duration": 29,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 129430,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129430-744370633_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129430-744370633_small.jpg",
+     "page": "https://pixabay.com/videos/id-129430/",
+     "tags": "river, building, modern, architecture, asia, business, city, cityscape, day, downtown, famous, landmark, landscape, office, seoul, sky, skyline, skyscraper, south korea, tourism, tower, travel, urban, view",
+     "duration": 14,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 248131,
+     "url": "https://cdn.pixabay.com/video/2024/12/21/248131_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/21/248131_small.jpg",
+     "page": "https://pixabay.com/videos/id-248131/",
+     "tags": "aerial, architecture, baku drone, baku flame towers, baku night, baku old city, block, blue, bridge, building, business, capital, caspian sea, city, cityscape, cloud, color, construction, cop29, crane, cumulus, day, dense",
+     "duration": 15,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 248139,
+     "url": "https://cdn.pixabay.com/video/2024/12/21/248139_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/21/248139_small.jpg",
+     "page": "https://pixabay.com/videos/id-248139/",
+     "tags": "aerial, architecture, baku drone, baku flame towers, baku night, baku old city, block, blue, bridge, building, business, capital, caspian sea, city, cityscape, cloud, color, construction, cop29, crane, cumulus, day, dense",
+     "duration": 28,
+     "query": "busy day"
+    },
+    {
+     "pixabay_id": 103411,
+     "url": "https://cdn.pixabay.com/video/2022/01/04/103411-662525832_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/01/04/103411-662525832_small.jpg",
+     "page": "https://pixabay.com/videos/id-103411/",
+     "tags": "car, pedestrians, evening, busy, day, urban, traffic, sunset, street, silhouette, shopping, road, downtown, city, woman, walk, view, unrecognizable, town, tourists, speed, sidewalk, rush, person, people traveling",
+     "duration": 20,
+     "query": "busy day"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "text": "If every plan from every room stayed active, your head would be full of old, finished business.",
+   "candidates": [
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 67358,
+     "url": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_small.jpg",
+     "page": "https://pixabay.com/videos/id-67358/",
+     "tags": "ink, water, underwater, foam, smoke, background, macro, abstract, color, paint, watercolor, beautiful wallpaper, art, texture, painting, design, pattern, blend, messy, drop, flow, wave, form, artistic, live wallpaper",
+     "duration": 59,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 58193,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_small.jpg",
+     "page": "https://pixabay.com/videos/id-58193/",
+     "tags": "ink, colors, that, underwater, torn, smoke, background, macro, abstract, colour, paint, watercolor, art, tissue, painting, color, design, pattern, blend, messy, drop, beautiful wallpaper, flow, wave, form, artistic, live wallpaper",
+     "duration": 43,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 142370,
+     "url": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_small.jpg",
+     "page": "https://pixabay.com/videos/id-142370/",
+     "tags": "coffee, drink, cup, mug, desk, computer",
+     "duration": 33,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 137186,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_small.jpg",
+     "page": "https://pixabay.com/videos/id-137186/",
+     "tags": "office, team work, desk, job, responsibility",
+     "duration": 11,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 133319,
+     "url": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/03/133319-756469375_small.jpg",
+     "page": "https://pixabay.com/videos/id-133319/",
+     "tags": "coffee, coffee mug, office, desk",
+     "duration": 21,
+     "query": "messy desk"
+    },
+    {
+     "pixabay_id": 67354,
+     "url": "https://cdn.pixabay.com/video/2021/03/08/67354-521707462_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/08/67354-521707462_small.jpg",
+     "page": "https://pixabay.com/videos/id-67354/",
+     "tags": "ink, water, underwater, foam, smoke, background, macro, abstract, paint, watercolor, art, texture, painting, design, pattern, blend, messy, drop, flow, wave, form, beautiful wallpaper, artistic",
+     "duration": 57,
+     "query": "messy desk"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "text": "Closing the scene keeps your attention on where you are now. The cost is small: sometimes you lose a plan you still needed.",
+   "candidates": [
+    {
+     "pixabay_id": 129427,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129427-744370618_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129427-744370618_small.jpg",
+     "page": "https://pixabay.com/videos/id-129427/",
+     "tags": "businesswoman, headache, stress, business, career, close-up, employee, expression, face, focused, girl, serious, portrait",
+     "duration": 11,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 134537,
+     "url": "https://cdn.pixabay.com/video/2022/10/12/134537-759714607_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/12/134537-759714607_small.jpg",
+     "page": "https://pixabay.com/videos/id-134537/",
+     "tags": "woman, bikini, beach",
+     "duration": 14,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 240659,
+     "url": "https://cdn.pixabay.com/video/2024/11/10/240659_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/10/240659_small.jpg",
+     "page": "https://pixabay.com/videos/id-240659/",
+     "tags": "woman, exploration, nature, outdoors",
+     "duration": 14,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 272619,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272619_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272619_small.jpg",
+     "page": "https://pixabay.com/videos/id-272619/",
+     "tags": "woman, sad, depression, sadness, loneliness",
+     "duration": 14,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 73404,
+     "url": "https://cdn.pixabay.com/video/2021/05/07/73404-548671139_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/07/73404-548671139_small.jpg",
+     "page": "https://pixabay.com/videos/id-73404/",
+     "tags": "woman, tree, flowers, petals, sunrays, sunset",
+     "duration": 33,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 270065,
+     "url": "https://cdn.pixabay.com/video/2025/04/06/270065_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/06/270065_small.jpg",
+     "page": "https://pixabay.com/videos/id-270065/",
+     "tags": "makeup, cosmetics, woman",
+     "duration": 14,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 43606,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43606-436237588_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43606-436237588_small.jpg",
+     "page": "https://pixabay.com/videos/id-43606/",
+     "tags": "woman, nature, sunset, sunrise, sun",
+     "duration": 11,
+     "query": "woman focused"
+    },
+    {
+     "pixabay_id": 12004,
+     "url": "https://cdn.pixabay.com/video/2017/09/15/12004-234428494_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/15/12004-234428494_small.jpg",
+     "page": "https://pixabay.com/videos/id-12004/",
+     "tags": "woman applying makeup, mask, make up, attractive, melted, fashion, lips, human, woman, portrait, girl, face, close up, female, pretty, young woman, beauty",
+     "duration": 8,
+     "query": "woman focused"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "text": "And this is the first clue to our question. Your brain isn't trying to keep everything. It's trying to keep what fits the moment you're in.",
+   "candidates": [
+    {
+     "pixabay_id": 11638,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11638-231758689_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11638-231758689_small.jpg",
+     "page": "https://pixabay.com/videos/id-11638/",
+     "tags": "chop, vegetables, food, cooking, kitchen, meal, dinner, healthy, cuisine, chopping, vegetarian, preparation, knife, fresh, cutting, meat, cook, board, recipe, diet, nutrition, table, pepper, restaurant, ingredient, eating, rustic, woman, green",
+     "duration": 60,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 11596,
+     "url": "https://cdn.pixabay.com/video/2017/08/29/11596-231571835_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/29/11596-231571835_small.jpg",
+     "page": "https://pixabay.com/videos/id-11596/",
+     "tags": "chopping, food, cooking, meal, table, preparation, ginger, organic, nutrition, ingredient, dining, eating, vegetable, homemade, woman, recipe, gourmet, home, dinner, healthy, fresh, cuisine, kitchen, preparing, prepared, raw",
+     "duration": 49,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 41008,
+     "url": "https://cdn.pixabay.com/video/2020/06/03/41008-427854674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/03/41008-427854674_small.jpg",
+     "page": "https://pixabay.com/videos/id-41008/",
+     "tags": "man, woman, couple, love, people, relationship, romantic, happy, romance, hug, pair, water, hand, music, kitchen, baby, lovers, silhouette, emotion, sunset, space, mother",
+     "duration": 24,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 8702,
+     "url": "https://cdn.pixabay.com/video/2017/04/15/8702-213454554_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/15/8702-213454554_small.jpg",
+     "page": "https://pixabay.com/videos/id-8702/",
+     "tags": "cooking, pancakes, food, kitchen, breakfast, meal, homemade, cook, traditional, batter, morning, hot, tasty, delicious, home, people, woman",
+     "duration": 38,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 166519,
+     "url": "https://cdn.pixabay.com/video/2023/06/09/166519-834930442_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/09/166519-834930442_small.jpg",
+     "page": "https://pixabay.com/videos/id-166519/",
+     "tags": "woman, vendor, nachos, sauce, food, cooking, kitchen, chili, corn, street, business, mexican",
+     "duration": 5,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 293074,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293074_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293074_small.jpg",
+     "page": "https://pixabay.com/videos/id-293074/",
+     "tags": "woman eating salad, poor appetite, digestive problems, food issues, unhealthy diet, bland food, tasteless salad, stressed eating, health concern, laptop at kitchen, distracted eating, eating disorder, stomach discomfort, unappetizing food, modern kitchen, wellness issue, thoughtful woman, diet struggles, home lifestyle, food intolerance, emotional eating, young adult, wellness awareness, diet habits, food reaction",
+     "duration": 20,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 9395,
+     "url": "https://cdn.pixabay.com/video/2017/05/29/9395-219552658_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/29/9395-219552658_small.jpg",
+     "page": "https://pixabay.com/videos/id-9395/",
+     "tags": "green onions, onion, vegetables, cut, woman, cutting board, table, knife, cook, kitchen, hands, food, prepare, greens, bitter",
+     "duration": 16,
+     "query": "woman kitchen"
+    },
+    {
+     "pixabay_id": 10045,
+     "url": "https://cdn.pixabay.com/video/2017/06/17/10045-222361296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/17/10045-222361296_small.jpg",
+     "page": "https://pixabay.com/videos/id-10045/",
+     "tags": "woman, hands, potato, potatoes, female hands, fingers, peel the potatoes, peel, waste, vegetable, tuber, knife, cook, prepare, kitchen, table",
+     "duration": 7,
+     "query": "woman kitchen"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "text": "But the next part of your day is harder on memory, because now there are other people in the room.",
+   "candidates": [
+    {
+     "pixabay_id": 87592,
+     "url": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/05/87592-602317646_small.jpg",
+     "page": "https://pixabay.com/videos/id-87592/",
+     "tags": "work, office, people, write, office work, pencils, crayon",
+     "duration": 21,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 4723,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4723-179738625_small.jpg",
+     "page": "https://pixabay.com/videos/id-4723/",
+     "tags": "busy, office, people, indoors, business, work, office people, occupation, working people, corporate, modern, start-up",
+     "duration": 14,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 87593,
+     "url": "https://cdn.pixabay.com/video/2021/09/05/87593-602317653_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/05/87593-602317653_small.jpg",
+     "page": "https://pixabay.com/videos/id-87593/",
+     "tags": "work, office, people, working, discussing, meeting",
+     "duration": 32,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 1035,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1035-142621331_small.jpg",
+     "page": "https://pixabay.com/videos/id-1035/",
+     "tags": "meeting, conference, talk, blur, bokeh, business, people, corporate, group, presentation, business meeting, office, corporate meeting, meeting people, room, discussion, communication, professional, teamwork, office meeting",
+     "duration": 16,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 39890,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39890-423345734_small.jpg",
+     "page": "https://pixabay.com/videos/id-39890/",
+     "tags": "office, people, business, work, team, human, corporate, the meeting, planning, project, young, plan",
+     "duration": 12,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 1057,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1057-142621433_small.jpg",
+     "page": "https://pixabay.com/videos/id-1057/",
+     "tags": "working, office, open, people, waiting, blur, bokeh, background, chairs, beautiful wallpaper, room",
+     "duration": 15,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "office people"
+    },
+    {
+     "pixabay_id": 1658,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_small.jpg",
+     "page": "https://pixabay.com/videos/id-1658/",
+     "tags": "whiteboard, planning, strategy, writing, plan, teamwork, office, people, business, education, presentation, strategy concept, corporate, person, businessman, display, show, present",
+     "duration": 13,
+     "query": "office people"
+    }
+   ]
+  }
+ ]
+}
