@@ -80,3 +80,7 @@
 - 2026-11-21: long 03 came out at 11:46 from ~1,950 words at voice 0.92 with pauses trimmed to 0.6 s (≈166 wpm effective). For a 13–15 min target the script needs ~2,200–2,500 words; slowing the voice is not the fix.
 - 2026-11-21: dark diagram frames (#111114) trigger blackdetect at pix_th 0.1 – check real black/white flashes with a mean/std scan instead.
 - 2026-11-21: ffmpeg freezeframes uses frame numbers; MPT/aligned long videos are VFR, so frame numbers ≠ t×30. Patch with an image overlay (-loop 1 still, enable=between(t,a,b)).
+
+- 2026-11-22: Same day, same style, both 'moments everyone knows': coins vs bills 221 vs hearing your name 13 → 'universal moment' is not enough on its own to predict a feed push; we still cannot say from the script which Shorts YouTube will test widely (prediction hit rate 3/12).
+- 2026-11-22: Across the 14 Shorts of 16–22 Nov, contrast hook cards ('X vs Y') and statement cards had the same day-1 spread (13–748 vs 13–720) → the hook-card form is not a lever we can see in our data yet.
+- 2026-11-22: Long 03 had 0 views at ~14.6 h, like long 02 (0 at 14.5 h, 4 after 7.6 days). Two of two long videos got no impressions in their first day; the long-video route to YPP hours depends on a bridge (Related video, 'Full video' card) that we have not yet measured.
