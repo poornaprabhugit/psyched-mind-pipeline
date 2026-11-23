@@ -1,16 +1,46 @@
 {
- "collected_at": "2026-11-23T07:36:30.671550+00:00",
+ "collected_at": "2026-11-23T18:23:39.171627+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
    "viewCount": "3412",
-   "subscriberCount": "8",
+   "subscriberCount": "9",
    "hiddenSubscriberCount": false,
-   "videoCount": "27"
+   "videoCount": "29"
   }
  },
  "videos": [
+  {
+   "id": "kYTeZ33L77o",
+   "title": "Why losing a ticket feels worse than losing cash \ud83c\udf9f\ufe0f",
+   "published": "2026-11-23T15:00:37Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT20S",
+   "statistics": {
+    "viewCount": "271",
+    "likeCount": "6",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "LMaoFT1GscA",
+   "title": "Why you feel your phone buzz when it didn't \ud83d\udcf3",
+   "published": "2026-11-23T11:00:22Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT17S",
+   "statistics": {
+    "viewCount": "179",
+    "likeCount": "2",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "WDPDtmLAfmg",
    "title": "Can money buy you happiness? The $75K myth \ud83d\udcb0",
@@ -19,7 +49,7 @@
    "publish_at": null,
    "duration": "PT24S",
    "statistics": {
-    "viewCount": "39",
+    "viewCount": "40",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34,7 +64,7 @@
    "publish_at": null,
    "duration": "PT23S",
    "statistics": {
-    "viewCount": "139",
+    "viewCount": "142",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -64,7 +94,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "17",
+    "viewCount": "18",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -79,7 +109,7 @@
    "publish_at": null,
    "duration": "PT24S",
    "statistics": {
-    "viewCount": "228",
+    "viewCount": "231",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -267,36 +297,6 @@
    }
   },
   {
-   "id": "kYTeZ33L77o",
-   "title": "Why losing a ticket feels worse than losing cash \ud83c\udf9f\ufe0f",
-   "published": "2026-11-21T10:24:05Z",
-   "privacy": "private",
-   "publish_at": "2026-11-23T15:00:00Z",
-   "duration": "PT20S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "LMaoFT1GscA",
-   "title": "Why you feel your phone buzz when it didn't \ud83d\udcf3",
-   "published": "2026-11-21T10:24:02Z",
-   "privacy": "private",
-   "publish_at": "2026-11-23T11:00:00Z",
-   "duration": "PT17S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "zc7YjPhg_wk",
    "title": "Half of people miss this gorilla. Would you? \ud83e\udd8d",
    "published": "2026-11-20T15:00:20Z",
@@ -334,7 +334,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "159",
+    "viewCount": "160",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -349,7 +349,7 @@
    "publish_at": null,
    "duration": "PT22S",
    "statistics": {
-    "viewCount": "898",
+    "viewCount": "899",
     "likeCount": "9",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -364,7 +364,7 @@
    "publish_at": null,
    "duration": "PT24S",
    "statistics": {
-    "viewCount": "53",
+    "viewCount": "58",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -409,7 +409,7 @@
    "publish_at": null,
    "duration": "PT22S",
    "statistics": {
-    "viewCount": "245",
+    "viewCount": "246",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -454,7 +454,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "3",
+    "viewCount": "4",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -484,7 +484,7 @@
    "publish_at": null,
    "duration": "PT10M5S",
    "statistics": {
-    "viewCount": "4",
+    "viewCount": "5",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -574,7 +574,7 @@
    "publish_at": null,
    "duration": "PT28S",
    "statistics": {
-    "viewCount": "17",
+    "viewCount": "18",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -589,7 +589,7 @@
    "publish_at": null,
    "duration": "PT33S",
    "statistics": {
-    "viewCount": "4",
+    "viewCount": "5",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -944,13 +944,13 @@
   },
   {
    "day": "2026-11-18",
-   "views": 210,
+   "views": 206,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 15
   },
   {
    "day": "2026-11-19",
-   "views": 920,
+   "views": 913,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 94
   },
@@ -1051,6 +1051,8 @@
   }
  ],
  "countries_by_video": {
+  "kYTeZ33L77o": [],
+  "LMaoFT1GscA": [],
   "JTo5p_ezo8w": [],
   "BAP6lbY6rtw": [],
   "zc7YjPhg_wk": [
