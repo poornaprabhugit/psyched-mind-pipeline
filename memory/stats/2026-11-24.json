@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-24T07:37:22.118475+00:00",
+ "collected_at": "2026-11-24T17:54:02.520635+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
@@ -7,10 +7,40 @@
    "viewCount": "4047",
    "subscriberCount": "9",
    "hiddenSubscriberCount": false,
-   "videoCount": "22"
+   "videoCount": "30"
   }
  },
  "videos": [
+  {
+   "id": "4tFUHb3eHDw",
+   "title": "Why a FREE chocolate with the bill makes you tip more \ud83c\udf6c",
+   "published": "2026-11-24T15:00:04Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT20S",
+   "statistics": {
+    "viewCount": "2",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "wXk-GQNTtjk",
+   "title": "Why you yawn when someone else yawns \ud83e\udd71",
+   "published": "2026-11-24T11:00:26Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "69",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "kYTeZ33L77o",
    "title": "Why losing a ticket feels worse than losing cash \ud83c\udf9f\ufe0f",
@@ -19,7 +49,7 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "659",
+    "viewCount": "661",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34,7 +64,7 @@
    "publish_at": null,
    "duration": "PT17S",
    "statistics": {
-    "viewCount": "181",
+    "viewCount": "180",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -64,7 +94,7 @@
    "publish_at": null,
    "duration": "PT23S",
    "statistics": {
-    "viewCount": "145",
+    "viewCount": "146",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -94,7 +124,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "21",
+    "viewCount": "22",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -267,36 +297,6 @@
    }
   },
   {
-   "id": "4tFUHb3eHDw",
-   "title": "Why a FREE chocolate with the bill makes you tip more \ud83c\udf6c",
-   "published": "2026-11-21T10:24:13Z",
-   "privacy": "private",
-   "publish_at": "2026-11-24T15:00:00Z",
-   "duration": "PT20S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "wXk-GQNTtjk",
-   "title": "Why you yawn when someone else yawns \ud83e\udd71",
-   "published": "2026-11-21T10:24:10Z",
-   "privacy": "private",
-   "publish_at": "2026-11-24T11:00:00Z",
-   "duration": "PT19S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
    "id": "zc7YjPhg_wk",
    "title": "Half of people miss this gorilla. Would you? \ud83e\udd8d",
    "published": "2026-11-20T15:00:20Z",
@@ -334,7 +334,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "160",
+    "viewCount": "161",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -349,7 +349,7 @@
    "publish_at": null,
    "duration": "PT22S",
    "statistics": {
-    "viewCount": "899",
+    "viewCount": "901",
     "likeCount": "9",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -379,7 +379,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "183",
+    "viewCount": "184",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -394,7 +394,7 @@
    "publish_at": null,
    "duration": "PT18S",
    "statistics": {
-    "viewCount": "90",
+    "viewCount": "91",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -424,7 +424,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "21",
+    "viewCount": "23",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
