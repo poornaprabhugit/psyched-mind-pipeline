@@ -3,6 +3,7 @@
 _Updated daily by the stats run. Move an item only when the evidence supports it. <1,000 views/video = noise ("too early")._
 
 ## Working (keep doing)
+- 2026-11-25 (research): no Short ≥1k because ~73% swipe + 0 shares, not topic; doc https://claude.ai/artifact/D5T761tdtjDStuY8mu3KYw (see research-log).
 - _Nothing proven yet._ All public Shorts are under 100 views (2026-11-14: max 67, IKEA). Channel 174 views (+72 in 24 h), 3 subs.
 
 - Leading signal (not proven, <1,000 views/video), 2026-11-19: this week's everyday/brain Shorts beat the wealth Shorts on day 1 – because 243, choice blindness 180 vs lottery 26, sunk cost 91, prices-9 25 (same style, length, loop ending). Matches the 17 Nov research (brain 1.7×, money in psych channels 0.55×). Our predictions had it backwards (wealth 'high', everyday 'medium'): 1 hit of 6 scored.
