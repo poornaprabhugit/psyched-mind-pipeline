@@ -156,3 +156,4 @@ Strategists:
 - 2026-11-15: added §0 Target audience (user rule): US > India > UK > Canada > EU; American spelling, plain English, slots for US + India.
 - 2026-11-15: added §00 How we decide (user rule): fact-based, research before decisions, no assumptions; user thoughts are inputs, not decisions.
 - 2026-11-17: §4 brain-first angle (user decision after channel research): 8 brain & memory / 4 brain & money / 2 brain & health per 14 Shorts. Replaces the 14 Nov wealth-led mix (8/14 wealth). Validate this first; length test (35–45 s vs 18–24 s) only after the user validates the angle.
+- 2026-11-25: user approved a share-trigger ending ("Send this to the friend who…") for Shorts from the 28 Nov batch; measure shares + likes per 1k vs earlier Shorts.
