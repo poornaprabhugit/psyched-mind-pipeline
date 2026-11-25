@@ -1,16 +1,46 @@
 {
- "collected_at": "2026-11-25T07:36:13.699215+00:00",
+ "collected_at": "2026-11-25T17:21:38.519118+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "4810",
+   "viewCount": "4817",
    "subscriberCount": "9",
    "hiddenSubscriberCount": false,
-   "videoCount": "31"
+   "videoCount": "33"
   }
  },
  "videos": [
+  {
+   "id": "oz3QSvK-k_4",
+   "title": "Why sitting alone with your thoughts feels so hard \ud83e\udde0",
+   "published": "2026-11-25T15:00:15Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT21S",
+   "statistics": {
+    "viewCount": "44",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "QW9XXje5jW4",
+   "title": "Why taking a photo makes you forget it \ud83d\udcf8",
+   "published": "2026-11-25T11:00:12Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT20S",
+   "statistics": {
+    "viewCount": "28",
+    "likeCount": "1",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "4tFUHb3eHDw",
    "title": "Why a FREE chocolate with the bill makes you tip more \ud83c\udf6c",
@@ -19,7 +49,7 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "13",
+    "viewCount": "14",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34,7 +64,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "76",
+    "viewCount": "79",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -49,7 +79,7 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "668",
+    "viewCount": "669",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -257,36 +287,6 @@
    "published": "2026-11-21T10:24:23Z",
    "privacy": "private",
    "publish_at": "2026-11-26T11:00:00Z",
-   "duration": "PT20S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "oz3QSvK-k_4",
-   "title": "Why sitting alone with your thoughts feels so hard \ud83e\udde0",
-   "published": "2026-11-21T10:24:20Z",
-   "privacy": "private",
-   "publish_at": "2026-11-25T15:00:00Z",
-   "duration": "PT21S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "QW9XXje5jW4",
-   "title": "Why taking a photo makes you forget it \ud83d\udcf8",
-   "published": "2026-11-21T10:24:16Z",
-   "privacy": "private",
-   "publish_at": "2026-11-25T11:00:00Z",
    "duration": "PT20S",
    "statistics": {
     "viewCount": "0",
@@ -773,18 +773,6 @@
    "subscribersGained": 0
   },
   {
-   "video": "WdR33wEaImo",
-   "views": 53,
-   "engagedViews": 10,
-   "estimatedMinutesWatched": 2,
-   "averageViewDuration": 11,
-   "averageViewPercentage": 43.22,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "subscribersGained": 0
-  },
-  {
    "video": "Q2tEpcgs-2Q",
    "views": 53,
    "engagedViews": 20,
@@ -792,6 +780,18 @@
    "averageViewDuration": 9,
    "averageViewPercentage": 37.54,
    "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "WdR33wEaImo",
+   "views": 53,
+   "engagedViews": 10,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 11,
+   "averageViewPercentage": 43.22,
+   "likes": 0,
    "comments": 0,
    "shares": 0,
    "subscribersGained": 0
@@ -869,18 +869,6 @@
    "subscribersGained": 0
   },
   {
-   "video": "IYrmhlu2pa0",
-   "views": 17,
-   "engagedViews": 3,
-   "estimatedMinutesWatched": 0,
-   "averageViewDuration": 5,
-   "averageViewPercentage": 14.81,
-   "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "subscribersGained": 0
-  },
-  {
    "video": "AWwEyFrD7d8",
    "views": 17,
    "engagedViews": 5,
@@ -893,12 +881,12 @@
    "subscribersGained": 0
   },
   {
-   "video": "jGEnqapHOhA",
-   "views": 4,
-   "engagedViews": 0,
+   "video": "IYrmhlu2pa0",
+   "views": 17,
+   "engagedViews": 3,
    "estimatedMinutesWatched": 0,
-   "averageViewDuration": 0,
-   "averageViewPercentage": 0,
+   "averageViewDuration": 5,
+   "averageViewPercentage": 14.81,
    "likes": 0,
    "comments": 0,
    "shares": 0,
@@ -911,6 +899,18 @@
    "estimatedMinutesWatched": 10,
    "averageViewDuration": 206,
    "averageViewPercentage": 34.16,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "jGEnqapHOhA",
+   "views": 4,
+   "engagedViews": 0,
+   "estimatedMinutesWatched": 0,
+   "averageViewDuration": 0,
+   "averageViewPercentage": 0,
    "likes": 0,
    "comments": 0,
    "shares": 0,
