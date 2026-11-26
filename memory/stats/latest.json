@@ -1,16 +1,46 @@
 {
- "collected_at": "2026-11-26T07:36:02.855544+00:00",
+ "collected_at": "2026-11-26T17:01:45.282465+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "4983",
+   "viewCount": "5083",
    "subscriberCount": "9",
    "hiddenSubscriberCount": false,
-   "videoCount": "33"
+   "videoCount": "35"
   }
  },
  "videos": [
+  {
+   "id": "_KKm_N_v83I",
+   "title": "How to get a song out of your head \ud83c\udfb5",
+   "published": "2026-11-26T15:00:24Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT19S",
+   "statistics": {
+    "viewCount": "148",
+    "likeCount": "3",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
+  {
+   "id": "2NAzpvAQ_Ow",
+   "title": "Why you price your old stuff too high \ud83c\udff7\ufe0f",
+   "published": "2026-11-26T11:00:25Z",
+   "privacy": "public",
+   "publish_at": null,
+   "duration": "PT20S",
+   "statistics": {
+    "viewCount": "4",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+   }
+  },
   {
    "id": "oz3QSvK-k_4",
    "title": "Why sitting alone with your thoughts feels so hard \ud83e\udde0",
@@ -19,7 +49,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "85",
+    "viewCount": "88",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34,8 +64,8 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "92",
-    "likeCount": "2",
+    "viewCount": "225",
+    "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -64,7 +94,7 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "81",
+    "viewCount": "82",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -139,7 +169,7 @@
    "publish_at": null,
    "duration": "PT11M45S",
    "statistics": {
-    "viewCount": "1",
+    "viewCount": "2",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -169,7 +199,7 @@
    "publish_at": null,
    "duration": "PT24S",
    "statistics": {
-    "viewCount": "232",
+    "viewCount": "233",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -258,36 +288,6 @@
    "privacy": "private",
    "publish_at": "2026-11-27T11:00:00Z",
    "duration": "PT22S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "_KKm_N_v83I",
-   "title": "How to get a song out of your head \ud83c\udfb5",
-   "published": "2026-11-21T10:24:27Z",
-   "privacy": "private",
-   "publish_at": "2026-11-26T15:00:00Z",
-   "duration": "PT19S",
-   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-   }
-  },
-  {
-   "id": "2NAzpvAQ_Ow",
-   "title": "Why you price your old stuff too high \ud83c\udff7\ufe0f",
-   "published": "2026-11-21T10:24:23Z",
-   "privacy": "private",
-   "publish_at": "2026-11-26T11:00:00Z",
-   "duration": "PT20S",
    "statistics": {
     "viewCount": "0",
     "likeCount": "0",
@@ -1066,7 +1066,7 @@
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 4431,
+   "views": 4427,
    "averageViewDuration": 14
   },
   {
@@ -1169,6 +1169,8 @@
   }
  ],
  "countries_by_video": {
+  "_KKm_N_v83I": [],
+  "QW9XXje5jW4": [],
   "kYTeZ33L77o": [
    {
     "country": "NL",
