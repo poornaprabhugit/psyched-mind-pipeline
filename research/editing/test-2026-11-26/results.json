@@ -1,0 +1,41 @@
+{
+ "job": {
+  "long_handles": [
+   "@alux"
+  ],
+  "n_long": 1,
+  "max_seconds": 60,
+  "videos": [
+   {
+    "id": "AiSraDqO9CU",
+    "group": "ours-short"
+   }
+  ],
+  "scene_threshold": 0.3
+ },
+ "log": [],
+ "videos": [
+  {
+   "id": "oh2Z6aZphLE",
+   "title": "15 Skills That Will Be Worth Twice as Much by 2030",
+   "dur": 2190,
+   "published": "2026-05-31T20:33:20Z",
+   "views": 353535,
+   "channel": "Alux.com",
+   "handle": "@alux",
+   "subs": 5100000,
+   "pool": 95,
+   "group": "long",
+   "error": "ies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\nERROR: [youtube] oh2Z6aZphLE: Sign in to confirm you\u2019re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  },
+  {
+   "id": "AiSraDqO9CU",
+   "group": "ours-short",
+   "title": "Why FREE makes you choose worse \ud83c\udf6b",
+   "channel": "ThePsychedMindHQ",
+   "dur": 22,
+   "views": 901,
+   "error": "ies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\nERROR: [youtube] AiSraDqO9CU: Sign in to confirm you\u2019re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  }
+ ]
+}
