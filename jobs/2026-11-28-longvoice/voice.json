@@ -1,0 +1,43 @@
+{
+ "voice": "en-US-ChristopherNeural",
+ "rate": "+10%",
+ "volume": "+40%",
+ "items": [
+  {
+   "id": "ch0",
+   "text": "It's Saturday morning. Pip has fifty dollars and one rule: today, he spends nothing he doesn't need. By tonight, the fifty dollars will be gone. And here's the strange part: Pip will feel fine about every single choice. Seven times today, his brain will trick him. Seven real studies show how. Try to spot each trick before Pip does."
+  },
+  {
+   "id": "ch1",
+   "text": "First stop: coffee. The barista hands Pip a loyalty card. Ten stamps for a free coffee \u2014 and two are already stamped, as a gift. Pip's brain says: I'm already on my way. Researchers tested exactly this with loyalty cards. One group got a card with eight stamps to fill. Another got a card with ten stamps, but two were already filled in. Same eight washes to go. The card with the free head start was finished almost twice as often. Nothing changed, except how far along it felt. Trick number one: a head start you didn't earn still pulls you forward."
+  },
+  {
+   "id": "ch2",
+   "text": "Next, Pip walks past his gym. He pays for a monthly membership. He's been twice this month. A study of almost eight thousand gym members found people on monthly plans paid over seventy dollars a month \u2014 and went about four times. That's more than seventeen dollars a visit. A ten-visit pass cost ten dollars a visit. About eighty percent of monthly members would have saved money paying per visit. They weren't paying for the gym they used. They were paying for the person they planned to become. Trick number two."
+  },
+  {
+   "id": "ch3",
+   "text": "At the store, Pip sees a jacket for thirty-four dollars. Next week, the same jacket is thirty-nine. You'd think the cheaper price wins. In real catalog tests, the same dress sold better at thirty-nine dollars than at thirty-four. And forty-four didn't beat thirty-nine. A price ending in nine whispers \"deal\", even when it's higher. Trick number three."
+  },
+  {
+   "id": "ch4",
+   "text": "At the checkout, two chocolates. A fancy truffle for fifteen cents, a cheap chocolate for one cent. Most people chose the truffle \u2014 seventy-three percent. Then both got one cent cheaper. Fourteen cents, or free. Now sixty-nine percent grabbed the free one. The difference between the prices never changed. But \"free\" doesn't feel like a lower price. It feels like no risk at all. Trick number four."
+  },
+  {
+   "id": "ch5",
+   "text": "Pip gets his change in coins. Four quarters. In one study, people got one dollar. Given as four quarters, sixty-three percent spent it. Given as a single dollar bill, only twenty-six percent did. Same dollar. A bill feels like money to protect. Coins feel like money that's already half gone. Trick number five."
+  },
+  {
+   "id": "ch6",
+   "text": "Evening. Pip bought a ten-dollar ticket to a show. At the door \u2014 it's gone. Would you buy another one? In a classic study, people who lost a ten-dollar bill on the way still bought a ticket \u2014 eighty-eight percent. People who lost the ticket itself? Only forty-six percent bought another. Same ten dollars, either way. But the brain keeps money in separate jars. Lose the ticket, and the \"show\" jar now says twenty dollars. Trick number six."
+  },
+  {
+   "id": "ch7",
+   "text": "Back home, Pip tries to sell an old mug online. He asks seven dollars. In a famous experiment, students who were given a mug wanted about seven dollars to sell it. Students without one would only pay about three dollars for the very same mug. The moment something is ours, it feels worth more. Trick number seven."
+  },
+  {
+   "id": "ch8",
+   "text": "So why didn't Pip feel a single loss today? Because his brain doesn't keep one big account. It keeps little jars \u2014 coffee, gym, jacket, show, mug \u2014 and judges each one alone. And it fears losses more than it enjoys gains. Across more than a hundred studies, a loss weighs about twice as much as a gain of the same size \u2014 though people differ a lot. Each trick felt like a small win, or like avoiding a loss. Seven small wins. One empty wallet. Which trick got you? Tell me in the comments."
+  }
+ ]
+}
