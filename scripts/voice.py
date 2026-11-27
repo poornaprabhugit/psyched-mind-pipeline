@@ -8,8 +8,9 @@ import asyncio, json, os, sys
 import edge_tts
 
 async def one(item, cfg, out):
-    c = edge_tts.Communicate(item["text"], cfg.get("voice", "en-US-ChristopherNeural"),
-                             rate=cfg.get("rate", "+10%"), volume=cfg.get("volume", "+40%"),
+    g = lambda k, d: item.get(k, cfg.get(k, d))
+    c = edge_tts.Communicate(item["text"], g("voice", "en-US-ChristopherNeural"),
+                             rate=g("rate", "+10%"), volume=g("volume", "+40%"), pitch=g("pitch", "+0Hz"),
                              boundary="WordBoundary")
     words, audio = [], bytearray()
     async for ch in c.stream():

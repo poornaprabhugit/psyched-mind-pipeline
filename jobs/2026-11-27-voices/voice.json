@@ -1,0 +1,47 @@
+{
+ "volume": "+40%",
+ "items": [
+  {
+   "id": "a_christopher_now",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+10%",
+   "pitch": "+0Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  },
+  {
+   "id": "b_christopher_lifted",
+   "voice": "en-US-ChristopherNeural",
+   "rate": "+15%",
+   "pitch": "+6Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  },
+  {
+   "id": "c_andrew",
+   "voice": "en-US-AndrewMultilingualNeural",
+   "rate": "+10%",
+   "pitch": "+0Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  },
+  {
+   "id": "d_brian",
+   "voice": "en-US-BrianMultilingualNeural",
+   "rate": "+10%",
+   "pitch": "+0Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  },
+  {
+   "id": "e_guy",
+   "voice": "en-US-GuyNeural",
+   "rate": "+12%",
+   "pitch": "+3Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  },
+  {
+   "id": "f_ava",
+   "voice": "en-US-AvaMultilingualNeural",
+   "rate": "+10%",
+   "pitch": "+0Hz",
+   "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another."
+  }
+ ]
+}
