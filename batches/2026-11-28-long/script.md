@@ -3,7 +3,7 @@
 **Title:** Why You Waste Money Without Noticing
 **Thumbnail idea:** Pip (the purple bean) holding an empty wallet, a moth flying out; big text: "WHERE DID IT GO?"
 **Format:** animated (code-drawn bean cast, same look as the approved samples), voice en-US-ChristopherNeural +10%, gentle visual humor tied to each point, serious narration, no added pauses.
-**Length:** ~1,080 words ≈ 7 min. One story (one Saturday in Pip's life), one open question, 7 studies, all from memory/facts.md.
+**Length:** ~660 words ≈ 4.5 min (can grow to ~7 min with 2 more verified studies: sunk-cost ski trip, buying time). One story (one Saturday in Pip's life), one open question, 7 studies, all from memory/facts.md.
 **Open question (asked at 0:00, answered at the end):** By tonight, Pip will have lost money in seven different ways — and he won't feel a single one. Why not?
 
 ---
