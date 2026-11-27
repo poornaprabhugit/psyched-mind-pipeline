@@ -1,0 +1,5 @@
+{"voice": "en-US-ChristopherNeural", "rate": "+10%", "volume": "+40%",
+ "items": [
+  {"id": "p02_lost_ticket", "text": "Lose ten dollars, and you still buy the ticket. Lose the ticket, and you don't. Lost a ten-dollar bill on the way to the theater? Eighty-eight percent still bought a ticket. Lost the ten-dollar ticket itself? Only forty-six percent bought another. Same money. But your brain says the show now costs twenty. So:"},
+  {"id": "n04_free_chocolate", "text": "Make the cheap chocolate free, and people stop buying the fancy one. Researchers sold a fancy truffle for fifteen cents, a cheap chocolate for one. Most bought the truffle. Then both got one cent cheaper. Fourteen cents, or free. Most grabbed the free one. Free feels better than any discount. That's why, if you"}
+ ]}

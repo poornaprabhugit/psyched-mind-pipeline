@@ -1,0 +1,27 @@
+name: voice-tracks
+on:
+  push:
+    branches: [main]
+    paths: ["jobs/**/voice.json"]
+permissions:
+  contents: write
+jobs:
+  voice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - run: pip install --quiet "edge-tts>=7"
+      - name: Make voice + word timings
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD | grep -E '^jobs/[^/]+/voice.json$' | head -1)
+          python scripts/voice.py "$f" "assets/voice/$(basename $(dirname $f))"
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add assets/voice
+          git commit -m "voice tracks for $(ls -t assets/voice | head -1)" || exit 0
+          git pull --rebase -q && git push
