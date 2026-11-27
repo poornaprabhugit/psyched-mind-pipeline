@@ -173,3 +173,4 @@ Evidence: Shorts-feed viewers average 7 s on ~30 s Shorts; only 8 of 34 views we
 - **Curiosity:** specific self-referencing questions in the hook are supported (Lai & Farbrot 2014); generic teasers ("Do you know what happened?") are not (clickbait studies) → none.
 - Evidence reviews: characters https://claude.ai/artifact/HMseGnBsHPhxPs2Eb4uNgk · humor/pauses/sound https://claude.ai/artifact/DPTFSqG5QDLzh2aC9iW9oz. Samples built in-session; voice job: .github/workflows/voice.yml + scripts/voice.py (word timings for sync).
 - Repo made public 27 Nov (user) to restore Actions minutes.
+- **Long 03 Studio (user, 27 Nov, day 6):** 18 thumbnail impressions, CTR 5.6% (1 click), views 2 (Browse 1, channel page 1). → Reach problem (YouTube barely tested it), not yet a packaging/content verdict. Proposed: build a long video on the best Short's topic (earworms) + Related link; **user chose to keep the current long-video plan** for 6 Dec.
