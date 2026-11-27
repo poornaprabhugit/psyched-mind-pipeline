@@ -166,3 +166,10 @@ Evidence: Shorts-feed viewers average 7 s on ~30 s Shorts; only 8 of 34 views we
 3. Hook line names a situation the viewer is in right now ("You just checked your phone for no reason"), not a topic.
 4. One visual change every ~1.5 s in the first 5 s.
 5. Keep everything else fixed this week so the effect of 1–4 is readable.
+
+## Decided 27 Nov (user)
+- **Animation test approved for the batch of Sat 5 Dec** (Shorts 7–13 Dec): 7 animated vs 7 stock-footage Shorts, alternating by day and slot; everything else equal (new scripts in the same style and length, Christopher voice, hook card, loop ending, subscribe card). Animated arm: code-drawn recurring bean characters (Pip etc.), gentle visual humor tied to the study's point, serious narration, no added pauses, quiet code-made sound effects, each Short with its own scenes (no template). Judge: stayed-to-watch %, shares + likes per 1k, day-7 views per arm; verdict ~20 Dec; repeat a 2nd week if close.
+- **Voice stays Christopher** (user likes Ava; a voice change would be its own later test). Samples: assets/voice/2026-11-27-voices (pitch SD: Andrew 4.9 st, Christopher 3.5, Ava 3.2).
+- **Curiosity:** specific self-referencing questions in the hook are supported (Lai & Farbrot 2014); generic teasers ("Do you know what happened?") are not (clickbait studies) → none.
+- Evidence reviews: characters https://claude.ai/artifact/HMseGnBsHPhxPs2Eb4uNgk · humor/pauses/sound https://claude.ai/artifact/DPTFSqG5QDLzh2aC9iW9oz. Samples built in-session; voice job: .github/workflows/voice.yml + scripts/voice.py (word timings for sync).
+- Repo made public 27 Nov (user) to restore Actions minutes.
