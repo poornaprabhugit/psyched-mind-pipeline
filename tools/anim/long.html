@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000}canvas{display:block}</style></head>
+<body><canvas id="c" width="1920" height="1080"></canvas>
+
+<script src="helpers.js"></script>
+<script>
+// ================= long-video framework =================
+let CH=0, WORDS=[], DUR=0, TRICKS_BEFORE=0;
+const norm=s=>s.toLowerCase().replace(/[^a-z0-9$%-]/g,'');
+// time of the n-th occurrence of a word (or first word of a phrase)
+function A(phrase,occ=1){const ps=phrase.split(' ').map(norm);let c=0;
+  for(let i=0;i<WORDS.length;i++){let ok=true;for(let j=0;j<ps.length;j++){if(!WORDS[i+j]||norm(WORDS[i+j].w)!==ps[j]){ok=false;break;}}
+    if(ok){c++;if(c===occ)return WORDS[i].start;}}
+  console.log('MISSING',CH,phrase);return 1e9;}
+const L=(t,a,d=0.4)=>eo(cl((t-a)/d));          // ease-in from time a over d seconds
+const between=(t,a,b)=>t>=a&&t<b;
+function sky(night){const g=ctx.createLinearGradient(0,0,0,H);
+  if(night){g.addColorStop(0,'#0E0C26');g.addColorStop(1,'#17143A');}else{g.addColorStop(0,C.bg2);g.addColorStop(1,C.bg);}
+  ctx.fillStyle=g;ctx.fillRect(0,0,W,H);ctx.fillStyle='rgba(255,255,255,0.05)';ctx.fillRect(0,GROUND,W,6);}
+function chapterLabel(txt_){ctx.save();ctx.globalAlpha=0.75;ctx.font=`bold 30px ${F}`;const w=ctx.measureText(txt_).width;
+  ctx.fillStyle='rgba(255,255,255,0.08)';rr(40,34,w+44,56,28);ctx.fill();txt(txt_,62,63,30,C.ink,'left','bold');ctx.restore();}
+let COUNTER=null;function counter(n,pop){COUNTER=[n,pop];}
+function drawCounter(n,pop){ctx.save();const x=W-250,y=36;ctx.translate(x+105,y+30);const s=1+0.25*pop;ctx.scale(s,s);ctx.translate(-(x+105),-(y+30));
+  ctx.fillStyle='rgba(255,255,255,0.1)';rr(x,y,210,60,30);ctx.fill();txt('TRICKS',x+70,y+31,24,C.dim,'center','bold');
+  txt(n+'/8',x+160,y+31,32,pop>0.01?C.yel:C.ink,'center','900');ctx.restore();}
+function bigNote(x,y,rot,s,text,col='#FFE27A'){ctx.save();ctx.translate(x,y);ctx.rotate(rot);ctx.scale(s,s);
+  ctx.fillStyle=col;ctx.fillRect(-90,-70,180,140);ctx.fillStyle='rgba(0,0,0,0.08)';ctx.fillRect(-90,-70,180,22);
+  ctx.font=`900 30px ${F}`;ctx.fillStyle='#3A2A10';ctx.textAlign='center';ctx.textBaseline='middle';
+  text.split('\n').forEach((l,i,a)=>ctx.fillText(l,0,10+(i-(a.length-1)/2)*36));ctx.restore();}
+function wallet(x,y,s,open=0,bills=0){ctx.save();ctx.translate(x,y);ctx.scale(s,s);
+  for(let i=0;i<bills;i++){bill(-10+i*6,-50-i*5,-0.1+i*0.05,0.8);}
+  ctx.fillStyle='#8A5A3B';rr(-110,-60,220,130,16);ctx.fill();ctx.fillStyle='#6b4229';
+  ctx.save();ctx.translate(0,-60);ctx.rotate(-1.3*open);rr(-110,-90,220,90,16);ctx.fill();ctx.restore();
+  ctx.fillStyle='#C9A27E';ctx.beginPath();ctx.arc(80,5,10,0,7);ctx.fill();ctx.restore();}
+function cup(x,y,s,steam=0){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='#F6F1E7';
+  ctx.beginPath();ctx.moveTo(-40,-60);ctx.lineTo(40,-60);ctx.lineTo(30,30);ctx.lineTo(-30,30);ctx.closePath();ctx.fill();
+  ctx.fillStyle='#8A5A3B';ctx.fillRect(-42,-72,84,16);ctx.fillStyle=C.cor;ctx.fillRect(-36,-25,72,20);
+  if(steam>0){ctx.strokeStyle='rgba(255,255,255,0.5)';ctx.lineWidth=5;ctx.lineCap='round';for(let i=-1;i<=1;i++){ctx.beginPath();
+    for(let k=0;k<=10;k++){const yy=-80-k*6;const xx=i*18+Math.sin(k*0.8+steam*4+i)*6;k?ctx.lineTo(xx,yy):ctx.moveTo(xx,yy);}ctx.stroke();}}
+  ctx.restore();}
+function stampCard(x,y,s,slots,filled,hl=0,label){ctx.save();ctx.translate(x,y);ctx.scale(s,s);
+  const cols=5,rows=Math.ceil(slots/cols),w=cols*70+40,h=rows*70+90;
+  ctx.fillStyle='#FFF6E8';rr(-w/2,-h/2,w,h,20);ctx.fill();if(label)txt(label,0,-h/2+34,30,'#5A3A20','center','900');
+  for(let i=0;i<slots;i++){const r=Math.floor(i/cols),c=i%cols;const cx=-w/2+55+c*70,cy=-h/2+90+r*70;
+    ctx.strokeStyle='#C9A27E';ctx.lineWidth=4;ctx.beginPath();ctx.arc(cx,cy,24,0,7);ctx.stroke();
+    if(i<filled){ctx.fillStyle=C.cor;ctx.beginPath();ctx.arc(cx,cy,20,0,7);ctx.fill();txt('★',cx,cy+2,24,'#fff');}
+    else if(hl>0){ctx.fillStyle=`rgba(255,201,77,${0.35*hl})`;ctx.beginPath();ctx.arc(cx,cy,20,0,7);ctx.fill();}}
+  ctx.restore();}
+function sparkle(x,y,s,t){ctx.save();ctx.translate(x,y);ctx.rotate(t*2);ctx.scale(s*(0.8+0.2*Math.sin(t*9)),s*(0.8+0.2*Math.sin(t*9)));
+  ctx.fillStyle=C.yel;ctx.beginPath();for(let i=0;i<8;i++){const r=i%2?10:30,a=i*Math.PI/4;ctx.lineTo(Math.cos(a)*r,Math.sin(a)*r);}ctx.closePath();ctx.fill();ctx.restore();}
+function hbar(x,y,w,frac,col,label,val,k){txt(label,x,y-34,30,C.ink,'left','bold');
+  ctx.fillStyle='rgba(255,255,255,0.1)';rr(x,y,w,44,22);ctx.fill();ctx.fillStyle=col;rr(x,y,Math.max(44,w*frac*k),44,22);ctx.fill();
+  if(k>0.2)txt(val,x+Math.max(44,w*frac*k)+20,y+23,32,col,'left','900');}
+function panel(x,y,w,h){ctx.fillStyle='rgba(255,255,255,0.06)';rr(x,y,w,h,30);ctx.fill();}
+function title(t0,t,text,sub,hold=4.5){const k=Math.min(L(t,t0,0.5),1-L(t,t0+hold,0.5));if(k<=0)return;ctx.save();ctx.globalAlpha=k;
+  ctx.fillStyle='rgba(10,8,30,0.82)';ctx.fillRect(0,0,W,H);ctx.translate(W/2,H/2-30);ctx.scale(mix(0.9,1,k),mix(0.9,1,k));
+  txt(text,0,0,70,C.ink,'center','900');if(sub)txt(sub,0,90,40,C.yel,'center','bold');ctx.restore();}
+
+// ================= chapters =================
+const CHAPTERS=[];
+// ---- 0: cold open ----
+CHAPTERS[0]={label:'Saturday morning',draw(t){
+  sky(false);
+  const tFifty=A('fifty dollars'),tWrite=A('writes it down'),tStick=A('sticks the note'),tTonight=A('by tonight'),
+        tFine=A('pip will feel fine'),tSmart=A("he'll feel smart"),tEight=A('eight times'),tGame=A("so here's the game"),tCount=A('keep count');
+  // window + sun
+  ctx.fillStyle='#2C2766';rr(1380,160,360,300,20);ctx.fill();ctx.fillStyle='#FFD27A';ctx.beginPath();ctx.arc(1560,300,60+Math.sin(t)*4,0,7);ctx.fill();
+  ctx.strokeStyle=C.bg;ctx.lineWidth=14;ctx.beginPath();ctx.moveTo(1560,160);ctx.lineTo(1560,460);ctx.moveTo(1380,310);ctx.lineTo(1740,310);ctx.stroke();
+  // bed (only before he gets up)
+  const up=L(t,1.2,0.6);
+  ctx.fillStyle='#3A3378';rr(200,760,620,140,20);ctx.fill();ctx.fillStyle='#F6F1E7';rr(220,720,160,70,30);ctx.fill();
+  const px=mix(420,760,up),py=mix(830,GROUND,up);
+  // wallet on table
+  ctx.fillStyle='#3A3378';rr(1000,760,380,30,10);ctx.fill();ctx.fillRect(1040,790,20,110);ctx.fillRect(1320,790,20,110);
+  const empty=L(t,tTonight,2.2);
+  const nBills=t<tFifty?0:Math.round(5*(1-empty));
+  // bills fly away at "by tonight"
+  if(t>tTonight)for(let i=0;i<5;i++){const k=cl((t-tTonight-i*0.3)/1.4);if(k>0&&k<1)bill(1190+k*600+i*20,690-k*500+Math.sin(k*9+i)*40,k*6,0.7);}
+  wallet(1190,700,0.9,t>tFifty&&t<tStick?0.7:0,nBills);
+  // sticky note
+  if(t>tWrite){const st=L(t,tStick,0.5);bigNote(mix(900,1190,st),mix(520,640,st),mix(-0.15,0.08,st),mix(1.1,0.55,st),'SPEND\nNOTHING');}
+  // Pip
+  let mood='calm',arms=[0.35,-0.35],look=0.6;
+  if(t<1.2){mood='meh';look=0;} else if(between(t,tFifty,tWrite)){mood='happy';arms=[0.35,-2.4];}
+  if(t>tTonight&&t<tFine){mood='shock';arms=[1.6,-1.6];}
+  if(t>tFine&&t<tEight){mood='happy';arms=[0.35,-2.9];look=0;}
+  if(t>tEight&&t<tGame){mood='shock';look=0;}
+  ctx.save();if(up<1){ctx.translate(px,py);ctx.rotate(-1.2*(1-up));ctx.translate(-px,-py);}
+  pip({x:px,y:py,s:1.25,col:C.blu,mood,arms,look,blink:t>0.3&&t<0.45||Math.abs(t-tSmart-0.5)<0.07});ctx.restore();
+  // "smart" glasses gag
+  if(t>tSmart&&t<tEight){const k=L(t,tSmart,0.3);ctx.save();ctx.globalAlpha=k;ctx.fillStyle='#111';rr(px-75,py-310*1.25+0+60,60,26,8);ctx.fill();rr(px+15,py-310*1.25+60,60,26,8);ctx.fill();ctx.fillRect(px-15,py-310*1.25+68,30,8);ctx.restore();}
+  // eight question marks
+  if(t>tEight&&t<tGame+0.6){for(let i=0;i<8;i++){const k=back(cl((t-tEight-i*0.12)/0.4));if(k<=0)continue;
+    txt('?',360+i*170,260+Math.sin(t*3+i)*12,90*k,i%2?C.yel:C.cor,'center','900');}}
+  title(tGame,t,'Why You Waste Money Without Noticing','8 tricks · 1 day · real studies');
+  if(t>tCount)counter(0,0);
+}};
+// ---- 1: free stamps ----
+CHAPTERS[1]={label:'1 · The free stamps',trick:1,draw(t){
+  sky(false);
+  const tCard=A('loyalty card'),tTwo=A('two stamps are already'),tRes=A('researchers tested'),tSame=A('the same eight more'),
+        tTwice=A('almost twice as often'),tOnly=A('the only thing that changed'),tEvery=A('you see this everywhere'),
+        tSecond=A('orders a second coffee'),tTrick=A('trick number one');
+  const study=t>tRes&&t<tEvery, every=t>tEvery&&t<tSecond;
+  if(!study&&!every){
+    // café: counter + barista
+    ctx.fillStyle='#3A3378';rr(1100,640,640,260,20);ctx.fill();ctx.fillStyle=C.cor;rr(1080,600,680,60,20);ctx.fill();
+    txt('COFFEE',1420,632,34,'#fff','center','900');
+    pip({x:1450,y:640,s:0.95,col:C.pnk,mood:'happy',arms:t>tCard&&t<tRes?[0.35,-1.4]:[0.35,-0.35],look:-0.6,blink:Math.abs((t%4)-2)<0.06});
+    const wk=L(t,0,2.2);const px=mix(200,820,wk);
+    const two=t>tSecond;
+    pip({x:px+(two&&t>tSecond+0.6?Math.sin(t*70)*7:0),y:GROUND,s:1.25,col:C.blu,mood:two?(t>tSecond+0.6?'shock':'happy'):(t>tTwo?'happy':'calm'),arms:two?[1.2,-1.2]:[0.35,-0.35],look:two&&t>tSecond+0.6?0:0.6,walk:wk>0&&wk<1?t*1.6:null,blink:Math.abs((t%3.7)-1.8)<0.06});
+    if(!two)cup(1300,590,0.8,t);
+    else{cup(px-170,640,0.7,t);cup(px+170,640,0.7,t);sparkle(px,300,1,t);}
+    if(t>tCard&&t<tRes){const k=back(cl((t-tCard)/0.5));stampCard(960,330,0.9*k,10,t>tTwo?2:0,0,'FREE COFFEE CARD');
+      if(t>tTwo){sparkle(960-175+55,330-0.9*0+0,0.8,t);}}
+  } else if(study){
+    // two cards side by side
+    const k1=L(t,tRes,0.5),k2=L(t,tRes+1.2,0.5);const hl=t>tSame?0.6+0.4*Math.sin(t*6):0;
+    panel(160,150,740,640);panel(1020,150,740,640);
+    txt('Card A',530,210,40,C.ink,'center','900');txt('Card B',1390,210,40,C.ink,'center','900');
+    if(k1>0)stampCard(530,420,0.95*k1,8,0,hl,'8 stamps needed');
+    if(k2>0)stampCard(1390,450,0.95*k2,10,2,hl,'10 stamps · 2 free');
+    if(t>tSame){txt('Same 8 left to buy',W/2,860,44,C.yel,'center','900');}
+    if(t>tTwice){const k=L(t,tTwice,1.0);
+      ctx.save();ctx.fillStyle='rgba(10,8,30,0.97)';ctx.fillRect(0,0,W,H);ctx.restore();
+      txt('Cards finished',W/2,300,48,C.ink,'center','900');
+      hbar(460,440,1000,0.5,C.dim,'Card A (8 needed)','1×',k);
+      hbar(460,620,1000,1.0,C.grn,'Card B (2 already stamped)','almost 2×',k);
+      if(t>tOnly)txt('Only the head start changed.',W/2,850,44,C.yel,'center','900');}
+  } else {
+    // everywhere examples
+    const k=L(t,tEvery,0.5);
+    panel(260,200,1400,560);
+    txt('PROGRESS',420,300,34,C.dim,'left','bold');
+    ctx.fillStyle='rgba(255,255,255,0.12)';rr(420,330,1080,50,25);ctx.fill();ctx.fillStyle=C.grn;rr(420,330,1080*(0.2+0.1*Math.min(1,(t-tEvery)/3)),50,25);ctx.fill();
+    txt('20%',1540,356,34,C.grn,'left','900');
+    if(t>A('apps that tell')){const kk=back(cl((t-A('apps that tell'))/0.4));ctx.save();ctx.translate(960,500);ctx.scale(kk,kk);
+      ctx.fillStyle='#fff';rr(-330,-50,660,100,50);ctx.fill();txt('Profile 90% complete!',0,2,40,'#17143A','center','900');ctx.restore();}
+    if(t>A('rewards cards')){const kk=back(cl((t-A('rewards cards'))/0.4));stampCard(960,680,0.5*kk,10,2,0,'');}
+  }
+  counter(t>tTrick?1:0,t>tTrick?Math.max(0,1-(t-tTrick)/0.6):0);
+}};
+
+// ---------- extra props ----------
+function heartEyes(x,y,s){for(const d of [-1,1]){ctx.save();ctx.translate(x+d*28*s,y-222*s);ctx.scale(s*1.1,s*1.1);ctx.fillStyle=C.cor;
+  ctx.beginPath();ctx.moveTo(0,10);ctx.bezierCurveTo(-26,-8,-12,-26,0,-12);ctx.bezierCurveTo(12,-26,26,-8,0,10);ctx.fill();ctx.restore();}}
+function bubble(x,y,w,h,tailx,taily){ctx.fillStyle='#fff';rr(x,y,w,h,40);ctx.fill();ctx.beginPath();ctx.arc(tailx,taily,14,0,7);ctx.arc(tailx-30,taily+40,9,0,7);ctx.fill();}
+function gymBuilding(x){ctx.fillStyle='#3A3378';rr(x,420,520,480,16);ctx.fill();ctx.fillStyle=C.cor;rr(x-20,380,560,80,16);ctx.fill();
+  txt('GYM',x+260,422,50,'#fff','center','900');ctx.fillStyle='#1a1630';rr(x+190,700,140,200,10);ctx.fill();
+  ctx.fillStyle='#5a4fb0';rr(x+150,890,220,14,6);ctx.fill();}
+function dumbbell(x,y,s,rot=0){ctx.save();ctx.translate(x,y);ctx.rotate(rot);ctx.scale(s,s);ctx.fillStyle='#555';ctx.fillRect(-60,-6,120,12);
+  ctx.fillStyle='#222';rr(-80,-30,24,60,6);ctx.fill();rr(56,-30,24,60,6);ctx.fill();ctx.restore();}
+function people(x,y,cols,rows,lit,col,size=34,gap=12){for(let i=0;i<cols*rows;i++){const r=Math.floor(i/cols),c=i%cols;
+  ctx.fillStyle=i<lit?col:'rgba(255,255,255,0.15)';const px=x+c*(size+gap),py=y+r*(size+gap);
+  ctx.beginPath();ctx.arc(px+size/2,py+size*0.28,size*0.22,0,7);ctx.fill();rr(px+size*0.18,py+size*0.5,size*0.64,size*0.5,size*0.25);ctx.fill();}}
+function card(x,y,w,h,col){ctx.fillStyle=col||'rgba(255,255,255,0.08)';rr(x,y,w,h,24);ctx.fill();}
+function phone(x,y,s){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='#111';rr(-230,-400,460,800,50);ctx.fill();
+  ctx.fillStyle='#F6F1E7';rr(-205,-370,410,740,30);ctx.fill();ctx.restore();}
+function tripCard(x,y,s,name,price,col,heart){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle=col;rr(-170,-110,340,220,24);ctx.fill();
+  txt(name,0,-50,44,'#fff','center','900');txt(price,0,30,64,'#fff','center','900');if(heart){ctx.fillStyle='#fff';txt('♥ more fun',0,86,30,'#fff','center','bold');}ctx.restore();}
+function jacket(x,y,s,col='#3DB2DC'){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle=col;
+  ctx.beginPath();ctx.moveTo(-60,-120);ctx.lineTo(60,-120);ctx.lineTo(120,-60);ctx.lineTo(95,-20);ctx.lineTo(70,-50);ctx.lineTo(70,120);ctx.lineTo(-70,120);ctx.lineTo(-70,-50);ctx.lineTo(-95,-20);ctx.lineTo(-120,-60);ctx.closePath();ctx.fill();
+  ctx.strokeStyle='rgba(0,0,0,0.25)';ctx.lineWidth=5;ctx.beginPath();ctx.moveTo(0,-120);ctx.lineTo(0,120);ctx.stroke();
+  ctx.fillStyle='#ddd';ctx.beginPath();ctx.arc(0,-150,14,Math.PI,0);ctx.lineWidth=5;ctx.strokeStyle='#ccc';ctx.stroke();ctx.restore();}
+function snowCloud(x,y,t){ctx.fillStyle='#B9B4E0';for(const [dx,r] of [[-40,34],[0,46],[44,34]]){ctx.beginPath();ctx.arc(x+dx,y,r,0,7);ctx.fill();}
+  ctx.fillStyle='#fff';for(let i=0;i<6;i++){const fy=(t*120+i*37)%160;ctx.beginPath();ctx.arc(x-50+i*20,y+40+fy,5,0,7);ctx.fill();}}
+function badge(x,y,text,col,k){if(k<=0)return;ctx.save();ctx.translate(x,y);ctx.rotate(-0.06);ctx.scale(back(k),back(k));ctx.font=`900 44px ${F}`;
+  const w=ctx.measureText(text).width;ctx.fillStyle=col;rr(-w/2-30,-44,w+60,88,44);ctx.fill();txt(text,0,2,44,'#17143A','center','900');ctx.restore();}
+function cnt(t,n,tT){counter(t>tT?n:n-1,t>tT?Math.max(0,1-(t-tT)/0.6):0);}
+
+// ---- 2: gym ----
+CHAPTERS[2]={label:'2 · The gym',draw(t){
+  sky(false);
+  const tTwice=A("he's been twice"),tNext=A("next month's pip"),tStudy=A('a study looked'),tSeven=A('over seventy dollars'),tSev=A('more than seventeen'),
+        tPass=A('the same gym sold'),tEighty=A('about eighty percent'),tChose=A('they chose the monthly'),tTrickL=A("and that's the trick"),tWave=A('pip waves'),tT=A('trick number two');
+  const study=t>tStudy&&t<tChose;
+  if(!study){
+    gymBuilding(1180);
+    const wk=L(t,0,2.4);let px=mix(180,780,wk);
+    const fall=L(t,tWave+1.2,0.35);
+    let arms=[0.35,-0.35],mood='calm';if(t>tWave&&t<tWave+1.2){arms=[0.35,-2.6+Math.sin(t*12)*0.3];mood='happy';}
+    if(fall>0){mood='shock';arms=[1.8,-1.8];}
+    if(t>tTwice&&t<tStudy){mood='meh';}
+    ctx.save();if(fall>0){ctx.translate(px,GROUND);ctx.rotate(-1.4*fall);ctx.translate(-px,-GROUND);}
+    pip({x:px,y:GROUND,s:1.25,col:C.blu,mood,arms,look:0.7,walk:wk>0&&wk<1?t*1.6:null,blink:Math.abs((t%3.9)-2)<0.06});ctx.restore();
+    if(t>tTwice&&t<tStudy){const k=back(cl((t-tTwice)/0.4));ctx.save();ctx.translate(400,330);ctx.scale(k,k);card(-200,-150,400,300,'#F6F1E7');
+      txt('THIS MONTH',0,-110,30,'#17143A','center','900');for(let i=0;i<30;i++){const r=Math.floor(i/6),c=i%6;ctx.strokeStyle='#bbb';ctx.lineWidth=2;ctx.strokeRect(-165+c*55,-80+r*42,48,36);
+        if(i===4||i===17){txt('✓',-165+c*55+24,-80+r*42+20,30,C.grn,'center','900');}}ctx.restore();}
+    if(t>tNext&&t<tStudy+0.1||t>tChose&&t<tWave){bubble(820,150,420,330,830,520);
+      pip({x:1030,y:450,s:0.8+0.06*Math.sin(t*3),col:'#5A62E0',mood:'happy',arms:[0.35,-3.0],look:0});dumbbell(1030+0,450-300*0.8-70,0.9,Math.sin(t*3)*0.1);
+      txt('next month',1030,190,30,'#17143A','center','900');}
+  } else {
+    card(120,140,820,760);card(980,140,820,760);
+    txt('~7,750 gym members',530,210,40,C.ink,'center','900');
+    people(200,280,16,8,t>tSeven?128:0,C.blu,30,10);
+    if(t>tSeven){const k=L(t,tSeven,0.5);ctx.globalAlpha=k;txt('Monthly plan',1390,230,40,C.ink,'center','900');
+      txt('$70+ a month',1390,320,56,C.yel,'center','900');txt('÷ about 4 visits',1390,400,44,C.ink,'center','bold');ctx.globalAlpha=1;}
+    if(t>tSev){badge(1390,510,'= $17+ per visit',C.cor,L(t,tSev,0.4));}
+    if(t>tPass){const k=L(t,tPass,0.4);ctx.globalAlpha=k;txt('10-visit pass',1390,630,40,C.ink,'center','900');badge(1390,720,'$10 per visit',C.grn,k);ctx.globalAlpha=1;}
+    if(t>tEighty){const k=L(t,tEighty,1);ctx.fillStyle='rgba(10,8,30,0.97)';ctx.fillRect(0,0,W,H);
+      txt('Monthly members who would have saved',W/2,260,48,C.ink,'center','900');people(560,380,10,1,Math.round(8*k),C.grn,70,22);
+      txt('about 80%',W/2,600,90,C.grn,'center','900');}
+  }
+  cnt(t,2,tT);
+}};
+// ---- 3: ski trip ----
+CHAPTERS[3]={label:'3 · The ski trip',draw(t){
+  sky(false);
+  const tTwo=A('two trips'),tSki=A('a big ski trip'),tSmall=A('and a smaller one'),tOnly=A('he can only go'),tRes=A('researchers asked'),tHalf=A('more than half'),
+        tWhy=A('why because'),tGone=A('that money is gone'),tTrap=A('this is the sunk'),tMovie=A('finishing a movie'),tPlate=A('eating everything'),tSigh=A('pip sighs'),tT=A('trick number three');
+  const study=t>tRes&&t<tTrap, ex=t>tTrap&&t<tSigh;
+  if(!study&&!ex){
+    pip({x:420+(t>tSigh+0.6?Math.sin(t*60)*5:0),y:GROUND,s:1.25,col:C.blu,mood:t>tTwo&&t<tSigh?'shock':(t>tSigh?'sad':'calm'),arms:[0.35,-1.3],look:0.8,blink:Math.abs((t%4.1)-2)<0.06});
+    phone(1150,520,0.95);
+    txt('NEXT WEEKEND',1150,190,32,'#17143A','center','900');
+    if(t>tSki){const tilt=t>tSigh?0.12:0;tripCard(1150,330,0.95*back(cl((t-tSki)/0.4)),'SKI TRIP','$100','#3D7BDC');}
+    if(t>tSmall){tripCard(1150,640,0.95*back(cl((t-tSmall)/0.4)),'LAKE TRIP','$50','#2BB3A3',true);}
+    if(t>tOnly&&t<tSigh){txt('Pick ONE',1150,860,40,C.cor,'center','900');}
+    if(t>tSigh){const k=L(t,tSigh,0.4);ctx.strokeStyle=C.yel;ctx.lineWidth=10;rr(1150-170*0.95-12,330-110*0.95-12,340*0.95+24,220*0.95+24,30);ctx.stroke();
+      snowCloud(420,180,t);}
+  } else if(study){
+    card(260,170,1400,700);
+    txt('Same weekend, both already paid. Which trip?',W/2,250,42,C.ink,'center','900');
+    tripCard(660,470,0.95,'$100 TRIP','less fun','#3D7BDC');tripCard(1260,470,0.95,'$50 TRIP','more fun','#2BB3A3');
+    if(t>tHalf){const k=L(t,tHalf,0.8);ctx.fillStyle='rgba(255,255,255,0.12)';rr(460,690,1000,50,25);ctx.fill();ctx.fillStyle=C.cor;rr(460,690,1000*0.5*k+ (k>0.9?60:0),50,25);ctx.fill();
+      ctx.fillStyle='#fff';ctx.fillRect(958,676,4,78);txt('half',960,780,28,C.dim,'center','bold');
+      txt('More than half chose the $100 trip they expected to enjoy less',W/2,640,34,C.yel,'center','900');}
+    if(t>tWhy){ctx.fillStyle='rgba(10,8,30,0.97)';ctx.fillRect(0,0,W,H);
+      const k=L(t,tWhy,0.5);bill(660,420,-0.1,1.6*k,'$100');txt('feels thrown away',660,600,40,C.cor,'center','900');
+      if(t>tGone){bill(1260,420,0.1,1.6,'$100');txt('gone either way',1260,600,40,C.dim,'center','900');
+        txt('Only real choice: which weekend is more fun?',W/2,800,44,C.yel,'center','900');}}
+  } else {
+    card(160,200,760,600);card(1000,200,760,600);
+    if(t>tMovie){const k=L(t,tMovie,0.4);ctx.globalAlpha=k;ctx.fillStyle='#111';rr(260,260,560,300,12);ctx.fill();txt('THE END?',540,410,40,'#555','center','900');
+      pip({x:540,y:760,s:0.7,col:C.pnk,mood:'meh',arms:[0.35,-0.35],look:0,blink:(t%2)<0.2});txt('paid for it…',540,240,0,'#fff');ctx.globalAlpha=1;}
+    if(t>tPlate){const k=L(t,tPlate,0.4);ctx.globalAlpha=k;ctx.fillStyle='#F6F1E7';ctx.beginPath();ctx.ellipse(1380,640,230,60,0,0,7);ctx.fill();
+      ctx.fillStyle='#E8B13A';for(let i=0;i<5;i++){ctx.beginPath();ctx.arc(1260+i*60,610-Math.sin(i)*20,34,0,7);ctx.fill();}
+      pip({x:1380,y:560,s:0.6,col:C.blu,mood:'shock',arms:[0.35,-0.35],look:0});ctx.globalAlpha=1;}
+  }
+  cnt(t,3,tT);
+}};
+// ---- 4: price ending in 9 ----
+CHAPTERS[4]={label:'4 · Prices ending in 9',draw(t){
+  sky(false);
+  const tJ=A('sees a jacket'),t34=A('thirty-four dollars'),tWalk=A('he walks on'),tWeek=A('a week later'),tDeal=A('looks like a deal'),tCat=A('catalog experiments'),
+        t44=A('raising it to forty-four'),tSig=A('a price ending in nine'),t99=A('ninety-nine'),tBuy=A('pip buys the jacket'),tT=A('trick number four');
+  const study=t>tCat&&t<t99, ex=t>t99&&t<tBuy;
+  if(!study&&!ex){
+    ctx.fillStyle='#8F8AB8';ctx.fillRect(1060,280,560,10);jacket(1340,520,1.3);
+    const price=t<tWeek?'$34':'$39';const flip=lin(t,tWeek,tWeek+0.3);
+    ctx.save();ctx.translate(1520,420);ctx.scale(1,Math.abs(Math.cos(flip*Math.PI))||0.01);tag(0,0,0.15,1.1,flip<0.5?'$34':'$39',C.ink);ctx.restore();
+    if(t>tDeal&&t<tCat){badge(1520,300,'SALE?',C.yel,L(t,tDeal,0.4));}
+    const wk=t<tWalk?L(t,0,2):1;let px=mix(150,560,wk);if(t>tWalk&&t<tWeek)px=mix(560,300,L(t,tWalk,1.2));if(t>tWeek)px=mix(300,700,L(t,tWeek,1.2));
+    const love=(t>tDeal&&t<tCat)||t>tBuy;
+    pip({x:px,y:GROUND,s:1.25,col:C.blu,mood:love?'happy':'calm',arms:t>tBuy?[0.35,-2.4]:[0.35,-0.35],look:t>tWalk&&t<tWeek?-0.8:0.8,walk:(wk<1||(t>tWalk&&t<tWeek+1.2))?t*1.6:null});
+    if(love)heartEyes(px,GROUND,1.25);
+  } else if(study){
+    txt('Same dress, three prices (catalog test)',W/2,200,46,C.ink,'center','900');
+    const xs=[520,960,1400],lab=['$34','$39','$44'];
+    xs.forEach((x,i)=>{card(x-180,280,360,520);jacket(x,500,0.9,'#E06BA0');tag(x+90,380,0.1,0.9,lab[i],C.ink);});
+    if(t>tCat+1.2){badge(960,740,'sold most',C.grn,L(t,tCat+1.2,0.4));badge(520,740,'fewer sales',C.dim,L(t,tCat+1.6,0.4));}
+    if(t>t44){badge(1400,740,"didn't beat $39",C.cor,L(t,t44,0.4));}
+    if(t>tSig){ctx.fillStyle='rgba(10,8,30,0.97)';ctx.fillRect(0,0,W,H);txt('…9  =  "sale"  +  "good value"',W/2,H/2-40,72,C.yel,'center','900');
+      txt('the brain reads the signal before the math',W/2,H/2+60,40,C.ink,'center','bold');}
+  } else {
+    txt('Everywhere',W/2,240,50,C.ink,'center','900');
+    [['$9.99',600],['₹99',960],['£9.99',1320]].forEach(([p,x],i)=>{if(t>t99+i*0.5)tag(x,520,0.1*(i-1),1.6*back(cl((t-t99-i*0.5)/0.4)),p,C.ink);});
+  }
+  cnt(t,4,tT);
+}};
+// ---- 5: FREE ----
+CHAPTERS[5]={label:'5 · FREE',draw(t){
+  sky(false);
+  const tBowl=A('small bowl of chocolates'),t73=A('seventy-three percent'),tCheaper=A('one cent cheaper'),tFree=A('became free'),t69=A('sixty-nine percent'),
+        tFeel=A("free doesn't feel"),tShip=A('free shipping'),tBogo=A('buy one get one free'),tGift=A('a free gift'),tOff=A('quietly switches off'),tGrab=A('pip grabs'),tCart=A('one more thing'),tT=A('trick number five');
+  const ex=t>tShip&&t<tGrab;
+  if(!ex){
+    ctx.fillStyle='#2E2868';rr(260,560,1400,40,14);ctx.fill();
+    const TX=700,CX=1220;
+    const freeNow=t>tFree;
+    truffle(TX,460,1.2,freeNow&&t>t69?1:0);choc(CX,480,1.3,freeNow?1:0);
+    if(t>tBowl){const drop=t>tCheaper;tag(TX+40,270,-0.08,1,drop?'14¢':'15¢',C.ink);if(!freeNow)tag(CX+40,270,0.08,1,'1¢',C.ink);}
+    if(freeNow)stamp(CX+30,270,'FREE',L(t,tFree,0.5),C.grn,90,0.12);
+    // crowd
+    const cols=[C.pnk,C.yel,'#5FD3F3',C.blu];const side=t<tFree?0:1;const mv=t<tFree?L(t,t73-0.5,1.2):L(t,t69-0.3,1.2);
+    for(let i=0;i<4;i++){const minority=i===3;const tgt=minority?1-side:side;const from=t<tFree?250+i*90:(minority?CX:TX)+(i-1.5)*110;
+      const to=(tgt===0?TX:CX)+(i-1.5)*110;const x=mix(from,to,mv);const walking=mv>0.02&&mv<0.98;
+      pip({x,y:GROUND,s:0.62,col:cols[i],mood:mv>0.95?'happy':'calm',walk:walking?t*1.8+i:null,look:to>x?0.7:-0.7});}
+    if(t>t73&&t<tCheaper)badge(TX,130,'73% chose this',C.yel,L(t,t73,0.4));
+    if(t>t69&&t<tShip)badge(CX,130,'69% chose this',C.grn,L(t,t69,0.4));
+    if(t>tFeel&&t<tShip){ctx.save();ctx.globalAlpha=L(t,tFeel,0.5);txt('Free = no downside → stop comparing',W/2,1000,44,C.yel,'center','900');ctx.restore();}
+    if(t>tGrab){ctx.fillStyle='rgba(10,8,30,0.97)';ctx.fillRect(0,0,W,H);phone(1200,560,0.9);txt('CART',1200,250,40,'#17143A','center','900');
+      txt('Jacket  $39',1200,350,36,'#17143A','center','bold');if(t>tCart){badge(1200,450,'+ 1 more item',C.yel,L(t,tCart,0.4));}
+      txt('FREE shipping over $50 ✓',1200,560,32,C.grn,'center','900');
+      pip({x:520,y:GROUND,s:1.25,col:C.blu,mood:'happy',arms:[0.35,-1.3],look:0.7});choc(640,560,0.6,1);}
+  } else {
+    badge(560,380,'FREE SHIPPING',C.grn,L(t,tShip,0.4));badge(1360,380,'BUY 1 GET 1 FREE',C.yel,L(t,tBogo,0.4));badge(960,620,'FREE GIFT',C.pnk,L(t,tGift,0.4));
+    if(t>tOff)txt('“free” switches off the comparing',W/2,850,46,C.ink,'center','900');
+  }
+  cnt(t,5,tT);
+}};
+
+function coin(x,y,s,rot=0){ctx.save();ctx.translate(x,y);ctx.rotate(rot);ctx.scale(s,s);ctx.fillStyle='#C9CDD6';ctx.beginPath();ctx.arc(0,0,40,0,7);ctx.fill();
+  ctx.strokeStyle='#9AA0AC';ctx.lineWidth=6;ctx.beginPath();ctx.arc(0,0,32,0,7);ctx.stroke();txt('25¢',0,2,24,'#555','center','900');ctx.restore();}
+function candyMachine(x,y){ctx.fillStyle=C.cor;rr(x-90,y-120,180,330,20);ctx.fill();ctx.fillStyle='rgba(255,255,255,0.85)';ctx.beginPath();ctx.arc(x,y-200,130,0,7);ctx.fill();
+  const cs=[C.yel,C.grn,C.blu,C.pnk];for(let i=0;i<18;i++){ctx.fillStyle=cs[i%4];ctx.beginPath();ctx.arc(x-80+(i%6)*32,y-150-Math.floor(i/6)*34,14,0,7);ctx.fill();}
+  ctx.fillStyle='#1a1630';rr(x-30,y+90,60,50,8);ctx.fill();ctx.fillStyle='#ddd';rr(x+30,y-60,20,50,6);ctx.fill();}
+function padlock(x,y,s){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.strokeStyle='#E8B13A';ctx.lineWidth=10;ctx.beginPath();ctx.arc(0,-20,24,Math.PI,0);ctx.stroke();
+  ctx.fillStyle='#E8B13A';rr(-36,-20,72,60,10);ctx.fill();ctx.fillStyle='#7a5a10';ctx.beginPath();ctx.arc(0,6,8,0,7);ctx.fill();ctx.restore();}
+function jar(x,y,s,label,fill,col=C.grn,price){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='rgba(255,255,255,0.18)';rr(-80,-120,160,220,30);ctx.fill();
+  ctx.fillStyle=col;const h=200*fill;rr(-70,90-h,140,h,22);ctx.fill();ctx.fillStyle='#8F8AB8';rr(-90,-140,180,30,10);ctx.fill();
+  txt(label,0,150,34,C.ink,'center','900');if(price)tag(70,-140,0.15,0.8,price,C.yel);ctx.restore();}
+function mug(x,y,s,crown=0){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='#F6F1E7';rr(-70,-90,140,170,20);ctx.fill();
+  ctx.strokeStyle='#F6F1E7';ctx.lineWidth=18;ctx.beginPath();ctx.arc(80,-5,38,-Math.PI/2,Math.PI/2);ctx.stroke();ctx.fillStyle=C.blu;txt('♥',0,0,60,C.cor,'center','900');
+  if(crown>0){ctx.save();ctx.translate(0,-130);ctx.scale(crown,crown);ctx.fillStyle=C.gold;ctx.beginPath();ctx.moveTo(-50,20);ctx.lineTo(-50,-20);ctx.lineTo(-25,5);ctx.lineTo(0,-30);ctx.lineTo(25,5);ctx.lineTo(50,-20);ctx.lineTo(50,20);ctx.closePath();ctx.fill();ctx.restore();
+    ctx.strokeStyle=`rgba(255,201,77,${crown*0.8})`;ctx.lineWidth=6;ctx.beginPath();ctx.ellipse(0,-185,60,14,0,0,7);ctx.stroke();}
+  ctx.restore();}
+function moth(x,y,s,t){const fl=Math.abs(Math.sin(t*28));ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='#CFC6B8';
+  ctx.beginPath();ctx.ellipse(-9,0,12,6+fl*6,0.5,0,7);ctx.ellipse(9,0,12,6+fl*6,-0.5,0,7);ctx.fill();ctx.fillStyle='#6E6556';ctx.beginPath();ctx.ellipse(0,0,4,9,0,0,7);ctx.fill();ctx.restore();}
+function pockets(x,s,t,t0){const pk=lin(t,t0,t0+0.2);if(pk<=0)return;ctx.save();ctx.fillStyle='#F6F1E7';
+  [-1,1].forEach(d=>{ctx.save();ctx.translate(x+d*76*s,GROUND-100*s);ctx.rotate(d*(0.3+Math.sin(t*12)*0.1));ctx.scale(back(pk),back(pk));
+    ctx.beginPath();ctx.moveTo(0,-30);ctx.lineTo(d*62,-18);ctx.lineTo(d*55,36);ctx.lineTo(0,26);ctx.closePath();ctx.fill();ctx.strokeStyle='#C9666B';ctx.lineWidth=5;ctx.stroke();ctx.restore();});ctx.restore();}
+
+// ---- 6: pocket change ----
+CHAPTERS[6]={label:'6 · Pocket change',draw(t){
+  sky(false);
+  const tQ=A('four quarters'),tStudy=A('in one study'),t63=A('sixty-three percent'),t26=A('twenty-six percent'),tSame=A('same dollar'),tWhole=A('a whole bill'),
+        tSmall=A('small change feels'),tPhone=A('small payments on your phone'),tRoll=A("pips quarters roll"),tT=A('trick number six');
+  const study=t>tStudy&&t<tWhole;
+  if(!study){
+    candyMachine(1400,760);
+    const px=620;pip({x:px,y:GROUND,s:1.25,col:C.blu,mood:t>tRoll+2?'meh':'calm',arms:t>tQ&&t<tStudy?[0.35,-1.4]:[0.35,-0.35],look:t>tRoll+2?0:0.8,blink:Math.abs((t%3.3)-1.6)<0.06});
+    if(t>tQ&&t<tRoll){for(let i=0;i<4;i++)coin(px+200+i*30,620-i*8,0.9);}
+    if(t>tRoll){for(let i=0;i<4;i++){const k=cl((t-tRoll-i*0.45)/0.9);if(k>=1)continue;coin(mix(px+200,1400,k),mix(700,560,k)-Math.sin(k*Math.PI)*120,0.8,k*12);}}
+    wallet(320,560,0.7,0,1);padlock(320,470,1.1);
+    if(t>tWhole&&t<tRoll){txt('A bill feels like something to protect',W/2,170,44,C.yel,'center','900');}
+    if(t>tSmall&&t<tRoll){txt('Coins feel already spent',W/2,240,40,C.ink,'center','bold');}
+    if(t>tPhone&&t<tRoll){phone(1700,560,0.45);for(let i=0;i<3;i++)badge(1700,450+i*80,'-$'+(2+i),C.pnk,L(t,tPhone+i*0.5,0.3));}
+  } else {
+    txt('People got $1 and a chance to spend it',W/2,200,46,C.ink,'center','900');
+    card(220,280,700,560);card(1000,280,700,560);
+    for(let i=0;i<4;i++)coin(420+i*100,430,1.2);bill(1350,430,0,1.6,'$1');
+    txt('as 4 quarters',570,540,36,C.ink,'center','bold');txt('as 1 bill',1350,540,36,C.ink,'center','bold');
+    if(t>t63){const k=L(t,t63,0.8);txt(Math.round(63*k)+'%',570,670,110,C.cor,'center','900');txt('spent it',570,770,36,C.ink,'center','bold');}
+    if(t>t26){const k=L(t,t26,0.8);txt(Math.round(26*k)+'%',1350,670,110,C.grn,'center','900');txt('spent it',1350,770,36,C.ink,'center','bold');}
+    if(t>tSame)badge(W/2,940,'Same dollar',C.yel,L(t,tSame,0.4));
+  }
+  cnt(t,6,tT);
+}};
+// ---- 7: lost ticket ----
+CHAPTERS[7]={label:'7 · The lost ticket',draw(t){
+  sky(true);
+  const tTick=A('bought a ten-dollar ticket'),tGone=A('the ticket is gone'),tWould=A('would you buy another'),tStudy=A('in a classic study'),t88=A('eighty-eight percent'),
+        tOther=A('in the other'),t46=A('only forty-six percent'),tSame=A('same ten dollars'),tJars=A('it keeps little jars'),tShow=A('the show jar'),t20=A('twenty dollars'),
+        tNo=A("pip doesnt buy"),tSnack=A('twelve dollars on snacks'),tT=A('trick number seven');
+  const study=t>tStudy&&t<tSame, jars=t>tSame&&t<tNo;
+  if(!study&&!jars){
+    // theater door
+    ctx.fillStyle='#3A3378';rr(1200,380,520,520,16);ctx.fill();ctx.fillStyle=C.yel;rr(1180,330,560,90,16);ctx.fill();txt('SHOW TONIGHT',1460,377,44,'#17143A','center','900');
+    for(let i=0;i<10;i++){ctx.fillStyle=(Math.floor(t*4)+i)%2?'#FFE27A':'#a08030';ctx.beginPath();ctx.arc(1200+i*58,330,8,0,7);ctx.fill();}
+    ctx.fillStyle='#1a1630';rr(1380,620,160,280,10);ctx.fill();
+    const px=720;let mood='happy',arms=[0.35,-2.3];
+    if(t>tGone){const p=Math.sin((t-tGone)*40);arms=t<tGone+0.6?[0.9+p*0.6,-0.9+p*0.6]:[0.5,-0.5];mood=t<tGone+0.6?'shock':'sad';}
+    if(t>tNo){mood=t>tSnack?'happy':'meh';arms=[0.35,-1.3];}
+    pip({x:px,y:GROUND,s:1.3,col:C.pnk,mood,arms,look:0,blink:Math.abs((t%3.6)-1.8)<0.06});
+    if(t<tGone)ticket(px+170,560,-0.2,0.9);
+    if(t>tGone&&t<tNo)pockets(px,1.3,t,tGone+0.6);
+    if(t>tWould&&t<tStudy)txt('Would you buy another?',W/2,170,56,C.yel,'center','900');
+    if(t>tSnack){const k=back(cl((t-tSnack)/0.4));ctx.save();ctx.translate(px+230,600);ctx.scale(k,k);ctx.fillStyle=C.cor;rr(-70,-90,140,180,14);ctx.fill();
+      txt('POP',0,-40,36,'#fff','center','900');txt('CORN',0,0,36,'#fff','center','900');ctx.restore();tag(px+330,470,0.1,0.9,'$12',C.ink);}
+  } else if(study){
+    txt('Imagine you…',W/2,190,46,C.ink,'center','900');
+    card(220,260,700,600);card(1000,260,700,600);
+    bill(570,420,-0.1,1.3,'$10');txt('…lost a $10 bill',570,540,40,C.ink,'center','900');
+    if(t>tOther){ticket(1350,420,0.1,1.3);txt('…lost the $10 ticket',1350,540,40,C.ink,'center','900');}
+    if(t>t88){const k=L(t,t88,0.8);txt(Math.round(88*k)+'%',570,690,110,C.grn,'center','900');txt('still buy a ticket',570,790,34,C.ink,'center','bold');}
+    if(t>t46){const k=L(t,t46,0.8);txt(Math.round(46*k)+'%',1350,690,110,C.cor,'center','900');txt('buy another',1350,790,34,C.ink,'center','bold');}
+  } else {
+    txt('Same $10. Different jars.',W/2,180,56,C.yel,'center','900');
+    const j=L(t,tJars,0.5);jar(560,600,1.3*j,'GENERAL',0.6,C.grn);jar(960,600,1.3*j,'SHOW',t>t20?1:0.5,C.cor,t>tShow?(t>t20?'$20':'$10'):null);jar(1360,600,1.3*j,'SNACKS',0.5,C.yel);
+  }
+  cnt(t,7,tT);
+}};
+// ---- 8: old mug ----
+CHAPTERS[8]={label:'8 · The old mug',draw(t){
+  sky(true);
+  const tSell=A('sell his old mug'),tSeven=A('asks seven dollars'),tNobody=A('nobody buys'),tStudy=A('in a well-known'),tOwn=A('owned the mug'),t3=A('about three dollars'),
+        tSame=A('same mug same room'),tOurs=A('becomes ours'),tSelling=A('selling your old things'),tHug=A('pip hugs his mug'),tT=A('trick number eight');
+  const study=t>tStudy&&t<tOurs;
+  if(!study){
+    // home: couch + laptop listing
+    ctx.fillStyle='#3A3378';rr(1200,700,560,200,30);ctx.fill();rr(1180,620,80,280,20);ctx.fill();rr(1700,620,80,280,20);ctx.fill();
+    const px=640;const hug=t>tHug;
+    const fnt=t>tOurs+0.9&&t<tHug?L(t,tOurs+0.9,0.35):0;ctx.save();if(fnt>0){ctx.translate(px,GROUND);ctx.rotate(1.3*fnt);ctx.translate(-px,-GROUND);}
+    pip({x:px,y:GROUND,s:1.3,col:C.blu,mood:fnt>0?'shock':(t>tNobody&&t<tHug?'meh':'happy'),arms:hug?[-0.6,0.6]:[0.35,-1.4],look:hug?0:0.7,blink:Math.abs((t%3.4)-1.7)<0.06});ctx.restore();
+    mug(hug?px:px+210,hug?720:620,0.9,hug?1:L(t,tOurs,0.5)*(t>tOurs?1:0));
+    if(t>tSell&&t<tStudy){card(1140,170,620,360,'#F6F1E7');txt('FOR SALE: my mug',1450,240,40,'#17143A','center','900');mug(1450,400,0.6);if(t>tSeven)tag(1650,300,0.1,1.1,'$7',C.yel);
+      if(t>tNobody){txt('0 offers',1450,500,36,C.cor,'center','900');}}
+    if(t>tOurs&&t<tHug){bubble(1180,200,520,200,1240,420);txt('Buyers: "$3?"',1440,300,48,'#17143A','center','900');}
+  } else {
+    txt('Same mug, same room, same day',W/2,180,50,C.ink,'center','900');
+    card(220,260,700,620);card(1000,260,700,620);
+    pip({x:570,y:720,s:0.8,col:C.blu,mood:'happy',arms:[0.35,-1.4],look:0.6});mug(700,560,0.6,1);
+    pip({x:1350,y:720,s:0.8,col:C.yel,mood:'calm',arms:[0.35,-0.35],look:-0.6});mug(1500,560,0.6,0);
+    txt('owner',570,300,36,C.dim,'center','bold');txt('no mug',1350,300,36,C.dim,'center','bold');
+    if(t>tOwn){badge(570,810,'sell for ~$7',C.yel,L(t,tOwn,0.4));}
+    if(t>t3){badge(1350,810,'pay ~$3',C.grn,L(t,t3,0.4));}
+  }
+  cnt(t,8,tT);
+}};
+// ---- 9: the answer ----
+CHAPTERS[9]={label:'The answer',draw(t){
+  sky(true);
+  const tQ=A('back to our question'),tJars=A('first the jars'),tSec=A('second losses'),tTwice=A('twice as much'),tNot=A('not for everyone'),tTen=A('losing ten dollars'),
+        tLook=A('look at todays tricks'),tStamps=A('the stamps felt'),tFree=A('the free chocolate felt'),tJacket=A('thirty-nine-dollar jacket'),tSki=A('skipping the hundred-dollar'),
+        tMug=A('selling his mug'),tEvery=A('every single trick'),tWins=A('eight small wins'),tWallet=A('one empty wallet');
+  if(t<tJars){pip({x:W/2,y:GROUND,s:1.3,col:C.blu,mood:'meh',arms:[0.35,-0.35],look:0});txt('Why didn’t any of it feel like losing?',W/2,240,56,C.yel,'center','900');}
+  else if(t<tSec){const labels=['COFFEE','GYM','TRIPS','CLOTHES','SNACKS'];labels.forEach((l,i)=>{const k=L(t,tJars+1.2+i*0.45,0.4);if(k>0)jar(360+i*300,560,0.95*k,l,0.25,[C.cor,C.blu,'#5FD3F3',C.pnk,C.yel][i]);});
+    txt('Many small jars, each judged alone',W/2,200,50,C.ink,'center','900');}
+  else if(t<tLook){
+    // see-saw
+    const tilt=0.18*L(t,tTwice,0.8);ctx.save();ctx.translate(W/2,720);ctx.fillStyle='#8F8AB8';ctx.beginPath();ctx.moveTo(-50,160);ctx.lineTo(50,160);ctx.lineTo(0,40);ctx.fill();
+    ctx.rotate(-tilt);ctx.fillStyle='#F6F1E7';rr(-560,20,1120,24,12);ctx.fill();
+    ctx.fillStyle=C.cor;rr(-520,-120,220,140,20);ctx.fill();txt('LOSS',-410,-50,48,'#fff','center','900');
+    ctx.fillStyle=C.grn;rr(300,-60,220,80,20);ctx.fill();txt('GAIN',410,-20,40,'#17143A','center','900');ctx.restore();
+    txt('A loss weighs about 2× a gain',W/2,200,56,C.yel,'center','900');
+    if(t>tNot)txt('on average · people differ a lot',W/2,280,36,C.dim,'center','bold');
+    if(t>tTen){badge(600,420,'lose $10',C.cor,L(t,tTen,0.4));txt('≈',W/2,420,70,C.ink,'center','900');badge(1320,420,'win $20',C.grn,L(t,tTen+0.8,0.4));}
+  } else if(t<tEvery){
+    const items=[[tStamps,'Stamps','felt like a gain',C.grn],[tFree,'Free chocolate','felt like a gain',C.grn],[tJacket,'$39 jacket','felt like a deal',C.grn],[tSki,'Skip $100 trip','felt like a loss → avoided',C.cor],[tMug,'Sell mug for less','felt like a loss → refused',C.cor]];
+    txt("Today's tricks again",W/2,170,52,C.ink,'center','900');
+    items.forEach(([t0,a,b,c],i)=>{const k=L(t,t0,0.4);if(k<=0)return;ctx.save();ctx.globalAlpha=k;card(360,250+i*140,1200,110);txt(a,420,305+i*140,40,C.ink,'left','900');txt(b,1520,305+i*140,38,c,'right','900');ctx.restore();});
+  } else {
+    pip({x:760,y:GROUND,s:1.3,col:C.blu,mood:t>tWallet?'meh':'happy',arms:[0.35,-1.4],look:t>tWallet+1?0:0.7});
+    wallet(1060,560,0.9,L(t,tWallet,0.4),0);
+    if(t>tWallet){const mf=cl((t-tWallet-0.3)/3);moth(1060+mf*300+Math.sin(mf*14)*50,500-mf*260+Math.cos(mf*11)*30,2,t);}
+    if(t>tWins)txt('8 small wins. 1 empty wallet.',W/2,200,60,C.yel,'center','900');
+  }
+  counter(8,0);
+}};
+// ---- 10: buying time + outro ----
+CHAPTERS[10]={label:'One more study',draw(t){
+  sky(false);
+  const tForty=A('forty dollars'),tTime=A('saved them time'),tThing=A('a thing for themselves'),tHappy=A('happier on the day'),tBack=A('what did i get back'),
+        tCoffee=A('second coffee'),tMin=A('single minute back'),tNext=A('next saturday'),tKnow=A('now you know'),tCom=A('tell me in the comments'),tSend=A('send it to the friend'),tSale=A('on sale');
+  if(t<tBack){
+    txt('$40 spent on two different days',W/2,190,50,C.ink,'center','900');card(220,260,700,600);card(1000,260,700,600);
+    if(t>tTime){txt('Saved time',570,320,42,C.grn,'center','900');pip({x:520,y:780,s:0.75,col:C.blu,mood:'happy',arms:[0.35,-0.35],look:0.5});
+      // robot vacuum
+      const vx=700+Math.sin(t*1.5)*80;ctx.fillStyle='#ddd';ctx.beginPath();ctx.ellipse(vx,770,60,20,0,0,7);ctx.fill();ctx.fillStyle='#555';ctx.beginPath();ctx.ellipse(vx,760,30,8,0,0,7);ctx.fill();
+      badge(570,430,'+1 hour',C.grn,L(t,tTime+0.5,0.4));}
+    if(t>tThing){txt('Bought a thing',1350,320,42,C.dim,'center','900');pip({x:1300,y:780,s:0.75,col:C.blu,mood:'calm',arms:[0.35,-1.4],look:0.5});jacket(1500,600,0.6);}
+    if(t>tHappy){badge(570,880,'happier',C.yel,L(t,tHappy,0.4));}
+  } else if(t<tNext){
+    txt('What did Pip get back?',W/2,200,56,C.yel,'center','900');
+    if(t>tCoffee){cup(600,560,0.9,t);jacket(960,560,0.8);ctx.fillStyle=C.cor;rr(1250,470,140,180,14);ctx.fill();txt('POP',1320,530,32,'#fff','center','900');}
+    if(t>tMin){badge(W/2,820,'0 minutes back',C.cor,L(t,tMin,0.4));}
+  } else {
+    const hop=t>tNext?Math.max(0,Math.sin(Math.max(0,(((t-tNext)%2.4)/2.4-0.5))*Math.PI*8))*20*(Math.abs(((t-tNext)%2.4)/2.4-0.55)<0.06?1:0):0;
+    pip({x:760,y:GROUND-hop,s:1.3,col:C.blu,mood:t>tSale?'meh':'calm',arms:[0.35,-0.35],look:t>tSale?0:0.6,blink:Math.abs((t%3)-1.5)<0.06});
+    wallet(1080,620,0.8,0,t<tKnow?5:5);bigNote(1080,540,0.08,0.55,'SPEND\nNOTHING');
+    if(t>tNext&&t<tKnow)txt('Next Saturday: same $50, same 8 tricks',W/2,200,48,C.ink,'center','900');
+    if(t>tCom)txt('Which trick gets you the most?',W/2,200,58,C.yel,'center','900');
+    if(t>tSend)txt('Send it to the friend who says “but it was on sale”',W/2,290,40,C.ink,'center','bold');
+    const mf=cl((t-tKnow)/4);if(t>tKnow){const lx=mix(1500,1080,mf),ly=mix(300,500,mf)+Math.sin(t*5)*(1-mf)*30;moth(lx,ly,2,mf<1?t:0);}
+  }
+  counter(8,0);
+}};
+
+// ================= HUMOR LAYER =================
+function comic(x,y,word,k,col=C.yel,size=80,rot=-0.12){if(k<=0||k>=1)return;const s=back(cl(k*3));ctx.save();ctx.translate(x,y);ctx.rotate(rot);ctx.scale(s,s);
+  ctx.globalAlpha=k>0.8?(1-k)*5:1;ctx.font=`900 ${size}px ${F}`;ctx.lineWidth=12;ctx.strokeStyle='#17143A';ctx.lineJoin='round';ctx.textAlign='center';ctx.textBaseline='middle';
+  ctx.strokeText(word,0,0);ctx.fillStyle=col;ctx.fillText(word,0,0);ctx.restore();}
+function dizzy(x,y,t){for(let i=0;i<3;i++){const a=t*5+i*2.1;txt('★',x+Math.cos(a)*70,y+Math.sin(a)*22,40,C.yel,'center','900');}}
+function wings(x,y,t,s=1){const f=Math.sin(t*30)*0.6;ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.fillStyle='#F6F1E7';
+  for(const d of [-1,1]){ctx.save();ctx.scale(d,1);ctx.rotate(-0.4+f);ctx.beginPath();ctx.ellipse(40,-10,40,16,-0.5,0,7);ctx.fill();ctx.restore();}ctx.restore();}
+function jitterLines(x,y,t){ctx.strokeStyle=C.yel;ctx.lineWidth=5;for(const d of [-1,1]){ctx.beginPath();for(let k=0;k<5;k++){const xx=x+d*(140+k*6)+(k%2?8:-8),yy=y-60+k*30;k?ctx.lineTo(xx,yy):ctx.moveTo(xx,yy);}ctx.stroke();}}
+function floatHearts(x,y,t,t0){for(let i=0;i<4;i++){const k=((t-t0)*0.6+i*0.25)%1;txt('♥',x+Math.sin(k*8+i)*40-60+i*40,y-k*260,40+20*(1-k),C.cor,'center','900');}}
+function runningWallet(x,t){ctx.save();ctx.strokeStyle=C.ink;ctx.lineWidth=8;ctx.lineCap='round';const st=Math.sin(t*20);
+  ctx.beginPath();ctx.moveTo(x-30,870);ctx.lineTo(x-30+st*20,900);ctx.moveTo(x+30,870);ctx.lineTo(x+30-st*20,900);ctx.stroke();ctx.restore();wallet(x,820,0.45,0,0);}
+function tear(x,y,t,t0){const k=((t-t0)*0.8)%1;ctx.fillStyle='#7FD3FF';ctx.beginPath();ctx.ellipse(x,y+k*60,7,10,0,0,7);ctx.fill();}
+
+// ---- per-chapter gags, camera pushes and sound effects ----
+Object.assign(CHAPTERS[0],{
+  cam(){return [[A("he'll feel smart"),2.2,1.35,760,560]];},
+  gag(t){comic(560,620,'THUD!',(t-1.15)/0.9,C.yel,90);
+    const tT=A('by tonight');if(t>tT)for(let i=0;i<5;i++){const k=cl((t-tT-i*0.3)/1.4);if(k>0&&k<1)wings(1190+k*600+i*20,690-k*500+Math.sin(k*9+i)*40,t,0.9);}},
+  sfx(){return [[1.2,'thud'],[A('by tonight'),'whoosh'],[A("he'll feel smart"),'ding'],[A('eight times'),'pop'],[A("so here's the game"),'boing']];}
+});
+Object.assign(CHAPTERS[1],{
+  cam(){return [[A('orders a second coffee')+0.6,3.2,1.3,820,640]];},
+  gag(t){const tTwo=A('two stamps are already');
+    for(const [j,x] of [[0,834],[1,897]]){const t0=tTwo+0.1+j*0.5;const k=cl((t-t0)/0.5);if(k>0&&k<1){const down=k<0.4?k/0.4:1-(k-0.4)/0.6;
+      ctx.save();ctx.translate(x,308-220*(1-down));ctx.fillStyle='#8A5A3B';rr(-18,-150,36,110,10);ctx.fill();ctx.fillStyle=C.cor;rr(-50,-50,100,50,10);ctx.fill();ctx.restore();
+      if(k>0.38&&k<0.6)comic(x,200,'KA-CHUNK',(k-0.38)/0.22*0.5+0.2,C.cor,44);}}
+    const tS=A('orders a second coffee');if(t>tS+0.6&&t<A('trick number one')+3)jitterLines(820,600,t);},
+  sfx(){const tTwo=A('two stamps are already'),tS=A('orders a second coffee');return [[tTwo+0.3,'thud'],[tTwo+0.8,'thud'],[tS,'slurp'],[tS+0.7,'buzz']];}
+});
+Object.assign(CHAPTERS[2],{
+  cam(){return [[A('pip waves')+1.3,2.6,1.3,640,800]];},
+  gag(t){const t0=A('pip waves')+1.3;if(t>t0+0.2&&t<t0+4)dizzy(560,760,t);comic(700,640,'OOF!',(t-t0)/1,C.yel,80);},
+  sfx(){const t0=A('pip waves')+1.25;return [[t0+0.1,'thud'],[t0+0.5,'tweet']];}
+});
+Object.assign(CHAPTERS[3],{
+  cam(){return [[A('pip sighs')+0.6,3,1.3,420,560]];},
+  gag(t){const t0=A('pip sighs');if(t>t0+0.6)comic(600,420,'brrr',((t-t0-0.6)%2)/1.2,'#9FE3FF',56,0.1);},
+  sfx(){return [[A('pip sighs')+0.6,'brr']];}
+});
+Object.assign(CHAPTERS[4],{
+  cam(){return [[A('pip buys the jacket')+0.8,2.8,1.25,960,700]];},
+  gag(t){const tD=A('looks like a deal'),tC=A('catalog experiments'),tB=A('pip buys the jacket');
+    if(t>tD&&t<tC)floatHearts(700,560,t,tD);
+    if(t>tB+0.9){const k=cl((t-tB-0.9)/2.2);runningWallet(mix(820,2100,k*k),t);comic(900,640,'NOPE!',(t-tB-1.0)/1.2,C.cor,60);}},
+  sfx(){const tB=A('pip buys the jacket');return [[tB+0.9,'slide']];}
+});
+Object.assign(CHAPTERS[5],{
+  gag(t){const t69=A('sixty-nine percent'),tF=A('became free');
+    const k=cl((t-t69+0.3)/1.0);if(k>0&&k<1){ctx.fillStyle=`rgba(185,180,224,${0.6*(1-k)})`;for(let i=0;i<6;i++){ctx.beginPath();ctx.arc(820+i*60,880-k*40,30+k*40,0,7);ctx.fill();}comic(960,700,'SCREECH',k,C.yel,56);}
+    if(t>t69&&t<A('free shipping'))tear(745,470,t,t69);},
+  sfx(){return [[A('sixty-nine percent')-0.3,'screech'],[A('one more thing'),'boing']];}
+});
+Object.assign(CHAPTERS[6],{
+  cam(){return [[A("pips quarters roll")+2.0,2.4,1.3,620,640]];},
+  gag(t){},
+  sfx(){const r=A("pips quarters roll");return [0,1,2,3].map(i=>[r+i*0.45+0.85,'plink']);}
+});
+Object.assign(CHAPTERS[7],{
+  cam(){return [[A('the ticket is gone')+0.5,2.8,1.3,720,640]];},
+  gag(t){const g=A('the ticket is gone');const mf=cl((t-g-0.9)/2.5);if(mf>0&&mf<1&&t<A('in a classic study'))moth(720+120+mf*260+Math.sin(mf*14)*40,760-mf*420+Math.cos(mf*11)*30,2.2,t);},
+  sfx(){const g=A('the ticket is gone');return [[g+0.05,'pat'],[g+0.2,'pat'],[g+0.35,'pat'],[g+0.62,'pop'],[g+0.72,'pop'],[g+0.9,'flutter']];}
+});
+Object.assign(CHAPTERS[8],{
+  cam(){return [[A('becomes ours')+0.9,2.4,1.25,700,700]];},
+  gag(t){const t0=A('becomes ours')+0.9;comic(760,520,'GASP!',(t-t0)/1.0,C.cor,70);if(t>t0+0.3&&t<A('pip hugs his mug'))dizzy(560,600,t);},
+  sfx(){const t0=A('becomes ours')+0.9;return [[t0,'wah'],[A('pip hugs his mug'),'pop']];}
+});
+Object.assign(CHAPTERS[9],{
+  cam(){return [[A('one empty wallet')+0.5,3.2,1.3,920,600]];},
+  sfx(){return [[A('one empty wallet')+0.3,'flutter']];}
+});
+Object.assign(CHAPTERS[10],{
+  cam(){return [[A('on sale')+0.4,3,1.3,800,600]];},
+  gag(t){const tN=A('next saturday');if(t>tN){const cyc=((t-tN)%2.4)/2.4;const vx=cyc<0.5?mix(300,680,cyc*2):mix(680,300,(cyc-0.5)*2);
+    ctx.fillStyle='#ddd';ctx.beginPath();ctx.ellipse(vx,885,62,20,0,0,7);ctx.fill();ctx.fillStyle='#555';ctx.beginPath();ctx.ellipse(vx,875,30,8,0,0,7);ctx.fill();
+    if(Math.abs(cyc-0.5)<0.03)comic(680,780,'bonk',0.3,C.yel,40);}},
+  sfx(){const tN=A('next saturday');return [0,1,2,3,4].map(i=>[tN+1.2+i*2.4,'bonk']);}
+});
+
+// ================= API =================
+window.setChapter=(n,words,dur)=>{CH=n;WORDS=words;DUR=dur;return true;};
+function camAt(c,t){let z=1,cx=W/2,cy=H/2;if(c.cam)for(const [a,d,zz,x,y] of c.cam()){const k=Math.min(L(t,a,0.5),1-L(t,a+d,0.6));if(k>0){z=1+(zz-1)*k;cx=x;cy=y;}}return [z,cx,cy];}
+window.sfxList=()=>{const c=CHAPTERS[CH];return c.sfx?c.sfx():[];};
+window.frame=(t)=>{const c=CHAPTERS[CH];COUNTER=null;const [z,cx,cy]=camAt(c,t);ctx.save();ctx.translate(cx,cy);ctx.scale(z,z);ctx.translate(-cx,-cy);
+  c.draw(t);if(c.gag)c.gag(t);ctx.restore();if(COUNTER)drawCounter(COUNTER[0],COUNTER[1]);if(CH>0)chapterLabel(c.label);
+  // fade in/out between chapters
+  const f=Math.min(cl(t/0.3),cl((DUR-t)/0.3));if(f<1){ctx.fillStyle=`rgba(10,8,30,${1-f})`;ctx.fillRect(0,0,W,H);}
+  return cv.toDataURL('image/jpeg',0.9);};
+</script></body></html>
