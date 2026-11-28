@@ -1,0 +1,35 @@
+{
+ "voice": "en-US-ChristopherNeural",
+ "rate": "+10%",
+ "volume": "+40%",
+ "items": [
+  {
+   "id": "q01",
+   "text": "You're more likely to return a wallet with cash in it. Researchers turned in over seventeen thousand \"lost\" wallets in forty countries. Empty ones came back forty percent of the time. With money inside? Fifty-one percent. Most people guessed the opposite. Because"
+  },
+  {
+   "id": "q04",
+   "text": "Your guess for when you'll finish is probably too early. Students guessed when they'd finish their big final paper. Average guess: thirty-four days. Real time: fifty-six. Fewer than one in three finished on time. About half missed even their worst-case guess. So"
+  },
+  {
+   "id": "q06",
+   "text": "Talking to the stranger next to you can make your ride better. Train commuters were told to start a chat with a stranger, or keep to themselves. Other commuters predicted the quiet ride would be nicer. It wasn't. The talkers had the more pleasant trip. We just expect a chat to feel awkward. Remember:"
+  },
+  {
+   "id": "q08",
+   "text": "Your old friend would like your message more than you think. In study after study, people sent a short, surprise note to someone they hadn't talked to in a while. Then senders guessed how much it would be appreciated. Again and again, they guessed too low. So"
+  },
+  {
+   "id": "q09",
+   "text": "You'll probably say an experience made you happier than a thing. Over twelve hundred Americans thought of two purchases: one thing they bought to own, one thing they bought to do. Which made them happier? Fifty-seven percent said the experience. Thirty-four said the thing. That's why"
+  },
+  {
+   "id": "q12",
+   "text": "Ordering after your friends can make you enjoy your drink less. A bar offered free samples of four beers. Some tables ordered out loud, one by one. Others chose in private. Out loud, people picked something different, and liked it less. Many wished they'd picked another. That's why"
+  },
+  {
+   "id": "q13",
+   "text": "You may earn more chasing the best job, and feel worse. American students hunting for their first job were followed. Some aimed for the very best. Others, good enough. The best-seekers started on about twenty percent more pay. But they felt more stressed, and less happy with the job. Remember:"
+  }
+ ]
+}
