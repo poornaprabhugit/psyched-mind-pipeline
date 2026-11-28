@@ -23,9 +23,21 @@ function bg(){
 
 // ---------- the character: "Pip", an original round bean ----------
 // opts: x,y (feet center), s scale, col, mood ('happy','sad','shock','meh','calm'), arms [lAngle,rAngle], walk phase, blink, look (-1..1)
+window.NOW=0;window.BEATS=[];window.MAIN_DRAWN=false;
+function gestureArms(o){ // acting along with the voice on emphasis words
+  const idle=!o.arms||(Math.abs(o.arms[0]-0.35)<0.01&&Math.abs(o.arms[1]+0.35)<0.01);
+  if(!idle||o.walk!=null||(o.s||1)<0.5)return null;
+  let b=null;for(const x of BEATS){if(x.t<=NOW&&NOW-x.t<1.1)b=x;}
+  if(!b)return null;const k=Math.sin(Math.PI*cl((NOW-b.t)/1.1));
+  const P={point:[0.35,-1.9],up:[2.0,-2.0],nod:[0.35,-0.35],shrug:[1.7,-1.7],count:[0.35,-2.7]}[b.kind];
+  return {arms:[mix(0.35,P[0],k),mix(-0.35,P[1],k)],nod:b.kind==='nod'?Math.sin((NOW-b.t)*14)*0.06*k:0,hop:b.kind==='up'?k*14:0,kind:b.kind};}
 function pip(o){
+  if((o.s||1)>=1)MAIN_DRAWN=true;
+  const g=gestureArms(o);if(g)o=Object.assign({},o,{arms:g.arms});
+  if(o.blink==null||o.blink===false){o=Object.assign({},o,{blink:((NOW+o.x*0.0137)%3.6)<0.09});}
   const s=o.s||1, col=o.col||C.blu;
-  ctx.save();ctx.translate(o.x,o.y);ctx.scale(s*(o.flip?-1:1),s);
+  const br=o.walk==null?Math.sin(NOW*2.4+o.x*0.01):0, sway=o.walk==null?Math.sin(NOW*1.1+o.x*0.02)*0.025:0;
+  ctx.save();ctx.translate(o.x,o.y-(g?g.hop:0));ctx.rotate(sway+(g?g.nod:0));ctx.scale(s*(o.flip?-1:1)*(1-0.012*br),s*(1+0.018*br));
   const step=o.walk!=null?Math.sin(o.walk*Math.PI*2):0;
   const bob=o.walk!=null?Math.abs(Math.sin(o.walk*Math.PI*2))*6:0;
   // legs

@@ -548,11 +548,18 @@ Object.assign(CHAPTERS[10],{
 });
 
 // ================= API =================
-window.setChapter=(n,words,dur)=>{CH=n;WORDS=words;DUR=dur;return true;};
-function camAt(c,t){let z=1,cx=W/2,cy=H/2;if(c.cam)for(const [a,d,zz,x,y] of c.cam()){const k=Math.min(L(t,a,0.5),1-L(t,a+d,0.6));if(k>0){z=1+(zz-1)*k;cx=x;cy=y;}}return [z,cx,cy];}
+const EMPH=/^(\d|one|two|three|four|five|six|seven|eight|nine|ten|twelve|fifteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|hundred|thousand|free|gone|twice|half|same|never|every|only|empty|nobody|almost|more)/;
+function makeBeats(){const kinds=['point','up','nod','shrug','count'];const out=[];let last=-9;
+  WORDS.forEach((w,i)=>{const x=norm(w.w);if(EMPH.test(x)&&w.start-last>1.6){out.push({t:w.start,kind:/^\d|percent|dollar/.test(x)||/(ty|teen|hundred|thousand)/.test(x)?(out.length%2?'up':'point'):kinds[out.length%kinds.length]});last=w.start;}});
+  // idle filler: a small gesture every ~4 s where nothing else happens
+  for(let t=2;t<DUR-1;t+=4.3){if(!out.some(b=>Math.abs(b.t-t)<2))out.push({t,kind:['nod','point','shrug'][Math.floor(t)%3]});}
+  return out.sort((a,b)=>a.t-b.t);}
+window.setChapter=(n,words,dur)=>{CH=n;WORDS=words;DUR=dur;BEATS=makeBeats();return BEATS.length;};
+function camAt(c,t){let z=1.03+0.025*Math.sin(t*0.21),cx=W/2+60*Math.sin(t*0.13),cy=H/2+20*Math.sin(t*0.17);if(c.cam)for(const [a,d,zz,x,y] of c.cam()){const k=Math.min(L(t,a,0.5),1-L(t,a+d,0.6));if(k>0){z=mix(z,zz,k);cx=mix(cx,x,k);cy=mix(cy,y,k);}}return [z,cx,cy];}
 window.sfxList=()=>{const c=CHAPTERS[CH];return c.sfx?c.sfx():[];};
-window.frame=(t)=>{const c=CHAPTERS[CH];COUNTER=null;const [z,cx,cy]=camAt(c,t);ctx.save();ctx.translate(cx,cy);ctx.scale(z,z);ctx.translate(-cx,-cy);
-  c.draw(t);if(c.gag)c.gag(t);ctx.restore();if(COUNTER)drawCounter(COUNTER[0],COUNTER[1]);if(CH>0)chapterLabel(c.label);
+window.frame=(t)=>{NOW=t;MAIN_DRAWN=false;const c=CHAPTERS[CH];COUNTER=null;const [z,cx,cy]=camAt(c,t);ctx.save();ctx.translate(cx,cy);ctx.scale(z,z);ctx.translate(-cx,-cy);
+  c.draw(t);if(c.gag)c.gag(t);ctx.restore();
+  if(CH>0&&!MAIN_DRAWN){pip({x:150,y:1075,s:0.8,col:C.blu,mood:'calm',arms:[0.35,-0.35],look:0.9});MAIN_DRAWN=false;}if(COUNTER)drawCounter(COUNTER[0],COUNTER[1]);if(CH>0)chapterLabel(c.label);
   // fade in/out between chapters
   const f=Math.min(cl(t/0.3),cl((DUR-t)/0.3));if(f<1){ctx.fillStyle=`rgba(10,8,30,${1-f})`;ctx.fillRect(0,0,W,H);}
   return cv.toDataURL('image/jpeg',0.9);};

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>html,body{margin:0;background:#000}canvas{display:block}</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script src="helpers9.js"></script>
+<script src="props.js"></script>
+<script>
+// ================= Shorts framework (9:16) =================
+let ID='',CLEAN=false;const SH={};
+const EMPH=/^(\d|one|two|three|four|five|six|seven|eight|nine|ten|twelve|fifteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|hundred|thousand|free|twice|half|same|never|every|only|more|most|far|again|less)/;
+function makeBeats(){const kinds=['point','up','nod','shrug','count'];const out=[];let last=-9;
+  WORDS.forEach(w=>{const x=norm(w.w);if(EMPH.test(x)&&w.start-last>1.3){out.push({t:w.start,kind:kinds[out.length%kinds.length]});last=w.start;}});
+  for(let t=1.5;t<DUR-1;t+=3.2){if(!out.some(b=>Math.abs(b.t-t)<1.5))out.push({t,kind:['nod','point','shrug'][Math.floor(t)%3]});}
+  return out.sort((a,b)=>a.t-b.t);}
+// captions: 1–5 word chunks from real word timings, like the stock Shorts (yellow, black stroke)
+function captionsW(t){if(!WORDS.length)return;const ch=[];for(let i=0;i<WORDS.length;){const n=Math.min(4,WORDS.length-i);ch.push(WORDS.slice(i,i+n));i+=n;}
+  let cur=null;for(let i=0;i<ch.length;i++){const a=i?ch[i][0].start-0.05:0,b=i<ch.length-1?ch[i+1][0].start-0.05:1e9;if(t>=a&&t<b)cur=ch[i];}
+  if(!cur)return;ctx.font=`900 80px ${F}`;const txts=cur.map(w=>w.w);const tw=ctx.measureText(txts.join(' ')).width;
+  let rows=[txts];if(tw>940){const h=Math.ceil(txts.length/2);rows=[txts.slice(0,h),txts.slice(h)];}
+  let idx=0;rows.forEach((r,ri)=>{const rw=ctx.measureText(r.join(' ')).width;let x=W/2-rw/2;const y=1430+(ri-(rows.length-1)/2)*92;
+    r.forEach(w=>{const wd=cur[idx];const on=t>=wd.start;const pop=on?eo(cl((t-wd.start)/0.12)):0;const ww=ctx.measureText(w).width;
+      ctx.save();ctx.translate(x+ww/2,y);const sc=on?1+0.12*(1-pop):1;ctx.scale(sc,sc);ctx.lineWidth=16;ctx.strokeStyle='#000';ctx.lineJoin='round';ctx.textAlign='center';ctx.textBaseline='middle';
+      ctx.globalAlpha=on?1:0.55;ctx.strokeText(w,0,0);ctx.fillStyle=on?'#FFE600':'#fff';ctx.fillText(w,0,0);ctx.restore();x+=ww+ctx.measureText(' ').width;idx++;});});}
+function hookCard(t,text){if(t>2.5)return;const k=Math.min(L(t,0,0.2),1-L(t,2.3,0.2));ctx.save();ctx.globalAlpha=k;
+  let fs=70;ctx.font=`900 ${fs}px ${F}`;while(ctx.measureText(text).width>940){fs-=2;ctx.font=`900 ${fs}px ${F}`;}const tw=ctx.measureText(text).width;
+  ctx.fillStyle='#FFE600';rr(W/2-tw/2-36,230,tw+72,130,20);ctx.fill();txt(text,W/2,297,fs,'#000','center','900');ctx.restore();}
+function endCards(t){const a=DUR-2.5;if(t<a)return;const k=L(t,a,0.25);ctx.save();ctx.globalAlpha=k;
+  const sub=CLEAN?'Follow for a new brain fact every day':'Like & subscribe for a new brain fact every day';
+  ctx.font=`900 46px ${F}`;const w1=ctx.measureText(sub).width;ctx.fillStyle='rgba(0,0,0,0.78)';rr(W/2-w1/2-30,1560,w1+60,86,43);ctx.fill();txt(sub,W/2,1604,46,'#fff','center','900');
+  if(!CLEAN){ctx.font=`900 42px ${F}`;const w2=ctx.measureText('Full video: tap the link below').width;ctx.fillStyle='#FFE600';rr(W/2-w2/2-30,1665,w2+60,80,40);ctx.fill();txt('Full video: tap the link below',W/2,1706,42,'#000','center','900');}
+  ctx.restore();}
+function camAt(c,t){let z=1.02+0.02*Math.sin(t*0.4),cx=W/2+30*Math.sin(t*0.3),cy=800;if(c.cam)for(const [a,d,zz,x,y] of c.cam()){const k=Math.min(L(t,a,0.4),1-L(t,a+d,0.5));if(k>0){z=mix(z,zz,k);cx=mix(cx,x,k);cy=mix(cy,y,k);}}return [z,cx,cy];}
+window.setShort=(id,words,dur,clean)=>{ID=id;WORDS=words;DUR=dur;CLEAN=!!clean;BEATS=makeBeats();return BEATS.length;};
+window.sfxList=()=>SH[ID].sfx?SH[ID].sfx():[];
+window.frame=(t)=>{NOW=t;const c=SH[ID];const [z,cx,cy]=camAt(c,t);ctx.save();ctx.translate(cx,cy);ctx.scale(z,z);ctx.translate(-cx,-cy);
+  c.draw(t);if(c.gag)c.gag(t);ctx.restore();captionsW(t);hookCard(t,c.hook);endCards(t);return cv.toDataURL('image/jpeg',0.9);};
+function street(){sky(false);ctx.fillStyle='#2C2766';for(let i=0;i<5;i++){rr(40+i*210,560+((i*37)%90),170,620-((i*37)%90),10);ctx.fill();}
+  ctx.fillStyle='rgba(255,200,90,0.5)';for(let i=0;i<5;i++)for(let r=0;r<4;r++){ctx.fillRect(70+i*210,640+((i*37)%90)+r*110,40,50);ctx.fillRect(140+i*210,640+((i*37)%90)+r*110,40,50);}}
+</script>
+<script src="shorts28.js"></script>
+</body></html>
