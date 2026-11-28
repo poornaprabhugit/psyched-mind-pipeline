@@ -1,0 +1,446 @@
+{
+ "videos": [
+  {
+   "id": "q02",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You're more likely to pick fruit for later, and chocolate for now.",
+     "queries": [
+      "fruit bowl apple banana",
+      "woman choosing apple",
+      "chocolate bar unwrapping"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Two hundred workers chose a snack they'd get a week later.",
+     "queries": [
+      "office workers break room",
+      "coworkers office kitchen",
+      "office snack"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Many chose an apple or a banana.",
+     "queries": [
+      "apple banana close up",
+      "hand picking apple",
+      "fresh fruit table"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "A week later, they could choose again, right then.",
+     "queries": [
+      "calendar week later",
+      "clock time passing",
+      "office desk morning"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Far more took chips or a chocolate bar.",
+     "queries": [
+      "potato chips bag",
+      "chocolate bar eating",
+      "snack vending machine"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Future you eats well.",
+     "queries": [
+      "man eating chips",
+      "woman eating chocolate",
+      "junk food snack"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Right-now you doesn't. That's why",
+     "queries": [
+      "woman eating apple",
+      "man eating chocolate couch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q03",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You'd probably say no to free money if the split feels unfair.",
+     "queries": [
+      "money split hands",
+      "cash on table",
+      "man refusing money"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "In a classic game, one person gets some money and offers you a share.",
+     "queries": [
+      "two people handshake money",
+      "dollar bills hands",
+      "business deal table"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Say yes, you both get paid.",
+     "queries": [
+      "man counting money",
+      "offering money hand",
+      "cash exchange"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Say no, nobody gets anything.",
+     "queries": [
+      "man shaking head no",
+      "woman refusing",
+      "hands crossed no"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "On average, people offer about forty percent.",
+     "queries": [
+      "money counting",
+      "dollar bills table"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Low offers often get turned down.",
+     "queries": [
+      "disappointed man",
+      "man shaking head",
+      "rejecting offer"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "Fair beats free. So",
+     "queries": [
+      "scale balance",
+      "fair handshake",
+      "two people talking"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q05",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You're more willing to drive to save five dollars on cheap stuff.",
+     "queries": [
+      "man driving car",
+      "car dashboard driving",
+      "road trip car"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "People were asked:",
+     "queries": [
+      "calculator close up",
+      "store shelf electronics",
+      "shopping store aisle"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "would you drive twenty minutes to another store to save five dollars on a calculator?",
+     "queries": [
+      "calculator buttons",
+      "cheap calculator",
+      "shopping cart"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "On a fifteen-dollar one, sixty-eight percent said yes.",
+     "queries": [
+      "man thinking shopping",
+      "price tag store",
+      "woman shopping electronics"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "On a hundred-and-twenty-five-dollar one, only twenty-nine percent.",
+     "queries": [
+      "expensive electronics store",
+      "laptop store",
+      "cashier payment"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Same five dollars. That's why",
+     "queries": [
+      "coins counting",
+      "five dollar bill",
+      "wallet money"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q07",
+   "lines": [
+    {
+     "n": 1,
+     "text": "You'll say yes far more often when yes is already checked.",
+     "queries": [
+      "checkbox form",
+      "online form typing",
+      "laptop form filling"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "In an online study, people chose whether to be organ donors.",
+     "queries": [
+      "man laptop form",
+      "person typing computer",
+      "online signup"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "When they had to check a box to join, far fewer joined.",
+     "queries": [
+      "hand clicking mouse",
+      "checkmark screen",
+      "computer mouse click"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "When they were in unless they unchecked it, about twice as many stayed in.",
+     "queries": [
+      "documents signing",
+      "paper form pen",
+      "filling form pen"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "The default chose for them.",
+     "queries": [
+      "woman laptop smiling",
+      "person computer decision"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "That's why",
+     "queries": [
+      "hand mouse click",
+      "laptop screen click"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q10",
+   "lines": [
+    {
+     "n": 1,
+     "text": "A cheaper gift can make you look more generous.",
+     "queries": [
+      "gift box wrapping",
+      "present gift giving",
+      "woman receiving gift"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "People heard about one gift only.",
+     "queries": [
+      "gift box",
+      "giving present",
+      "surprise gift"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "A forty-five-dollar scarf, from a store where scarves cost five to fifty.",
+     "queries": [
+      "scarf store",
+      "woolen scarf",
+      "scarves shop"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Or a fifty-five-dollar coat, where coats cost fifty to five hundred.",
+     "queries": [
+      "winter coat store",
+      "coat rack store",
+      "coats clothing store"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "The scarf giver seemed more generous.",
+     "queries": [
+      "woman smiling gift",
+      "friends exchanging gifts",
+      "happy receiving present"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "We judged the price against the range. That's why",
+     "queries": [
+      "price tags clothes",
+      "shopping clothes rack",
+      "store sale tags"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q11",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Your thank-you letter will feel less awkward to them than you expect.",
+     "queries": [
+      "writing letter pen",
+      "handwritten note",
+      "thank you card writing"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "Writers guessed how a reader would feel getting their thank-you letter.",
+     "queries": [
+      "woman writing card",
+      "man writing letter desk",
+      "pen paper writing"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "They put the reader's surprise at six out of ten.",
+     "queries": [
+      "person reading letter",
+      "woman reading card smiling",
+      "opening envelope"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "Readers said almost eight.",
+     "queries": [
+      "woman smiling reading",
+      "happy surprise face",
+      "reading letter happy"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Writers expected some awkwardness.",
+     "queries": [
+      "man hesitant writing",
+      "nervous man desk",
+      "person thinking writing"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Readers felt very little.",
+     "queries": [
+      "woman reading letter",
+      "envelope mail"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "The worry is mostly on our side. Because",
+     "queries": [
+      "smiling woman letter"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q14",
+   "lines": [
+    {
+     "n": 1,
+     "text": "Letting a coin push you to change was linked to more happiness.",
+     "queries": [
+      "coin flip",
+      "flipping coin hand",
+      "coin toss slow motion"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "In over twenty thousand coin flips, people stuck on a choice, like quitting a job, let a coin decide.",
+     "queries": [
+      "coin toss",
+      "coin spinning table",
+      "hand catching coin"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "Heads meant:",
+     "queries": [
+      "man thinking decision",
+      "woman thinking window",
+      "person deciding"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "make the change.",
+     "queries": [
+      "coin heads close up",
+      "coin on palm",
+      "coin landing"
+     ]
+    },
+    {
+     "n": 5,
+     "text": "Heads made them far more likely to do it.",
+     "queries": [
+      "man leaving office",
+      "packing desk box",
+      "walking out office"
+     ]
+    },
+    {
+     "n": 6,
+     "text": "Six months later, the changers were happier, on average.",
+     "queries": [
+      "calendar months",
+      "time passing city",
+      "seasons change"
+     ]
+    },
+    {
+     "n": 7,
+     "text": "So",
+     "queries": [
+      "happy man walking",
+      "woman smiling outdoors",
+      "man relaxed park"
+     ]
+    }
+   ]
+  }
+ ]
+}
