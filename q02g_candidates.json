@@ -1,0 +1,177 @@
+{
+ "id": "q02g",
+ "lines": [
+  {
+   "n": 1,
+   "text": "eating fruit",
+   "candidates": [
+    {
+     "pixabay_id": 25033,
+     "url": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_small.jpg",
+     "page": "https://pixabay.com/videos/id-25033/",
+     "tags": "girl, eating, stuffing, food, woman, gluttony, meal",
+     "duration": 79,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 120739,
+     "url": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_small.jpg",
+     "page": "https://pixabay.com/videos/id-120739/",
+     "tags": "lamb, farm animal, sheep, wool, animals, eating, nature, landscape, livestock, countryside",
+     "duration": 19,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 138306,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138306-769163773_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138306-769163773_small.jpg",
+     "page": "https://pixabay.com/videos/id-138306/",
+     "tags": "elephant, apple, trainer, zoo, zookeeper, eating, hungry, food, mammal, animal, mouth, fun, young",
+     "duration": 15,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 136415,
+     "url": "https://cdn.pixabay.com/video/2022/10/25/136415-764388049_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/25/136415-764388049_small.jpg",
+     "page": "https://pixabay.com/videos/id-136415/",
+     "tags": "man, banana, fruit, food, eat",
+     "duration": 8,
+     "query": "man eating banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 136416,
+     "url": "https://cdn.pixabay.com/video/2022/10/25/136416-764388051_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/25/136416-764388051_small.jpg",
+     "page": "https://pixabay.com/videos/id-136416/",
+     "tags": "man, banana, fruit, food, eat",
+     "duration": 19,
+     "query": "man eating banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2104,
+     "url": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_small.jpg",
+     "page": "https://pixabay.com/videos/id-2104/",
+     "tags": "caterpillar, insect, danaus, gilippus, butterfly, calotropis, gigantea, pest, leaf, eating, animal, lilac",
+     "duration": 22,
+     "query": "man eating banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 153969,
+     "url": "https://cdn.pixabay.com/video/2023/03/09/153969-806571964_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/09/153969-806571964_small.jpg",
+     "page": "https://pixabay.com/videos/id-153969/",
+     "tags": "lemur, fruit, eating, ruffed, animal, madagascar",
+     "duration": 5,
+     "query": "eating fruit office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "eating fruit office",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "eating junk",
+   "candidates": [
+    {
+     "pixabay_id": 122852,
+     "url": "https://cdn.pixabay.com/video/2022/07/02/122852-726391959_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/02/122852-726391959_small.jpg",
+     "page": "https://pixabay.com/videos/id-122852/",
+     "tags": "potato blossom, potato field, food, leaves, blossom, bloom, potato cultivation, crop, nature",
+     "duration": 15,
+     "query": "man eating potato chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 72025,
+     "url": "https://cdn.pixabay.com/video/2021/04/24/72025-543403489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/24/72025-543403489_small.jpg",
+     "page": "https://pixabay.com/videos/id-72025/",
+     "tags": "potato, fries, french fries, frying, food, nutrition, kitchen, restaurant, calories, unhealthy, fresh, cook, oil, vegetable, diet, natural, organic, raw, vitamin, vegan, healthy, vegetarian",
+     "duration": 17,
+     "query": "man eating potato chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 71119,
+     "url": "https://cdn.pixabay.com/video/2021/04/14/71119-537976857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/14/71119-537976857_small.jpg",
+     "page": "https://pixabay.com/videos/id-71119/",
+     "tags": "potato, fries, kitchen, food, nutrition, restaurant, calories, unhealthy, fresh, health, cook, oil, diet, organic, vegan, healthy",
+     "duration": 7,
+     "query": "man eating potato chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "eating chocolate bar",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "eating chocolate bar",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "eating chocolate bar",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 124252,
+     "url": "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/15/124252-730508538_small.jpg",
+     "page": "https://pixabay.com/videos/id-124252/",
+     "tags": "girl, sofa, education, couch, book, lifestyle, woman, student, sitting, room, relaxation, leisure, home, happy, cute, happiness, study, relax, read, novel, house, beautiful, studying",
+     "duration": 15,
+     "query": "woman eating chips couch",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11691,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_small.jpg",
+     "page": "https://pixabay.com/videos/id-11691/",
+     "tags": "cola, chicken, wings, food, fast, meat, snack, meal, french, fastfood, menu, fried, eating, fries, cup, sauce, restaurant, ketchup, lettuce, set",
+     "duration": 31,
+     "query": "woman eating chips couch",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

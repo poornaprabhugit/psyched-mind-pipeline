@@ -1,0 +1,263 @@
+{
+ "id": "q10g",
+ "lines": [
+  {
+   "n": 1,
+   "text": "scarf",
+   "candidates": [
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "woman wearing scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman wearing scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman wearing scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148236,
+     "url": "https://cdn.pixabay.com/video/2023/01/28/148236-793718008_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/28/148236-793718008_small.jpg",
+     "page": "https://pixabay.com/videos/id-148236/",
+     "tags": "girl, woman, beautiful, muslim, veil, craft, knitting, festival, umbrella, surakarta, indonesia",
+     "duration": 14,
+     "query": "knitted scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143046,
+     "url": "https://cdn.pixabay.com/video/2022/12/15/143046-781982565_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/15/143046-781982565_small.jpg",
+     "page": "https://pixabay.com/videos/id-143046/",
+     "tags": "knitting, hand knitting, wool, arts and crafts, handmade",
+     "duration": 37,
+     "query": "knitted scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 120466,
+     "url": "https://cdn.pixabay.com/video/2022/06/15/120466-720880565_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/15/120466-720880565_small.jpg",
+     "page": "https://pixabay.com/videos/id-120466/",
+     "tags": "bicycle, stroll, wheel, nature, forest, knitting needles",
+     "duration": 19,
+     "query": "knitted scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 246391,
+     "url": "https://cdn.pixabay.com/video/2024/12/12/246391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/12/246391_small.jpg",
+     "page": "https://pixabay.com/videos/id-246391/",
+     "tags": "sunrise, horizon, winter, snow, cold, season, winter landscape, landscape",
+     "duration": 10,
+     "query": "scarf winter fashion",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 192649,
+     "url": "https://cdn.pixabay.com/video/2023/12/09/192649-892970391_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/09/192649-892970391_small.jpg",
+     "page": "https://pixabay.com/videos/id-192649/",
+     "tags": "nature, trees, forest, snow, aerial view, winter, hill, landscape, winter landscape, white",
+     "duration": 28,
+     "query": "scarf winter fashion",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "coat",
+   "candidates": [
+    {
+     "pixabay_id": 115922,
+     "url": "https://cdn.pixabay.com/video/2022/05/03/115922-705943467_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/03/115922-705943467_small.jpg",
+     "page": "https://pixabay.com/videos/id-115922/",
+     "tags": "walking, coat, winter, woman, italy, the needle, garda, model, mountains, street, view, overview, rear",
+     "duration": 14,
+     "query": "winter coat woman",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 115619,
+     "url": "https://cdn.pixabay.com/video/2022/05/01/115619-705567572_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/01/115619-705567572_small.jpg",
+     "page": "https://pixabay.com/videos/id-115619/",
+     "tags": "walking, coat, winter, woman, italy, the needle, garda, model, mountains, glasses, sun, street, view, overview",
+     "duration": 10,
+     "query": "winter coat woman",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 115918,
+     "url": "https://cdn.pixabay.com/video/2022/05/03/115918-705943461_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/03/115918-705943461_small.jpg",
+     "page": "https://pixabay.com/videos/id-115918/",
+     "tags": "walking, coat, winter, woman, italy, the needle, from, garda, model, mountains, street, view, overview",
+     "duration": 9,
+     "query": "winter coat woman",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 363199,
+     "url": "https://cdn.pixabay.com/video/2026/07/10/363199_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg",
+     "page": "https://pixabay.com/videos/id-363199/",
+     "tags": "butterfly, imperial coat, insect, insect life, summer, wing, nature",
+     "duration": 53,
+     "query": "man wearing coat street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 45686,
+     "url": "https://cdn.pixabay.com/video/2020/07/27/45686-446485357_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/27/45686-446485357_small.jpg",
+     "page": "https://pixabay.com/videos/id-45686/",
+     "tags": "street, man, worker, vietnam, life",
+     "duration": 29,
+     "query": "man wearing coat street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 45254,
+     "url": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/21/45254-442643019_small.jpg",
+     "page": "https://pixabay.com/videos/id-45254/",
+     "tags": "man, walking, street, headphones, city, architecture, building, cathedral, perspective",
+     "duration": 19,
+     "query": "man wearing coat street",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "coat shop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 370882,
+     "url": "https://cdn.pixabay.com/video/2026/08/16/370882_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/16/370882_small.jpg",
+     "page": "https://pixabay.com/videos/id-370882/",
+     "tags": "imperial coat, butterfly, butterflies, insect, flapping its wings, wing, nature",
+     "duration": 34,
+     "query": "coat shop",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "scarf gift",
+   "candidates": [
+    {
+     "pixabay_id": 10563358,
+     "url": "https://pixabay.com/get/ge673325addb97e2fe514fd0cd8c86f601b62c28431923addaf626d73e5be5436aec3f50239c3979634f64501fa670db8bb8f067b5b5b1bb85f6bba23a51ab701_1280.jpg",
+     "thumb": "https://pixabay.com/get/g5c3b855f4d7a02f0f9276af121a632270aabebcb663a97568ad8c51a71e794d5686f4157924213aa8491f2c9daf525e6744ca01135c25cfecf9faf55aa19edf8_640.jpg",
+     "page": "https://pixabay.com/photos/christmas-gifts-gifts-woman-10563358/",
+     "tags": "christmas gifts, gifts, woman, shopping, winter, nature, christmas, december, gift boxes, walking, snow, winter clothing, scarf, festive, pastel colors, joy, balance, trees, cozy",
+     "duration": 0,
+     "query": "scarf gift box",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8393660,
+     "url": "https://pixabay.com/get/g80211bcb559b674ed880038db3fc978d1dd59d1fdadb0d56a56a2a5109485af7ea393e14c721d380a34998473fc873cdb90fa5ae5e07143507c3a3a7427f680c_1280.jpg",
+     "thumb": "https://pixabay.com/get/gbc9788f1d1e3320a2210b8017af94f90f6f69e0a1cb601e4ed0fe641d8d6839e5ee0b02455b7f380b4df243d7b0551053bc5610f14f2d45196117760bdc1ce69_640.jpg",
+     "page": "https://pixabay.com/photos/child-gift-christmas-girl-present-8393660/",
+     "tags": "child, gift, christmas, girl, present, children, family, kid, love, gift giving, gift, gift, gift, gift, gift, gift giving, gift giving, gift giving",
+     "duration": 0,
+     "query": "scarf gift box",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8552806,
+     "url": "https://pixabay.com/get/ge8a2ca898448523ea82eec17625a7b551078e14c83168c12e46a32934dfdc64663e548f673b18ed16310a610a088b987cb2111bd0e6f05913d9de3369adcfb6f_1280.jpg",
+     "thumb": "https://pixabay.com/get/ge94bc1cb6b470e30cebe14e43500561283754b282d227a696053355ad35c8fd463f177786778b3bc17d63295703c4597972a41a7ff8924632204e81e99645127_640.jpg",
+     "page": "https://pixabay.com/photos/man-gift-fashion-present-outdoors-8552806/",
+     "tags": "man, gift, fashion, present, outdoors, young, sunny",
+     "duration": 0,
+     "query": "scarf gift box",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 9218435,
+     "url": "https://pixabay.com/get/g58fc16098242f637beab0ab4c7754e3c678afeef0dc3ca608c28f32dc30fc4f13fa164fa8a71ec1980934d38cdd0f80815131a7d1f894c075792162997b79bbc_1280.jpg",
+     "thumb": "https://pixabay.com/get/gbd609d4f1a7ab33a609b4a7a8c172db3d4b97378a6510c0fbffc1d290aeda70304745298dc267cc77fc235a11f66a66261f1e64a003f8c3bbd1941c13b210334_640.jpg",
+     "page": "https://pixabay.com/photos/christmas-season-christmas-new-year-9218435/",
+     "tags": "christmas season, christmas, new year, windows wallpaper, cool backgrounds, wallpaper hd, 4k wallpaper, smile, laptop wallpaper, lady, gift, wallpaper 4k, background, free wallpaper, half-body shot, woman, 4k wallpaper 1920x1080, desktop backgrounds, free background, christmas dress, christmas gifts, healthy, full hd wallpaper, energetic, mac wallpaper, hd wallpaper, lifestyle, fitness woman, healthy lifestyle, holiday, beautiful wallpaper, vacation, solid background, solid color background",
+     "duration": 0,
+     "query": "wrapped scarf present",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 8411741,
+     "url": "https://pixabay.com/get/g49c70a5a4c02a6dc54818d8844dfc383686582cb0a15070ebfd537c650ab14777215e4187a8027cfbe1dc3f91ab5c220603d5c7aabcd7e5c6db2cf41247d1407_1280.jpg",
+     "thumb": "https://pixabay.com/get/gea872f4f4e9fe581de1f960b5925d407e7f9e622cda9e2d0cf6e2e3a6009c495d40ed3609fb3330fcc7ae8af79c315eb4c640440054b857a7d99f532d456ed2e_640.jpg",
+     "page": "https://pixabay.com/photos/girls-gifts-presents-8411741/",
+     "tags": "girls, gifts, presents, merry christmas, christmas, christmas tree, christmas decorations, santa claus, christmas spirit, christmas magic, december, holidays",
+     "duration": 0,
+     "query": "wrapped scarf present",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 9999395,
+     "url": "https://pixabay.com/get/g0a24bed97e2a5d64d5ff090903604d548fdfca27ef96f9ca6f505430f360c8235359ce735dbd5b07c99267fcdb77c6b2a7e1f2a84631115b4873040060a9346f_1280.png",
+     "thumb": "https://pixabay.com/get/g16b692c53c07cb4ddda96705dba85cc1bfe50c7ee6557407fa31fc4311e2ab8ca7be1f9951d202decb5ff2d9026a713a3769b73da75a7ba94b097cc3bdddd824_640.png",
+     "page": "https://pixabay.com/photos/christmas-decorations-snow-tree-9999395/",
+     "tags": "christmas, decorations, snow, tree, gift wrap, background, packaging, christmas tree, snowman, red, texture, holiday, winter, pattern, festive, cute, artistic, beautiful wallpaper, entertainment, nature, winter mood, top view, christmas wrapping paper",
+     "duration": 0,
+     "query": "wrapped scarf present",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 5106037,
+     "url": "https://pixabay.com/get/g034d96e8b0fd749a41f29aca8315edc0d6293272f73ad74aea7755270f70c6f0aa27c0fa6215173f7172ebbb0cdac98efe790bfefdf366bbef3e638c15daf990_1280.jpg",
+     "thumb": "https://pixabay.com/get/ga440fe4798b4f309e48600d954f34133e1a42c8605d61f583dd3e3173c6a3c9b36daab8dea1193f36a44179456565aec07daa01de4d55fd3c433fc3e916720f2_640.jpg",
+     "page": "https://pixabay.com/photos/mannequin-fashion-shop-pullover-5106037/",
+     "tags": "mannequin, fashion, shop, pullover, scarf, headless, beauty, pullover, pullover, pullover, pullover, pullover, scarf, scarf, headless, headless, headless, headless, headless",
+     "duration": 0,
+     "query": "scarf store display",
+     "kind": "photo"
+    },
+    {
+     "pixabay_id": 13513,
+     "url": "https://pixabay.com/get/g54784ec080fa4e3ee9e215aaf037c1a10d18226f40c39c399e54908faff65878b6325f5d6718c4b464c8c75ba524a543_1280.jpg",
+     "thumb": "https://pixabay.com/get/gd20f2e4a34735884c6d440f7fc0278284202dea267f9bdfdeba70760e77844f8fb518bff74a7cd32861968d68160f494_640.jpg",
+     "page": "https://pixabay.com/photos/mannequin-female-model-tartan-13513/",
+     "tags": "mannequin, female, model, tartan, street, shop, edinburgh, clothes, apparel, fashion, clothing, tartan, tartan, tartan, edinburgh, edinburgh, apparel, apparel, apparel, apparel, apparel",
+     "duration": 0,
+     "query": "scarf store display",
+     "kind": "photo"
+    }
+   ]
+  }
+ ]
+}
