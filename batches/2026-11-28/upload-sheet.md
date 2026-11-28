@@ -20,7 +20,7 @@ _Scripts v2 approved by the user on 28 Nov; built exactly as approved._
 - Playlist "Psychology that moves you" · Category Education · Not made for kids · Language: English (video + audio language).
 - Altered/synthetic content: **No** (stock: real footage and photos + standard AI narrator; animated: clearly cartoon characters, which YouTube does not require disclosing).
 - Thumbnail frame ~0:01 with the yellow hook card visible.
-- **Related video = "8 Ways Your Brain Tricks You Into Wasting Money"** (long 04, live Sun 29 Nov 18:00). All 14 go live after it.
+- **Related video = "8 Ways Your Brain Tricks You Into Wasting Money"** (long 04, live Sat 28 Nov 18:00). All 14 go live after it.
 - Tags field: plain phrases, no "#".
 
 ---
@@ -115,7 +115,7 @@ Science-backed psychology · Sources in description · Not medical or financial 
 **Title:** Would you drive 20 minutes to save $5? 🧮
 **Description:**
 ```
-People were asked if they would drive 20 minutes to another store to save $5 on a calculator. On a $15 calculator, 68% said yes. On a $125 calculator, only 29%. Same $5 – we judge savings relative to the price. Works the same in rupees, pounds or euros.
+People were asked if they would drive 20 minutes to another store to save $5 on a calculator. On a $15 calculator, 68% said yes. On a $125 calculator, only 29%. Same $5 – we judge savings relative to the price.
 Source: Tversky & Kahneman (1981), Science – https://doi.org/10.1126/science.7455683
 Full video: 8 Ways Your Brain Tricks You Into Wasting Money (Related video link above)
 Science-backed psychology · Sources in description · Not medical or financial advice.

@@ -1,4 +1,4 @@
-# Upload notes · Long 04 · Sun 29 Nov 2026, 18:00 Amsterdam
+# Upload notes · Long 04 · Sat 28 Nov 2026, 18:00 (moved by the user) Amsterdam
 
 **File:** long04_why_you_waste_money_v2.mp4 (1920×1080, 10:25, −14 LUFS)
 **Title:** 8 Ways Your Brain Tricks You Into Wasting Money
@@ -34,7 +34,7 @@ Kahneman, Knetsch & Thaler (1990), Journal of Political Economy – https://doi.
 Brown, Imai, Vieider & Camerer (2024), Journal of Economic Literature – https://doi.org/10.1257/jel.20221698
 Whillans et al. (2017), PNAS – https://doi.org/10.1073/pnas.1706541114
 
-This video explains research; it is not financial advice. Works the same in dollars, rupees or pounds.
+This video explains research; it is not financial advice.
 
 #psychology #money #behavioraleconomics
 

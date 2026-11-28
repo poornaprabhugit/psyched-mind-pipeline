@@ -37,7 +37,6 @@ _v1 written Sat 28 Nov by the weekly batch run (share-ending test). **v2 (Sat 28
 **Script:**
 You're more likely to return a wallet with cash in it. Researchers turned in over seventeen thousand "lost" wallets in forty countries. Empty ones came back forty percent of the time. With money inside? Fifty-one percent. Most people guessed the opposite. Because ↻
 **Source:** Cohn, Maréchal, Tannenbaum & Zünd (2019), Science – https://doi.org/10.1126/science.aau8712 (17,303 wallets, 355 cities, 40 countries incl. India; 40% no money vs 51% with $13.45; laypeople and economists predicted the reverse)
-**Caption note:** Works in any country: India was one of the 40.
 
 ## Q02 · Mon 30 Nov 16:00 · K (stock) · predicted medium
 **Hook card:** Snack for next week: fruit or chocolate?
@@ -66,7 +65,6 @@ Your guess for when you'll finish is probably too early. Students guessed when t
 **Script:**
 You're more willing to drive to save five dollars on cheap stuff. People were asked: would you drive twenty minutes to another store to save five dollars on a calculator? On a fifteen-dollar one, sixty-eight percent said yes. On a hundred-and-twenty-five-dollar one, only twenty-nine percent. Same five dollars. That's why ↻
 **Source:** Tversky & Kahneman (1981), Science – https://doi.org/10.1126/science.7455683 (Problem 10: $15 calculator on sale for $10, N=93, 68% would make the 20-minute trip; $125 calculator on sale for $120, N=88, 29%; hypothetical answers). **Note:** same paper as long 04's lost-ticket item, but a different experiment. Spare if the user wants zero overlap: see the end of this file.
-**Caption note:** Works the same in rupees, pounds or euros (relative amounts).
 
 ## Q06 · Wed 2 Dec 12:00 · A (animated) · predicted medium
 **Hook card:** Talk to the stranger, or sit alone?
@@ -102,7 +100,6 @@ You'll probably say an experience made you happier than a thing. Over twelve hun
 **Script:**
 A cheaper gift can make you look more generous. People heard about one gift only. A forty-five-dollar scarf, from a store where scarves cost five to fifty. Or a fifty-five-dollar coat, where coats cost fifty to five hundred. The scarf giver seemed more generous. We judged the price against the range. That's why ↻
 **Source:** Hsee (1998), Journal of Behavioral Decision Making 11(2), 107–121 – https://doi.org/10.1002/(SICI)1099-0771(199806)11:2%3C107::AID-BDM292%3E3.0.CO;2-Y ($45 scarf from a store selling scarves at $5–$50 vs $55 coat from a store selling coats at $50–$500; each person saw one; the scarf giver was seen as "significantly more generous", per Hsee et al. 1999, Psychological Bulletin; pre-registered replication "mostly successful": Vonasch et al. 2023, Collabra, https://doi.org/10.1525/collabra.77859). No ratings in the voiceover.
-**Caption note:** Works in any currency (relative amounts).
 
 ## Q11 · Sat 5 Dec 12:00 · K (stock) · predicted medium
 **Hook card:** Send the thank-you, or skip it?

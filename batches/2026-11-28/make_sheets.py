@@ -38,7 +38,7 @@ S = [
   ig="Talk to the stranger, or sit alone? 🚆\n\nCommuters expected the quiet ride to be nicer. The ones who chatted had the more pleasant trip."),
  dict(b="B06", q="Q05", day="Wed 2 Dec", slot="16:00", arm="K", short="Drive to save 5", hook="Drive 20 minutes to save $5?",
   title="Would you drive 20 minutes to save $5? 🧮",
-  desc="People were asked if they would drive 20 minutes to another store to save $5 on a calculator. On a $15 calculator, 68% said yes. On a $125 calculator, only 29%. Same $5 – we judge savings relative to the price. Works the same in rupees, pounds or euros.",
+  desc="People were asked if they would drive 20 minutes to another store to save $5 on a calculator. On a $15 calculator, 68% said yes. On a $125 calculator, only 29%. Same $5 – we judge savings relative to the price.",
   src="Tversky & Kahneman (1981), Science – https://doi.org/10.1126/science.7455683",
   tags="mental accounting, relative thinking, behavioral economics, psychology facts, saving money",
   hashtags="#psychology #money #brainfacts #shorts", pin="Would you make the drive? 🚗",
@@ -112,7 +112,7 @@ L.append(f"""
 - Playlist "Psychology that moves you" · Category Education · Not made for kids · Language: English (video + audio language).
 - Altered/synthetic content: **No** (stock: real footage and photos + standard AI narrator; animated: clearly cartoon characters, which YouTube does not require disclosing).
 - Thumbnail frame ~0:01 with the yellow hook card visible.
-- **Related video = "{LONG}"** (long 04, live Sun 29 Nov 18:00). All 14 go live after it.
+- **Related video = "{LONG}"** (long 04, live Sat 28 Nov 18:00). All 14 go live after it.
 - Tags field: plain phrases, no "#".
 
 ---

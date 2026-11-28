@@ -104,7 +104,7 @@ Priority order: **1. United States · 2. India · 3. United Kingdom** (focus on 
 
 **Edit.** Show, don't tell: stock clips matched to every line, scene change every 3–6 s, title card per item, chapters (00:00 + one per item), loudness −14 LUFS, no black gaps at segment joins.
 
-**Upload.** Description with keywords in the first 2 lines + chapters + citations; end screen to a related video/playlist; add to playlist "The Psyched Mind – Weekly Psychology"; post Sunday 18:00 Amsterdam, then set the Related video link on that week's Shorts.
+**Upload.** Description with keywords in the first 2 lines + chapters + citations; end screen to a related video/playlist; add to playlist "The Psyched Mind – Weekly Psychology"; post **Saturday 18:00 Amsterdam** (user, 28 Nov 2026; was Sunday), then set the Related video link on that week's Shorts.
 
 ## 7. Reading the numbers (daily summary)
 
@@ -160,3 +160,6 @@ Strategists:
 - 2026-11-25 (user decision): batch 28 Nov (Shorts 30 Nov–6 Dec) = one clean test. 14 Shorts, all everyday choice/dilemma studies (replaces the 8/4/2 angle mix for this week). Share ending ("Send this to the friend who…") on 7, none on 7, alternating by day and slot (12:00/16:00 balanced). Nothing else changes: same length (~20 s), voice, style, hook card, loop ending. Subscribe card held constant across both arms (off for all 14, so the end screen only differs by the share line); P1 card test is judged on the 23–29 Nov Shorts only. Verdict ~7 Dec: day-7 views, shares and likes per 1k, stayed-to-watch % (Studio) per arm. GitHub minutes: user will make the repo public or provide another account.
 - 2026-11-25 (user, update): subscribe card ON for all 14 Shorts of the 28 Nov batch (replaces 'off for all 14'); share ending stays 7 vs 7.
 - 2026-11-25 (user idea, adopted for the share arm): the share ending makes viewers picture one person first. YouTube VO/card: "Who just came to mind? Send this to them." IG/FB caption: "Tag the one person who came to mind 👇" (tagging works on IG/FB; on YouTube, sending is the realistic action). Keep the spoken line under ~8 words so the ~20 s length stays the same.
+
+
+- **28 Nov 2026 (user):** the weekly long video goes live **every Saturday at 18:00 Amsterdam** (was Sunday 18:00). All long videos are animated. No "works in any currency" lines anywhere.
