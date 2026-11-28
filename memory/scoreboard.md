@@ -190,3 +190,8 @@ Evidence: Shorts-feed viewers average 7 s on ~30 s Shorts; only 8 of 34 views we
 - **This week (Shorts 30 Nov–6 Dec) = ANIMATION test**, replacing the share-ending test (which moves to the 5 Dec batch): 7 animated (A) vs 7 stock (K), alternating by day/slot (A: Mon/Wed/Fri/Sun 12:00 + Tue/Thu/Sat 16:00); Q05↔Q06 swapped to split the two "high" predictions. Same scripts style, voice, hook card, loop ending; share line removed; end card on all 14: "Like & subscribe for a new brain fact every day". Judge ~13 Dec: stayed %, avg % viewed, likes + subs per 1k, shares, day-7 views per arm. Scripts v2: batches/2026-11-28/scripts.md (waiting for approval).
 - **All long videos animated from now on** (user). Long 04 (Sun 29 Nov) is the first.
 - **28 Nov 08:41 (user): scripts v2 for the 28 Nov batch APPROVED.** Long 04 title: "8 Ways Your Brain Tricks You Into Wasting Money" (brain-first; file long04_why_you_waste_money_v2.mp4).
+
+### 28 Nov – batch 30 Nov–6 Dec built (animation test)
+- 7 animated (B01, B04, B05, B08, B09, B12, B13) + 7 stock (B02, B03, B06, B07, B10, B11, B14) delivered with upload sheet and IG/FB captions (batches/2026-11-28/).
+- Before delivery: the animated end card overflowed the screen; fixed to the same yellow-box style as the stock arm, so both arms show an identical end card. Q05 first clip (letterboxed sky) replaced with highway traffic.
+- Stock arm 17.9–21.9 s, animated arm 14.3–17.4 s (shorter voice timing after pause tightening; not a test variable, noted for the verdict ~13 Dec).

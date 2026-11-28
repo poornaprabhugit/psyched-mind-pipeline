@@ -25,8 +25,9 @@ function hookCard(t,text){if(t>2.5)return;const k=Math.min(L(t,0,0.2),1-L(t,2.3,
   ctx.fillStyle='#FFE600';rr(W/2-tw/2-36,230,tw+72,130,20);ctx.fill();txt(text,W/2,297,fs,'#000','center','900');ctx.restore();}
 function endCards(t){const a=DUR-2.5;if(t<a)return;const k=L(t,a,0.25);ctx.save();ctx.globalAlpha=k;
   const sub=CLEAN?'Follow for a new brain fact every day':'Like & subscribe for a new brain fact every day';
-  ctx.font=`900 46px ${F}`;const w1=ctx.measureText(sub).width;ctx.fillStyle='rgba(0,0,0,0.78)';rr(W/2-w1/2-30,1560,w1+60,86,43);ctx.fill();txt(sub,W/2,1604,46,'#fff','center','900');
-  if(!CLEAN){ctx.font=`900 42px ${F}`;const w2=ctx.measureText('Full video: tap the link below').width;ctx.fillStyle='#FFE600';rr(W/2-w2/2-30,1665,w2+60,80,40);ctx.fill();txt('Full video: tap the link below',W/2,1706,42,'#000','center','900');}
+  let fs=44;ctx.font=`900 ${fs}px ${F}`;while(ctx.measureText(sub).width>W-120&&fs>28){fs-=2;ctx.font=`900 ${fs}px ${F}`;}
+  const w1=ctx.measureText(sub).width;ctx.fillStyle='#FFE600';rr(W/2-w1/2-24,1560,w1+48,fs+34,8);ctx.fill();txt(sub,W/2,1560+(fs+34)/2,fs,'#000','center','900');
+  if(!CLEAN){ctx.font=`900 ${fs}px ${F}`;const w2=ctx.measureText('Full video: tap the link below').width;ctx.fillStyle='#FFE600';rr(W/2-w2/2-24,1665,w2+48,fs+34,8);ctx.fill();txt('Full video: tap the link below',W/2,1665+(fs+34)/2,fs,'#000','center','900');}
   ctx.restore();}
 function camAt(c,t){let z=1.02+0.02*Math.sin(t*0.4),cx=W/2+30*Math.sin(t*0.3),cy=800;if(c.cam)for(const [a,d,zz,x,y] of c.cam()){const k=Math.min(L(t,a,0.4),1-L(t,a+d,0.5));if(k>0){z=mix(z,zz,k);cx=mix(cx,x,k);cy=mix(cy,y,k);}}return [z,cx,cy];}
 window.setShort=(id,words,dur,clean)=>{ID=id;WORDS=words;DUR=dur;CLEAN=!!clean;BEATS=makeBeats();return BEATS.length;};
