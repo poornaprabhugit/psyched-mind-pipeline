@@ -1,0 +1,167 @@
+{
+ "tighten": true,
+ "clean_variant": true,
+ "videos": [
+  {
+   "id": "q02",
+   "subject": "Why you choose healthy food for later, but not now 🍎",
+   "script": "You're more likely to pick fruit for later, and chocolate for now. Two hundred workers chose a snack they'd get a week later. Many chose an apple or a banana. A week later, they could choose again, right then. Far more took chips or a chocolate bar. Future you eats well. Right-now you doesn't. That's why",
+   "hook_text": "Snack for next week: fruit or chocolate?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2023/02/05/149478-796096130_large.mp4",
+    "https://cdn.pixabay.com/video/2025/07/23/293083_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/25/136415-764388049_large.mp4",
+    "https://cdn.pixabay.com/video/2020/03/29/34499-402606997_large.mp4",
+    "https://cdn.pixabay.com/video/2021/04/24/72025-543403489_large.mp4",
+    "https://cdn.pixabay.com/video/2021/04/14/71119-537976857_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/13/127737-739309170_medium.mp4",
+    "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q03",
+   "subject": "Why you'd turn down free money 💵",
+   "script": "You'd probably say no to free money if the split feels unfair. In a classic game, one person gets some money and offers you a share. Say yes, you both get paid. Say no, nobody gets anything. On average, people offer about forty percent. Low offers often get turned down. Fair beats free. So",
+   "hook_text": "They keep $90, you get $10. Deal?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+    "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+    "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+    "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+    "https://cdn.pixabay.com/video/2025/04/16/272238_medium.mp4",
+    "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_medium.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q05",
+   "subject": "Would you drive 20 minutes to save $5? 🧮",
+   "script": "You're more willing to drive to save five dollars on cheap stuff. People were asked: would you drive twenty minutes to another store to save five dollars on a calculator? On a fifteen-dollar one, sixty-eight percent said yes. On a hundred-and-twenty-five-dollar one, only twenty-nine percent. Same five dollars. That's why",
+   "hook_text": "Drive 20 minutes to save $5?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/23/536-137078182_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_medium.mp4",
+    "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+    "https://cdn.pixabay.com/video/2024/04/28/209855_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+    "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q07",
+   "subject": "Why you stick with the box that's already checked ☑️",
+   "script": "You'll say yes far more often when yes is already checked. In an online study, people chose whether to be organ donors. When they had to check a box to join, far fewer joined. When they were in unless they unchecked it, about twice as many stayed in. The default chose for them. That's why",
+   "hook_text": "Check to join, or uncheck to leave?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://pixabay.com/get/g639c1999784d3aa4622646ab53f0ec1f70fddb7546604765d64454d2367dc9bb9e23ed3e305d78c6c81600cd381ca9e677de6b7218dcb74de8cbc0ab3b580461_1280.jpg",
+    "https://pixabay.com/get/gc9f50e67cf0f991333eb4ba215f0aa9b8debf74a9d82d1900f390b6a8b46e3ea29495bfab5ae7b4eb2b1690eb1fc81666f4be39328e6c5ec23e2cf0e9ee3e331_1280.jpg",
+    "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+    "https://cdn.pixabay.com/video/2015/08/08/127-135736713_large.mp4",
+    "https://pixabay.com/get/gc5ff2d2f85f4d19b910e99bdb49a618ff6e9fa11da16d8b88735a9b9257a1860b01dd18d565a31dd900aa36ad34c22477c8865072c389207dfbcbbff8250b74e_1280.jpg",
+    "https://pixabay.com/get/gf020bb484d69044a35f2ccc3703856e1119088fbda4a368479a60ce9613be32e1ec705c10096fb02563be9417e195727da089a556d08dc51d70f66e284d0ed64_1280.jpg",
+    "https://cdn.pixabay.com/video/2019/09/20/27095-361827464_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q10",
+   "subject": "Why a cheaper gift can seem more generous 🎁",
+   "script": "A cheaper gift can make you look more generous. People heard about one gift only. A forty-five-dollar scarf, from a store where scarves cost five to fifty. Or a fifty-five-dollar coat, where coats cost fifty to five hundred. The scarf giver seemed more generous. We judged the price against the range. That's why",
+   "hook_text": "$45 scarf vs $55 coat. More generous?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://pixabay.com/get/g80211bcb559b674ed880038db3fc978d1dd59d1fdadb0d56a56a2a5109485af7ea393e14c721d380a34998473fc873cdb90fa5ae5e07143507c3a3a7427f680c_1280.jpg",
+    "https://cdn.pixabay.com/video/2026/11/11/388472_large.mp4",
+    "https://pixabay.com/get/g034d96e8b0fd749a41f29aca8315edc0d6293272f73ad74aea7755270f70c6f0aa27c0fa6215173f7172ebbb0cdac98efe790bfefdf366bbef3e638c15daf990_1280.jpg",
+    "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+    "https://cdn.pixabay.com/video/2022/05/03/115918-705943461_large.mp4",
+    "https://pixabay.com/get/g49c70a5a4c02a6dc54818d8844dfc383686582cb0a15070ebfd537c650ab14777215e4187a8027cfbe1dc3f91ab5c220603d5c7aabcd7e5c6db2cf41247d1407_1280.jpg",
+    "https://cdn.pixabay.com/video/2015/10/16/993-142621122_large.mp4",
+    "https://cdn.pixabay.com/video/2023/03/15/154829-808562563_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q11",
+   "subject": "Is it weird to send a thank-you note? ✉️",
+   "script": "Your thank-you letter will feel less awkward to them than you expect. Writers guessed how a reader would feel getting their thank-you letter. They put the reader's surprise at six out of ten. Readers said almost eight. Writers expected some awkwardness. Readers felt very little. The worry is mostly on our side. Because",
+   "hook_text": "Send the thank-you, or skip it?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2021/12/11/100344-656497420_large.mp4",
+    "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_large.mp4",
+    "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+    "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/28/129420-744370583_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+    "https://cdn.pixabay.com/video/2023/07/31/174005-850361304_large.mp4",
+    "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  },
+  {
+   "id": "q14",
+   "subject": "What happens if you let a coin flip decide? 🪙",
+   "script": "Letting a coin push you to change was linked to more happiness. In over twenty thousand coin flips, people stuck on a choice, like quitting a job, let a coin decide. Heads meant: make the change. Heads made them far more likely to do it. Six months later, the changers were happier, on average. So",
+   "hook_text": "Quit or stay? Flip a coin.",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://pixabay.com/get/g7612849f610349d6cd5fdffe33c4946486cbbcc0f927c15fef07706fd46b47e46feda0d736ab55d530d4797c3b612c8b73a17fe5229d1969ebf9118d9b9a2eb2_1280.jpg",
+    "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+    "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+    "https://pixabay.com/get/gdccec6e67f9f4e032167399a2a6a89400f6a912bf7516c5520f5e3eb2bdb622b758e2b235f8763a4abfd4c6f05952b07e27b4442204f6946e22f34e35c95ab86_1280.jpg",
+    "https://cdn.pixabay.com/video/2025/05/01/276047_medium.mp4",
+    "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/28/140828-776043783_large.mp4",
+    "https://cdn.pixabay.com/video/2021/06/19/78220-565144828_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  }
+ ]
+}
