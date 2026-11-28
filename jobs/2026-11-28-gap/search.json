@@ -1,0 +1,128 @@
+{
+ "videos": [
+  {
+   "id": "q14g",
+   "lines": [
+    {
+     "n": 1,
+     "text": "coin flip",
+     "photos": true,
+     "queries": [
+      "coin toss hand",
+      "flipping a coin",
+      "coin in hand thumb"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "coin heads",
+     "photos": true,
+     "queries": [
+      "coin heads tails",
+      "quarter coin close up",
+      "coin on palm"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "quitting a job",
+     "queries": [
+      "man quitting job office box",
+      "packing personal items office",
+      "resignation letter"
+     ]
+    },
+    {
+     "n": 4,
+     "text": "happy change",
+     "queries": [
+      "happy man new job",
+      "woman smiling walking city",
+      "man celebrating success"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q07g",
+   "lines": [
+    {
+     "n": 1,
+     "text": "checked box",
+     "photos": true,
+     "queries": [
+      "checkbox checked",
+      "check mark box form",
+      "tick box survey"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "organ donor form",
+     "photos": true,
+     "queries": [
+      "organ donor card",
+      "donation form",
+      "medical form clipboard"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q10g",
+   "lines": [
+    {
+     "n": 1,
+     "text": "scarf",
+     "queries": [
+      "woman wearing scarf",
+      "knitted scarf",
+      "scarf winter fashion"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "coat",
+     "queries": [
+      "winter coat woman",
+      "man wearing coat street",
+      "coat shop"
+     ]
+    },
+    {
+     "n": 3,
+     "text": "scarf gift",
+     "photos": true,
+     "queries": [
+      "scarf gift box",
+      "wrapped scarf present",
+      "scarf store display"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "q02g",
+   "lines": [
+    {
+     "n": 1,
+     "text": "eating fruit",
+     "queries": [
+      "woman eating apple",
+      "man eating banana",
+      "eating fruit office"
+     ]
+    },
+    {
+     "n": 2,
+     "text": "eating junk",
+     "queries": [
+      "man eating potato chips",
+      "eating chocolate bar",
+      "woman eating chips couch"
+     ]
+    }
+   ]
+  }
+ ]
+}
