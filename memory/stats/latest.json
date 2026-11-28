@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-11-27T16:46:57.789067+00:00",
+ "collected_at": "2026-11-28T06:53:48.770048+00:00",
  "note": "Analytics data lags 1-3 days",
  "channel": {
   "title": "ThePsychedMindHQ",
   "statistics": {
-   "viewCount": "6611",
+   "viewCount": "6933",
    "subscriberCount": "11",
    "hiddenSubscriberCount": false,
    "videoCount": "37"
@@ -19,8 +19,8 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "33",
-    "likeCount": "1",
+    "viewCount": "81",
+    "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -34,7 +34,7 @@
    "publish_at": null,
    "duration": "PT22S",
    "statistics": {
-    "viewCount": "161",
+    "viewCount": "189",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -49,8 +49,8 @@
    "publish_at": null,
    "duration": "PT19S",
    "statistics": {
-    "viewCount": "1158",
-    "likeCount": "12",
+    "viewCount": "1160",
+    "likeCount": "13",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -64,7 +64,7 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "31",
+    "viewCount": "41",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -79,7 +79,7 @@
    "publish_at": null,
    "duration": "PT21S",
    "statistics": {
-    "viewCount": "100",
+    "viewCount": "103",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -94,8 +94,8 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "530",
-    "likeCount": "5",
+    "viewCount": "535",
+    "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "1"
@@ -109,7 +109,7 @@
    "publish_at": null,
    "duration": "PT20S",
    "statistics": {
-    "viewCount": "17",
+    "viewCount": "18",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -199,7 +199,7 @@
    "publish_at": null,
    "duration": "PT11M45S",
    "statistics": {
-    "viewCount": "2",
+    "viewCount": "4",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -654,11 +654,11 @@
   },
   {
    "video": "kYTeZ33L77o",
-   "views": 667,
-   "engagedViews": 177,
+   "views": 669,
+   "engagedViews": 178,
    "estimatedMinutesWatched": 49,
    "averageViewDuration": 12,
-   "averageViewPercentage": 62.1,
+   "averageViewPercentage": 62.03999999999999,
    "likes": 6,
    "comments": 0,
    "shares": 0,
@@ -749,6 +749,18 @@
    "subscribersGained": 2
   },
   {
+   "video": "QW9XXje5jW4",
+   "views": 141,
+   "engagedViews": 48,
+   "estimatedMinutesWatched": 15,
+   "averageViewDuration": 15,
+   "averageViewPercentage": 79.2,
+   "likes": 2,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "xHNCEPqi2DQ",
    "views": 120,
    "engagedViews": 22,
@@ -773,6 +785,30 @@
    "subscribersGained": 0
   },
   {
+   "video": "oz3QSvK-k_4",
+   "views": 86,
+   "engagedViews": 31,
+   "estimatedMinutesWatched": 8,
+   "averageViewDuration": 13,
+   "averageViewPercentage": 64.39,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
+   "video": "wXk-GQNTtjk",
+   "views": 82,
+   "engagedViews": 21,
+   "estimatedMinutesWatched": 5,
+   "averageViewDuration": 11,
+   "averageViewPercentage": 61.919999999999995,
+   "likes": 0,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "wMTaTbowq6k",
    "views": 78,
    "engagedViews": 33,
@@ -780,18 +816,6 @@
    "averageViewDuration": 12,
    "averageViewPercentage": 66.37,
    "likes": 4,
-   "comments": 0,
-   "shares": 0,
-   "subscribersGained": 0
-  },
-  {
-   "video": "wXk-GQNTtjk",
-   "views": 77,
-   "engagedViews": 19,
-   "estimatedMinutesWatched": 4,
-   "averageViewDuration": 11,
-   "averageViewPercentage": 60.68,
-   "likes": 0,
    "comments": 0,
    "shares": 0,
    "subscribersGained": 0
@@ -917,6 +941,18 @@
    "subscribersGained": 0
   },
   {
+   "video": "4tFUHb3eHDw",
+   "views": 17,
+   "engagedViews": 6,
+   "estimatedMinutesWatched": 2,
+   "averageViewDuration": 21,
+   "averageViewPercentage": 109.5,
+   "likes": 1,
+   "comments": 0,
+   "shares": 0,
+   "subscribersGained": 0
+  },
+  {
    "video": "IYrmhlu2pa0",
    "views": 17,
    "engagedViews": 3,
@@ -924,18 +960,6 @@
    "averageViewDuration": 5,
    "averageViewPercentage": 14.81,
    "likes": 0,
-   "comments": 0,
-   "shares": 0,
-   "subscribersGained": 0
-  },
-  {
-   "video": "4tFUHb3eHDw",
-   "views": 13,
-   "engagedViews": 5,
-   "estimatedMinutesWatched": 2,
-   "averageViewDuration": 22,
-   "averageViewPercentage": 114.3,
-   "likes": 1,
    "comments": 0,
    "shares": 0,
    "subscribersGained": 0
@@ -1082,7 +1106,7 @@
   },
   {
    "day": "2026-11-23",
-   "views": 872,
+   "views": 873,
    "subscribersGained": 1,
    "estimatedMinutesWatched": 65
   },
@@ -1091,17 +1115,23 @@
    "views": 109,
    "subscribersGained": 0,
    "estimatedMinutesWatched": 8
+  },
+  {
+   "day": "2026-11-25",
+   "views": 237,
+   "subscribersGained": 0,
+   "estimatedMinutesWatched": 24
   }
  ],
  "traffic_sources": [
   {
    "insightTrafficSourceType": "SHORTS",
-   "views": 4523,
+   "views": 4746,
    "averageViewDuration": 14
   },
   {
    "insightTrafficSourceType": "YT_SEARCH",
-   "views": 192,
+   "views": 201,
    "averageViewDuration": 9
   },
   {
@@ -1111,7 +1141,7 @@
   },
   {
    "insightTrafficSourceType": "YT_OTHER_PAGE",
-   "views": 29,
+   "views": 34,
    "averageViewDuration": 12
   },
   {
@@ -1143,11 +1173,11 @@
  "countries": [
   {
    "country": "NL",
-   "views": 883
+   "views": 925
   },
   {
    "country": "US",
-   "views": 182
+   "views": 209
   },
   {
    "country": "GB",
@@ -1201,8 +1231,18 @@
  "countries_by_video": {
   "BlEKKnDFzJc": [],
   "_KKm_N_v83I": [],
-  "oz3QSvK-k_4": [],
-  "QW9XXje5jW4": [],
+  "oz3QSvK-k_4": [
+   {
+    "country": "NL",
+    "views": 42
+   }
+  ],
+  "QW9XXje5jW4": [
+   {
+    "country": "US",
+    "views": 27
+   }
+  ],
   "kYTeZ33L77o": [
    {
     "country": "NL",
