@@ -1,0 +1,29 @@
+{
+ "tighten": true,
+ "clean_variant": true,
+ "videos": [
+  {
+   "id": "q05",
+   "subject": "Would you drive 20 minutes to save $5? 🧮",
+   "script": "You're more willing to drive to save five dollars on cheap stuff. People were asked: would you drive twenty minutes to another store to save five dollars on a calculator? On a fifteen-dollar one, sixty-eight percent said yes. On a hundred-and-twenty-five-dollar one, only twenty-nine percent. Same five dollars. That's why",
+   "hook_text": "Drive 20 minutes to save $5?",
+   "cta_text": "Full video: tap the link below",
+   "fast_open": {
+    "clips": 3,
+    "seconds": 1.5
+   },
+   "clips": [
+    "https://cdn.pixabay.com/video/2015/08/08/73-135732507_medium.mp4",
+    "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_medium.mp4",
+    "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+    "https://cdn.pixabay.com/video/2024/04/28/209855_large.mp4",
+    "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+    "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+    "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+    "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4"
+   ],
+   "follow_text": "Like & subscribe for a new brain fact every day",
+   "follow_text_clean": "Follow for a new brain fact every day"
+  }
+ ]
+}
