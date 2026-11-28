@@ -1,7 +1,7 @@
 # Upload notes · Long 04 · Sun 29 Nov 2026, 18:00 Amsterdam
 
-**File:** long04_why_you_waste_money.mp4 (1920×1080, 10:25, −14 LUFS)
-**Title:** Why You Waste Money Without Noticing
+**File:** long04_why_you_waste_money_v2.mp4 (1920×1080, 10:25, −14 LUFS)
+**Title:** 8 Ways Your Brain Tricks You Into Wasting Money
 **Thumbnails (Test & compare):** A thumb_A_where_did_it_go.jpg · B thumb_B_8_money_tricks.jpg
 **Playlist:** The Psyched Mind – Weekly Psychology
 **Altered or synthetic content:** No. The video is clearly animated (code-drawn cartoon); no realistic people, places or events. Voice is a standard text-to-speech voice, not a real person's voice.
