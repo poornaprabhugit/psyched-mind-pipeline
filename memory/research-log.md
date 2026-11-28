@@ -61,3 +61,23 @@
 Doc: https://claude.ai/artifact/D5T761tdtjDStuY8mu3KYw
 **Short answer:** every Short stalls the same way – test audience swipes (27% stayed: 1,043 engaged / 3,839 views, Analytics to ~22 Nov), **0 shares in 3,839 views**, likes 11/1k vs 30.8/1k at 45 top channels → no second wave. Topic does not predict a single Short (this week: lost ticket 669 vs phantom buzz 182, yawns 79, FREE tips 14; Claude's topic scores were inverted). Top channels: median length 51 s (IQR 39–66; 3/45 ≤25 s), median 4.4 Shorts/week. Faceless/AI-voice penalty is reported by press (TNW) but NOT confirmed by YouTube → risk, not proof. Top country NL (663) ahead of US 182 – cause unknown.
 **Options (user decides):** paste Studio viewed-vs-swiped for B01–B06; run the planned length test (35–45 s); face-in-first-2-s test (2 vs 2); share-trigger ending; stop using topic scores as predictions.
+
+## 2026-11-28 – weekly check (batch 2026-11-28)
+**What changed (21–28 Nov): nothing new found in the window.**
+- YouTube Help "Creator updates" (https://support.google.com/youtube/answer/9072033): newest dated entry May 2026. Nothing for Shorts, YPP, or AI/originality in the window.
+- Latest Shorts reused-content item (outside the window, for context): YouTube is cutting Shorts reach for reposts of other creators' content (Android Authority, 2 Oct 2026, https://www.androidauthority.com/youtube-shorts-promoting-original-content-reposts-3718668/). This doesn't affect us: every Short is our own script and voice. The inauthentic-content policy stays as of the July 2026 update (https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/).
+- Instagram/Facebook: nothing in the window. The newest roundup is dated 17 Nov (https://stackinfluence.com/blog/november-2026-social-media-news-and-updates-for-creators): Edits for Mac and Effect Builder, neither relevant.
+
+**Upload compliance: OK, with one tooling gap.**
+- Data API revision history (https://developers.google.com/youtube/v3/revision_history), newest entry 16 Nov 2026:
+  - (a) Co-views are now counted in public view counts. YPP is unaffected. Read view jumps after 16 Nov with care.
+  - (b) `paidProductPlacementDetails.hasPaidProductPlacement` **no longer defaults to false** on videos.insert/update. scripts/upload.py does not set it, so the fix is proposed in batches/2026-11-28/playbook-diff.md and not applied.
+  - (c) 3 Nov: thumbnails.set works for Shorts.
+  - (d) 2 Nov: an omitted privacyStatus defaults to public. upload.py always sends "private", so we are OK.
+- API Terms revision history (https://developers.google.com/youtube/terms/revision-history): newest entry 1 Jun 2026, so there is no Terms or Developer Policies change.
+- Auto-upload is still unused because the token with youtube.upload is not confirmed. Upload stays manual this week. The batch is scripts only anyway.
+
+**Fact checks this batch:** 14 studies were checked on the primary papers (or labeled secondary) by 3 research subagents and added to facts.md.
+- Dropped: pen-color (Kim & Markus 1999). The original is 74% vs 24%, but a 2022 replication (N=729) found 62.5% vs 50% (r .12 vs .50).
+- Dropped: deadlines (exact numbers appear only in a working paper).
+- Spare held back, not verified: jelly-bean ratio bias (Denes-Raj & Epstein 1994).
