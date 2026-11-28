@@ -1,0 +1,607 @@
+{
+ "id": "q11",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Your thank-you letter will feel less awkward to them than you expect.",
+   "candidates": [
+    {
+     "pixabay_id": 87050,
+     "url": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/31/87050-601076258_small.jpg",
+     "page": "https://pixabay.com/videos/id-87050/",
+     "tags": "ink, writing, pen, paper, letter, calligraphy, nostalgic, author, antique, contact, style, document, education, signature, inkwell, hand writing",
+     "duration": 18,
+     "query": "writing letter pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 100344,
+     "url": "https://cdn.pixabay.com/video/2021/12/11/100344-656497420_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/12/11/100344-656497420_small.jpg",
+     "page": "https://pixabay.com/videos/id-100344/",
+     "tags": "write, letter, to write, pen, office, paper, feeling, feelings, post, note, notes, writing, hand, hands",
+     "duration": 10,
+     "query": "writing letter pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 41146,
+     "url": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/05/41146-428253129_small.jpg",
+     "page": "https://pixabay.com/videos/id-41146/",
+     "tags": "text, writing, document, page, writer, letter, ink, vintage, pen, retro, old, lyrics, calligraphy, author, daily",
+     "duration": 17,
+     "query": "writing letter pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 123762,
+     "url": "https://cdn.pixabay.com/video/2022/07/11/123762-729019600_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/11/123762-729019600_small.jpg",
+     "page": "https://pixabay.com/videos/id-123762/",
+     "tags": "violin, music, art, musician, artist, concert, scene, show, group, arrow, play, sound, note, composition, song, close, woman, human, beautiful, romantic, classical, talent",
+     "duration": 23,
+     "query": "handwritten note",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 124867,
+     "url": "https://cdn.pixabay.com/video/2022/07/20/124867-732633127_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/20/124867-732633127_small.jpg",
+     "page": "https://pixabay.com/videos/id-124867/",
+     "tags": "jazz, saxophone, music, concert, instrument, musician, musical, gold, colour, shiny, view, sea, holiday, coast, tourism, rhythm, sound, song, note, art, artist, sunset, nature",
+     "duration": 7,
+     "query": "handwritten note",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 123765,
+     "url": "https://cdn.pixabay.com/video/2022/07/11/123765-729019613_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/11/123765-729019613_small.jpg",
+     "page": "https://pixabay.com/videos/id-123765/",
+     "tags": "saxophone, art, music, sound, artist, show, scene, group, composition, note, to blow, song, close, male, human, person, beautiful, romantic, yellow, metal, talent, play, concert, musician, jazz",
+     "duration": 20,
+     "query": "handwritten note",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 185092,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185092-874643408_small.jpg",
+     "page": "https://pixabay.com/videos/id-185092/",
+     "tags": "book, wind, literature, education, writing, reading, poetry, novel, author",
+     "duration": 19,
+     "query": "thank you card writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 232538,
+     "url": "https://cdn.pixabay.com/video/2024/09/21/232538_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/09/21/232538_small.jpg",
+     "page": "https://pixabay.com/videos/id-232538/",
+     "tags": "keyboard, writing, digital, technology, desk, hardware, job, electronics, computing",
+     "duration": 12,
+     "query": "thank you card writing",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Writers guessed how a reader would feel getting their thank-you letter.",
+   "candidates": [
+    {
+     "pixabay_id": 149,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/149-135737404_small.jpg",
+     "page": "https://pixabay.com/videos/id-149/",
+     "tags": "typing, keyboard, computer, woman, finger, female, secretary, writing, pc, office",
+     "duration": 15,
+     "query": "woman writing card",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 277042,
+     "url": "https://cdn.pixabay.com/video/2025/05/06/277042_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/06/277042_small.jpg",
+     "page": "https://pixabay.com/videos/id-277042/",
+     "tags": "spring, book, lilac, garden, literature, education, reading, wisdom, story, study, relax, romantic, paper, novel, nature, comfort, write, writing, writer, author, inspiration, silence, idea, creativity, poetry",
+     "duration": 6,
+     "query": "woman writing card",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148596,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148596-794221551_small.jpg",
+     "page": "https://pixabay.com/videos/id-148596/",
+     "tags": "investment, money, wealth, writing, chart, profit, grow",
+     "duration": 21,
+     "query": "woman writing card",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 80314,
+     "url": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/07/05/80314-572395729_small.jpg",
+     "page": "https://pixabay.com/videos/id-80314/",
+     "tags": "office, desk, team work, insurance, writing, facts, thinking",
+     "duration": 10,
+     "query": "man writing letter desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 377601,
+     "url": "https://cdn.pixabay.com/video/2026/09/19/377601_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/09/19/377601_small.jpg",
+     "page": "https://pixabay.com/videos/id-377601/",
+     "tags": "women, vietnam, feminism, friends, nature, computer, business, office, laptop, work, working, writing, man, study, technology, desk, typing, coffee, meeting",
+     "duration": 20,
+     "query": "man writing letter desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26771,
+     "url": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/11/26771-359604145_small.jpg",
+     "page": "https://pixabay.com/videos/id-26771/",
+     "tags": "letter, writting, pen, book, office, poem, message, hand, man",
+     "duration": 41,
+     "query": "man writing letter desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130645,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130645-747868363_small.jpg",
+     "page": "https://pixabay.com/videos/id-130645/",
+     "tags": "woman, model, notebook, book, creator, desk, businesswoman, young, writing, working, paper, lifestyle, laptop, computer, adult, work, student, pen, business, typing, table, sitting, creative, casual",
+     "duration": 15,
+     "query": "pen paper writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43869,
+     "url": "https://cdn.pixabay.com/video/2020/07/05/43869-437624289_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/05/43869-437624289_small.jpg",
+     "page": "https://pixabay.com/videos/id-43869/",
+     "tags": "writing, journal, desk, typewriter, notebook, notepad, pen, work, paper, diary",
+     "duration": 11,
+     "query": "pen paper writing",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "They put the reader's surprise at six out of ten.",
+   "candidates": [
+    {
+     "pixabay_id": 185096,
+     "url": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_small.jpg",
+     "page": "https://pixabay.com/videos/id-185096/",
+     "tags": "book, pages, literature, beach, ocean, education, reading, study, school, learning, poet, writer",
+     "duration": 13,
+     "query": "person reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9490,
+     "url": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/02/9490-220088148_small.jpg",
+     "page": "https://pixabay.com/videos/id-9490/",
+     "tags": "mobile phone, message, boy, man, human, sms, young, happy, lifestyle, smartphone, technology, letter, the internet, dial, communication, watch, business, network, street, wireless, chat, reading",
+     "duration": 9,
+     "query": "person reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27230,
+     "url": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/25/27230-362518559_small.jpg",
+     "page": "https://pixabay.com/videos/id-27230/",
+     "tags": "coffee, cup, morning, breakfast, reading, book, bible, cafe, caffeine, food, espresso, table, relax, study, mug, drink, relaxing",
+     "duration": 20,
+     "query": "person reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 263961,
+     "url": "https://cdn.pixabay.com/video/2025/03/11/263961_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/11/263961_small.jpg",
+     "page": "https://pixabay.com/videos/id-263961/",
+     "tags": "woman, quran, read, muslim, book reading, quranic verse, verses, truth, islamic, religion, forgiveness, islam, mosque, quran reading, woman reading quran",
+     "duration": 13,
+     "query": "woman reading card smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 261978,
+     "url": "https://cdn.pixabay.com/video/2025/03/02/261978_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/02/261978_small.jpg",
+     "page": "https://pixabay.com/videos/id-261978/",
+     "tags": "holy quran reading, quran, muslim, mosque, book reading, islam, girl, woman, islamic, arabic book, book arabic, islamic book, islamic quran book",
+     "duration": 27,
+     "query": "woman reading card smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3608,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3608-172488324_small.jpg",
+     "page": "https://pixabay.com/videos/id-3608/",
+     "tags": "reading, comics, subway, subway station, train, passenger, waiting, asian, man, male, standing, urban, terminal, commuter, transportation, public transport",
+     "duration": 9,
+     "query": "woman reading card smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2222,
+     "url": "https://cdn.pixabay.com/video/2016/02/22/2222-156375630_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/22/2222-156375630_small.jpg",
+     "page": "https://pixabay.com/videos/id-2222/",
+     "tags": "snowdrops, blooming, blossom, flower, march, opening, park, petal, plant, spring, white, green, garden, gardening",
+     "duration": 20,
+     "query": "opening envelope",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 111280,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111280-690770681_small.jpg",
+     "page": "https://pixabay.com/videos/id-111280/",
+     "tags": "antique book, book opening, book scrolling, books, candlelight, compass, gold ring in hand",
+     "duration": 12,
+     "query": "opening envelope",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Readers said almost eight.",
+   "candidates": [
+    {
+     "pixabay_id": 38918,
+     "url": "https://cdn.pixabay.com/video/2020/05/12/38918-418897629_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/12/38918-418897629_small.jpg",
+     "page": "https://pixabay.com/videos/id-38918/",
+     "tags": "library, books, reading, read, literature",
+     "duration": 7,
+     "query": "woman smiling reading",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 84005,
+     "url": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/05/84005-584870917_small.jpg",
+     "page": "https://pixabay.com/videos/id-84005/",
+     "tags": "book, read, novel, literature, learning, pages, knowledge, information, bible, culture, stories, history, reading, vintage",
+     "duration": 18,
+     "query": "woman smiling reading",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4878,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4878-181170845_small.jpg",
+     "page": "https://pixabay.com/videos/id-4878/",
+     "tags": "book, reading, leaf through, pages, hands, literature, education, to read",
+     "duration": 11,
+     "query": "woman smiling reading",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 129426,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129426-744370614_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129426-744370614_small.jpg",
+     "page": "https://pixabay.com/videos/id-129426/",
+     "tags": "girl, phone, text, cheerful, confident, face, gesture, happy, idea, lady, looking, model, portrait, smile, surprise, teenage",
+     "duration": 16,
+     "query": "happy surprise face",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44223,
+     "url": "https://cdn.pixabay.com/video/2020/07/08/44223-438212555_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/08/44223-438212555_small.jpg",
+     "page": "https://pixabay.com/videos/id-44223/",
+     "tags": "happy, child, childhood, portrait, fun, happiness, kid, cute, cheerful, joy, face, young, little, smiling, smile, caucasian, boy",
+     "duration": 11,
+     "query": "happy surprise face",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 129420,
+     "url": "https://cdn.pixabay.com/video/2022/08/28/129420-744370583_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/28/129420-744370583_small.jpg",
+     "page": "https://pixabay.com/videos/id-129420/",
+     "tags": "girl, hug, cheerful, gesture, cute, expression, face, fingers, hand, happiness, happy, heart, joy, lady, love, person, romance, romantic, sign, smile, symbol, valentine, portrait",
+     "duration": 7,
+     "query": "happy surprise face",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 215472,
+     "url": "https://cdn.pixabay.com/video/2024/06/06/215472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/06/215472_small.jpg",
+     "page": "https://pixabay.com/videos/id-215472/",
+     "tags": "students, education, school, reading, learning",
+     "duration": 7,
+     "query": "reading letter happy",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4953,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4953-181545195_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4953-181545195_small.jpg",
+     "page": "https://pixabay.com/videos/id-4953/",
+     "tags": "reading, book, baby, education, literature, development, the culture, classic, to read, study",
+     "duration": 11,
+     "query": "reading letter happy",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Writers expected some awkwardness.",
+   "candidates": [
+    {
+     "pixabay_id": 197,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/197-135846412_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/197-135846412_small.jpg",
+     "page": "https://pixabay.com/videos/id-197/",
+     "tags": "notebook, ultrabook, typing, writing, laptop, home office, office, electronic device, letters, program, mobile, hands, man, work, business, luxury, apple macbook, smartphone, iphone 6, display, screen, monitor",
+     "duration": 36,
+     "query": "man hesitant writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 49813,
+     "url": "https://cdn.pixabay.com/video/2020/09/13/49813-458438871_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/13/49813-458438871_small.jpg",
+     "page": "https://pixabay.com/videos/id-49813/",
+     "tags": "doctor, writing, appointment, stethoscope, health, prescription",
+     "duration": 12,
+     "query": "man hesitant writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 107243,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107243-678130082_small.jpg",
+     "page": "https://pixabay.com/videos/id-107243/",
+     "tags": "ink, pen, retro, nostalgic, writing, stale, candle, book",
+     "duration": 24,
+     "query": "man hesitant writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 19456,
+     "url": "https://cdn.pixabay.com/video/2018/11/21/19456-303877307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/21/19456-303877307_small.jpg",
+     "page": "https://pixabay.com/videos/id-19456/",
+     "tags": "shoes, nervous, fidget, think, tension, leather shoe",
+     "duration": 6,
+     "query": "nervous man desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 42305,
+     "url": "https://cdn.pixabay.com/video/2020/06/16/42305-431511171_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/16/42305-431511171_small.jpg",
+     "page": "https://pixabay.com/videos/id-42305/",
+     "tags": "man, computer, work, pc, home, mac, windows, desk, clics, house, mouse, books, table, office, modern, at work, black, busy, working, email, screen, electronic",
+     "duration": 15,
+     "query": "nervous man desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 142370,
+     "url": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/10/142370-779996457_small.jpg",
+     "page": "https://pixabay.com/videos/id-142370/",
+     "tags": "coffee, drink, cup, mug, desk, computer",
+     "duration": 33,
+     "query": "nervous man desk",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126560,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126560-736345309_small.jpg",
+     "page": "https://pixabay.com/videos/id-126560/",
+     "tags": "man, face, look, person, reflection, thinking, lifestyle",
+     "duration": 8,
+     "query": "person thinking writing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 132,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/132-135736895_small.jpg",
+     "page": "https://pixabay.com/videos/id-132/",
+     "tags": "puzzle, puzzling, game, play, playing, people, girl, woman, problem solving, puzzle pieces, matching, thinking, intelligence",
+     "duration": 15,
+     "query": "person thinking writing",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Readers felt very little.",
+   "candidates": [
+    {
+     "pixabay_id": 141519,
+     "url": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/03/141519-777930387_small.jpg",
+     "page": "https://pixabay.com/videos/id-141519/",
+     "tags": "book, reading, page, literature, education, read, nature, viewpoint, sea, seaside, wind, cloudy",
+     "duration": 15,
+     "query": "woman reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 263962,
+     "url": "https://cdn.pixabay.com/video/2025/03/11/263962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/11/263962_small.jpg",
+     "page": "https://pixabay.com/videos/id-263962/",
+     "tags": "quran, holy quran, muslim, mosque, islam, book reading, book, reading, knowledge, wisdom, learning, islamic, focus, girl",
+     "duration": 18,
+     "query": "woman reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39888,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39888-423345719_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39888-423345719_small.jpg",
+     "page": "https://pixabay.com/videos/id-39888/",
+     "tags": "book, shop, people, reading, tutorials, writer, education, read",
+     "duration": 10,
+     "query": "woman reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 273927,
+     "url": "https://cdn.pixabay.com/video/2025/04/23/273927_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/23/273927_small.jpg",
+     "page": "https://pixabay.com/videos/id-273927/",
+     "tags": "reading, education, laptop, technology, work, office, keyboard",
+     "duration": 18,
+     "query": "woman reading letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50621,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50621-460909284_small.jpg",
+     "page": "https://pixabay.com/videos/id-50621/",
+     "tags": "money, envelope, dollar, salary, euro, business",
+     "duration": 24,
+     "query": "envelope mail",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 118945,
+     "url": "https://cdn.pixabay.com/video/2022/06/01/118945-716230927_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/01/118945-716230927_small.jpg",
+     "page": "https://pixabay.com/videos/id-118945/",
+     "tags": "caterpillar, insect, butterfly, ermine spindle moth, animal, development, communal web, writhing, feeding, tree, enveloped",
+     "duration": 14,
+     "query": "envelope mail",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174005,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174005-850361304_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174005-850361304_small.jpg",
+     "page": "https://pixabay.com/videos/id-174005/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian",
+     "duration": 12,
+     "query": "envelope mail",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174004,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174004-850361301_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174004-850361301_small.jpg",
+     "page": "https://pixabay.com/videos/id-174004/",
+     "tags": "woman, selfie, social networking, post, website management, communication, network, online, internet, asian",
+     "duration": 18,
+     "query": "envelope mail",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "The worry is mostly on our side. Because",
+   "candidates": [
+    {
+     "pixabay_id": 151297,
+     "url": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/19/151297-800360308_small.jpg",
+     "page": "https://pixabay.com/videos/id-151297/",
+     "tags": "woman, wake-up, morning, bed, smile, cute",
+     "duration": 9,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 171044,
+     "url": "https://cdn.pixabay.com/video/2023/07/11/171044-844787782_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/11/171044-844787782_small.jpg",
+     "page": "https://pixabay.com/videos/id-171044/",
+     "tags": "man, smile, smiling, happy, male, person, outdoors, portrait",
+     "duration": 8,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6096,
+     "url": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/10/24/6096-188704568_small.jpg",
+     "page": "https://pixabay.com/videos/id-6096/",
+     "tags": "park, old people, people, old, senior, elderly, happy, woman, retired, smiling, man, together, outdoors, grandmother, happy old people, looking, aged, lifestyle, pensioner, grandpa",
+     "duration": 29,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 41820,
+     "url": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/12/41820-431406508_small.jpg",
+     "page": "https://pixabay.com/videos/id-41820/",
+     "tags": "diversity, meeting, communication, people, against racism, black, connection, ethnicities, friends, fun, group, happy, human, mixed race, multiracial, person, race racism, sharing, smiling, together, woman, young, summer",
+     "duration": 17,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 83859,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83859-584870564_small.jpg",
+     "page": "https://pixabay.com/videos/id-83859/",
+     "tags": "woman, smile, joyful, happy, model, park, tourist, lifestyle",
+     "duration": 10,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 45132,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45132-441301006_small.jpg",
+     "page": "https://pixabay.com/videos/id-45132/",
+     "tags": "girl, young, woman, pose, face, model, female, person, beauty, portrait, smile",
+     "duration": 19,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 71555,
+     "url": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/19/71555-538962828_small.jpg",
+     "page": "https://pixabay.com/videos/id-71555/",
+     "tags": "woman, flowers, bouquet, happy, happiness, smile, clay pot",
+     "duration": 21,
+     "query": "smiling woman letter",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174008,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174008-850361316_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174008-850361316_small.jpg",
+     "page": "https://pixabay.com/videos/id-174008/",
+     "tags": "woman, smile, communication, gesture, expression, asian, close up, young, university",
+     "duration": 12,
+     "query": "smiling woman letter",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

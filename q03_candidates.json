@@ -1,0 +1,607 @@
+{
+ "id": "q03",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You'd probably say no to free money if the split feels unfair.",
+   "candidates": [
+    {
+     "pixabay_id": 20857,
+     "url": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/20/20857-312437286_small.jpg",
+     "page": "https://pixabay.com/videos/id-20857/",
+     "tags": "pay, money, dollar, hands, currency, bank note, finance, business, paper money, cash and cash equivalents, bank, seem, award, pension, loose change, flowers, counterfeit money",
+     "duration": 23,
+     "query": "money split hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8625,
+     "url": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/10/8625-212638612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8625/",
+     "tags": "embers, glow, fire, heat, campfire, hot, money, heat wave, fireplace, wood fire, spark, chimney",
+     "duration": 22,
+     "query": "money split hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9919,
+     "url": "https://cdn.pixabay.com/video/2017/06/14/9919-222013810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/14/9919-222013810_small.jpg",
+     "page": "https://pixabay.com/videos/id-9919/",
+     "tags": "penghu, moses split the sea, sea",
+     "duration": 35,
+     "query": "money split hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 51592,
+     "url": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/05/51592-465226688_small.jpg",
+     "page": "https://pixabay.com/videos/id-51592/",
+     "tags": "money, cash, dollars, business",
+     "duration": 20,
+     "query": "cash on table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12040,
+     "url": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/09/17/12040-236265335_small.jpg",
+     "page": "https://pixabay.com/videos/id-12040/",
+     "tags": "on the table lies a thick textbook, homework, textbook, tutorial, pen, notebook, write, writing, create, record, enter, student, hand",
+     "duration": 10,
+     "query": "cash on table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 172894,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172894-848187895_small.jpg",
+     "page": "https://pixabay.com/videos/id-172894/",
+     "tags": "money, currency, business, finance, cash",
+     "duration": 15,
+     "query": "cash on table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 144452,
+     "url": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/27/144452-784605673_small.jpg",
+     "page": "https://pixabay.com/videos/id-144452/",
+     "tags": "rich, money, dollar, rich man, billionaire, million",
+     "duration": 15,
+     "query": "man refusing money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 109146,
+     "url": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/28/109146-683077298_small.jpg",
+     "page": "https://pixabay.com/videos/id-109146/",
+     "tags": "money, man, key, dollar, to buy, count, stack, rich, days wealthy, luxury, save up, invest",
+     "duration": 16,
+     "query": "man refusing money",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "In a classic game, one person gets some money and offers you a share.",
+   "candidates": [
+    {
+     "pixabay_id": 1083,
+     "url": "https://cdn.pixabay.com/video/2015/10/18/1083-142790258_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/18/1083-142790258_small.jpg",
+     "page": "https://pixabay.com/videos/id-1083/",
+     "tags": "stunt, motorbikes, synchronous, extreme, motorcycle, biker, sport, professional, helmet, lifestyle, protection, two, show, ramp, jump, risk, 134477942",
+     "duration": 10,
+     "query": "two people handshake money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1271,
+     "url": "https://cdn.pixabay.com/video/2015/11/07/1271-145116895_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/07/1271-145116895_small.jpg",
+     "page": "https://pixabay.com/videos/id-1271/",
+     "tags": "couples, coast, romantic, love, beach, sea, people, vacation, happy, summer, ocean, young, holiday, sand, two, lifestyle, together, water, outdoor, honeymoon, shore, boat, 117977643",
+     "duration": 42,
+     "query": "two people handshake money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 323513,
+     "url": "https://cdn.pixabay.com/video/2025/12/21/323513_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/12/21/323513_small.jpg",
+     "page": "https://pixabay.com/videos/id-323513/",
+     "tags": "monaco, wealth, yachts, money, marina, sea, boats, europe, port, monte carlo, 4k, drone, footage, millionaire, multimillionaire",
+     "duration": 40,
+     "query": "two people handshake money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 153458,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153458-805688489_small.jpg",
+     "page": "https://pixabay.com/videos/id-153458/",
+     "tags": "money, cash, bank, beautiful wallpaper, banknote, bill, currency, dollar, finance, macro, paper, wealth, background, business, financial, investment, 100, usd, close-up, dollar bill, one hundred, close up",
+     "duration": 17,
+     "query": "dollar bills hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46922,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46922-449295248_small.jpg",
+     "page": "https://pixabay.com/videos/id-46922/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 15,
+     "query": "dollar bills hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46924,
+     "url": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/11/46924-449295261_small.jpg",
+     "page": "https://pixabay.com/videos/id-46924/",
+     "tags": "currency, united states, money, bank, bill, dollar, cash, paper, american, green, financial, detail, business, american dollar",
+     "duration": 30,
+     "query": "dollar bills hands",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39892,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39892-423345743_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39892-423345743_small.jpg",
+     "page": "https://pixabay.com/videos/id-39892/",
+     "tags": "office, laptop, business, computer, notebook, work, the internet, table, technology, company, launch, student, team, corporate, plan",
+     "duration": 15,
+     "query": "business deal table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8252,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8252-207598592_small.jpg",
+     "page": "https://pixabay.com/videos/id-8252/",
+     "tags": "discussion, desk, people, office, team, meeting, business, businessman, brainstorming, group, table, workplace, worker, corporate, creative, discussing, communication, teamwork, talking",
+     "duration": 18,
+     "query": "business deal table",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Say yes, you both get paid.",
+   "candidates": [
+    {
+     "pixabay_id": 50622,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50622-460909288_small.jpg",
+     "page": "https://pixabay.com/videos/id-50622/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 20,
+     "query": "man counting money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50628,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50628-460909307_small.jpg",
+     "page": "https://pixabay.com/videos/id-50628/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 8,
+     "query": "man counting money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 59139,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59139-491926092_small.jpg",
+     "page": "https://pixabay.com/videos/id-59139/",
+     "tags": "money, budget, count, cash, counting, calculator, finance, mortgage, economy, payment, business",
+     "duration": 20,
+     "query": "man counting money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44639,
+     "url": "https://cdn.pixabay.com/video/2020/07/13/44639-439413049_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/13/44639-439413049_small.jpg",
+     "page": "https://pixabay.com/videos/id-44639/",
+     "tags": "success, work, victory, beautiful, ok, good, you're right, woman, portrait, youth, human, person, hand, finger, sign, icon, economics, idea, career, money, strategy, growth, professional, leadership",
+     "duration": 8,
+     "query": "offering money hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3819,
+     "url": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/15/3819-175213487_small.jpg",
+     "page": "https://pixabay.com/videos/id-3819/",
+     "tags": "money laundering, banknotes, washing money, cling, smilies, euro, money, currency",
+     "duration": 63,
+     "query": "offering money hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 120177,
+     "url": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/13/120177-720504798_small.jpg",
+     "page": "https://pixabay.com/videos/id-120177/",
+     "tags": "money, bills, dollars, currency",
+     "duration": 17,
+     "query": "offering money hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 184536,
+     "url": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/11/184536-873554738_small.jpg",
+     "page": "https://pixabay.com/videos/id-184536/",
+     "tags": "money, cash, currency, earnings, payments, reward, invest, finance, exchange, economy, investment, business",
+     "duration": 16,
+     "query": "cash exchange",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 153460,
+     "url": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/06/153460-805688493_small.jpg",
+     "page": "https://pixabay.com/videos/id-153460/",
+     "tags": "cash, bills, banknotes, income, business, currency, dollar, finance, money, counting, economy, financial, usd, wealth, 100, american, exchange, savings, budget, usa",
+     "duration": 9,
+     "query": "cash exchange",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Say no, nobody gets anything.",
+   "candidates": [
+    {
+     "pixabay_id": 131551,
+     "url": "https://cdn.pixabay.com/video/2022/09/16/131551-750721062_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/16/131551-750721062_small.jpg",
+     "page": "https://pixabay.com/videos/id-131551/",
+     "tags": "cow, animal, mammal, bovine, shaking head, resting, chewing cud, pasture, meadow",
+     "duration": 10,
+     "query": "man shaking head no",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6574,
+     "url": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/27/6574-193379308_small.jpg",
+     "page": "https://pixabay.com/videos/id-6574/",
+     "tags": "horse, animals, head, eyes, equine",
+     "duration": 19,
+     "query": "man shaking head no",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 35590,
+     "url": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/10/35590-407701452_small.jpg",
+     "page": "https://pixabay.com/videos/id-35590/",
+     "tags": "thoughtful, person, thinking, male, head, calm, idea, alone, brain, thoughts, portrait, man, think, peaceful, beard",
+     "duration": 12,
+     "query": "man shaking head no",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 148597,
+     "url": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/30/148597-794221559_small.jpg",
+     "page": "https://pixabay.com/videos/id-148597/",
+     "tags": "woman, sea, rocks, beach, island, holiday, nature",
+     "duration": 26,
+     "query": "woman refusing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 170258,
+     "url": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/05/170258-843059148_small.jpg",
+     "page": "https://pixabay.com/videos/id-170258/",
+     "tags": "woman, sunset, coast, silhouette, sparkles, sky, wonderful, nature",
+     "duration": 37,
+     "query": "woman refusing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43459,
+     "url": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/30/43459-436106182_small.jpg",
+     "page": "https://pixabay.com/videos/id-43459/",
+     "tags": "girl, writing, student, female, book, school, person, woman",
+     "duration": 9,
+     "query": "woman refusing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 31654,
+     "url": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/01/28/31654-387926643_small.jpg",
+     "page": "https://pixabay.com/videos/id-31654/",
+     "tags": "hands, girl, people, young, female, table, hand, white, go, sad",
+     "duration": 30,
+     "query": "hands crossed no",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10822,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10822-226624975_small.jpg",
+     "page": "https://pixabay.com/videos/id-10822/",
+     "tags": "keyboard, typing, writing, notebook, computer, technology, laptop, business, internet, work, office, person, hand, communication, working, using, connection, pc, information, desktop, web, workplace",
+     "duration": 12,
+     "query": "hands crossed no",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "On average, people offer about forty percent.",
+   "candidates": [
+    {
+     "pixabay_id": 59138,
+     "url": "https://cdn.pixabay.com/video/2020/12/14/59138-491926088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/14/59138-491926088_small.jpg",
+     "page": "https://pixabay.com/videos/id-59138/",
+     "tags": "money, money counting machine, checkout, calculator, count, cost, pay, finance, calculate, business",
+     "duration": 12,
+     "query": "money counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50625,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50625-460909297_small.jpg",
+     "page": "https://pixabay.com/videos/id-50625/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 12,
+     "query": "money counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50623,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50623-460909292_small.jpg",
+     "page": "https://pixabay.com/videos/id-50623/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 27,
+     "query": "money counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50629,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50629-460909318_small.jpg",
+     "page": "https://pixabay.com/videos/id-50629/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 9,
+     "query": "money counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 93550,
+     "url": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/27/93550-640240281_small.jpg",
+     "page": "https://pixabay.com/videos/id-93550/",
+     "tags": "piggy bank, world savings day, coins, dollar bill, paper money, money, currency, finance, savings, save up, business, payment, october",
+     "duration": 9,
+     "query": "dollar bills table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 18244,
+     "url": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/09/15/18244-290348856_small.jpg",
+     "page": "https://pixabay.com/videos/id-18244/",
+     "tags": "owl, animal, bird, nature, feather, head, eagle owl, raptor, sitting, eyes, bill, animal world",
+     "duration": 20,
+     "query": "dollar bills table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 172891,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172891-848187884_small.jpg",
+     "page": "https://pixabay.com/videos/id-172891/",
+     "tags": "money, currency, dollar, cash, finance",
+     "duration": 9,
+     "query": "dollar bills table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 172888,
+     "url": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/23/172888-848187873_small.jpg",
+     "page": "https://pixabay.com/videos/id-172888/",
+     "tags": "money, currency, cash, dollar, finance, business",
+     "duration": 11,
+     "query": "dollar bills table",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Low offers often get turned down.",
+   "candidates": [
+    {
+     "pixabay_id": 272238,
+     "url": "https://cdn.pixabay.com/video/2025/04/16/272238_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/16/272238_small.jpg",
+     "page": "https://pixabay.com/videos/id-272238/",
+     "tags": "man, male, person, pose, disappointed, thinking",
+     "duration": 31,
+     "query": "disappointed man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39183,
+     "url": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/15/39183-421020269_small.jpg",
+     "page": "https://pixabay.com/videos/id-39183/",
+     "tags": "cycling, man, bike, helmet, road, cyclist, safety, sports, fitness",
+     "duration": 6,
+     "query": "disappointed man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 302098,
+     "url": "https://cdn.pixabay.com/video/2025/09/06/302098_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/06/302098_small.jpg",
+     "page": "https://pixabay.com/videos/id-302098/",
+     "tags": "people, fisherman, fishing, sea, landscape, man, water, sunset, twilight, dusk, sky, ocean, nature, waves, seascape",
+     "duration": 28,
+     "query": "disappointed man",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44438,
+     "url": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/11/44438-439384296_small.jpg",
+     "page": "https://pixabay.com/videos/id-44438/",
+     "tags": "emotions, men staring, human, person, facial expressions, head, adult, people, young man, brown man, expression, men, one, facial",
+     "duration": 12,
+     "query": "man shaking head",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 729,
+     "url": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/08/729-138678099_small.jpg",
+     "page": "https://pixabay.com/videos/id-729/",
+     "tags": "sleeping, man, person, alarm, clock, morning, wakeup, male, adult, sleep, bed, bedroom, home, lying, pillow, resting, comfortable, head, 136919573",
+     "duration": 9,
+     "query": "man shaking head",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3634,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3634-172489037_small.jpg",
+     "page": "https://pixabay.com/videos/id-3634/",
+     "tags": "whiskey, glasses, alcohol, moving, shaking, beverage, alcoholic, whisky, restaurant, celebration, brandy, party, cocktail",
+     "duration": 13,
+     "query": "man shaking head",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 272620,
+     "url": "https://cdn.pixabay.com/video/2025/04/17/272620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/17/272620_small.jpg",
+     "page": "https://pixabay.com/videos/id-272620/",
+     "tags": "man, crying, discouraged, rejected, lost",
+     "duration": 15,
+     "query": "rejecting offer",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26541,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26541-357855274_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26541-357855274_small.jpg",
+     "page": "https://pixabay.com/videos/id-26541/",
+     "tags": "turkey, travel, beautiful, city, landscape, sunset, offer, solar, sky, cloud, sunrise, marine, ocean, black sea, coastal, beach, holiday, trip, aesthetics, in the evening, nature, peace",
+     "duration": 25,
+     "query": "rejecting offer",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Fair beats free. So",
+   "candidates": [
+    {
+     "pixabay_id": 214409,
+     "url": "https://cdn.pixabay.com/video/2024/05/29/214409_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/29/214409_small.jpg",
+     "page": "https://pixabay.com/videos/id-214409/",
+     "tags": "sky, clouds, nature, atmosphere, weather, cloudy, cloudscape, spiritual, meditation, yoga, zen, peace, balance, spirituality, mindfulness, relaxation",
+     "duration": 50,
+     "query": "scale balance",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 42470,
+     "url": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/18/42470-431738783_small.jpg",
+     "page": "https://pixabay.com/videos/id-42470/",
+     "tags": "rock balance, stacked rocks, balance, harmony, natural, lake, peaceful, waves, wave sounds, relaxation, spiritual",
+     "duration": 15,
+     "query": "scale balance",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 212433,
+     "url": "https://cdn.pixabay.com/video/2024/05/18/212433_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/18/212433_small.jpg",
+     "page": "https://pixabay.com/videos/id-212433/",
+     "tags": "snake, reptile, scales, animal, python, viper, anaconda, poisonous, head, venomous, scale, poison, cold-blooded, wild, australia, jungle, dangerous, wildlife, nature",
+     "duration": 11,
+     "query": "scale balance",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3834,
+     "url": "https://cdn.pixabay.com/video/2016/07/16/3834-175213527_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/16/3834-175213527_small.jpg",
+     "page": "https://pixabay.com/videos/id-3834/",
+     "tags": "fair, folk festival, break dance, carousel, fairground, ride, hype",
+     "duration": 48,
+     "query": "fair handshake",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8131,
+     "url": "https://cdn.pixabay.com/video/2017/03/03/8131-207209033_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/03/8131-207209033_small.jpg",
+     "page": "https://pixabay.com/videos/id-8131/",
+     "tags": "carousel, clouds, dresden, saxony, germany, pleasure, folk festival, fair, heaven",
+     "duration": 17,
+     "query": "fair handshake",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27057,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27057-361827332_small.jpg",
+     "page": "https://pixabay.com/videos/id-27057/",
+     "tags": "ferris wheel, amusement park, fun, ride, wheel, fair, beautiful wallpaper, carnival, festival, high, park, color, round, big, circle, excitement, background, movement",
+     "duration": 34,
+     "query": "fair handshake",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1112,
+     "url": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/19/1112-142930259_small.jpg",
+     "page": "https://pixabay.com/videos/id-1112/",
+     "tags": "talk, discussion, meeting, team, group, conference, discuss, people, chairs, sitting, chatting, talking, debating, argument, men",
+     "duration": 7,
+     "query": "two people talking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6409,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6409-191717380_small.jpg",
+     "page": "https://pixabay.com/videos/id-6409/",
+     "tags": "restaurant, couple, bokeh, blur, background, talking, relaxed, beautiful wallpaper, cafe, bar, meeting, people, relaxation, lifestyle, cafeteria",
+     "duration": 20,
+     "query": "two people talking",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

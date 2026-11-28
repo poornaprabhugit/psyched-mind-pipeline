@@ -1,0 +1,521 @@
+{
+ "id": "q07",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You'll say yes far more often when yes is already checked.",
+   "candidates": [
+    {
+     "pixabay_id": 67358,
+     "url": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/03/08/67358-521707474_small.jpg",
+     "page": "https://pixabay.com/videos/id-67358/",
+     "tags": "ink, water, underwater, foam, smoke, background, macro, abstract, color, paint, watercolor, art, texture, painting, design, pattern, blend, messy, drop, flow, beautiful wallpaper, wave, form, artistic, live wallpaper",
+     "duration": 59,
+     "query": "checkbox form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8451,
+     "url": "https://cdn.pixabay.com/video/2017/03/20/8451-209292190_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/20/8451-209292190_small.jpg",
+     "page": "https://pixabay.com/videos/id-8451/",
+     "tags": "sunset, sky, clouds, abendstimmung, evening sky, dark clouds, clouds form, front detail, the sky, nature, blue, mood, atmospheric, air, atmosphere, beautiful, weather, summer sky, sun, yellow, reddish, organs",
+     "duration": 18,
+     "query": "checkbox form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 58193,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58193-487176852_small.jpg",
+     "page": "https://pixabay.com/videos/id-58193/",
+     "tags": "ink, colors, that, underwater, torn, smoke, background, beautiful wallpaper, macro, abstract, colour, paint, watercolor, art, tissue, painting, color, design, pattern, blend, messy, drop, flow, wave, form, artistic, live wallpaper",
+     "duration": 43,
+     "query": "checkbox form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3174,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3174-166338976_small.jpg",
+     "page": "https://pixabay.com/videos/id-3174/",
+     "tags": "computer keyboard, typing, hands, female, keyboard, computer, technology, business, office, internet, type, key, communication, pc, information, white, working, letter, fingers",
+     "duration": 12,
+     "query": "online form typing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 92480,
+     "url": "https://cdn.pixabay.com/video/2021/10/18/92480-637690589_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/18/92480-637690589_small.jpg",
+     "page": "https://pixabay.com/videos/id-92480/",
+     "tags": "laptop, work, internet, business, occupation, sitting, social media, typing, home, freelancer, entrepreneur, computer, workplace, working, technology, table, person, people, online, office, job, interior, employee",
+     "duration": 13,
+     "query": "online form typing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3188,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3188-166339073_small.jpg",
+     "page": "https://pixabay.com/videos/id-3188/",
+     "tags": "computer keyboard, typing, white, keyboard, computer, technology, business, office, internet, communication, fingers, hands, fast, text, messaging",
+     "duration": 14,
+     "query": "online form typing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 134,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/134-135736963_small.jpg",
+     "page": "https://pixabay.com/videos/id-134/",
+     "tags": "espresso, coffee, ristretto, hot beverage, cup, cappuccino, drink, glass, cafe, relax, brown, machine, filling",
+     "duration": 17,
+     "query": "laptop form filling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 262311,
+     "url": "https://cdn.pixabay.com/video/2025/03/03/262311_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/03/03/262311_small.jpg",
+     "page": "https://pixabay.com/videos/id-262311/",
+     "tags": "water, waves, wet, psychedelic, template, to form, element, sand",
+     "duration": 14,
+     "query": "laptop form filling",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "In an online study, people chose whether to be organ donors.",
+   "candidates": [
+    {
+     "pixabay_id": 86866,
+     "url": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/30/86866-594991232_small.jpg",
+     "page": "https://pixabay.com/videos/id-86866/",
+     "tags": "man, home office, laptop, call, phone, comfortable, relax, home",
+     "duration": 10,
+     "query": "man laptop form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3576,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_small.jpg",
+     "page": "https://pixabay.com/videos/id-3576/",
+     "tags": "macbook, notebook, laptop, typing, office, write, keyboard, mobile, modern, startup, apple, device, electronics, technology, hands, man, working, communication, person, internet, gadget",
+     "duration": 37,
+     "query": "man laptop form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26533,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_small.jpg",
+     "page": "https://pixabay.com/videos/id-26533/",
+     "tags": "video production, camera, macbook, computer, laptop, technology, apple, screen, event, equipments, professional, focus, photo, lens, image, man, transmission, live, recording",
+     "duration": 9,
+     "query": "man laptop form",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1196,
+     "url": "https://cdn.pixabay.com/video/2015/10/27/1196-143842675_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/27/1196-143842675_small.jpg",
+     "page": "https://pixabay.com/videos/id-1196/",
+     "tags": "computer, work, office, creative, workplace, keyboard, screen, monitor, mouse, hands, typing, business, technology, working on computer, person, tattoo, professional, corporate, modern, 143668562",
+     "duration": 7,
+     "query": "person typing computer",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130646,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130646-747868367_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130646-747868367_small.jpg",
+     "page": "https://pixabay.com/videos/id-130646/",
+     "tags": "typing, technology, computer, working, professional, home, business, studio, young, online, entrepreneur, creator, content, project, creative, workplace, work, table, person, office, internet, digital, desk, communication, occupation",
+     "duration": 19,
+     "query": "person typing computer",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44081,
+     "url": "https://cdn.pixabay.com/video/2020/07/07/44081-438195519_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/07/44081-438195519_small.jpg",
+     "page": "https://pixabay.com/videos/id-44081/",
+     "tags": "work, home, computer, laptop, sitting, table, worker, room, person, internet, job, man, office, typing, technology, telephone",
+     "duration": 22,
+     "query": "person typing computer",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174003,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174003-850361299_small.jpg",
+     "page": "https://pixabay.com/videos/id-174003/",
+     "tags": "woman, social networking, post, website management, communication, network, online, internet, asian, phone",
+     "duration": 11,
+     "query": "online signup",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174009,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174009-850361325_small.jpg",
+     "page": "https://pixabay.com/videos/id-174009/",
+     "tags": "woman, phone, smile, social networking, communication, online, internet, network, asian",
+     "duration": 12,
+     "query": "online signup",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "When they had to check a box to join, far fewer joined.",
+   "candidates": [
+    {
+     "pixabay_id": 2967,
+     "url": "https://cdn.pixabay.com/video/2016/05/02/2967-165052541_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/02/2967-165052541_small.jpg",
+     "page": "https://pixabay.com/videos/id-2967/",
+     "tags": "iphone, computer, mouse click, computing, online, communication, hand, device, mouse, click, internet, computer mouse, technology, business, office, work, job, finger, net, connection, information, tech, pushing, button, pointer, scroll, input, pc, web, white, electronic, keyboard, equipment, data, working",
+     "duration": 16,
+     "query": "hand clicking mouse",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 154373,
+     "url": "https://cdn.pixabay.com/video/2023/03/12/154373-807354080_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/12/154373-807354080_small.jpg",
+     "page": "https://pixabay.com/videos/id-154373/",
+     "tags": "mouse, computer, office, technology, network, digital, click, hand, pc, study",
+     "duration": 6,
+     "query": "hand clicking mouse",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4954,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4954-181552085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4954-181552085_small.jpg",
+     "page": "https://pixabay.com/videos/id-4954/",
+     "tags": "mouse, computer, hand, ring, technology, female hands, the internet, table, keyboard",
+     "duration": 13,
+     "query": "hand clicking mouse",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 202987,
+     "url": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/04/202987-919379330_small.jpg",
+     "page": "https://pixabay.com/videos/id-202987/",
+     "tags": "phone, smartphone, mobile, portable, screen, digital, communication, texting, business, work",
+     "duration": 15,
+     "query": "checkmark screen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1058,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1058-142621439_small.jpg",
+     "page": "https://pixabay.com/videos/id-1058/",
+     "tags": "laptop, notebook, student, studying, typing, writing, computer, technology, business, screen, laptop screen, office, internet, computer technology, computer screen, work, mobile, communication, woman, girl, female",
+     "duration": 12,
+     "query": "checkmark screen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 88687,
+     "url": "https://cdn.pixabay.com/video/2021/09/15/88687-607824531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/09/15/88687-607824531_small.jpg",
+     "page": "https://pixabay.com/videos/id-88687/",
+     "tags": "phone, screen, picnic, fruits, summer, floating screen, mobile device, mobile",
+     "duration": 6,
+     "query": "checkmark screen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4941,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4941-181472380_small.jpg",
+     "page": "https://pixabay.com/videos/id-4941/",
+     "tags": "search, web, website, address, arrow, background, bar, box, browser, browsing, business, click, closeup, commerce, computer, concept, cursor, data, domain, find, graphic, http, hyperlink, information, internet, link, mouse, beautiful wallpaper, name, net, network, online, page, pointer, pointing, screen, shopping, site, surfing, url, webpage, white, wide, window, world, www",
+     "duration": 16,
+     "query": "computer mouse click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 127,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/127-135736713_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/127-135736713_small.jpg",
+     "page": "https://pixabay.com/videos/id-127/",
+     "tags": "optical mouse, computer, navigation, control, device, mouse cursor, navigate, pc, wireless, black, hardware, periphery, red led",
+     "duration": 14,
+     "query": "computer mouse click",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "When they were in unless they unchecked it, about twice as many stayed in.",
+   "candidates": [
+    {
+     "pixabay_id": 117794,
+     "url": "https://cdn.pixabay.com/video/2022/05/22/117794-717712143_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/05/22/117794-717712143_small.jpg",
+     "page": "https://pixabay.com/videos/id-117794/",
+     "tags": "bird, sparrow, signing, animal",
+     "duration": 16,
+     "query": "documents signing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 41121,
+     "url": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/04/41121-427876237_small.jpg",
+     "page": "https://pixabay.com/videos/id-41121/",
+     "tags": "book, pencil, notebook, paper, document, education, diary, notes",
+     "duration": 13,
+     "query": "documents signing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 349087,
+     "url": "https://cdn.pixabay.com/video/2026/04/26/349087_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/04/26/349087_small.jpg",
+     "page": "https://pixabay.com/videos/id-349087/",
+     "tags": "file, folder, document, cabinet, archive, spreadsheet, paper, law, libra, justice, weigh, judge, paragraph, balance",
+     "duration": 17,
+     "query": "documents signing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4952,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4952-181538531_small.jpg",
+     "page": "https://pixabay.com/videos/id-4952/",
+     "tags": "book, write, pen, diary, letter, hands, girl, notebook",
+     "duration": 16,
+     "query": "paper form pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8256,
+     "url": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/03/08/8256-207598612_small.jpg",
+     "page": "https://pixabay.com/videos/id-8256/",
+     "tags": "pencil, write, author, education, pen, paper, school, writing, notes, office, table, idea, letter, creativity, study, homework",
+     "duration": 15,
+     "query": "paper form pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 10824,
+     "url": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/07/23/10824-226624979_small.jpg",
+     "page": "https://pixabay.com/videos/id-10824/",
+     "tags": "sketch, draw, pencil, drawing, design, hand, paper, creative, artist, pen, sketching, artistic, artwork, paint, creativity, school, painting, designer",
+     "duration": 15,
+     "query": "paper form pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 107240,
+     "url": "https://cdn.pixabay.com/video/2022/02/09/107240-678130070_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/09/107240-678130070_small.jpg",
+     "page": "https://pixabay.com/videos/id-107240/",
+     "tags": "writing, stale, ink, pen, poem, retro, calligraphy, inkwell",
+     "duration": 20,
+     "query": "filling form pen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 278421,
+     "url": "https://cdn.pixabay.com/video/2025/05/12/278421_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/12/278421_small.jpg",
+     "page": "https://pixabay.com/videos/id-278421/",
+     "tags": "eagle, bird, peak, animal, pen, close up",
+     "duration": 15,
+     "query": "filling form pen",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "The default chose for them.",
+   "candidates": [
+    {
+     "pixabay_id": 203260,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203260-920602949_small.jpg",
+     "page": "https://pixabay.com/videos/id-203260/",
+     "tags": "woman, computer, laptop, typing, work, desk, business, marketing, communication, texting, cup, espresso, coffee, professional",
+     "duration": 5,
+     "query": "woman laptop smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27092,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27092-361827484_small.jpg",
+     "page": "https://pixabay.com/videos/id-27092/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 21,
+     "query": "woman laptop smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43631,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43631-436237640_small.jpg",
+     "page": "https://pixabay.com/videos/id-43631/",
+     "tags": "smile, face, girl, young, happy, woman, person, smiling, happiness, joy, expression, attractive, emotions, cheerful",
+     "duration": 19,
+     "query": "woman laptop smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27091,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27091-361827476_small.jpg",
+     "page": "https://pixabay.com/videos/id-27091/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 12,
+     "query": "woman laptop smiling",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27095,
+     "url": "https://cdn.pixabay.com/video/2019/09/20/27095-361827464_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/20/27095-361827464_small.jpg",
+     "page": "https://pixabay.com/videos/id-27095/",
+     "tags": "girl, office, w, computer, work, business, laptop, woman, young, professional, female, company, person, project",
+     "duration": 12,
+     "query": "person computer decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3191,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3191-166339086_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3191-166339086_small.jpg",
+     "page": "https://pixabay.com/videos/id-3191/",
+     "tags": "love, decision, flower, petals, conflict, relationship, romance",
+     "duration": 10,
+     "query": "person computer decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43633,
+     "url": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/02/43633-436237650_small.jpg",
+     "page": "https://pixabay.com/videos/id-43633/",
+     "tags": "hair, wind, girl, woman, people, person, model, young, dream, human, sunlight, passion, alone, aesthetics",
+     "duration": 17,
+     "query": "person computer decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1049,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1049-142623920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1049-142623920_small.jpg",
+     "page": "https://pixabay.com/videos/id-1049/",
+     "tags": "relaxing, sitting, lake, shore, outdoors, beach, people, young, person, lifestyle, relaxation, relax, leisure",
+     "duration": 10,
+     "query": "person computer decision",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "That's why",
+   "candidates": [
+    {
+     "pixabay_id": 1048,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1048-142621393_small.jpg",
+     "page": "https://pixabay.com/videos/id-1048/",
+     "tags": "keyboard, button, press, push, keypress, keys, computer, hand, finger, key, pc, click, selective, technology, communication, network, service, information",
+     "duration": 15,
+     "query": "hand mouse click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 139660,
+     "url": "https://cdn.pixabay.com/video/2022/11/19/139660-773418010_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/19/139660-773418010_small.jpg",
+     "page": "https://pixabay.com/videos/id-139660/",
+     "tags": "mouse, rat, rodent, mammal, food, animal",
+     "duration": 27,
+     "query": "hand mouse click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 180776,
+     "url": "https://cdn.pixabay.com/video/2023/09/15/180776-865216724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/15/180776-865216724_small.jpg",
+     "page": "https://pixabay.com/videos/id-180776/",
+     "tags": "keyboard, typing, writing, pc, mouse, gamer, gaming, gaming pc",
+     "duration": 13,
+     "query": "hand mouse click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 139658,
+     "url": "https://cdn.pixabay.com/video/2022/11/19/139658-773417997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/19/139658-773417997_small.jpg",
+     "page": "https://pixabay.com/videos/id-139658/",
+     "tags": "mouse, rodent, mammal, animal, food",
+     "duration": 32,
+     "query": "hand mouse click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26537,
+     "url": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/04/26537-357886155_small.jpg",
+     "page": "https://pixabay.com/videos/id-26537/",
+     "tags": "video, recording, cinema, camera, image, the media, technology, monitoring, production, notebook, monitor, internet, computer, screen, laptop, people, digital, keyboard, pc",
+     "duration": 18,
+     "query": "laptop screen click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6395,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6395-191712337_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6395-191712337_small.jpg",
+     "page": "https://pixabay.com/videos/id-6395/",
+     "tags": "office, desk, beautiful wallpaper, computer, work, bokeh, blur, background, business, table, room, screen, technology, laptop, workplace, notebook, desktop",
+     "duration": 14,
+     "query": "laptop screen click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22355,
+     "url": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_small.jpg",
+     "page": "https://pixabay.com/videos/id-22355/",
+     "tags": "notebook, mac, computer, macbook, laptop, screen, work, apple, internet, monitor, business, office, google, keyboard, open, pc, presentation",
+     "duration": 11,
+     "query": "laptop screen click",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 39930,
+     "url": "https://cdn.pixabay.com/video/2020/05/23/39930-424022897_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/23/39930-424022897_small.jpg",
+     "page": "https://pixabay.com/videos/id-39930/",
+     "tags": "laptop, fire, overheating, fix, technology, computer, pc, destroyed, burning, hot, flames, burnt, keyboard, scorched, gadgets, screen, broken tech, stains",
+     "duration": 60,
+     "query": "laptop screen click",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

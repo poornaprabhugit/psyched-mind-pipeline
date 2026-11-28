@@ -1,0 +1,607 @@
+{
+ "id": "q02",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You're more likely to pick fruit for later, and chocolate for now.",
+   "candidates": [
+    {
+     "pixabay_id": 1019,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1019-142621240_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1019-142621240_small.jpg",
+     "page": "https://pixabay.com/videos/id-1019/",
+     "tags": "fruit salad, bowl, fruits, fruit, healthy, food, fresh, kiwi, strawberry, diet, dessert, orange, tropical, breakfast, juicy, nutrition, organic, delicious, variety, banana, ripe, peach, vitamins, appetizer, green, fresh fruit, apple, vegetarian, citrus, colorful, red, sweet",
+     "duration": 13,
+     "query": "fruit bowl apple banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149478,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149478-796096130_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149478-796096130_small.jpg",
+     "page": "https://pixabay.com/videos/id-149478/",
+     "tags": "woman, banana, fruit, joy",
+     "duration": 21,
+     "query": "fruit bowl apple banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 136467,
+     "url": "https://cdn.pixabay.com/video/2022/10/25/136467-764399899_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/25/136467-764399899_small.jpg",
+     "page": "https://pixabay.com/videos/id-136467/",
+     "tags": "plants, banana, banana plant, food, fruit, farm, agriculture",
+     "duration": 54,
+     "query": "fruit bowl apple banana",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 127737,
+     "url": "https://cdn.pixabay.com/video/2022/08/13/127737-739309170_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/13/127737-739309170_small.jpg",
+     "page": "https://pixabay.com/videos/id-127737/",
+     "tags": "apple, fruit, tree, apple tree, ripe, healthy, vitamins, fresh, food",
+     "duration": 20,
+     "query": "woman choosing apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15811,
+     "url": "https://cdn.pixabay.com/video/2018/04/25/15811-266811419_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/25/15811-266811419_small.jpg",
+     "page": "https://pixabay.com/videos/id-15811/",
+     "tags": "apple blossom, to flourish, bloom, apple tree, spring, apple tree flowers, blossom, bud, blossomed, time lapse, timelapse",
+     "duration": 14,
+     "query": "woman choosing apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 176489,
+     "url": "https://cdn.pixabay.com/video/2023/08/17/176489-855554923_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/08/17/176489-855554923_small.jpg",
+     "page": "https://pixabay.com/videos/id-176489/",
+     "tags": "apple, fruit, apple tree, branch, vitamins, fresh, food",
+     "duration": 12,
+     "query": "woman choosing apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 122508,
+     "url": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/29/122508-725502916_small.jpg",
+     "page": "https://pixabay.com/videos/id-122508/",
+     "tags": "latte, coffee, cafe, restaurant, drink, glass, cream, shop, trip, chocolate, cup, espresso, cappuccino, night, bar",
+     "duration": 29,
+     "query": "chocolate bar unwrapping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 149477,
+     "url": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/02/05/149477-796096126_small.jpg",
+     "page": "https://pixabay.com/videos/id-149477/",
+     "tags": "woman, chocolate, bed, robe, joy",
+     "duration": 18,
+     "query": "chocolate bar unwrapping",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "Two hundred workers chose a snack they'd get a week later.",
+   "candidates": [
+    {
+     "pixabay_id": 293083,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293083_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293083_small.jpg",
+     "page": "https://pixabay.com/videos/id-293083/",
+     "tags": "asian woman, coffee break, working from home, remote work, happy moment, cozy living room, home office, woman with mug, work and relax, peaceful break, smiling woman, casual work, laptop at home, coffee time, digital lifestyle, modern home, relaxed worker, productivity break, online work, casual style, personal workspace, indoor lifestyle, happy freelancer, comfortable home, morning routine",
+     "duration": 20,
+     "query": "office workers break room",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6389,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6389-191704465_small.jpg",
+     "page": "https://pixabay.com/videos/id-6389/",
+     "tags": "office, desk, work, bokeh, blur, background, people, workers, business, computer, table, room, technology, work space, start-up, beautiful wallpaper, corporate",
+     "duration": 13,
+     "query": "office workers break room",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4737,
+     "url": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/08/22/4737-179738682_small.jpg",
+     "page": "https://pixabay.com/videos/id-4737/",
+     "tags": "paperwork, office, copier, worker, working, office job, printer, paper, print, photocopier, fax, scanner, secretary",
+     "duration": 14,
+     "query": "office workers break room",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2340,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_small.jpg",
+     "page": "https://pixabay.com/videos/id-2340/",
+     "tags": "meeting, planning, marketing, business, team, people, office, teamwork, group, discussion, business meeting, group meeting, office meeting, team meeting, communication, corporate, talking, plan",
+     "duration": 44,
+     "query": "coworkers office kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 267,
+     "url": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/10/267-135875613_small.jpg",
+     "page": "https://pixabay.com/videos/id-267/",
+     "tags": "pot, cooking, steam, steaming, hot, food, kettle, preparation, kitchen, sepia, cook, heat, warm",
+     "duration": 25,
+     "query": "coworkers office kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3132,
+     "url": "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/12/3132-166335897_small.jpg",
+     "page": "https://pixabay.com/videos/id-3132/",
+     "tags": "work space, meeting, startup, notebook, laptops, teamwork, office, corporate, communication, people, computer, internet, businessman, professional, group, coworking, network, brainstorming, conference, discussion, table, seminar",
+     "duration": 33,
+     "query": "coworkers office kitchen",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2339,
+     "url": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/29/2339-157269920_small.jpg",
+     "page": "https://pixabay.com/videos/id-2339/",
+     "tags": "lunch, meal, people, tea cup, tea, couple, table, restaurant, diner, service, food, snack, eating",
+     "duration": 35,
+     "query": "office snack",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1046,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1046-142621379_small.jpg",
+     "page": "https://pixabay.com/videos/id-1046/",
+     "tags": "keyboard, hands, writing, computer, mouse, typing, project, design, coffee mug, working, study, technology, business, office",
+     "duration": 17,
+     "query": "office snack",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Many chose an apple or a banana.",
+   "candidates": [
+    {
+     "pixabay_id": 189018,
+     "url": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/13/189018-884234917_small.jpg",
+     "page": "https://pixabay.com/videos/id-189018/",
+     "tags": "lipstick, make up, bride, woman, fashion, wedding, close up, texture",
+     "duration": 14,
+     "query": "apple banana close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 26493,
+     "url": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/09/03/26493-360248645_small.jpg",
+     "page": "https://pixabay.com/videos/id-26493/",
+     "tags": "colours, pattern, texture, abstract, macro, close-up",
+     "duration": 74,
+     "query": "apple banana close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 30470,
+     "url": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/12/22/30470-387715996_small.jpg",
+     "page": "https://pixabay.com/videos/id-30470/",
+     "tags": "bee, honey bee, insect, pollen, close up, live wallpaper",
+     "duration": 6,
+     "query": "apple banana close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 73847,
+     "url": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/11/73847-549547533_small.jpg",
+     "page": "https://pixabay.com/videos/id-73847/",
+     "tags": "sand, hand, beach, dessert, sea, live wallpaper",
+     "duration": 14,
+     "query": "hand picking apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 34091,
+     "url": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/22/34091-399913636_small.jpg",
+     "page": "https://pixabay.com/videos/id-34091/",
+     "tags": "washing hands, coronavirus, stop the spread, covid 19, water, hands, female, hygiene, cleanliness, technique, running water, handwashing, hand washing",
+     "duration": 24,
+     "query": "hand picking apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27461,
+     "url": "https://cdn.pixabay.com/video/2019/10/02/27461-363961170_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/02/27461-363961170_small.jpg",
+     "page": "https://pixabay.com/videos/id-27461/",
+     "tags": "apple tree, apple, tree, fall, harvest, ripe, fruit, vitamins, orchards, fruit tree",
+     "duration": 14,
+     "query": "hand picking apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 204490,
+     "url": "https://cdn.pixabay.com/video/2024/03/17/204490-924763711_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/17/204490-924763711_small.jpg",
+     "page": "https://pixabay.com/videos/id-204490/",
+     "tags": "strawberries, bowl, table, fruit, food, fresh, decoration, spring",
+     "duration": 7,
+     "query": "fresh fruit table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 23841,
+     "url": "https://cdn.pixabay.com/video/2019/05/21/23841-337674794_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/21/23841-337674794_small.jpg",
+     "page": "https://pixabay.com/videos/id-23841/",
+     "tags": "cocktail, fruit, energy, drink, that, liquid, beautiful, fresh, cool off, summer, hot, table, cafe, pine, cold, delicious, refreshment, healthy, cooling, mint, alcohol, nutrition, refreshing, soda",
+     "duration": 25,
+     "query": "fresh fruit table",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "A week later, they could choose again, right then.",
+   "candidates": [
+    {
+     "pixabay_id": 23879,
+     "url": "https://cdn.pixabay.com/video/2019/05/22/23879-337972820_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/05/22/23879-337972820_small.jpg",
+     "page": "https://pixabay.com/videos/id-23879/",
+     "tags": "holy week, holy, bible, god, jesus, christian, gospel, church, shepherd, christ",
+     "duration": 30,
+     "query": "calendar week later",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 14306,
+     "url": "https://cdn.pixabay.com/video/2018/02/14/14306-256171738_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/14/14306-256171738_small.jpg",
+     "page": "https://pixabay.com/videos/id-14306/",
+     "tags": "pancake week, pancakes, girl, is eating",
+     "duration": 24,
+     "query": "calendar week later",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9085,
+     "url": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/10/9085-217588573_small.jpg",
+     "page": "https://pixabay.com/videos/id-9085/",
+     "tags": "date, notebook, agenda, book, day, week, month, hand, to write, feather, ballpoint, business, leaf, page, annotate, organizer",
+     "duration": 15,
+     "query": "calendar week later",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 201528,
+     "url": "https://cdn.pixabay.com/video/2024/02/22/201528-915698783_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/22/201528-915698783_small.jpg",
+     "page": "https://pixabay.com/videos/id-201528/",
+     "tags": "time, hourglass, sand, clock, sea, seascape, beach, minute, waves, inspiration, ideas, watch, age, passing, sand glass, concepts, past, business, measuring, deadline, speed, phenomenon, landscape",
+     "duration": 25,
+     "query": "clock time passing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 34499,
+     "url": "https://cdn.pixabay.com/video/2020/03/29/34499-402606997_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/29/34499-402606997_small.jpg",
+     "page": "https://pixabay.com/videos/id-34499/",
+     "tags": "alarm clock, clock, time, anxiety, time lapse, passing away, minute, second, morning, watch",
+     "duration": 18,
+     "query": "clock time passing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2040,
+     "url": "https://cdn.pixabay.com/video/2016/02/02/2040-154036012_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/02/2040-154036012_small.jpg",
+     "page": "https://pixabay.com/videos/id-2040/",
+     "tags": "time, clock, pass of the time, minutes, hour",
+     "duration": 8,
+     "query": "clock time passing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 387100,
+     "url": "https://cdn.pixabay.com/video/2026/11/04/387100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/04/387100_small.jpg",
+     "page": "https://pixabay.com/videos/id-387100/",
+     "tags": "wireless charger, cozy workspace, modern desk setup, charging pad, smart home technology, wireless power transfer, remote work workspace, home office accessories, lifestyle technology, morning work routine, minimalist interior, technology integration, workspace accessories, modern living space, close up, natural light, soft illumination, wooden texture, calm atmosphere, indoor shot",
+     "duration": 7,
+     "query": "office desk morning",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 137186,
+     "url": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/10/31/137186-765701394_small.jpg",
+     "page": "https://pixabay.com/videos/id-137186/",
+     "tags": "office, team work, desk, job, responsibility",
+     "duration": 11,
+     "query": "office desk morning",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Far more took chips or a chocolate bar.",
+   "candidates": [
+    {
+     "pixabay_id": 122852,
+     "url": "https://cdn.pixabay.com/video/2022/07/02/122852-726391959_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/07/02/122852-726391959_small.jpg",
+     "page": "https://pixabay.com/videos/id-122852/",
+     "tags": "potato blossom, potato field, food, leaves, blossom, bloom, potato cultivation, crop, nature",
+     "duration": 15,
+     "query": "potato chips bag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 72025,
+     "url": "https://cdn.pixabay.com/video/2021/04/24/72025-543403489_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/24/72025-543403489_small.jpg",
+     "page": "https://pixabay.com/videos/id-72025/",
+     "tags": "potato, fries, french fries, frying, food, nutrition, kitchen, restaurant, calories, unhealthy, fresh, cook, oil, vegetable, diet, natural, organic, raw, vitamin, vegan, healthy, vegetarian",
+     "duration": 17,
+     "query": "potato chips bag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 71119,
+     "url": "https://cdn.pixabay.com/video/2021/04/14/71119-537976857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/14/71119-537976857_small.jpg",
+     "page": "https://pixabay.com/videos/id-71119/",
+     "tags": "potato, fries, kitchen, food, nutrition, restaurant, calories, unhealthy, fresh, health, cook, oil, diet, organic, vegan, healthy",
+     "duration": 7,
+     "query": "potato chips bag",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3952,
+     "url": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/22/3952-175860892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3952/",
+     "tags": "waffles, food, street, sweet, chocolate, eating, delicious, dessert, tasty",
+     "duration": 21,
+     "query": "chocolate bar eating",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 120739,
+     "url": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/19/120739-724673230_small.jpg",
+     "page": "https://pixabay.com/videos/id-120739/",
+     "tags": "lamb, farm animal, sheep, wool, animals, eating, nature, landscape, livestock, countryside",
+     "duration": 19,
+     "query": "chocolate bar eating",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2104,
+     "url": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/09/2104-154778744_small.jpg",
+     "page": "https://pixabay.com/videos/id-2104/",
+     "tags": "caterpillar, insect, danaus, gilippus, butterfly, calotropis, gigantea, pest, leaf, eating, animal, lilac",
+     "duration": 22,
+     "query": "chocolate bar eating",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 158620,
+     "url": "https://cdn.pixabay.com/video/2023/04/12/158620-817153716_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/12/158620-817153716_small.jpg",
+     "page": "https://pixabay.com/videos/id-158620/",
+     "tags": "push, vending machine, snack, purchase",
+     "duration": 5,
+     "query": "snack vending machine",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 46989,
+     "url": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/12/46989-449623829_small.jpg",
+     "page": "https://pixabay.com/videos/id-46989/",
+     "tags": "coffee, hot drink, coffee pot, enjoyment, drink, coffee enjoyment, caffeine, motivation, coffee break, espresso, machine, coffee machine",
+     "duration": 35,
+     "query": "snack vending machine",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Future you eats well.",
+   "candidates": [
+    {
+     "pixabay_id": 11691,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11691-231758938_small.jpg",
+     "page": "https://pixabay.com/videos/id-11691/",
+     "tags": "cola, chicken, wings, food, fast, meat, snack, meal, french, fastfood, menu, fried, eating, fries, cup, sauce, restaurant, ketchup, lettuce, set",
+     "duration": 31,
+     "query": "man eating chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 28785,
+     "url": "https://cdn.pixabay.com/video/2019/11/06/28785-372045664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/06/28785-372045664_small.jpg",
+     "page": "https://pixabay.com/videos/id-28785/",
+     "tags": "nature, birds, rain, eating",
+     "duration": 15,
+     "query": "man eating chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 29044,
+     "url": "https://cdn.pixabay.com/video/2019/11/13/29044-373138314_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/13/29044-373138314_small.jpg",
+     "page": "https://pixabay.com/videos/id-29044/",
+     "tags": "zoo, animals, lion, meat, eating",
+     "duration": 63,
+     "query": "man eating chips",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 25033,
+     "url": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/07/25033-347024123_small.jpg",
+     "page": "https://pixabay.com/videos/id-25033/",
+     "tags": "girl, eating, stuffing, food, woman, gluttony, meal",
+     "duration": 79,
+     "query": "woman eating chocolate",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 32387,
+     "url": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/15/32387-392248830_small.jpg",
+     "page": "https://pixabay.com/videos/id-32387/",
+     "tags": "woman, young, beautiful, expression, style, modeling, experience, exclusive, the best, interesting, exotic, people, queen, top, options, black, blue, skin, chocolate",
+     "duration": 44,
+     "query": "woman eating chocolate",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 304418,
+     "url": "https://cdn.pixabay.com/video/2025/09/16/304418_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/09/16/304418_small.jpg",
+     "page": "https://pixabay.com/videos/id-304418/",
+     "tags": "koala eating, koala, marsupial, cute, australian, koala eucalyptus, koala eating eucalyptus, koala gardens, kuranda",
+     "duration": 15,
+     "query": "woman eating chocolate",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 65692,
+     "url": "https://cdn.pixabay.com/video/2021/02/19/65692-515098526_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/19/65692-515098526_small.jpg",
+     "page": "https://pixabay.com/videos/id-65692/",
+     "tags": "sweet, pastry, dessert, snack, food, cupcake",
+     "duration": 20,
+     "query": "junk food snack",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 207994,
+     "url": "https://cdn.pixabay.com/video/2024/04/15/207994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/15/207994_small.jpg",
+     "page": "https://pixabay.com/videos/id-207994/",
+     "tags": "bread, bun, treat, snack, starch, flour, food",
+     "duration": 44,
+     "query": "junk food snack",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "Right-now you doesn't. That's why",
+   "candidates": [
+    {
+     "pixabay_id": 138306,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138306-769163773_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138306-769163773_small.jpg",
+     "page": "https://pixabay.com/videos/id-138306/",
+     "tags": "elephant, apple, trainer, zoo, zookeeper, eating, hungry, food, mammal, animal, mouth, fun, young",
+     "duration": 15,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 47437,
+     "url": "https://cdn.pixabay.com/video/2020/08/17/47437-451297225_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/17/47437-451297225_small.jpg",
+     "page": "https://pixabay.com/videos/id-47437/",
+     "tags": "monkey, eating, lemur, nature, animal, eat, cute, primate, mammal",
+     "duration": 19,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 129920,
+     "url": "https://cdn.pixabay.com/video/2022/09/02/129920-745930601_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/02/129920-745930601_small.jpg",
+     "page": "https://pixabay.com/videos/id-129920/",
+     "tags": "apple, fruit, ripe, apple tree, branch, construction pole, healthy, vitamins, food, nature",
+     "duration": 25,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 186029,
+     "url": "https://cdn.pixabay.com/video/2023/10/21/186029-876963387_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/21/186029-876963387_small.jpg",
+     "page": "https://pixabay.com/videos/id-186029/",
+     "tags": "squirrel, eating, peanut, fall, leaves",
+     "duration": 79,
+     "query": "woman eating apple",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 186709,
+     "url": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/27/186709-878853401_small.jpg",
+     "page": "https://pixabay.com/videos/id-186709/",
+     "tags": "nutella, chocolate, bread, toast, breakfast, food",
+     "duration": 10,
+     "query": "man eating chocolate couch",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2717,
+     "url": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/04/05/2717-161687558_small.jpg",
+     "page": "https://pixabay.com/videos/id-2717/",
+     "tags": "squirrel, head, grey squirrel, eating, feeding, bird feeder, wildlife, fur, nature, wild, brown, gray, grey, paws, rodent, ears, eyes, legs, mouth, seeds, sunflower, tree, cute, outdoors",
+     "duration": 25,
+     "query": "man eating chocolate couch",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 25230,
+     "url": "https://cdn.pixabay.com/video/2019/07/14/25230-349020656_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/07/14/25230-349020656_small.jpg",
+     "page": "https://pixabay.com/videos/id-25230/",
+     "tags": "nature, birds, eating, tree",
+     "duration": 15,
+     "query": "man eating chocolate couch",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 147443,
+     "url": "https://cdn.pixabay.com/video/2023/01/21/147443-791521845_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/21/147443-791521845_small.jpg",
+     "page": "https://pixabay.com/videos/id-147443/",
+     "tags": "squirrel, winter, snow, animal, animalcontest, wildlife, eating",
+     "duration": 58,
+     "query": "man eating chocolate couch",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

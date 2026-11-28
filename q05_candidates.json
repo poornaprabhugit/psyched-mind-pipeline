@@ -1,0 +1,521 @@
+{
+ "id": "q05",
+ "lines": [
+  {
+   "n": 1,
+   "text": "You're more willing to drive to save five dollars on cheap stuff.",
+   "candidates": [
+    {
+     "pixabay_id": 73,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/73-135732507_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/73-135732507_small.jpg",
+     "page": "https://pixabay.com/videos/id-73/",
+     "tags": "hiking, wandering, outdoors, adventure, adventurer, driving, jeep, car, road, wilderness, freedom, individual, voyage, travel, explore, stepping, steps, walk, walking, hiker, man, people, young",
+     "duration": 25,
+     "query": "man driving car",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15876,
+     "url": "https://cdn.pixabay.com/video/2018/04/28/15876-267498481_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/28/15876-267498481_small.jpg",
+     "page": "https://pixabay.com/videos/id-15876/",
+     "tags": "driving, traffic, car, speed, travel, transport, drive, landscape, night, movement, express, move, infrastructure, journey, darkcity, vehicle, commuter, departure, trip, movie, cinema, cinematic, international, man, adult, welcome, young, transportation, vacation, airport, traveler, tourist, arrival, lifestyle, holiday, passenger, tourism",
+     "duration": 7,
+     "query": "man driving car",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 15914,
+     "url": "https://cdn.pixabay.com/video/2018/04/30/15914-267503884_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/04/30/15914-267503884_small.jpg",
+     "page": "https://pixabay.com/videos/id-15914/",
+     "tags": "car, land, vehicle, transportation, transport, drive, business, motor, outdoor, landscape, seat, road, travel, trip, auto, wheel, young, automobile, speed, women, person, people, journey, adult, driving, mode, sitting, man, caucasian, nature, tire, luxury, move, truck, rental",
+     "duration": 14,
+     "query": "man driving car",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4053,
+     "url": "https://cdn.pixabay.com/video/2016/07/28/4053-176749018_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/28/4053-176749018_small.jpg",
+     "page": "https://pixabay.com/videos/id-4053/",
+     "tags": "car, interior, vehicle, automobile, transport, dashboard, speed, control, transportation, leather, steering, car interior, wheel, design, drive, luxury, technology, modern, gear, equipment, speedometer, car dashboard, automatic, transmission, auto, cockpit, automotive, motor, power, sat nav, race, motor way, road, electric",
+     "duration": 31,
+     "query": "car dashboard driving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2165,
+     "url": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/14/2165-155327596_small.jpg",
+     "page": "https://pixabay.com/videos/id-2165/",
+     "tags": "car, road, transportation, vehicle, driving, car on road, transport, drive, highway, speed, car driving, traffic, auto, car road, automobile, journey, blurred, motor, motion, modern, driving car, wheel, street, time lapse, time, lapse",
+     "duration": 60,
+     "query": "car dashboard driving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 184734,
+     "url": "https://cdn.pixabay.com/video/2023/10/12/184734-873923034_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/12/184734-873923034_small.jpg",
+     "page": "https://pixabay.com/videos/id-184734/",
+     "tags": "car, desert, driving, drone, sand, arial, tajikistan",
+     "duration": 10,
+     "query": "car dashboard driving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 536,
+     "url": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/23/536-137078182_small.jpg",
+     "page": "https://pixabay.com/videos/id-536/",
+     "tags": "driving, car, road trip, audi, automobile, travel, vacation, road, street, traffic, luxury, couple, love, trip, excursion, 114063706",
+     "duration": 20,
+     "query": "road trip car",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11490,
+     "url": "https://cdn.pixabay.com/video/2017/08/20/11490-230853032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/20/11490-230853032_small.jpg",
+     "page": "https://pixabay.com/videos/id-11490/",
+     "tags": "car, driving, sunset, sunlight, lens, flare, drone, aerial, above, top view, travel, croatia, island, forest, road, street, transportation, vehicle, drive, journey, cinematic, smooth, motion, lifestyle, freedom, countryside, adventure, summer, trip, vacation, landscape",
+     "duration": 11,
+     "query": "road trip car",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "People were asked:",
+   "candidates": [
+    {
+     "pixabay_id": 240531,
+     "url": "https://cdn.pixabay.com/video/2024/11/09/240531_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/09/240531_small.jpg",
+     "page": "https://pixabay.com/videos/id-240531/",
+     "tags": "bacon, pan, hot, belly bacon, meal, food, close up",
+     "duration": 7,
+     "query": "calculator close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 4948,
+     "url": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/05/4948-181538478_small.jpg",
+     "page": "https://pixabay.com/videos/id-4948/",
+     "tags": "coffee, grains, black, pour, close-up, coffee beans, fried, dark",
+     "duration": 12,
+     "query": "calculator close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 13100,
+     "url": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/28/13100-245530611_small.jpg",
+     "page": "https://pixabay.com/videos/id-13100/",
+     "tags": "universe, jar, colourful, experiment, close-up, particles, oil, ink, water, abstract, galaxy, pouring",
+     "duration": 53,
+     "query": "calculator close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1006,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1006-142621176_small.jpg",
+     "page": "https://pixabay.com/videos/id-1006/",
+     "tags": "clothing, clothes, fashion, shop, store, dress, retail, wear, shirt, women, shopping, colorful, apparel, buy, sale, wardrobe, color, woman, garment, boutique, female, hanger, fabric, clothing store, fashionable, textile, buying, model",
+     "duration": 19,
+     "query": "store shelf electronics",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130652,
+     "url": "https://cdn.pixabay.com/video/2022/09/08/130652-747868389_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/08/130652-747868389_small.jpg",
+     "page": "https://pixabay.com/videos/id-130652/",
+     "tags": "woman, smartphone, education, navigation, lifestyle, mobile, money safe, store, freelance, typing, management, electronic device, business, technology, online, marketing, work, success, fashion",
+     "duration": 16,
+     "query": "store shelf electronics",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 140595,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140595-775389299_small.jpg",
+     "page": "https://pixabay.com/videos/id-140595/",
+     "tags": "woman, vynils, records, albums, books, library, book store, record store, vinyl store, berkley",
+     "duration": 23,
+     "query": "store shelf electronics",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 24114,
+     "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.jpg",
+     "page": "https://pixabay.com/videos/id-24114/",
+     "tags": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+     "duration": 13,
+     "query": "shopping store aisle",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12876,
+     "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_small.jpg",
+     "page": "https://pixabay.com/videos/id-12876/",
+     "tags": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+     "duration": 25,
+     "query": "shopping store aisle",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "would you drive twenty minutes to another store to save five dollars on a calculator?",
+   "candidates": [
+    {
+     "pixabay_id": 209854,
+     "url": "https://cdn.pixabay.com/video/2024/04/28/209854_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/28/209854_small.jpg",
+     "page": "https://pixabay.com/videos/id-209854/",
+     "tags": "man, calculator, calculation, surprise, mathematics, figures",
+     "duration": 17,
+     "query": "calculator buttons",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174007,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174007-850361313_small.jpg",
+     "page": "https://pixabay.com/videos/id-174007/",
+     "tags": "woman, cash, money, paper, business, worker, calculator, background, beautiful wallpaper, investment, wealth",
+     "duration": 7,
+     "query": "calculator buttons",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 174006,
+     "url": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/07/31/174006-850361311_small.jpg",
+     "page": "https://pixabay.com/videos/id-174006/",
+     "tags": "woman, cash, money, paper, business, worker, calculator, background, investment, beautiful wallpaper, wealth",
+     "duration": 9,
+     "query": "calculator buttons",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33711,
+     "url": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/14/33711-398277535_small.jpg",
+     "page": "https://pixabay.com/videos/id-33711/",
+     "tags": "martabak, manis, indonesia, food, makanan, coklat, chocolate, cheese, sweet, jajanan, pasar, traditional, cheap",
+     "duration": 9,
+     "query": "cheap calculator",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 209855,
+     "url": "https://cdn.pixabay.com/video/2024/04/28/209855_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/28/209855_small.jpg",
+     "page": "https://pixabay.com/videos/id-209855/",
+     "tags": "man, calculation, calculate, true, confirm, affirmation",
+     "duration": 8,
+     "query": "cheap calculator",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 150,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/150-135737445_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/150-135737445_small.jpg",
+     "page": "https://pixabay.com/videos/id-150/",
+     "tags": "keyboard, typing, number, num pad, num block, calculation, keys, letters, computer, pc, office",
+     "duration": 9,
+     "query": "cheap calculator",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1735,
+     "url": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/21/1735-149749903_small.jpg",
+     "page": "https://pixabay.com/videos/id-1735/",
+     "tags": "supermarket, cart, market, mall, buy, retail, buyer, price, shopping, consumer, store, purchase, customer, time lapse",
+     "duration": 18,
+     "query": "shopping cart",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 275107,
+     "url": "https://cdn.pixabay.com/video/2025/04/27/275107_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/04/27/275107_small.jpg",
+     "page": "https://pixabay.com/videos/id-275107/",
+     "tags": "road, highway, street, countryside, roadside, travel, footpath, india, delhi, local, crowd, people, cart, shopping, market, fruits, fresh, organic, mint, peppermint, shiva, juice, drink, smoothie",
+     "duration": 6,
+     "query": "shopping cart",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "On a fifteen-dollar one, sixty-eight percent said yes.",
+   "candidates": [
+    {
+     "pixabay_id": 122389,
+     "url": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/06/28/122389-725067792_small.jpg",
+     "page": "https://pixabay.com/videos/id-122389/",
+     "tags": "man, surprise, thinking, idea",
+     "duration": 16,
+     "query": "man thinking shopping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126558,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126558-736345296_small.jpg",
+     "page": "https://pixabay.com/videos/id-126558/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 12,
+     "query": "man thinking shopping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 126557,
+     "url": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/08/03/126557-736345290_small.jpg",
+     "page": "https://pixabay.com/videos/id-126557/",
+     "tags": "man, person, reflection, thinking, think, lifestyle",
+     "duration": 9,
+     "query": "man thinking shopping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 2121,
+     "url": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/02/11/2121-155244120_small.jpg",
+     "page": "https://pixabay.com/videos/id-2121/",
+     "tags": "shopping, pedestrian, time lapse, city, consumption, pedestrian zone, department stores, store window, department store, people, marketplace",
+     "duration": 32,
+     "query": "price tag store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 140587,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140587-775389277_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140587-775389277_small.jpg",
+     "page": "https://pixabay.com/videos/id-140587/",
+     "tags": "books, book store, library, reading, knowledge, education, learning, berkley",
+     "duration": 30,
+     "query": "price tag store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 140593,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140593-775389291_small.jpg",
+     "page": "https://pixabay.com/videos/id-140593/",
+     "tags": "books, book store, library, reading, knowledge, education, learning, berkley",
+     "duration": 7,
+     "query": "price tag store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3735,
+     "url": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/07/3735-173719892_small.jpg",
+     "page": "https://pixabay.com/videos/id-3735/",
+     "tags": "elevator, shopping center, gold, yellow, the shops, light, speed, clients",
+     "duration": 46,
+     "query": "woman shopping electronics",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 83865,
+     "url": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/08/04/83865-584870625_small.jpg",
+     "page": "https://pixabay.com/videos/id-83865/",
+     "tags": "woman, card, shopping, communication, smartphone, phone, female, hand, job, lifestyle",
+     "duration": 8,
+     "query": "woman shopping electronics",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "On a hundred-and-twenty-five-dollar one, only twenty-nine percent.",
+   "candidates": [
+    {
+     "pixabay_id": 140591,
+     "url": "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/26/140591-775389284_small.jpg",
+     "page": "https://pixabay.com/videos/id-140591/",
+     "tags": "books, book store, library, reading, knowledge, education, learning, berkley",
+     "duration": 12,
+     "query": "expensive electronics store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11284,
+     "url": "https://cdn.pixabay.com/video/2017/08/10/11284-229221013_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/10/11284-229221013_small.jpg",
+     "page": "https://pixabay.com/videos/id-11284/",
+     "tags": "shoes, tie, men, man, male, hands, shoelaces, bootlace, walk away, walk, step, go, going, suit, expensive, leather, boots",
+     "duration": 11,
+     "query": "expensive electronics store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 19260,
+     "url": "https://cdn.pixabay.com/video/2018/11/10/19260-300109088_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/11/10/19260-300109088_small.jpg",
+     "page": "https://pixabay.com/videos/id-19260/",
+     "tags": "jewelry, ring, black, diamonds, sapphire, panther, design, style, silver, platinum, white, gold, expensive, luxury, present, gift",
+     "duration": 36,
+     "query": "expensive electronics store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11323,
+     "url": "https://cdn.pixabay.com/video/2017/08/11/11323-229392548_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/11/11323-229392548_small.jpg",
+     "page": "https://pixabay.com/videos/id-11323/",
+     "tags": "cooking, ecommerce, computer, macbook, fire, cook, food, store, recipe, web, retail, internet, delivery, business, online, shop, healthy, kitchen, grocery, meal, organic, restaurant, laptop, service, diet",
+     "duration": 17,
+     "query": "laptop store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1028,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/1028-142624363_small.jpg",
+     "page": "https://pixabay.com/videos/id-1028/",
+     "tags": "homework, girl, student, laptop, study, studying, notebook, work, fan, chair, desk, concentrated, concentrating, education, school, learning, reading, female, people, college",
+     "duration": 12,
+     "query": "laptop store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 202134,
+     "url": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/27/202134-917314709_small.jpg",
+     "page": "https://pixabay.com/videos/id-202134/",
+     "tags": "people, laptop, team, friend, sitting, grass",
+     "duration": 17,
+     "query": "laptop store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 91679,
+     "url": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/10/11/91679-629172633_small.jpg",
+     "page": "https://pixabay.com/videos/id-91679/",
+     "tags": "coins, money, finance, currency, savings, euro, wealth, gambling, payment, slow motion",
+     "duration": 27,
+     "query": "cashier payment",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 138315,
+     "url": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/09/138315-769163810_small.jpg",
+     "page": "https://pixabay.com/videos/id-138315/",
+     "tags": "coins, currency, euro, money, finance, inflation, growth, business, save up, savings, payment, income, accounting",
+     "duration": 27,
+     "query": "cashier payment",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Same five dollars. That's why",
+   "candidates": [
+    {
+     "pixabay_id": 27710,
+     "url": "https://cdn.pixabay.com/video/2019/10/10/27710-365891006_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/10/27710-365891006_small.jpg",
+     "page": "https://pixabay.com/videos/id-27710/",
+     "tags": "money, counting money, rich, wealth, dollar, coins, bank",
+     "duration": 37,
+     "query": "coins counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9908,
+     "url": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/06/14/9908-222013808_small.jpg",
+     "page": "https://pixabay.com/videos/id-9908/",
+     "tags": "count, money, taxes, to save, currency, savings, polish zlotys, pay, business, sum, polish banknotes, means of payment, dollars, usa, dime, payment, banknotes, golden, shopping, bills, finances, wallet, polish, one hundred zlotys, coins, cash register, gold, finance, fifty zlotys, earnings, pln, one, antique, two, english pounds, bake",
+     "duration": 16,
+     "query": "coins counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12564,
+     "url": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/22/12564-240358890_small.jpg",
+     "page": "https://pixabay.com/videos/id-12564/",
+     "tags": "coin, back, money, slowly",
+     "duration": 22,
+     "query": "coins counting",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 298643,
+     "url": "https://cdn.pixabay.com/video/2025/08/20/298643_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/08/20/298643_small.jpg",
+     "page": "https://pixabay.com/videos/id-298643/",
+     "tags": "landscape, five story pagoda, buddhist temple, sunset, cloud, old capital kyoto, japan",
+     "duration": 20,
+     "query": "five dollar bill",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 184370,
+     "url": "https://cdn.pixabay.com/video/2023/10/10/184370-873181596_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/10/184370-873181596_small.jpg",
+     "page": "https://pixabay.com/videos/id-184370/",
+     "tags": "five-story tower, crescent moon, night, kyoto, japan, thundercloud, landscape",
+     "duration": 24,
+     "query": "five dollar bill",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 211065,
+     "url": "https://cdn.pixabay.com/video/2024/05/07/211065_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/05/07/211065_small.jpg",
+     "page": "https://pixabay.com/videos/id-211065/",
+     "tags": "moonrise, full moon, buddhist temple, five story pagoda, okayama prefecture, japan",
+     "duration": 23,
+     "query": "five dollar bill",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 36705,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36705-412858370_small.jpg",
+     "page": "https://pixabay.com/videos/id-36705/",
+     "tags": "phone, wallet, money",
+     "duration": 19,
+     "query": "wallet money",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 50627,
+     "url": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/09/23/50627-460909303_small.jpg",
+     "page": "https://pixabay.com/videos/id-50627/",
+     "tags": "money, income, salary, dollars, counting cash, payment, counting, finance, pay, currency, loan, amount, prices, wallet, investments",
+     "duration": 7,
+     "query": "wallet money",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

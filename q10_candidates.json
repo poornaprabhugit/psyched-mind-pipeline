@@ -1,0 +1,521 @@
+{
+ "id": "q10",
+ "lines": [
+  {
+   "n": 1,
+   "text": "A cheaper gift can make you look more generous.",
+   "candidates": [
+    {
+     "pixabay_id": 388457,
+     "url": "https://cdn.pixabay.com/video/2026/11/11/388457_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/11/388457_small.jpg",
+     "page": "https://pixabay.com/videos/id-388457/",
+     "tags": "christmas, gift, wrapping, ribbon, hands, bow, holiday, tying, satin, box, festive, packaging, evergreen, tree, cozy, winter, luxury, retail, december, seasonal",
+     "duration": 10,
+     "query": "gift box wrapping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 387368,
+     "url": "https://cdn.pixabay.com/video/2026/11/05/387368_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/05/387368_small.jpg",
+     "page": "https://pixabay.com/videos/id-387368/",
+     "tags": "christmas tree, christmas presents, christmas decorations, wrapped gifts, rustic christmas, traditional christmas, golden fairy lights, christmas ornaments, burlap ribbon, kraft paper gifts, gift boxes, presents under tree, glowing fireplace, festive home, holiday atmosphere, christmas ambience",
+     "duration": 8,
+     "query": "gift box wrapping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143884,
+     "url": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/22/143884-784164219_small.jpg",
+     "page": "https://pixabay.com/videos/id-143884/",
+     "tags": "christmas, xmas, decoration, celebration, gifts, 25 december, christmas gifts, gifts boxes, box",
+     "duration": 7,
+     "query": "gift box wrapping",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 110407,
+     "url": "https://cdn.pixabay.com/video/2022/03/11/110407-687682713_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/11/110407-687682713_small.jpg",
+     "page": "https://pixabay.com/videos/id-110407/",
+     "tags": "heart, symbol, love, decoration, mother's day, valentine's day, date of birth, give a gift",
+     "duration": 25,
+     "query": "present gift giving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 388472,
+     "url": "https://cdn.pixabay.com/video/2026/11/11/388472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/11/11/388472_small.jpg",
+     "page": "https://pixabay.com/videos/id-388472/",
+     "tags": "christmas, gift, exchanging, hands, holiday, giving, festive, ribbon, tree, receiving, fireplace, cozy, winter, luxury, surprise, generosity, celebration, december, seasonal",
+     "duration": 10,
+     "query": "present gift giving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 247208,
+     "url": "https://cdn.pixabay.com/video/2024/12/17/247208_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/17/247208_small.jpg",
+     "page": "https://pixabay.com/videos/id-247208/",
+     "tags": "christmas, background, decor, winter, advent, ornaments, lights, star, nature, red, bokeh, season, beautiful wallpaper, gifts",
+     "duration": 7,
+     "query": "present gift giving",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 5317,
+     "url": "https://cdn.pixabay.com/video/2016/09/18/5317-183300227_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/18/5317-183300227_small.jpg",
+     "page": "https://pixabay.com/videos/id-5317/",
+     "tags": "music box, carousel, toy, decoration, kid, baby, horse, little horse, circus, fun, playground, music, colors, childish, treat, delicacy, delicate, gift, boy, girl, sound, sonority, gift with love",
+     "duration": 78,
+     "query": "woman receiving gift",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 293085,
+     "url": "https://cdn.pixabay.com/video/2025/07/23/293085_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/23/293085_small.jpg",
+     "page": "https://pixabay.com/videos/id-293085/",
+     "tags": "woman, cardio, workout, home fitness, intense workout, woman training, high intensity, living room workout, fitness at home, active lifestyle, strength training, cardio routine, home gym, female athlete, health and fitness, energy boost, body workout, personal training, young woman, sweat session, full body workout, workout motivation, indoor training, daily exercise, strong woman",
+     "duration": 23,
+     "query": "woman receiving gift",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "People heard about one gift only.",
+   "candidates": [
+    {
+     "pixabay_id": 11543,
+     "url": "https://cdn.pixabay.com/video/2017/08/23/11543-231232163_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/23/11543-231232163_small.jpg",
+     "page": "https://pixabay.com/videos/id-11543/",
+     "tags": "music box, carousel, music, sound, melody, peace, trust, happiness, baby, lullaby, child, small, innocent, night, sleep, present, music gift, hypnotize, peaceful, short video, love, breath, babies, horse, horses, toy, toy horse, music toy",
+     "duration": 64,
+     "query": "gift box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 106383,
+     "url": "https://cdn.pixabay.com/video/2022/02/02/106383-673007978_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/02/106383-673007978_small.jpg",
+     "page": "https://pixabay.com/videos/id-106383/",
+     "tags": "present, red, candle, box, celebration, surprise, happiness, fun, anniversary, love, relationship, valentine's day, february, romantic, beautiful wallpaper, christmas, background, evening, heart, birthday, feelings, romance",
+     "duration": 59,
+     "query": "gift box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 9471,
+     "url": "https://cdn.pixabay.com/video/2017/05/31/9471-219900730_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/05/31/9471-219900730_small.jpg",
+     "page": "https://pixabay.com/videos/id-9471/",
+     "tags": "music box, box, ballet dancer, music, valentine's day, modern, form, musical notes, in love, vintage, romantic, red, melody, pour elise, ludwig van beethoven, gift, delicate, dance, treat, rose, red rose, port jewelry, jewelry, fabrics, glass vase, lovers, passion, flower, marriage, romanticism, grooms, affection, casal, valentine, woman, girl, red roses, declaration, beauty, red flower, beautiful, precious stones, bojou would have, arrangement, vase, women, red petals, conquest, lady, golden, delicacy",
+     "duration": 32,
+     "query": "gift box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22332,
+     "url": "https://cdn.pixabay.com/video/2019/03/26/22332-326843246_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/26/22332-326843246_small.jpg",
+     "page": "https://pixabay.com/videos/id-22332/",
+     "tags": "present, message, presentation, map, information",
+     "duration": 6,
+     "query": "giving present",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 22333,
+     "url": "https://cdn.pixabay.com/video/2019/03/26/22333-326843232_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/03/26/22333-326843232_small.jpg",
+     "page": "https://pixabay.com/videos/id-22333/",
+     "tags": "present, cardboard, presentation",
+     "duration": 5,
+     "query": "giving present",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1658,
+     "url": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/12/11/1658-148614500_small.jpg",
+     "page": "https://pixabay.com/videos/id-1658/",
+     "tags": "whiteboard, planning, strategy, writing, plan, teamwork, office, people, business, education, presentation, strategy concept, corporate, person, businessman, display, show, present",
+     "duration": 13,
+     "query": "giving present",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 45119,
+     "url": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/20/45119-441300939_small.jpg",
+     "page": "https://pixabay.com/videos/id-45119/",
+     "tags": "surprise, joy, girl, gift, birthday, young, woman",
+     "duration": 17,
+     "query": "surprise gift",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 145492,
+     "url": "https://cdn.pixabay.com/video/2023/01/06/145492-787039564_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/06/145492-787039564_small.jpg",
+     "page": "https://pixabay.com/videos/id-145492/",
+     "tags": "candles, birthday, celebration, burning, fire, light, culture, traditional, beautiful wallpaper, cake, fun, happiness, anniversary, surprise, age, present, concept, christmas, new year, background",
+     "duration": 59,
+     "query": "surprise gift",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "A forty-five-dollar scarf, from a store where scarves cost five to fifty.",
+   "candidates": [
+    {
+     "pixabay_id": 63973,
+     "url": "https://cdn.pixabay.com/video/2021/02/03/63973-509068417_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/03/63973-509068417_small.jpg",
+     "page": "https://pixabay.com/videos/id-63973/",
+     "tags": "snow, cold, winter, dark, night, 4k, evening, snowing, city, urban, shops, street, empty, quiet, peaceful, stores",
+     "duration": 23,
+     "query": "scarf store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 63974,
+     "url": "https://cdn.pixabay.com/video/2021/02/03/63974-509068420_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/03/63974-509068420_small.jpg",
+     "page": "https://pixabay.com/videos/id-63974/",
+     "tags": "snow, cold, winter, dark, night, 4k, evening, snowing, city, urban, shops, street, empty, quiet, peaceful, stores",
+     "duration": 28,
+     "query": "scarf store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 32246,
+     "url": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/02/11/32246-390923732_small.jpg",
+     "page": "https://pixabay.com/videos/id-32246/",
+     "tags": "coffee, coffee shop, cafe, drink, espresso, mug, tea, cup, people, shop, beverage, barista, meeting, communication, restaurant, starbucks, business, store",
+     "duration": 19,
+     "query": "scarf store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3859,
+     "url": "https://cdn.pixabay.com/video/2016/07/17/3859-175213607_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/17/3859-175213607_small.jpg",
+     "page": "https://pixabay.com/videos/id-3859/",
+     "tags": "skinning, triops, chitin, chitin armor, exuvie, primeval cancer, hides and skins, throw off, drop, animal skin, cornea, chitinous skin, gill pod, skin, tank, carapace, triopsidae, back scarf, crustacean, animal, primeval times, primeval animal, fauna, aquatic animal, aquarium animal, aquarium, breed, cancer, pawpods, crayfish, three-eyed, eye, living fossil, fossil, triops longicaudatus, freshwater crab, freshwater",
+     "duration": 21,
+     "query": "woolen scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 253991,
+     "url": "https://cdn.pixabay.com/video/2025/01/22/253991_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/01/22/253991_small.jpg",
+     "page": "https://pixabay.com/videos/id-253991/",
+     "tags": "girl, cute, cold, winter, scarf, beige, baby",
+     "duration": 11,
+     "query": "woolen scarf",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6387,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6387-191695740_small.jpg",
+     "page": "https://pixabay.com/videos/id-6387/",
+     "tags": "people, commerce, shop, busy, mall, walking",
+     "duration": 14,
+     "query": "scarves shop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 206029,
+     "url": "https://cdn.pixabay.com/video/2024/03/29/206029_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/29/206029_small.jpg",
+     "page": "https://pixabay.com/videos/id-206029/",
+     "tags": "tailor, clothing, fashion designer, tailor shop",
+     "duration": 46,
+     "query": "scarves shop",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12513,
+     "url": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/10/19/12513-240358867_small.jpg",
+     "page": "https://pixabay.com/videos/id-12513/",
+     "tags": "mall, shopping, people, timelapse, shopping mall, shop, shopper, customer",
+     "duration": 10,
+     "query": "scarves shop",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "Or a fifty-five-dollar coat, where coats cost fifty to five hundred.",
+   "candidates": [
+    {
+     "pixabay_id": 363199,
+     "url": "https://cdn.pixabay.com/video/2026/07/10/363199_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/10/363199_small.jpg",
+     "page": "https://pixabay.com/videos/id-363199/",
+     "tags": "butterfly, imperial coat, insect, insect life, summer, wing, nature",
+     "duration": 53,
+     "query": "winter coat store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 246391,
+     "url": "https://cdn.pixabay.com/video/2024/12/12/246391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/12/12/246391_small.jpg",
+     "page": "https://pixabay.com/videos/id-246391/",
+     "tags": "sunrise, horizon, winter, snow, cold, season, winter landscape, landscape",
+     "duration": 10,
+     "query": "winter coat store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 192649,
+     "url": "https://cdn.pixabay.com/video/2023/12/09/192649-892970391_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/12/09/192649-892970391_small.jpg",
+     "page": "https://pixabay.com/videos/id-192649/",
+     "tags": "nature, trees, forest, snow, aerial view, winter, hill, landscape, winter landscape, white",
+     "duration": 28,
+     "query": "winter coat store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 14900,
+     "url": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_small.jpg",
+     "page": "https://pixabay.com/videos/id-14900/",
+     "tags": "network, internet, data, switch, router, cabinet, ethernet, equipment, connection, server, cable, rack, networking, lan, technology",
+     "duration": 24,
+     "query": "coat rack store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 846,
+     "url": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/27/846-140823862_small.jpg",
+     "page": "https://pixabay.com/videos/id-846/",
+     "tags": "library, books, the corridor, window, rack, the culture, reading, classic, new items, reading room, society, shelves, education, studies, school",
+     "duration": 13,
+     "query": "coat rack store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 818,
+     "url": "https://cdn.pixabay.com/video/2015/09/22/818-140182080_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/22/818-140182080_small.jpg",
+     "page": "https://pixabay.com/videos/id-818/",
+     "tags": "library, young woman, book, is reading, education, rack, shelves, the culture, reading",
+     "duration": 11,
+     "query": "coat rack store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 43238,
+     "url": "https://cdn.pixabay.com/video/2020/06/27/43238-435970498_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/27/43238-435970498_small.jpg",
+     "page": "https://pixabay.com/videos/id-43238/",
+     "tags": "china, the poet, tea culture, read, read the poem, poetry clothes, poetry, tea, hanfu, poetry clothing, teapot, engraved poem, man, zen, metrical poetry, classical poetry, palindrome poems",
+     "duration": 46,
+     "query": "coats clothing store",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 370882,
+     "url": "https://cdn.pixabay.com/video/2026/08/16/370882_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/08/16/370882_small.jpg",
+     "page": "https://pixabay.com/videos/id-370882/",
+     "tags": "imperial coat, butterfly, butterflies, insect, flapping its wings, wing, nature",
+     "duration": 34,
+     "query": "coats clothing store",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "The scarf giver seemed more generous.",
+   "candidates": [
+    {
+     "pixabay_id": 76888,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76888-560684391_small.jpg",
+     "page": "https://pixabay.com/videos/id-76888/",
+     "tags": "man, smiling, farmer, happy, young, culture, senior, woman, girl, happiness, lifestyle, people, portrait",
+     "duration": 13,
+     "query": "woman smiling gift",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 76889,
+     "url": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/08/76889-560684399_small.jpg",
+     "page": "https://pixabay.com/videos/id-76889/",
+     "tags": "family, smile, sweet, love, young, children, happiness, smiling, mom, woman, cheerful, lifestyle, parents, joy, father, people, happy, portrait, mothers day, mother's day, mum",
+     "duration": 28,
+     "query": "woman smiling gift",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 33631,
+     "url": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/03/13/33631-398856295_small.jpg",
+     "page": "https://pixabay.com/videos/id-33631/",
+     "tags": "child, child smiling, baby, kid, happy, smile, childhood, person, little, children, cheerful, girl, happiness, female, cute, family, smiling, laugh, playing",
+     "duration": 30,
+     "query": "woman smiling gift",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 363873,
+     "url": "https://cdn.pixabay.com/video/2026/07/13/363873_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2026/07/13/363873_small.jpg",
+     "page": "https://pixabay.com/videos/id-363873/",
+     "tags": "motivation, motivational, inspiration, friends",
+     "duration": 6,
+     "query": "friends exchanging gifts",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 42047,
+     "url": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/06/14/42047-431407115_small.jpg",
+     "page": "https://pixabay.com/videos/id-42047/",
+     "tags": "squirrel, animal, garden friend, watching",
+     "duration": 18,
+     "query": "friends exchanging gifts",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 130172,
+     "url": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/09/04/130172-746395226_small.jpg",
+     "page": "https://pixabay.com/videos/id-130172/",
+     "tags": "dog, spitz, river, mountains, water, animal, friend, pet, nature",
+     "duration": 10,
+     "query": "friends exchanging gifts",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 57582,
+     "url": "https://cdn.pixabay.com/video/2020/11/27/57582-486227464_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/11/27/57582-486227464_small.jpg",
+     "page": "https://pixabay.com/videos/id-57582/",
+     "tags": "christmas, new year, decoration, ornament, furniture, present, santa claus, decorative, cute, out, snow, beautiful, gifts, holiday, winter, celebration, december, religion, christian, culture, happiness, season, tradition",
+     "duration": 29,
+     "query": "happy receiving present",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 243647,
+     "url": "https://cdn.pixabay.com/video/2024/11/27/243647_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/11/27/243647_small.jpg",
+     "page": "https://pixabay.com/videos/id-243647/",
+     "tags": "couple, love, together, nature, lovers, relationship, men, woman, romantic, romance, kiss, wedding, sunset, happy",
+     "duration": 16,
+     "query": "happy receiving present",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "We judged the price against the range. That's why",
+   "candidates": [
+    {
+     "pixabay_id": 107858,
+     "url": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/02/15/107858-679600366_small.jpg",
+     "page": "https://pixabay.com/videos/id-107858/",
+     "tags": "common heron, cormorants, duck, birds, group form, price, creek, animal",
+     "duration": 31,
+     "query": "price tags clothes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 993,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/993-142621122_small.jpg",
+     "page": "https://pixabay.com/videos/id-993/",
+     "tags": "sale, price, city, new york, billboard, sign, offer, discount, label, special, market, sale tag, retail, best price, shopping, marketing",
+     "duration": 14,
+     "query": "price tags clothes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3757,
+     "url": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/07/09/3757-174173857_small.jpg",
+     "page": "https://pixabay.com/videos/id-3757/",
+     "tags": "money, currency, cash, finance, australian, financial, business, dollars, wealth, 50, note, fifty, bank, pay, investment, banknote, savings, success, exchange, falling, paying, economic, profit, price, payment, salary, budget, debt, growth, account, economy, stock",
+     "duration": 11,
+     "query": "price tags clothes",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1331,
+     "url": "https://cdn.pixabay.com/video/2015/11/11/1331-147084832_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/11/11/1331-147084832_small.jpg",
+     "page": "https://pixabay.com/videos/id-1331/",
+     "tags": "clothing, fashion, suit, male, collection, elegance, shopping, lifestyle, shop",
+     "duration": 26,
+     "query": "shopping clothes rack",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3626,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3626-172488383_small.jpg",
+     "page": "https://pixabay.com/videos/id-3626/",
+     "tags": "people, shopping, crowd, many, bokeh, blur, background, beautiful wallpaper, shopping mall, shopping center",
+     "duration": 14,
+     "query": "shopping clothes rack",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 1887,
+     "url": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/01/08/1887-151131664_small.jpg",
+     "page": "https://pixabay.com/videos/id-1887/",
+     "tags": "shopping mall, liverpool one shopping centre, mall, shopping, liverpool, united kingdom, shops, people, walking, people shopping",
+     "duration": 10,
+     "query": "shopping clothes rack",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 154829,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154829-808562563_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154829-808562563_small.jpg",
+     "page": "https://pixabay.com/videos/id-154829/",
+     "tags": "woman, phone, games, business, casual, cheerful, customer, female, happy, professional, retail, sale, service, shop, store, transport, transportation, young, asian",
+     "duration": 16,
+     "query": "store sale tags",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 154833,
+     "url": "https://cdn.pixabay.com/video/2023/03/15/154833-808562576_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/15/154833-808562576_small.jpg",
+     "page": "https://pixabay.com/videos/id-154833/",
+     "tags": "woman, phone, business, casual, cheerful, customer, female, happy, professional, beautiful wallpaper, retail, sale, service, shop, store, young, asian, arm, background, confident, corporate, face, lady, person",
+     "duration": 7,
+     "query": "store sale tags",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}

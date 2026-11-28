@@ -1,0 +1,607 @@
+{
+ "id": "q14",
+ "lines": [
+  {
+   "n": 1,
+   "text": "Letting a coin push you to change was linked to more happiness.",
+   "candidates": [
+    {
+     "pixabay_id": 12740,
+     "url": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/03/12740-241674224_small.jpg",
+     "page": "https://pixabay.com/videos/id-12740/",
+     "tags": "kettlebells, kettlebell juggling, kettlebell training, beach, crossfit, flip",
+     "duration": 76,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 143683,
+     "url": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/12/20/143683-784129669_small.jpg",
+     "page": "https://pixabay.com/videos/id-143683/",
+     "tags": "novel, flip, page, flipping, chapter, education, book, turning, letters, writing, dictionary, tale, medicine, inspiration, storytelling, stack, literature, learning, material, human hand, paper, reading, text",
+     "duration": 16,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 12842,
+     "url": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/11/08/12842-242215652_small.jpg",
+     "page": "https://pixabay.com/videos/id-12842/",
+     "tags": "kettlebell flip, juggling, kettlebell training, kettlebells",
+     "duration": 15,
+     "query": "coin flip",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 111279,
+     "url": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/03/19/111279-690770674_small.jpg",
+     "page": "https://pixabay.com/videos/id-111279/",
+     "tags": "antique bible, antique books, candles, compass, dark, gold ring, light, page flipping, read, religious, rhinestones, spirituality, young",
+     "duration": 21,
+     "query": "flipping coin hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 27453,
+     "url": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/01/27453-363961164_small.jpg",
+     "page": "https://pixabay.com/videos/id-27453/",
+     "tags": "bitcoin, coin, rotate, stock exchange, courses, cryptocurrency, currency, digital, internet, cryptography, electronic, financial",
+     "duration": 11,
+     "query": "flipping coin hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 960,
+     "url": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/12/960-142611994_small.jpg",
+     "page": "https://pixabay.com/videos/id-960/",
+     "tags": "painting, drawing, colors, design, brush, artist painting, artistic, decoration, watercolor, creative, summer, hand drawing, picture, hearts, love, romantic, 104695749",
+     "duration": 21,
+     "query": "flipping coin hand",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 283533,
+     "url": "https://cdn.pixabay.com/video/2025/06/03/283533_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/06/03/283533_small.jpg",
+     "page": "https://pixabay.com/videos/id-283533/",
+     "tags": "wave, breaking, sea, ocean, water, coast, slow motion, slowmo",
+     "duration": 40,
+     "query": "coin toss slow motion",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 145320,
+     "url": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_small.jpg",
+     "page": "https://pixabay.com/videos/id-145320/",
+     "tags": "tiger, predator, dangerous, carnivores, big cat, wildlife, slow motion",
+     "duration": 21,
+     "query": "coin toss slow motion",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "text": "In over twenty thousand coin flips, people stuck on a choice, like quitting a job, let a coin decide.",
+   "candidates": [
+    {
+     "pixabay_id": 4899,
+     "url": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/02/4899-181257851_small.jpg",
+     "page": "https://pixabay.com/videos/id-4899/",
+     "tags": "maneki neko, cat, monetary, luck, animal, pet, waving, mascot, wealth, prosperity, feng shui, finance, profit, coins",
+     "duration": 9,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 119,
+     "url": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/08/08/119-135736472_small.jpg",
+     "page": "https://pixabay.com/videos/id-119/",
+     "tags": "coin, spinning, head or tails, money, currency, finance, financial, business, trade, cash, specie, hard money, metal, blur",
+     "duration": 15,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 74779,
+     "url": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/05/22/74779-554220620_small.jpg",
+     "page": "https://pixabay.com/videos/id-74779/",
+     "tags": "nft video, nft logo, nft hologram, nft business, non-fungible token, non fungible token, finance, cryptography, cryptocurrency, business, ethereum, blockchain, bitcoin, digital, payment, coin, litecoin, crypto, mining",
+     "duration": 17,
+     "query": "coin toss",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 38388,
+     "url": "https://cdn.pixabay.com/video/2020/05/07/38388-418005845_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/07/38388-418005845_small.jpg",
+     "page": "https://pixabay.com/videos/id-38388/",
+     "tags": "record, record player, vinyl, turntable, retro, spinning, disco, playing, equipment, black",
+     "duration": 19,
+     "query": "coin spinning table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 65390,
+     "url": "https://cdn.pixabay.com/video/2021/02/16/65390-514139029_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/02/16/65390-514139029_small.jpg",
+     "page": "https://pixabay.com/videos/id-65390/",
+     "tags": "record, record player, vinyl, turntable, retro, spinning, disco, playing, equipment, play, old, live wallpaper",
+     "duration": 18,
+     "query": "coin spinning table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 48044,
+     "url": "https://cdn.pixabay.com/video/2020/08/24/48044-452601015_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/08/24/48044-452601015_small.jpg",
+     "page": "https://pixabay.com/videos/id-48044/",
+     "tags": "record player, spinning, table, music, turntable, vinyl, record, stereo, player, vintage, audio, sound, retro, eighties, entertainment, play",
+     "duration": 27,
+     "query": "coin spinning table",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 290677,
+     "url": "https://cdn.pixabay.com/video/2025/07/11/290677_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/07/11/290677_small.jpg",
+     "page": "https://pixabay.com/videos/id-290677/",
+     "tags": "bird, brown flycatcher, fly catcher, catching insects, flying, natural",
+     "duration": 16,
+     "query": "hand catching coin",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 70862,
+     "url": "https://cdn.pixabay.com/video/2021/04/12/70862-536317071_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/04/12/70862-536317071_small.jpg",
+     "page": "https://pixabay.com/videos/id-70862/",
+     "tags": "fox, hunt, predator, grass, wildlife, animal, catching, capture, hunter, fur, mammal, nature",
+     "duration": 9,
+     "query": "hand catching coin",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "text": "Heads meant:",
+   "candidates": [
+    {
+     "pixabay_id": 36702,
+     "url": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/04/20/36702-412858334_small.jpg",
+     "page": "https://pixabay.com/videos/id-36702/",
+     "tags": "handsome, man, male, emotional, heartbroken, in thought, feelings, thinking, attractive",
+     "duration": 8,
+     "query": "man thinking decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 203251,
+     "url": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/03/06/203251-920308101_small.jpg",
+     "page": "https://pixabay.com/videos/id-203251/",
+     "tags": "man, think, beard, thoughtful, expression",
+     "duration": 15,
+     "query": "man thinking decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 20557,
+     "url": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/01/08/20557-310205000_small.jpg",
+     "page": "https://pixabay.com/videos/id-20557/",
+     "tags": "man, nature, viewpoint, viewing, male, emotions, thinking, adventure, freedom, landscape, outdoor, lake, nature background, relaxing",
+     "duration": 19,
+     "query": "man thinking decision",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 11722,
+     "url": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/30/11722-231759069_small.jpg",
+     "page": "https://pixabay.com/videos/id-11722/",
+     "tags": "rain, water, window, wet, drops, dripping, rainy, night, light, sad",
+     "duration": 33,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 7954,
+     "url": "https://cdn.pixabay.com/video/2017/02/26/7954-205810619_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/02/26/7954-205810619_small.jpg",
+     "page": "https://pixabay.com/videos/id-7954/",
+     "tags": "window, clean, to wipe, black, to clean",
+     "duration": 30,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 28236,
+     "url": "https://cdn.pixabay.com/video/2019/10/24/28236-368501609_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/10/24/28236-368501609_small.jpg",
+     "page": "https://pixabay.com/videos/id-28236/",
+     "tags": "rain, raindrop, wet, water, window, drop, weather, droplets, beautiful wallpaper, blue, rainy, dark, raining, background, live wallpaper",
+     "duration": 15,
+     "query": "woman thinking window",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 38084,
+     "url": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/05/04/38084-416330724_small.jpg",
+     "page": "https://pixabay.com/videos/id-38084/",
+     "tags": "woman, phone, smartphone, technology, mobile, telephone, cellphone, person, female, wireless, device, media, communication, people, holding, business",
+     "duration": 8,
+     "query": "person deciding",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 14476,
+     "url": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2018/02/24/14476-257440741_small.jpg",
+     "page": "https://pixabay.com/videos/id-14476/",
+     "tags": "house, stone, street, motorbike, old, person, architecture, building, travel, home, tourism, summer, turkey, city",
+     "duration": 11,
+     "query": "person deciding",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "text": "make the change.",
+   "candidates": [
+    {
+     "pixabay_id": 4915,
+     "url": "https://cdn.pixabay.com/video/2016/09/03/4915-181329605_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/09/03/4915-181329605_small.jpg",
+     "page": "https://pixabay.com/videos/id-4915/",
+     "tags": "cat, pet, head, game, black, eyes, animal, close-up",
+     "duration": 16,
+     "query": "coin heads close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 199545,
+     "url": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/06/199545-910530517_small.jpg",
+     "page": "https://pixabay.com/videos/id-199545/",
+     "tags": "beef, patty, hamburger, burger, grill, electric grill, meal, flesh, tasty, close up, food",
+     "duration": 7,
+     "query": "coin heads close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 197946,
+     "url": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/01/24/197946-906217105_small.jpg",
+     "page": "https://pixabay.com/videos/id-197946/",
+     "tags": "grass, plant, dry, park, garden, botanical, spring, summer, leaves, wind, close up, green, forest, nature",
+     "duration": 55,
+     "query": "coin heads close up",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 191354,
+     "url": "https://cdn.pixabay.com/video/2023/11/29/191354-890134722_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/11/29/191354-890134722_small.jpg",
+     "page": "https://pixabay.com/videos/id-191354/",
+     "tags": "volcano, mountain, jungle, aerial, drone, forest, palm trees, island, exotic, bali, nature, indonesia",
+     "duration": 7,
+     "query": "coin on palm",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 186195,
+     "url": "https://cdn.pixabay.com/video/2023/10/23/186195-877323695_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/10/23/186195-877323695_small.jpg",
+     "page": "https://pixabay.com/videos/id-186195/",
+     "tags": "cow, ruminant, pasture, meadow, nature, animals on the farm, dairy cows, group, landscape",
+     "duration": 15,
+     "query": "coin on palm",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 179207,
+     "url": "https://cdn.pixabay.com/video/2023/09/05/179207-861403607_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/05/179207-861403607_small.jpg",
+     "page": "https://pixabay.com/videos/id-179207/",
+     "tags": "cow, meadow, pasture, animals on the farm, lying, grass, group, beef, dairy cows, wildlife",
+     "duration": 14,
+     "query": "coin on palm",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3586,
+     "url": "https://cdn.pixabay.com/video/2016/06/27/3586-172490363_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/06/27/3586-172490363_small.jpg",
+     "page": "https://pixabay.com/videos/id-3586/",
+     "tags": "airport, airliner, airplanes, aircraft, plane, transportation, flight, travel, journey, vacation, aviation, landing strip, voyage",
+     "duration": 53,
+     "query": "coin landing",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 276047,
+     "url": "https://cdn.pixabay.com/video/2025/05/01/276047_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2025/05/01/276047_small.jpg",
+     "page": "https://pixabay.com/videos/id-276047/",
+     "tags": "birds, nesting, breeding season, spring, airport, rural, mountains, landscape, snow, nature, travel, eurasian oystercatcher, approach, airliner, landing, drone video, westfjords, \u00feingeyri",
+     "duration": 17,
+     "query": "coin landing",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "text": "Heads made them far more likely to do it.",
+   "candidates": [
+    {
+     "pixabay_id": 199623,
+     "url": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/07/199623-910995789_small.jpg",
+     "page": "https://pixabay.com/videos/id-199623/",
+     "tags": "man, walking, suit, business, office",
+     "duration": 12,
+     "query": "man leaving office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 215751,
+     "url": "https://cdn.pixabay.com/video/2024/06/07/215751_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/07/215751_small.jpg",
+     "page": "https://pixabay.com/videos/id-215751/",
+     "tags": "man, office work, business, payroll, payroll management, working late night, computer, digital, tired",
+     "duration": 18,
+     "query": "man leaving office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 710,
+     "url": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/09/07/710-138550857_small.jpg",
+     "page": "https://pixabay.com/videos/id-710/",
+     "tags": "board, write, man, memo, memory, chalk, meeting, meet, office, business, team",
+     "duration": 23,
+     "query": "man leaving office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 8686,
+     "url": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/04/13/8686-213189350_small.jpg",
+     "page": "https://pixabay.com/videos/id-8686/",
+     "tags": "box, taper, industrial, production, packaging, cardboard, line, industry, postal service, logistics, package, packing, packing boxes",
+     "duration": 8,
+     "query": "packing desk box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 216568,
+     "url": "https://cdn.pixabay.com/video/2024/06/13/216568_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/06/13/216568_small.jpg",
+     "page": "https://pixabay.com/videos/id-216568/",
+     "tags": "man, box, boxer, gloves, sport, training",
+     "duration": 8,
+     "query": "packing desk box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 52101,
+     "url": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/10/11/52101-467180032_small.jpg",
+     "page": "https://pixabay.com/videos/id-52101/",
+     "tags": "boxer, athlete, gloves, box, fighting, mma, boxing, fitness",
+     "duration": 9,
+     "query": "packing desk box",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 152798,
+     "url": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/03/01/152798-803733100_small.jpg",
+     "page": "https://pixabay.com/videos/id-152798/",
+     "tags": "couple, lovers, hands, love, street, walking",
+     "duration": 27,
+     "query": "walking out office",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3068,
+     "url": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/08/3068-165796695_small.jpg",
+     "page": "https://pixabay.com/videos/id-3068/",
+     "tags": "smoke, ascending, haze, blue, step out",
+     "duration": 10,
+     "query": "walking out office",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "text": "Six months later, the changers were happier, on average.",
+   "candidates": [
+    {
+     "pixabay_id": 11103,
+     "url": "https://cdn.pixabay.com/video/2017/08/02/11103-228192366_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2017/08/02/11103-228192366_small.jpg",
+     "page": "https://pixabay.com/videos/id-11103/",
+     "tags": "a month, night, clouds, the sky",
+     "duration": 40,
+     "query": "calendar months",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 181408,
+     "url": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/09/20/181408-866575732_small.jpg",
+     "page": "https://pixabay.com/videos/id-181408/",
+     "tags": "candles, lights, new year, 2024, christmas, cake, prayer, calendar, happiness, night, celebration, traditional, macro, fire, number, beautiful wallpaper, fun, background",
+     "duration": 59,
+     "query": "calendar months",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 59526,
+     "url": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/17/59526-493557968_small.jpg",
+     "page": "https://pixabay.com/videos/id-59526/",
+     "tags": "ornament, santa claus, christmas, new year, celebration, traditional, religion, calendar, december, decor, decoration, candles, flame, oil lamp, tradition",
+     "duration": 35,
+     "query": "calendar months",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 44509,
+     "url": "https://cdn.pixabay.com/video/2020/07/12/44509-439412962_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/07/12/44509-439412962_small.jpg",
+     "page": "https://pixabay.com/videos/id-44509/",
+     "tags": "river, urban, city, architecture, geneva, switzerland, cityscape, downtown, time-lapse, clouds",
+     "duration": 20,
+     "query": "time passing city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 168022,
+     "url": "https://cdn.pixabay.com/video/2023/06/20/168022-838076794_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/06/20/168022-838076794_small.jpg",
+     "page": "https://pixabay.com/videos/id-168022/",
+     "tags": "clouds, cloudscape, heaven, move, passing clouds, nature, time lapse",
+     "duration": 30,
+     "query": "time passing city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 207668,
+     "url": "https://cdn.pixabay.com/video/2024/04/11/207668_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/04/11/207668_small.jpg",
+     "page": "https://pixabay.com/videos/id-207668/",
+     "tags": "clouds, cloudscape, passing clouds, natural spectacle, time lapse, nature",
+     "duration": 29,
+     "query": "time passing city",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 28664,
+     "url": "https://cdn.pixabay.com/video/2019/11/04/28664-370964607_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2019/11/04/28664-370964607_small.jpg",
+     "page": "https://pixabay.com/videos/id-28664/",
+     "tags": "autumn, orange, pink, yellow, green, color change, maine, season, drone, aerial video, sunset, trees, stream, water, lake, lakeside, fall, island",
+     "duration": 15,
+     "query": "seasons change",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 200875,
+     "url": "https://cdn.pixabay.com/video/2024/02/17/200875-914033038_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2024/02/17/200875-914033038_small.jpg",
+     "page": "https://pixabay.com/videos/id-200875/",
+     "tags": "trees, branches, leaves, wind, sky, forest, spring, summer, beauty, scenery, season, weather, climate change, nature",
+     "duration": 59,
+     "query": "seasons change",
+     "kind": "video"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "text": "So",
+   "candidates": [
+    {
+     "pixabay_id": 140828,
+     "url": "https://cdn.pixabay.com/video/2022/11/28/140828-776043783_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2022/11/28/140828-776043783_small.jpg",
+     "page": "https://pixabay.com/videos/id-140828/",
+     "tags": "man, model, walking, happy, fashion, style",
+     "duration": 23,
+     "query": "happy man walking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 159908,
+     "url": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2023/04/21/159908-820010934_small.jpg",
+     "page": "https://pixabay.com/videos/id-159908/",
+     "tags": "couple, people, woman, man, park, young, adult, outdoors, walk, old, lifestyle, love, happy, healthy, outside, together, street, nature",
+     "duration": 14,
+     "query": "happy man walking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 61964,
+     "url": "https://cdn.pixabay.com/video/2021/01/14/61964-501260356_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/01/14/61964-501260356_small.jpg",
+     "page": "https://pixabay.com/videos/id-61964/",
+     "tags": "walking, couple, love, romance, valentine, loving, woman, young, love couple, man, garden, happy, hug, two, relationship, together, adult, romantic, boyfriend, girlfriend, chubby, lumpy",
+     "duration": 7,
+     "query": "happy man walking",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 979,
+     "url": "https://cdn.pixabay.com/video/2015/10/16/979-142612063_medium.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2015/10/16/979-142612063_small.jpg",
+     "page": "https://pixabay.com/videos/id-979/",
+     "tags": "girl, woman, coast, beach, smile, outdoors, relax, calm, caucasian, happy, people, young, female, lifestyle, enjoy, sea, ocean, hike, beauty, healthy",
+     "duration": 14,
+     "query": "woman smiling outdoors",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 78220,
+     "url": "https://cdn.pixabay.com/video/2021/06/19/78220-565144828_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2021/06/19/78220-565144828_small.jpg",
+     "page": "https://pixabay.com/videos/id-78220/",
+     "tags": "woman, smile, face, pool, happy, summer, fashion, female, person, style, outdoors, portrait",
+     "duration": 24,
+     "query": "woman smiling outdoors",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 58142,
+     "url": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2020/12/03/58142-487508532_small.jpg",
+     "page": "https://pixabay.com/videos/id-58142/",
+     "tags": "woman, flowers, plants, field, garden, nature, gardening, petals, floral, flora, blossom, blooming, fresh, spring, park, outdoors",
+     "duration": 13,
+     "query": "woman smiling outdoors",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 3279,
+     "url": "https://cdn.pixabay.com/video/2016/05/25/3279-168129546_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/05/25/3279-168129546_small.jpg",
+     "page": "https://pixabay.com/videos/id-3279/",
+     "tags": "man, relaxation, smartphone, park, boy, human, meadow, summer, beer, young man, lie, sitting, to sunbathe, grass, relaxed, relax, potsdam",
+     "duration": 11,
+     "query": "man relaxed park",
+     "kind": "video"
+    },
+    {
+     "pixabay_id": 6390,
+     "url": "https://cdn.pixabay.com/video/2016/11/15/6390-191704476_large.mp4",
+     "thumb": "https://cdn.pixabay.com/video/2016/11/15/6390-191704476_small.jpg",
+     "page": "https://pixabay.com/videos/id-6390/",
+     "tags": "park, people, bokeh, blur, background, beautiful wallpaper, walking, summer, outdoors, relax, leisure, young, lifestyle, man, woman, couple",
+     "duration": 14,
+     "query": "man relaxed park",
+     "kind": "video"
+    }
+   ]
+  }
+ ]
+}
